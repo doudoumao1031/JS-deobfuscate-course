@@ -13,6 +13,16 @@
             ],
             "runtimeExecutable": "node-inspect",
             "program": "${workspaceFolder}/志远/test.js"
-        }
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "babel test",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "runtimeExecutable": "node-inspect",
+            "program": "${workspaceFolder}/志远/ast-demo/babeltest.js"
+        },
     ]
 }
