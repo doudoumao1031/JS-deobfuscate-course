@@ -14,5 +14,8 @@
     "@babel/template": "^7.24.7",
     "@babel/traverse": "^7.24.7",
     "@babel/types": "^7.24.7"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.24.7"
   }
 }

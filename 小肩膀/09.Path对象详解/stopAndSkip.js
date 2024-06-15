@@ -1,3 +1,10 @@
+// path 与 node 的区别
+// path 是 node 的包装，提供了很多方法，可以方便的操作 node
+
+// path.stop 与 path.skip
+// path.stop 用于停止遍历当前节点的子节点
+// path.skip 用于跳过当前节点的子节点
+
 const parser = require("@babel/parser");
 const babel = require("@babel/core");
 const generator = require("@babel/generator").default;
@@ -12,30 +19,14 @@ const code = fs.readFileSync('./target.js', {encoding: 'utf-8'});
 
 var ast = parser.parse(code, {sourceType: 'module'}); // Ensure to set sourceType
 
-// const MyVisitor = {
-//     Identifier(path) {
-//         debugger;
-//         console.log('Identifier', path.node.name);
-//     },
-//     VariableDeclaration(path) {
-//         console.log('VariableDeclaration', path.node.kind);
-//     },
-//     VariableDeclarator(path) {
-//         console.log('VariableDeclarator', path.node.id.name);
-//         path.node.init = types.stringLiteral('doudouma'); // Modify the init property here
-//     },
-//     // NumericLiteral(path) {
-//     //     console.log('NumericLiteral', path.node.value);
-//     // },
-// };
-
-// traverse(ast, MyVisitor);
-
 const updateParamNameVisitor = {
     Identifier(path) {
         if (path.node.name === this.paraName) {
             path.node.name = 'a';
         }
+        console.log(path)
+        // path.stop()
+        path.skip()
     }
 }
 
