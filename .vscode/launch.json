@@ -24,5 +24,16 @@
             "runtimeExecutable": "node-inspect",
             "program": "${workspaceFolder}/志远/ast-demo/babeltest.js"
         },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "xiaojianbang test",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "runtimeExecutable": "node-inspect",
+            
+            "program": "${workspaceFolder}/小肩膀/51.还原代码中的常量/script01.js"
+        },
     ]
 }
