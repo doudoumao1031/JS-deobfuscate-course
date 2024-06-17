@@ -123,3 +123,5 @@ const decodedCode = generator(ast).code;
 fs.writeFileSync('./decoded.js', decodedCode, { encoding: 'utf-8' });
 
 console.log('Decoding complete. Decoded code written to decoded.js');
+
+

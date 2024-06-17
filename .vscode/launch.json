@@ -33,7 +33,7 @@
             ],
             "runtimeExecutable": "node-inspect",
             
-            "program": "${workspaceFolder}/小肩膀/51.还原代码中的常量/script01.js"
+            "program": "${workspaceFolder}/pg还原/script01.js"
         },
     ]
 }
