@@ -1,25 +1,9 @@
 !function () {
   'use strict';
 
-  function H() {
-    var qZ = ['yle', 'lvk', 'ome', '9b9', 'Wpp', 'r\x20t', '\x22cc', '293', ':\x200', 'FwQ', 'xt-', '0,0', 'rin', 'ayo', 'ct:', 'New', 'Hei', 'ard', 'r_c', '0\x204', 'isM', 'Gen', 'rce', 'ZoX', 'hee', 'TZe', '}\x0a\x20', 'Str', 'Eve', 'v_i', 'e_b', 'lba', '.cs', 'ckP', '()\x20', '.Ev', 'eIm', '\x20fo', 'bod', 'Bac', '3){', '[na', 'inl', 'est', 'OnS', 'omm', '47,', 'uUk', 'eBu', 'th-', '3c4', 'eze', 'n\x20o', 'owO', 'nDs', 'x;h', 'rla', '_de', 'nsa', 'd-l', '444', 'x\x20-', 'oV3', '2,\x20', 'die', 'ans', 'mSi', 'ipt', 'm-f', 'Pdk', 'r{r', 'b.m', 'cel', 'use', '6d5', ':42', 'a\x20c', 'rit', 'lt{', 'rom', 'Arg', 'Rad', 'zYp', 'Fra', 'n:c', 'bic', '-10', 'pon', 'rea', 'lYe', 'ctf', 'ft\x20', ',1,', 'rip', '\x20at', 'etD', 'r{h', 'exa', 'n_b', '_cl', 'ool', 'ned', 'l.i', 't.h', 'y\x20i', '0\x202', '0%\x20', 'ts\x20', 'ngl', 'End', '33.', 'Req', 'it;', '.\x20\x20', 'omR', 'v:n', 'ali', 'piC', 'gsS', '/re', '32p', '\x20a\x20', ':bo', 'swi', 'le\x20', '\x20is', 'Zto', 'shr', 'onE', 'pda', 'edu', 'Eur', 'buf', 'onM', 'ct]', 'lef', 'e.\x20', 'ses', 'd(2', 'joi', '\x20ri', 'px)', 'nd-', '76p', 'NZZ', 'idd', 'ddC', 'arH', 'Ma0', 'oul', '-ty', 'Lis', 'FYu', 'hor', 'n:\x20', 'm{d', 'd\x20-', 'OUN', 'foc', 'HTf', '1px', 'r{d', 'ldS', 'gin', 'ng:', 's.c', 'SIT', 'rre', 'urc', '\x20\x20-', 'SLO', 't;h', 'Mjq', '}.c', '\x20ht', 'eBy', '_SI', 'ePa', 'toC', 'ht\x20', 'ice', '-y:', 'dra', 'ENX', 'x:h', 'eig', 'UCP', '85p', '\x20#1', 'y.H', 'Ind', 'xit', 'ead', 'n-a', 'h:5', 'd(4', '{mi', 'XHR', 'usP', 'any', 'pos', 'arD', 'lic', ';z-', 'hwH', 'ut;', 'te;', 's-o', '0.5', 'Ame', 'mov', 'MuN', 'vdv', 'imm', 'nsi', 'Des', 't{m', 'vbz', 'ge-', 'toS', 'wDr', 'op:', 'ut\x20', '_od', 'g-l', 'yed', ':ho', 'ray', 'TOU', 'isp', 'vel', '(3)', '\x20#6', 'l-c', 'utl', '#sc', 'cla', 'ton', 'te{', 'opt', 'rEv', 'y/G', 't\x20H', '33p', 'boB', 'Mem', 'lis', 'pen', 'zzG', 'pOu', 'cPa', 'to_', 'st_', 'emE', 'KQg', 'chD', 'x\x203', 'ons', 'Bal', '54p', '#46', 'inn', 'tIn', 'us:', 'YYT', 'e_s', '.\x0aI', '2%;', 'inc', '_pa', '(GM', 'ckg', 'e>d', 'UpT', 'men', 'Y(4', '-1p', 'e\x20`', '#A7', 'pTo', 'e\x20S', '\x20di', 'ull', 'a(4', 'rma', 'not', '5){', 'lea', 'QDs', 'nd\x20', 'Col', 'n-i', '25,', 'to;', 'orO', 'sRe', '%}#', 'v_f', ';ov', '22p', 'l{l', 'pWr', 'yer', '\x22;h', '\x20ea', 'Cfo', 'tan', 'tra', 'Sel', 'piR', 'roo', 'l{b', 't.\x20', 'av_', '\x20\x20w', 'CUM', 'dis', 'Los', 'qDd', 'EWU', ':24', '_in', 'Neu', 'SEC', 'chc', 'ave', 't;d', 'SHA', '-2p', 'g:8', 'om:', 'RET', 'rti', 'cat', '#24', 'y\x201', 'Cas', 'UNW', 'fig', 'mon', 'e-t', '-la', 'KpY', '\x20-1', 'ty;', '\x20Vi', 'mgc', 'rac', 'er{', 've;', '6\x205', 'leT', '){j', 'Key', 'vbY', 'DEF', 'ox-', '992', 'oad', 'zIW', 'wAH', 'n\x27t', '_NO', '.19', 'ces', 'ets', '\x20or', 'oLo', 'eWi', 'tai', 'kBu', 'x;w', '\x20po', 'ls\x20', 'd-s', '#34', '875', 'lhx', 'e(-', 'rel', 'ryS', '11,', 'rna', 'ng)', 'e}#', 'hli', 'Mil', 'Bou', ':no', 'c27', 'v-l', '2.2', 'yCa', ':\x203', '{ju', 'edF', 'rch', ';ou', 'TIP', 'ke-', 'bdi', 'nd;', 'dro', 'y.p', 'nCo', 'Rea', 'r{f', 'QGj', 'd;o', 'Rec', 'ts-', 'ote', 'xDi', 'e\x20c', 'eY(', 'NNB', '20p', 'dCa', 'arg', 't:5', 'jec', 'loa', 'Ari', 've{', 'r-d', 'ins', 'igi', 'or.', 'Cop', 'deA', 'dvn', 'ser', '\x205p', '120', 'h-e', 'd\x20i', 'd{b', 'ddi', 'eoZ', 'png', 'n}.', 'ule', 's()', 'rtD', 'Tex', '#90', '9\x203', 'fil', 'mbe', 'c-b', 'eTy', 'alJ', 'rie', 'rd{', 'tRo', 'aOp', '-pe', 'c72', 'nMr', 'en}', '005', 'cke', 'te(', 'y:n', '){t', 'llF', 'FFg', ';he', 'y\x20G', 'KkB', '1f4', 'nId', 't}.', 's{b', 'btw', 'eDa', 'Mat', 'Whe', '-cl', '0.3', '333', 'epa', 'n:r', 'cha', 'dur', '2px', '(50', 'rst', 'aFG', 'gSh', 'rl(', 'boy', 'd(-', 'le{', 'rol', 'yCo', 'opa', 'em\x20', 'ld{', 'fix', 'p:0', 'Sum', 'uKr', 'eFo', ':25', 't\x20O', 'xec', '%}.', ';li', 'n:l', 'rm:', 'ct-', 'l-m', 'Pha', ':85', 'Tou', '%;p', 'byu', '#64', 'oty', 'e.R', '99}', '51p', 'day', 'But', '-pr', 'eSt', 'y:s', 'k\x0a\x20', '#9C', 'd;w', '646', '\x20Ma', '\x20so', 'Glo', 'ego', 'xQQ', 'fer', 'r{p', 'elT', '8e5', 'n:-', 'OUT', 'deg', 'ado', 'lda', 'rdC', '6)}', 'GNG', 'nav', 't:\x20', '#27', 'amo', 'r;t', 'wRe', '_ke', 'ls-', 'ldr', 't-b', 'tBe', 'TOM', 'tEl', 'taP', '00p', 'usW', '84p', '80p', '-da', 'v-t', 'POS', 'Fre', '565', 'eak', 'll_', '\x203p', 'ogr', 'uRD', 'onH', '-\x208', 'vAr', '5);', '0c\x20', 'one', 'ow-', '%,r', ';\x0a\x20', 'Ove', 'nod', 'omD', '(1p', 'Etp', 'rub', 'dIf', 'nCl', 'num', 'te.', 'm-l', '19,', 'te-', 'Tra', 'inf', ':8%', 'etT', 'dGl', 't}#', '9B9', 'now', 'm:8', '-en', 'r{a', 'x}#', 'era', 'ck-', 'n_c', 'ept', 'r_r', '-or', ';fl', ');\x0a', 'uce', 'bby', '-pa', 'c(5', 'r-s', 't_i', 'urn', 'tSc', 'ht:', '98%', 'nta', 'ima', 'nTi', 'Fad', ',rg', 'g,#', 'ry_', 's-w', 'ILV', 'olv', 'w:b', 'h:8', 'alc', 'ePi', 'o;w', 'tal', 'r-y', 'lab', 'Zqa', 'oNe', 'h:3', 'cor', 'MMc', 'RY_', '\x20{\x0a', 'r-r', 'cNU', 'ear', 'KyN', ':\x20c', 'Dro', 'his', ';pa', 'ien', 'cas', 'nec', 'etO', 'AMH', 'dul', '88,', 'ntC', ';ma', '14p', 'er-', 't:1', 'llb', 'r_f', 'hCa', 'm-c', 'n:.', 'll1', 'ott', 'xte', '-as', 'sta', 'sMu', '0x0', 'w-t', '-up', 'r;p', 'ut}', 'KEC', 'up{', '\x20\x20t', '-fl', 'e:u', ',\x200', 'eg,', '__d', 'et{', 'pil', 'in:', 'ale', 'val', 'enC', 'l{p', 'le(', 'orT', ':12', 'x;m', ':ca', '\x2050', 'Mor', 'ReB', '\x20\x20b', 'ntR', 'kmf', '0.9', 'emA', '\x204p', 'axi', 'eft', 'ry.', 'Ran', 'cli', 'ont', 'pVi', 'Upd', 'tyD', 'egu', '-bo', 'y-i', 'r;w', 'aqv', '_to', 'own', 'rop', ':75', '(4p', ':1}', '855', 'cop', 'toB', 's_f', 'cry', 'Pre', 'gth', 's\x20c', 'rec', '-po', 'Vmy', 'toR', 'g-c', 'Rep', 'Sec', 'ues', 'Pay', 'ceC', '#0f', 'Ena', ':hs', ';ba', 'boV', 'gle', 'arC', 'und', 'btn', 'st-', 'emL', 'lEn', 'Guz', '55,', '\x2011', 'en;', 'udl', 'eSc', 'Tur', 'geS', 'lBe', '.5}', 'eRe', '_bu', 'v-s', 'CUS', 'ckO', 'te_', 'bez', 'Cap', 'e\x20n', 'NpE', 'g-w', '252', 'e\x20f', 'sxh', 'o-r', 'e;p', 'ops', '(((', 'all', '-si', '\x20by', 'nHa', 'olu', '0.2', 'JTd', 'com', 'css', 'bil', 'r:\x20', '-\x201', ':13', 'lTo', 'te}', 'NBK', 'low', '_da', '\x20\x20.', 'Spr', ':li', '196', 'Pje', '\x20to', 'put', '147', 'wri', 'Cac', '11p', '0xa', '-ha', '25p', 'Dig', 'llE', 'd-i', 'tab', 'AwZ', 'kCa', 'ex:', 'g-b', 'el-', 'exi', 'ePr', 'Sho', 'w-b', '__p', '64\x20', 'rab', 'Lcm', 'Day', 'ctP', 'LOX', 'erc', 'sem', 'BE_', 'emO', 'Sup', 'ECT', '465', '\x20al', 'Rrp', '-ac', 'Lev', 'yRq', 'Han', 'd-m', 'MsF', 'e/u', 'h-s', 'AEN', 'UDM', 't-c', 'sfo', 'tTa', '.jp', 'ne;', 'sse', 'emM', 'ntT', 'Ret', 'rig', 'kee', '_it', '-bg', ':3p', '2s}', '_su', 'T_F', 'Roo', '9;\x0a', 'Q22', 'it.', 'Run', '-on', 'nct', 'rpr', 'sJz', 'ay:', 'atc', 'al{', '3);', '40%', 'cal', 'mCa', 'reD', '0xA', 'k_b', 'rty', 'es\x20', '\x200;', ',.3', 'l{a', 'gDQ', 'gDd', 'WAY', 'tex', 'ns-', 'doh', 'oll', 'ssL', 'lit', 'e{r', 'Kaj', 'opu', ':50', ',.5', 'sto', 'eZ(', '7px', 'r-w', 'Bec', 'yFr', 'o-t', '(2)', 'res', 'n\x20m', 'mn;', 'r_h', '0;\x0a', 'n_r', 'OSV', 'FgQ', 'req', 'h\x20.', 'w}#', ':he', 's:3', 'c_n', 'gBo', 'n-f', 'WHN', 'eha', 'ft:', 'ord', 'lap', 'x\x201', '15s', 'ouc', 'inC', 'wxX', 'c_s', ':-3', 'ida', 'sli', 'pla', 'e\x20.', 't-a', 'tid', 'ent', '\x20.1', '(80', 'eCl', 'w:1', 'sty', 'phH', 'ePl', 'fbe', 'SdN', 'vuO', 'ogO', ':le', 'ccw', 't-s', ':re', '0\x206', 'la(', 'id-', 'sts', 'QJC', 't:n', 'c\x20S', '(25', 'det', 'had', 't(1', 'thr', 'r_b', '.ga', 'eed', 'LfX', 'Sta', 'gif', '\x20Pr', '2}#', 'adi', 'r:a', 'uen', 'n.h', 'oBe', 'fai', 'mDx', 'TDt', 'ite', 'ula', 'een', 'rAl', 'nLa', 'ick', 'las', 'o\x20b', 'StK', 'h:i', 'm-s', 'CAR', 'Obj', '.95', 'elS', 'eEl', 'tDe', '%;l', 'tBu', 'id\x20', 'SOH', 'ntB', 'end', 'obi', 'r_v', 'UWs', 'aps', '#ga', 'w-w', 'y\x20.', 'ePo', 'UOl', 'eso', 'unt', 'wor', 'los', 'ccu', '\x20\x20p', ':.3', 'se_', '{fo', 'y.t', 'rtY', 'st.', 'neC', 'e-s', 'aud', '(4)', '{\x0a\x20', 'fun', 's-s', 'yea', '\x2090', 'or:', 'GCe', '-ra', 'YWE', ':th', 'GlB', 'toa', '130', 'ina', 'emi', 'JSM', 'e-o', 'sAu', 'gat', 'UYF', 'nd{', '0\x205', 'e-a', 'hVi', 'er_', 'Sty', 'zBr', 'rof', 'Uti', 'ms:', 'al>', 'ubt', 'agg', 'gNa', '#0e', 'z-i', 'oot', 'dSt', 'mn-', 'Non', 'QbA', 'OxG', ':fl', 'edT', 's:c', '\x2017', 't;w', 'bai', 'AME', '{-w', 'Ite', '36p', '827', '{ba', 't:f', 'omV', 'jLx', 'GAM', '0;w', '-fo', 'Bot', 'mBa', 'MUL', 'wDa', 'raw', 'es_', 'Bnw', 'Num', 'Raw', 'ry\x20', 'd\x20#', '-67', 'Inf', 'ZYh', 'bDH', '{le', 'nea', 'ue-', 'IEW', ');p', 'nt-', 'toL', 'b19', 'ort', 'pti', '/in', 'qka', 'ang', 'y.d', '-to', 'r_k', 'ban', 'gro', 'Cha', 'igu', 'ceU', 'sPa', 'geN', '#ca', 'e.p', 'r:i', ':40', 'chi', 'onC', 'aHb', 'map', 'Loc', 'x);', 'qff', 'y_b', ':ur', '::-', 'erp', '%\x20-', 'WUu', 'err', 'per', 'lay', 'Jzh', 'eEv', 'Cus', 'dle', 'War', 'peC', 'pDo', 'Amo', '38p', 'sWi', 'eSi', 'abe', 'hSt', 'df9', 'blo', '01p', 'in{', 'dTi', 'bot', 'onf', 'pse', 'th.', 'peD', '280', 'bar', '#25', 'Ope', 'sam', 'y.S', 'WzQ', 'XVt', 'oPa', 'ple', 'r\x20{', 'sha', 'isI', 'ex-', 'd,.', 'tSi', 'All', '-lo', 'eYO', ',\x202', 'x;j', 'fle', 'tBy', 'n_s', '_va', 'to}', '#80', 'EOq', 'Vie', 'e(.', 'dir', 'ola', 'mpo', '\x20Su', 'Gam', 'mEr', 'tVC', 'b\x0a\x20', 'DIV', 'Cou', 'nt:', 'equ', '20%', 'n:0', 'c(1', 'x\x200', 'gn-', 'w;h', '66,', 'BjR', 'sxH', 'avi', 'ndi', 'a(0', 'rar', 'iv:', 'm,r', 'Res', 'x;z', ';di', '151', 's_b', 'gQW', 'ckI', '#CC', 'Nav', 'nLo', 'max', '\x20be', 'rem', 'Z(0', '-ch', 'Veg', 'off', 'oss', '_ar', 'RcR', ':80', 'mpS', 'lc(', 't:3', 'sab', 'nse', 'pac', 'ona', 'nor', 'dWd', 'ssi', 'yLi', 'reI', 'Y(-', 'ene', '\x20ga', 'bro', ':4}', 'p:4', '7,\x20', '60p', 'y-b', 'enc', 'ugi', 'p:5', 'lot', 'dMo', 'tTi', 'it-', 't-i', '.7)', 'tLe', '\x20wi', 'Lab', '34p', 'ter', 'TfI', '_th', 'kpo', 'pIF', 'que', 'iGn', '\x20fi', 'rCu', '\x2060', 'geT', 'Tap', '__g', 'y.l', 'fte', 'iew', 'ive', 'ar.', 'ami', '212', '3%}', 'tur', 'LIE', 'edi', 'cod', 'yDe', '.15', 'n:b', 'k;p', '_TH', '\x200\x20', '6,\x20', 'e(4', 'm-w', 'ckC', 'yVP', 'e\x20{', 'des', 'fsc', '_ho', '16p', 'wat', 'sca', 'nti', 'mEv', 'rev', ';mi', 'me-', 'oin', 'cDo', 'url', 's\x20a', '){w', 'ica', 'mpt', 'ify', '(to', 'oED', 'riz', 'zYS', 'wzx', 'geC', '}.g', 'eAs', 'px,', 'tId', 'vas', 'FIR', 'uag', 'lue', ':#a', 'ft}', 'rro', '\x2030', 'box', 'IzC', 'alR', 'lli', 'QRy', 'isL', 'meC', 't-v', '#er', 'aKe', 'ifi', 'eIt', 'tor', 'ded', 'alP', 'hec', 'ati', 'siz', 'isP', 'spi', 'ndl', 'rkH', 'rim', 'WMX', 'Ses', 'nch', 'mer', 'll}', 'you', 'y-c', ':ce', 'nhe', 'ems', 'n:a', 'irm', 'aGT', ':fo', 'cc.', 'atk', '#97', 'MVo', 'OnC', 'key', 'x\x20a', 'it}', 'te\x20', 'vYz', '\x20\x20r', 'r-t', ':22', '6)\x20', '26s', '}#c', 'r}.', 'ad_', 'jhk', '}#l', 'Rat', 'ail', 'siv', 'o-l', 'npM', 'tFa', 'Pla', 'bou', 'n-r', '}.e', ':5p', 'wal', 'exO', '(90', 'MOD', ',80', 'chP', 'pto', 'e_c', ':fi', 'n;f', 'iqi', 'cTe', 'rtM', ';le', '4,\x20', 'MEN', 'wTy', 'odu', '9,1', 'mPa', 'ch;', ';po', 'ete', 'r-i', 'JUm', 'RNA', 'eX(', '\x0a\x20\x20', 'ire', '10p', 'how', 'g.S', ':\x20i', 'aeu', 'opT', 'emS', 'y_f', 'l{f', '0xf', 'noA', '{he', ')}.', '-li', 'th:', 'bat', 'uHO', 'ToT', 'rio', '5px', 'IVV', 'v-b', 'erH', 'Eff', 'tic', 'n:e', 'tTr', ',50', '\x202p', 'loc', 's:f', 'Rou', 'Nam', 'pVS', 'leW', '\x2019', 'cto', '{wi', 'emP', 'Mnv', 'le_', 'wra', 'erT', 'cti', '\x20gh', 'Val', 'spl', '2s\x20', 'pyB', 'eUr', 'Qqd', 'r-v', 'e:1', 't\x200', '.pn', 'win', '48p', '.tr', 'eg)', 'ran', 'isa', 'l-w', 'm.\x20', '-ex', 'rep', 'eVi', 'tsB', 'y.c', '283', 'nGa', 'to-', 'xUw', 'wCo', 'epl', '-it', 'reg', '45,', 'let', '%;j', 'izo', 'wPa', 'wid', 'c\x20o', 'xis', '-de', 'onl', 'pTy', 'Dat', 'par', 'y\x20r', 'rd-', 'yId', 'ore', 'Att', 'ee-', 'lCh', 'e-l', 'e.T', 'MDt', 'qQS', 'Fxg', 'elf', 'ius', 'gRi', 'gam', 'e.S', 'g{b', '\x20.2', 'ebd', 'GHB', 'usB', 'dTo', 'wLe', 'typ', 'gCl', 'Set', '-mo', 'nd_', '200', 'WoR', 'ryV', 'bso', 'Mou', 'Cgm', 'bal', 'kja', 'e{b', 'y.h', '5%;', '-25', '#cl', 'n-w', 'y_d', 'le>', 'SKz', 'ewM', 'deD', 'dAs', 'JLo', 'tro', 'CCC', 'gre', 'col', 'VEL', '-an', 'met', 'in;', 'ymb', 'ary', 'Sha', 'MKP', 'nLh', 'ac5', 'smi', '181', 'cle', 'ZmI', ';bo', 'ico', '27%', 'nen', 'n-h', 'mes', ':ri', 'ceB', 'erl', 'tNo', '-ar', 'y.n', 'Y(.', '\x2016', 'ell', 'edI', 'tfo', 'LGJ', 'ic_', '-cu', 'eLo', 'hTo', 'asi', ':33', 'ree', 'osi', 'yTa', 'te3', 'fri', 'rcs', 'e,\x20', 's\x20e', 'stu', 'Uin', '(0d', 'n_f', 'ctR', 'Lin', '\x20ce', 'rag', '0.0', 'ULI', 'rSc', 'SEu', 'll\x20', 'nCa', 'bee', 'ctV', '-tr', 'tap', 'Min', 'wnJ', 'ode', 'ms-', '_li', 'tSh', 'erR', 'eme', 'deM', 'deS', 'pin', 'lyt', ',90', 't-h', 'tBa', 'geB', ');b', 'ueL', '}#s', 'ann', '\x20le', 'hov', ';op', '\x20us', 'LAY', 'stn', 'yZw', 'Ssz', 'for', 'Ztx', 'ctr', 'eGe', 'DRy', 'rd_', 'ot\x20', '(5)', '0\x20r', 'TJF', 'Ent', '%;t', 'Ugi', 'NoW', 'ura', 'Qke', 'arI', ':\x20n', 'fon', 'vou', 'rad', 'has', '\x20sc', 'e:a', 'fit', 'm_f', 'tIm', 'IS_', 'but', ',0,', 'meW', 'od-', 't;l', '300', 'poi', 'opD', '.js', 'scr', 'Typ', '.hi', 'Fro', 'dBy', 'gge', 'Sep', 'set', 'abo', 'eOJ', 'tWr', 'esB', 'eth', '\x20re', 'ath', 'eNu', '62p', 'gb(', 'oz-', 'ber', 'ed_', 'bli', '72p', 'PAY', 'lin', 'Wid', 'nfi', 'ela', '_bg', 's:5', 'Ges', 't);', '#19', 'w{o', 'der', 'tSu', 'w-c', 'Bwv', 'is.', 'on_', 'pix', '0%}', 'yny', 'meT', '2),', 'clX', 'twl', 'alB', 'ime', 'tok', 'Ful', 'amp', 'ad9', '}#n', 'Hou', 'her', '13p', 's-p', 'n;p', 'idt', ':0;', 'op;', 'd\x208', 'iex', 'ign', 'r-p', 'caf', 'pag', 'den', ':36', 'teY', 'seT', ':0\x20', 'r\x20.', '5.5', 'odd', 'sid', '\x20it', 'ay-', '\x200.', 'ove', 'gra', 'ae;', 't:c', '#f5', 'dex', 't_s', 'uld', '-le', '67,', '_ma', '_no', 'stA', 'kUI', 'inT', 'aft', 'sed', 'ubi', 'ry-', 'ylT', 'sep', 'Spi', 'le-', 'Det', '6%,', 'e0c', 'hEn', 'l.r', 'lar', '340', ')+$', 'ngT', 'con', 'zuQ', 'Nod', 'dat', 'w:a', '223', 'r{o', 'too', 'gzn', '96p', 'hMo', 't8A', 'Top', 'ena', '.ve', 'Saf', 'dit', 'reH', 'emF', 'Cli', 'chm', '-ic', 'Boo', 'g-e', 'd{w', '4s\x20', '#29', 'ow{', 'bPH', 'al\x20', 'inh', 'deb', 'r_t', 'ist', 'chS', 'v-h', 'hou', 'yZJ', 'ex}', '_LE', 'PLx', 'iti', 'seq', 'r(.', 'dJY', 'apt', 'cRb', '#44', '}\x0a\x0a', 'se-', 't:4', 'tCa', ':96', 'l\x20.', 'th;', 'eas', 'zOg', 'pJK', 'f11', 'ylB', 'Jwd', 'QcV', 'spa', '-al', ':\x209', 'nth', '.1s', 'pad', 'USG', 'pjp', 'exC', 'cyS', 'Mre', 'ace', 'sit', 'bre', 'Bun', ':ro', '{op', 'API', 'tes', '313', 'car', ':ac', 'nde', 'sic', 'oni', 'm:0', '\x20.r', 'l(b', 'sio', 'uct', 'btt', '\x20an', 'lUn', 'Dpq', 'X(-', 'v-v', 'isR', '-we', 'unw', 'Int', 'er(', 'ke{', 'bon', 'ibi', '[Sy', 'd_b', '5s\x20', 'rat', ');-', 'bIm', 'ref', 'efi', '0px', 'hHr', 'Wfa', 'vaL', 'r\x20b', 'row', 'Rig', 'vVW', 'tot', '(20', 'dub', 'XWC', 'g{a', 'orB', 'mat', 'wee', 'kmx', '10%', 't-n', 'Act', '272', 't_c', '.rc', 'ze-', 'sSy', 'ueB', 'e.V', 'gXk', 'frs', 'BEV', 'YOU', '0)\x20', 't:0', 'vyl', 'Kin', 'hGK', 'h:0', 'wSt', 'jso', ':32', '18%', 'For', ',1)', '0.6', 'itl', 'eeS', 't\x20e', 'hre', '6ec', 'ini', 'was', '-st', 'tEn', 'e;u', 'e:s', 'atS', 'yIJ', '16)', 'eTi', 'at\x20', 'e;-', '0}.', 'om-', '+)+', 'gh-', 'eIn', 'r_m', '0\x20a', 'arB', '(.1', 'e\x20g', 're{', '_co', 'eGa', 'ize', 't_b', 'rse', 'e-h', 'iro', '5%}', 'Wra', 'erE', 'cap', 'ey_', '%,#', 'boo', '-ga', 'Ori', '#cu', 'd_f', '-5.', 'wom', 'llS', 's\x20d', 't\x20t', '00%', '185', 'TRA', 'x}.', 'll.', 'WIG', 'u-c', 'orm', 'fre', 'ied', 'ex\x20', 'sRa', 'jac', '%);', 'eOb', '2,1', '\x20\x20\x20', 'foo', 'n-g', 'w{a', 'em{', '_he', 'ass', 'rtB', 'dRe', 'y\x20t', 'xtC', 'eho', '3%;', 'ged', 'eCo', ',#g', 'emW', 'd_c', 'lti', 'rfl', 'tp:', 'od.', 'rTy', 'el{', 'n:o', 'Inv', 'onA', 'orP', 'CRG', 'Blo', 'art', 'zie', 'ryB', 'ffs', 'rt;', 'lTh', 'w:h', 'YWi', 'upe', '!im', '\x20on', 'Ass', 'glu', 'Map', '_wi', ',0%', 'reA', 'erS', 'uwt', 'nFb', 'cs-', 'TpK', 'ap}', '360', 'SBv', 'nIc', 'dCo', 'eaP', 'Lef', 'Dom', '-am', 'nt;', 'y.C', 'ess', 'or_', 'Ini', 'r_s', 'nne', 'fy-', 'lum', 'nme', '%;w', 'mai', 'p_b', 't:a', 'bin', 'jXE', 'dRu', '{ma', 'zin', 'ptu', 'rIm', 'pri', '\x20fu', ':1p', 'gba', 'ing', 'tin', 'Ngs', '27,', 'iga', '\x200p', 'arT', 'eMi', '0c0', 'v2/', 'v_b', 'dBr', 't:6', 'eli', ':26', '0%,', 'fau', 'Gzs', 'em-', 'ond', ':20', 'ubv', '27p', '{bo', 'eta', 'noC', 'ar_', 'k_d', '\x20\x20}', 'tFu', 'hsl', 'sen', '233', 'sol', 'hil', 'cCR', 't-w', 'eDe', 'bel', 'can', 'esh', 'rap', '{po', 'FFF', 'arP', 'CUT', 'ven', 'ted', 'ect', 'm:r', 'nDa', ');f', 'd{h', 'HMA', ';co', '16,', 't;m', 'doc', 'ThQ', '-28', '\x20pa', 'OVk', 'htB', 'pPr', '22,', 'ftK', '-sp', 'pan', 'toD', 'mag', 'ade', 'uKI', 'p}.', 'at;', 'NTh', 'umn', 'ric', 'ybH', 'ial', ',\x201', 'ume', ':tr', 'ed.', 'l.D', 'op-', 'ner', '02b', ':2}', 'r;d', '.4)', 'mot', 'adC', ':hi', '375', 'dGa', 'ed\x20', 'omb', 'onB', 't_a', 'mal', ',10', 'wLX', 'rLa', 'g-t', 'WuX', 'QaH', 't-f', 'Nrm', 'pay', 'tte', 'peT', 'ch-', 'gn:', 'rFo', 'ezo', 'AUL', 'app', 't\x20.', 'qoB', ':co', 'rsi', 'eUp', 'han', 'Lat', ':in', 've}', '242', 'ayC', 'bMw', '\x2055', '\x20Re', 'rtR', 'n_i', 'rok', 'HCJ', 'nbh', '25%', 'a(2', 'pmY', '916', 'old', 'X(4', 'mBu', 'dio', 'lHi', 'onD', 'ctl', 'nte', 'inF', 'e.t', 'Out', 'sea', 'Win', 'yRa', 'eve', 'leX', 'enu', '-he', '#3c', '\x22\x22;', 'ain', 'gtb', '0;d', '\x20in', 'px;', '-45', 'lpe', '40)', 't-d', 'wnC', 'zhZ', 'pAr', 'd\x20a', 'UrM', 'dde', '_ou', 'h:\x20', 'pes', 'CVW', 'nex', 'alu', 'erW', 'er:', 'int', 'lbi', 'x\x20s', 'edB', 'dom', 'ixb', '-be', 'Mai', 'mob', '100', '45)', 'l-h', 'ics', 'w{h', '.St', 'o{b', '_ev', 'ced', '#e3', 'Chi', 'x-s', ';te', 'euH', 'slo', 'env', '\x20-\x20', 'd-p', '21p', '-bu', '4){', 'div', 'HhF', 'n_t', 'yFo', 'gLe', 'e\x20s', ':\x206', 'nt_', 'e-n', 'tli', 'rde', 'se{', 'ght', 'XET', 's-v', '#00', '-ve', 'Sca', 'IrJ', 'mma', '\x20pr', '.26', 'oas', 'e-c', 'IfN', 'g_h', 'kas', 'r:#', 'omS', 'NTS', 'dQo', 'ch\x20', 'ock', '15p', 'BQT', 'nin', 'pas', '//f', 'taY', '\x201)', 'e:2', 'Rel', 'igh', '55p', 'lle', 'pec', 'wnr', '[ob', 'Can', 't_h', 'His', 'ZzL', 'x-e', 't-u', '.3)', 'Yea', 'dzU', 'irs', 'clo', '0);', 'veT', '\x20De', 'nat', ',.g', 'ver', 'are', 'tom', 'Ver', 'xeM', 'omO', 'or\x20', 'clG', 'hed', 'e:\x20', 'yMo', 'ias', 'cit', 'hid', 'sDe', '{te', ':-2', 'Con', 'Dkq', 'ex;', 'unl', 'Pop', 'vGW', 'uch', 'CyJ', 'y-s', 'cul', 'Pur', '-im', '555', ');h', 'DSC', 'onT', '(-2', 'y.a', 'e;w', 'r{j', 'gOr', 'nSp', 'nTo', 'ULE', 'LDt', 'cCo', 'lat', 'rId', 'd{p', 'lor', ';fo', '4px', 'etW', 'age', 'nel', 'nrt', '.er', 'ile', 'y.s', 'ked', 'min', 'ed:', 'tst', 'alM', 'x;\x20', '161', 'mis', 'er6', 'tOf', 'on-', 'atC', 'leB', 'Ysg', 'ow:', 'MTj', 'ure', 'sel', 'r,.', 'dyn', '1,\x20', 'Plu', 'eAl', 'REP', 'eSh', 'pro', 'ind', 'g.H', 'le:', '070', '\x20su', 'Lea', 'isS', 'whe', '35d', ':op', 'leD', ';-m', 'x:2', 'JRh', 'uiA', 'sec', 'x-d', 'tim', 't\x20h', 'seP', 'web', 'ze:', 'ult', '}#r', '-3p', 'r;b', 'Tit', ';to', 'esF', 'wIm', 'arr', 'opB', 'p:7', 'nJh', 'Pag', '{cl', 'en\x20', 'LzV', 'zIn', 'e:n', 'h{b', 'd_i', 'ift', 'rgb', 'fyk', '-wr', 'hNZ', '#ff', 'e-w', '\x20\x20c', '24p', '__a', 'rCo', 'orc', 'rwY', 's`\x20', ':2p', 'd-c', 'les', 'Opt', ':11', 'Not', 'hig', 'ft-', 'e-b', 'try', '-ti', '-ri', 'ssN', ');m', ':.5', 'rvz', 'nim', 'pky', 'n{t', 'fff', ')\x20t', 'M1a', 'al-', 'Cal', '(10', 'T_G', 'erC', '2}.', ':15', '}.r', 'top', 'nge', 'r:r', 'ar-', 'ten', '3),', 'bet', 'l:a', 'heD', '1,.', 'isB', 'Tar', 'spr', 'vie', '\x200s', 'CKp', '.+)', 'er\x20', '5}#', 'ezi', 'Div', 'alC', 'olo', 'tDa', '5de', 'Siz', 'ype', 'm:s', 'ust', 'Ana', 'Too', 'fir', 'Bet', 'd\x20{', '0%;', 'liz', 'Sli', '6px', 'ggi', 'mou', 'dar', 'thi', 'NDu', 'e\x20i', '\x20cu', 'flo', 'vyt', 'tPa', '96f', 'h:2', 'Bon', 'Abs', 'T_P', 'aci', 'urs', 'efa', 'x)}', 'mem', ')\x20s', '28p', 'vio', 'v,\x0a', 'neO', '{tr', 'ari', 'uwG', ':af', 'COU', '\x20ab', 'r;l', 'don', 'ht_', 'geP', '_ic', '-se', 'aul', 'nly', 'lud', 'Hea', 'dow', 'mCl', '(0,', 'UIB', 'e}.', 'r-c', 'ic-', '%,t', 'tia', '80%', 'Nhn', 'owr', 'bg_', 'rzv', 'cre', '_ba', 'rtT', 'Ani', 'kTo', 'rHo', 'bor', 'r{b', ');t', 'OfT', 'psC', 'f;p', 'lig', 'l\x20e', 'JDN', 'BFL', 'Fjd', 'ope', '808', 'eat', '216', 'eMo', 'px!', 'eNa', 'Dow', 'Api', 'raN', '-er', 'tCo', ';ju', 'tAt', 'ge:', 'onL', ';tr', 'chT', 'owC', 'qAs', '#FF', 'TxI', 'eRo', 'ndT', 'sac', 'oli', 'leL', '6{b', ':76', 'eAr', 'ata', 'it\x20', 'isA', 'x;p', 'eOC', 'emp', 'bol', 'cur', 'ntO', 'cro', '0d0', '(0.', '80d', 'lei', '0,.', 'sig', 'm:t', 'Suc', 'cei', 'zGi', 'nli', '23p', '}#g', '#co', 'l-t', 'mjz', 'NvF', 't:8', 'ota', 'w{r', 'Cur', 'our', '-gr', 't:7', '8.7', 'dot', 'e\x20b', 'cRM', 'ryD', 'lCH', '1)}', 'mil', 'mRo', 'kDi', 'SIA', 'nOu', 'KcA', 'e.B', '_ti', 'ybQ', 'bDF', '#28', 'ers', 'por', 'h:4', 'o__', 'ebk', 'mus', 'zPQ', '#9c', 'ret', 'Sin', 'er.', 'ht-', 'er}', 'QJS', 'fad', 'Ima', 'd\x20M', '-in', '3d(', 'lie', 'leF', 'ate', 'oIc', '\x2021', 'vVL', 'g-p', 'POR', 'ntP', 'h:1', 'exe', 'qv5', 'eco', 'l{j', 'oYH', 'ori', 'hum', 'usS', '2%}', 'Sys', 'h-a', 'e;t', '}.h', 'Own', 'GWs', 'GUI', 'Sma', 'Arr', 'dTy', 't.v', 'erv', 'e{o', 'p:1', 'fWv', 'y.f', 'TPv', 'Pro', 'no-', 'ler', 'Err', '1}.', 'ch_', '285', 'w-s', ':3}', 'ffb', '0,\x20', ',\x20\x20', 'tPr', 'p:-', 'yDi', '\x200,', 'bje', 'eDo', '041', 'gea', 'fNV', 'p-t', '\x20th', '\x27t\x20', 'nPa', '8,\x20', '-no', 'egi', '30p', 'p:\x20', 'w-n', 'iwI', 'dFo', 'Ico', 'tri', 'efu', 'tIt', 'ise', 's\x20E', 'Cam', 'meo', 'VfY', 'r-g', 'NYO', 'hol', 'dIm', 'ld(', 'tle', 'rts', 'lau', 'xbr', 'APE', 'fro', 'xWr', 'tou', 'cCh', 'g)}', 'vis', 'ow,', 'tio', 'edC', 'rot', '05)', 'gCo', '-ou', 'htI', '.Co', '-sc', 'sou', 'whi', 'Der', 'nag', 'l(t', 'gjn', '\x201p', ',16', '{co', '.22', 'ewH', 'r-e', 'jvI', 'ayO', 'lec', 'owe', 'ngP', 'v_j', 'oda', 'Mod', 's-i', 'uqL', '-bl', 'llC', 'sup', 'px\x20', 'bLO', 'YqN', '33,', 'ble', '.se', 'o;p', 'rgi', 'ce-', 'leC', 'Pos', ',.e', 'gh_', 'etr', 'Bin', 'm-b', 'e-p', 'd:a', 'eLe', 'id;', 'rm\x20', 'vba', 'qce', 'Scr', '}.a', 'rZt', 'x;f', '-sh', 'def', '.gh', '.re', 'oCo', 'Sch', 'ToC', 't:2', 'tCu', 'x;l', 'nt\x20', '_lo', 'e;z', 'I18', 'mbo', 'obj', 'owY', '45d', ':so', 'nPr', 'e(0', 'ion', '\x20:1', 'ara', 'ele', 'ne-', 'ty\x20', 'lMd', 'mPr', '\x20rg', 'mod', 'peV', 'wRi', 'ory', 'g,\x20', 'tie', 'jSV', 'kab', 'fse', 'd\x20m', 'FKm', 'pre', '0;m', 'anB', 'ow;', 'on:', 'ft;', ':10', 'g:b', '\x20se', '%,4', 'hyp', 'etA', '1}#', ':au', '.6)', '\x20ob', 'asn', '8px', 'ts:', 'ilM', 'lQr', 'unm', 'tba', 'mar', 'sWa', 'lug', 'Aut', '\x2059', '#lo', 'lWi', '\x20\x0a\x20', '\x20no', 'l-v', '0.8', 'Mov', '{di', 'lac', 'ueF', 'lut', 'rm-', 'ad-', 'kag', 'sym', 'a(1', '\x20\x27p', 'gid', 'Sim', '\x20nt', 'teZ', 'x;t', 'ute', 'y:.', 'shi', 'ato', 'nsf', 'Poi', 'ROF', 'meR', 'Inn', 'nds', '6);', 'ema', 'eEn', 'diu', 'e\x20e', 'nam', 'wNa', '_se', ':1;', 'erD', 'mor', 'sla', 'ck;', 'pea', 'LAN', '-ca', 'g\x20P', 'e{p', '\x20x\x20', 'Wat', 'v:f', 'A6A', 'ibl', 'edg', 'eva', 'geD', 't;p', ';-w', '4\x209', 'EbG', 'e_i', 'ftD', '#30', 'in_', 'OCP', 'n-s', 'kgr', 'odi', '30%', 'av-', 'eac', 'eId', 'rra', '640', 'ceO', 'oun', 'ToP', 'KJi', '-\x202', 'onO', 'cte', '(67', '135', 'y:i', ':to', 'ktB', 'yPa', 'sti', 'd_h', 'v-i', 'ak-', 'eAR', 'Wil', 'ide', 'ine', 'OR_', '-na', 'LIO', 'nSt', 'ity', '-te', 'esc', '50%', '_na', '000', ':-1', 'VEm', '-21', 'ani', 'ant', '3px', 'bEk', 'avb', 'tit', 'abl', '-di', 'ck\x20', '-fr', 'Fil', 'l-s', 'e-v', 'r-h', 'w_c', 'jus', '-tw', 'NXZ', 'lKe', 'Add', 't:\x22', 'the', 'Ntl', 'Nor', 'yIt', 'big', 'ase', '51,', 'DOp', 'out', 't{b', 'or-', 's\x20n', 'ame', 'imp', 'eHi', 'lSt', 'OxC', 'l{w', 't-o', ':68', '\x2025', 'SbQ', 'ba(', 'kgn', 'l>d', '40p', 'e_f', 'g-r', 'h_i', 'umb', '__e', 'Rtl', 'lid', '-wi', 'SEL', '1th', 'dth', '\x20gr', '12c', 'lex', 'Man', 'Mon', 'DEX', 'r\x0a\x20', 'teX', 'hCh', 't\x20M', ':16', ':48', 'ast', 'QVE', 'dDO', 'adj', 'elo', 'stP', '25d', 'k;o', '0x5', '_WI', 'Cla', 'SNR', 'Ref', '.ex', 'vKC', '00;', '#31', 'e-d', 'pow', 'efo', 'Gio', 'aut', 'onc', '0;b', 'hna', 'onP', 'teP', 'erw', 'ioo', 'gnS', 'd\x20E', '\x20ei', 's\x20h', 'x;\x0a', 'h-o', 'rou', '303', 'l{t', 'teK', 'Pan', 'ew-', 'Jac', ':31', 'l\x20c', '#57', 'ren', '/co', 'ce:', 'ofi', 'uiq', 'elV', 'Use', ')\x20m', 'n-t', 'eri', 'llH', 'rt_', 'STp', 'tAr', 'iss', '1.6', 'D_G', '-ho', 'BET', '255', '12p', 'qui', '\x20ba', 'ink', 'onW', 'tHe', 'eLa', 'isC', 'qOg', 'Ser', 't:i', 'e-r', 'cri', 'Fon', 'Tip', 'ms\x20', 'n;h', 'sMo', 'and', '166', 'r:s', 'ssA', 'eek', ':6p', 'ow_', '__r', 'Ele', 'NoH', '0x4', 'bun', 'onS', '0de', '5,\x20', 'zon', 'She', '50p', 'ack', 'FTB', 'alW', 'oci', 's.p', 'pat', 'n{h', 'onG', '101', 'sum', 'wTi', 'tif', 'eMM', '325', 'tto', 'ils', '.1)', 'vxv', 'ert', '(45', '.ho', 'rtl', '9a9', 'eOu', 'FyH', ':7%', 'e:c', 'ror', '291', 'nsp', 'em_', 'pie', 'isF', 'sBe', 'esR', 'eSp', 'epe', 'ose', '#26', 'el_', '3E8', 'lOp', 'r](', 'obs', '_fo', 'us_', 'imr', '0%)', 'Wnj', 'lem', 'cen', 'Toa', 'll-', '18n', 'tem', 'ntL', '>di', 'cus', 'KyJ', ',.7', 'rdI', 'azL', 'il_', 't:9', '%;z', 'hWa', 'tat', 'v-p', '-re', 'tMv', '}#e', '_sp', 'gtw', 'CGr', '-ta', 'arR', 'y.e', 'm-o', ':ab', '-ye', 'tar', 'cub', 'nsl', 'emH', 'jxZ', '%;b', 'isE', ':rg', 'gnI', '.En', 'Tim', 'dDa', 'bki', '_bo', 'erf', 'tAl', 'tog', '\x20bo', '\x208p', '\x20\x20z', 'me_', 'gTo', 'w{l', '\x2015', ':\x207', 'ild', '\x20ca', 'a(3', 'Wit', 'qHS', 'wai', 'oMu', 'tyl', 'ioP', 'hea', '3}#', 'hit', 'stS', 'adR', 'btb', 'ION', 'arn', 'Def', 't;j', ':nt', '\x2034', ':\x205', 'oco', 'wSc', 's-r', 'dne', '\x20#0', 'din', 's:\x20', 'h-c', 'tSe', 'udX', 'e{t', 'upd', 'X(7', 'e-f', 'sag', '13%', 'v-r', 'o;r', 'JNH', 'ous', ':be', ':14', '(18', 'Hor', '\x0a\x0a\x20', 'aBo', 'px}', 'LL_', 'str', 'fin', '\x20;\x0a', 'uto', 'els', 'URL', ':#0', 'onI', 'v-c', 'e-i', 'rCa', 'dBu', 'ar{', 'ht{', 'p-d', 'tn_', 'Car', 'reV', '1s\x20', 'isH', 'CAT', 't\x20c', 'led', 'bac', 'jZu', '\x2010', 'x:1', 'yBu', '2b1', 'Fib', '969', 'ngC', '\x20\x20h', 'lCo', 'ier', '{al', 'r-m', 'eHa', 'ern', 'r-l', 'pli', 'eCa', 'tOp', 'vic', '-dr', 'mmo', 'tTo', 'pAt', '/th', 'g_c', 'seA', 'bNJ', 'rib', 'ppe', '/ba', 'n-l', 'Com', 'JED', 'er;', 'orM', 'enf', '_pr', 'rge', 'isV', 'hei', 'pus', 'arS', 'act', 'ost', 'wed', 'in-', 'Loa', 'TML', 'mQC', 'hqr', 'jQG', '5}.', 'Prw', 'u-i', '35p', 'Eac', '+sh', 'n:w', 'y:f', 'Bro', 'eou', 'n-j', 'n-c', '_ca', '111', '90%', 'ty:', 'c\x20l', 'ng-', 'Jso', ');w', '343', 'bas', 'elC', 'nuT', 'exp', '126', 'x\x202', '-ba', 'ck_', 'wo{', 'lan', 'seB', 'n\x20D', 'wse', '44p', 'orC', 'GnS', 'n-d', 'e{m', 'omp', 'Dra', ',.2', 'y.m', ';ri', '#st', 'Dis', 'ucb', '/ca', 'del', 'tiv', 'n:t', 'nfo', 'eEr', 'sub', 'Did', 'n-n', '_DO', 'ldR', '43%', 'mcq', '\x20Sp', 'she', 'orR', 'ASS', '-hi', 'tTy', 'lSp', 'TLL', 'l{h', 'unk', 'red', 't0h', 'tSt', '\x20Da', 'nce', 'pot', 'utt', 'aid', 'dHe', 'il-', 'yCl', 'hem', '2){', ':\x201', 'n-b', 'rBa', 'Ymw', 'oke', 'n\x20i', 'sho', 'get', 'ouQ', 'on{', 'eBe', 'y_s', 'ncy', 'UtP', 'umm', '\x200)', 'hew', '115', 'kit', 'rxV', 'IRd', '\x2033', 'ueO', 'ss_', 'Two', '108', 'seu', 'inL', '33%', 'toc', 'llT', '162', 'XFS', 's-c', 'src', 'et(', 'd{d', 'Bar', 'pmu', '\x20au', 'm-p', 'gZe', 'SCd', 'fo_', 'y\x20L', 'geW', 'edE', 'Lcn', 'nts', ';wi', 'htH', 'ylo', 'EGO', 'rt.', '\x20}\x0a', 'sHe', 'abs', 'nda', 'uoP', 'alt', 'mCh', 'che', '0;l', 'xoQ', '$CS', 'tAm', 'sis', ')\x209', 'rtG', 'nit', 'eHe', 'ext', 'reC', 'MNo', 'PWx', 'etB', 'd\x20p', 'taX', 'hko', 'JCu', 'TIK', 'pYP', 'kPr', 'esp', 'Clo', 'p-b', 'f19', 'add', '17p', 'non', 'e;r', '0;p', 'ndC', ':30', 'rai', '\x20.s', 'Ale', ',\x205', 'fea', '-co', 'teV', 'bxa', 'owS', 'TjX', 'VZV', 'anc', '.5)', 'ffe', '-vi', 'len', 'nt(', ';wh', 'geF'];
-    H = function () {
-      return qZ;
-    };
-    return H();
-  }
-  function h(C, x) {
-    var E = H();
-    h = function (g, A) {
-      g = g - 0x1a4;
-      var d = E[g];
-      return d;
-    };
-    return h(C, x);
-  }
   !function () {
     var C = function () {
-      var d = !![];
+      var d = !false;
       return function (s, j) {
         var P = d ? function () {
           if (j) {
@@ -30,7 +14,7 @@
             }
           }
         } : function () {};
-        d = ![];
+        d = false;
         return P;
       };
     }();
@@ -130,7 +114,7 @@
             var sl = sl["request"]("POST", sl, sl, function (sl) {
               return function (sl, sl) {
                 sl = sl || function (sl) {
-                  var sl = void 0x0;
+                  var sl = undefined;
                   if (xZ(sl) && sl["hasOwnProperty"]("err") && sl["hasOwnProperty"]('dt')) {
                     var sl = sl["err"];
                     sl && (sl = function (sl) {
@@ -159,7 +143,7 @@
                     {
                       if (Object["prototype"]["hasOwnProperty"]["call"](sl, sl)) {
                         var sl = sl[sl];
-                        void 0x0 !== sl && (sl instanceof Array ? sl["forEach"](function (sl) {
+                        undefined !== sl && (sl instanceof Array ? sl["forEach"](function (sl) {
                           {
                             sl["push"](''["concat"](encodeURIComponent(sl), '=')["concat"](encodeURIComponent(JSON["stringify"](sl))));
                           }
@@ -210,7 +194,7 @@
           xY["tension"] = 0xa3;
           xY["friction"] = 0x15;
           xY["velocity"] = 0xa;
-          xY["clamp"] = !0x0;
+          xY["clamp"] = true;
           var xl = {};
           xl['r'] = 0xff;
           xl['g'] = 0xff;
@@ -225,13 +209,13 @@
             }
           }(xw || (xw = {}));
           var xz = 0xa0,
-            xv = (void 0x0 !== g || void 0x0 !== A || "undefined" != typeof global && global, {}),
+            xv = (undefined !== g || undefined !== A || "undefined" != typeof global && global, {}),
             xO = {},
             xK = {};
           !function (sl) {
             var sl, sl;
             var sl = {};
-            sl["value"] = !0x0;
+            sl["value"] = true;
             var sl = {};
             sl["height"] = "272px";
             sl["width"] = "360px";
@@ -430,7 +414,7 @@
             jj["selectScrollContainerHorizontal"] = jA;
             jj["dotIcon"] = jh;
             jj["selectContainer"] = jh;
-            Object["defineProperty"](sl, "__esModule", sl), sl["styles"] = sl["LocalePrefix"] = sl["CaseType"] = sl["CalendarState"] = void 0x0, sl["styles"] = jj, function (jP) {
+            Object["defineProperty"](sl, "__esModule", sl), sl["styles"] = sl["LocalePrefix"] = sl["CaseType"] = sl["CalendarState"] = undefined, sl["styles"] = jj, function (jP) {
               jP[jP["SELECTION"] = 0x0] = "SELECTION", jP[jP["CUSTOM"] = 0x1] = "CUSTOM";
             }(sl["CalendarState"] || (sl["CalendarState"] = {})), (sl = sl["CaseType"] || (sl["CaseType"] = {}))[sl["SLOT_GAME"] = 0x0] = "SLOT_GAME", sl[sl["CARD_GAME"] = 0x1] = "CARD_GAME", (sl = sl["LocalePrefix"] || (sl["LocalePrefix"] = {}))["DEFAULT"] = "CustomCalendar", sl["TOURNAMENT"] = "TournamentCustomCalender";
           }(xK);
@@ -440,14 +424,14 @@
             return sl ? (sl["setHours"](0x17), sl["setMinutes"](0x3b), sl["setSeconds"](0x3b), sl["setMilliseconds"](0x3e7)) : (sl["setHours"](0x0), sl["setMinutes"](0x0), sl["setSeconds"](0x0), sl["setMilliseconds"](0x0)), sl;
           }
           var H2 = {};
-          H2["value"] = !0x0;
-          Object["defineProperty"](H0, "__esModule", H2), H0["convertTimeToBeginningOrEndOfTheDay"] = H0["getCustomDateObject"] = void 0x0, H0["getCustomDateObject"] = function (sl) {
+          H2["value"] = true;
+          Object["defineProperty"](H0, "__esModule", H2), H0["convertTimeToBeginningOrEndOfTheDay"] = H0["getCustomDateObject"] = undefined, H0["getCustomDateObject"] = function (sl) {
             {
               var sl = new Date(sl["startDate"]),
                 sl = new Date(sl["endDate"]);
               return {
                 'startDate': H1(sl),
-                'endDate': H1(sl, !0x0)
+                'endDate': H1(sl, true)
               };
             }
           }, H0["convertTimeToBeginningOrEndOfTheDay"] = H1;
@@ -464,13 +448,13 @@
             for (sl = 0x0; sl < sl; sl++) sl["indexOf"](sl) && sl[sl]["classList"]["add"]("select-hide");
           }
           var H6 = {};
-          H6["value"] = !0x0;
-          Object["defineProperty"](H4, "__esModule", H6), H4["customSelectUtil"] = void 0x0;
+          H6["value"] = true;
+          Object["defineProperty"](H4, "__esModule", H6), H4["customSelectUtil"] = undefined;
           var H7 = function () {
             function sl() {}
             return sl["prototype"]["convertOptionToDiv"] = function (sl, sl, sl) {
               var sl, sl, sl, sl, sl, sl, sl, sl, xM;
-              for (void 0x0 === sl && (sl = !0x0), sl = (sl = document["getElementsByClassName"](sl))["length"], sl = 0x0; sl < sl; sl++) {
+              for (undefined === sl && (sl = true), sl = (sl = document["getElementsByClassName"](sl))["length"], sl = 0x0; sl < sl; sl++) {
                 if ((sl = sl[sl]["getElementsByTagName"]("select")[0x0])["setAttribute"]("style", "display:none"), sl = sl["length"], sl) sl = document["createElement"]("DIV");else {
                   for (var sl = document["getElementsByClassName"]("select-selected"), sl = 0x0; sl < sl["length"]; sl++) sl[sl]["parentNode"]["className"] === sl && (sl = sl[sl]);
                   H5(this);
@@ -519,8 +503,8 @@
             }, sl;
           }();
           var H8 = {};
-          H8["value"] = !0x0;
-          H4["customSelectUtil"] = new H7(), Object["defineProperty"](H3, "__esModule", H8), H3["CalendarPickDateView"] = void 0x0;
+          H8["value"] = true;
+          H4["customSelectUtil"] = new H7(), Object["defineProperty"](H3, "__esModule", H8), H3["CalendarPickDateView"] = undefined;
           var H9 = __importDefault(P),
             xK = xK,
             H4 = H4,
@@ -565,9 +549,9 @@
                   }, this['j']())));
                 }
               }, sl["prototype"]["componentDidMount"] = function () {
-                this['O'](!0x0);
+                this['O'](true);
               }, sl["prototype"]["componentDidUpdate"] = function (sl) {
-                this["props"]["onSelectedDate"] !== sl["onSelectedDate"] && (this['N'](), this['O'](!0x1));
+                this["props"]["onSelectedDate"] !== sl["onSelectedDate"] && (this['N'](), this['O'](false));
               }, sl["prototype"]['N'] = function () {
                 H4["customSelectUtil"]["resetTargetOption"]("select-container-year-" + this["props"]["extraName"]), H4["customSelectUtil"]["resetTargetOption"]("select-container-month-" + this["props"]["extraName"]), H4["customSelectUtil"]["resetTargetOption"]("select-container-day-" + this["props"]["extraName"]);
               }, sl["prototype"]['O'] = function (sl) {
@@ -578,12 +562,12 @@
                 sl["borderColor"] = "#FFFFFF";
                 sl["backgroundColor"] = "#30303b";
                 var sl = __assign(__assign({}, xK["styles"]["selectScrollContainer"]), sl);
-                return void 0x0 !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"], sl["borderColor"] = this["props"]["themeColor"]), void 0x0 !== this["props"]["backgroundColor"] && (sl["backgroundColor"] = this["props"]["backgroundColor"]), shell["environment"]["isIOS"]() && (sl["color"] = "#30303b", sl["backgroundColor"] = "#FFFFFF"), sl;
+                return undefined !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"], sl["borderColor"] = this["props"]["themeColor"]), undefined !== this["props"]["backgroundColor"] && (sl["backgroundColor"] = this["props"]["backgroundColor"]), shell["environment"]["isIOS"]() && (sl["color"] = "#30303b", sl["backgroundColor"] = "#FFFFFF"), sl;
               }, sl["prototype"]['k'] = function () {
                 var sl = {};
                 sl["color"] = "#FFFFFF";
                 var sl = __assign(__assign({}, xK["styles"]["dateContainer"]), sl);
-                return void 0x0 !== this["props"]["backgroundColor"] && (sl["color"] = this["props"]["backgroundColor"]), this["props"]["isRTL"] && (sl["direction"] = "rtl"), sl;
+                return undefined !== this["props"]["backgroundColor"] && (sl["color"] = this["props"]["backgroundColor"]), this["props"]["isRTL"] && (sl["direction"] = "rtl"), sl;
               }, sl["prototype"]['D'] = function () {
                 {
                   for (var sl = [], sl = this["props"]["onLastDate"]["getFullYear"](), sl = this["props"]["onBeginDate"]["getFullYear"](); sl <= sl; sl++) sl["push"](H9["default"]["createElement"]("option", {
@@ -655,12 +639,12 @@
                   case 0x2:
                     sl["day"] = sl;
                 }
-                sl = new Date(sl["year"], sl["month"] - 0x1, sl["day"]) > sl ? sl : new Date(sl["year"], sl["month"] - 0x1, sl["day"]), this["props"]["onHandleChange"](sl), this['N'](), this['O'](!0x1);
+                sl = new Date(sl["year"], sl["month"] - 0x1, sl["day"]) > sl ? sl : new Date(sl["year"], sl["month"] - 0x1, sl["day"]), this["props"]["onHandleChange"](sl), this['N'](), this['O'](false);
               }, sl;
             }(H9["default"]["Component"]);
           var Hh = {};
-          Hh["value"] = !0x0;
-          H3["CalendarPickDateView"] = HH, Object["defineProperty"](xO, "__esModule", Hh), xO["CalendarCustomView"] = void 0x0;
+          Hh["value"] = true;
+          H3["CalendarPickDateView"] = HH, Object["defineProperty"](xO, "__esModule", Hh), xO["CalendarCustomView"] = undefined;
           var HE = __importDefault(P),
             xK = xK,
             H0 = H0,
@@ -689,7 +673,7 @@
                   'endMonth': sl,
                   'endDay': sl,
                   'startDate': H0["convertTimeToBeginningOrEndOfTheDay"](sl),
-                  'endDate': H0["convertTimeToBeginningOrEndOfTheDay"](sl, !0x0),
+                  'endDate': H0["convertTimeToBeginningOrEndOfTheDay"](sl, true),
                   'currentCalendarCustomType': 0x2
                 }, sl['F'] = sl['F']["bind"](sl), sl['I'] = sl['I']["bind"](sl), sl['B'] = sl['B']["bind"](sl), sl['R'] = sl['R']["bind"](sl), sl['A'] = sl['A']["bind"](sl), sl['W'] = sl['W']["bind"](sl), sl['T'] = sl['T']["bind"](sl), sl['M'] = sl['M']["bind"](sl), sl['Y'] = sl['Y']["bind"](sl), sl['G'] = sl['G']["bind"](sl), sl['U'] = sl['U']["bind"](sl), sl['V'] = sl['V']["bind"](sl), sl['q'] = sl['q']["bind"](sl), sl['X'] = sl['X']["bind"](sl), sl['K'] = sl['K']["bind"](sl), sl;
               }
@@ -774,7 +758,7 @@
                 return this["props"]["isRTL"] && (sl["direction"] = "rtl"), sl;
               }, sl["prototype"]['I'] = function () {
                 var sl;
-                return sl = this['Z']() === xK["CaseType"]["CARD_GAME"] ? "#262121" : "#30303b", void 0x0 !== this["props"]["backgroundColor"] && (sl = this["props"]["backgroundColor"]), sl;
+                return sl = this['Z']() === xK["CaseType"]["CARD_GAME"] ? "#262121" : "#30303b", undefined !== this["props"]["backgroundColor"] && (sl = this["props"]["backgroundColor"]), sl;
               }, sl["prototype"]['R'] = function () {
                 var sl = {};
                 sl["color"] = this["props"]["themeColor"];
@@ -782,14 +766,14 @@
                 sl["borderStyle"] = "solid";
                 sl["backgroundColor"] = this["props"]["backgroundColor"];
                 var sl = __assign(__assign({}, xK["styles"]["confirmButtonLabel"]), sl);
-                return this['Z']() === xK["CaseType"]["CARD_GAME"] ? sl["color"] = "rgba(0,0,0)" : (void 0x0 !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"], sl["borderColor"] = this["props"]["themeColor"]), sl["borderStyle"] = "solid"), void 0x0 !== this["props"]["confirmBackgroundColor"] && (sl["backgroundColor"] = this["props"]["confirmBackgroundColor"]), sl;
+                return this['Z']() === xK["CaseType"]["CARD_GAME"] ? sl["color"] = "rgba(0,0,0)" : (undefined !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"], sl["borderColor"] = this["props"]["themeColor"]), sl["borderStyle"] = "solid"), undefined !== this["props"]["confirmBackgroundColor"] && (sl["backgroundColor"] = this["props"]["confirmBackgroundColor"]), sl;
               }, sl["prototype"]['A'] = function () {
                 {
                   var sl = {};
                   sl["opacity"] = 0x1;
                   sl["color"] = "#FFFFFF";
                   var sl = __assign(__assign({}, xK["styles"]["calendarCustomDescriptionLabel"]), sl);
-                  return this['Z']() === xK["CaseType"]["CARD_GAME"] ? (void 0x0 !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"]), sl["opacity"] = 0.6) : void 0x0 !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"]), sl;
+                  return this['Z']() === xK["CaseType"]["CARD_GAME"] ? (undefined !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"]), sl["opacity"] = 0.6) : undefined !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"]), sl;
                 }
               }, sl["prototype"]['W'] = function () {
                 {
@@ -798,12 +782,12 @@
                   sl["backgroundColor"] = "#292934";
                   var sl = __assign(__assign({}, xK["styles"]["dotIcon"]), sl);
                   if (this['Z']() === xK["CaseType"]["CARD_GAME"]) {
-                    if (void 0x0 !== this["props"]["themeColor"]) {
+                    if (undefined !== this["props"]["themeColor"]) {
                       var sl = this["props"]["themeColor"];
                       sl["backgroundColor"] = sl;
                     }
                     sl["opacity"] = 0.6;
-                  } else void 0x0 !== this["props"]["themeColor"] && (sl = this["props"]["themeColor"], sl["backgroundColor"] = sl);
+                  } else undefined !== this["props"]["themeColor"] && (sl = this["props"]["themeColor"], sl["backgroundColor"] = sl);
                   return sl;
                 }
               }, sl["prototype"]['U'] = function (sl) {
@@ -926,7 +910,7 @@
                 }
               }, sl["prototype"]['Z'] = function () {
                 var sl = xK["CaseType"]["SLOT_GAME"];
-                return void 0x0 !== this["props"]["caseType"] && (sl = this["props"]["caseType"]), sl;
+                return undefined !== this["props"]["caseType"] && (sl = this["props"]["caseType"]), sl;
               }, sl["prototype"]['tt'] = function (sl) {
                 var sl = sl,
                   sl = this["state"]["onBeginDate"];
@@ -936,18 +920,18 @@
                   var sl,
                     sl = sl["getFullYear"](),
                     sl = sl["getDate"]();
-                  if (void 0x0 !== this["props"]["onBeginDate"]) sl = this["props"]["onBeginDate"];else {
+                  if (undefined !== this["props"]["onBeginDate"]) sl = this["props"]["onBeginDate"];else {
                     var sl = sl["getMonth"]() + 0x1 - 0x3;
                     sl = sl > 0x0 ? new Date(sl, sl - 0x1, sl) : new Date(sl - 0x1, 0xc + sl - 0x1, sl);
                   }
                   return sl;
                 }
               }, sl["prototype"]['M'] = function (sl) {
-                return void 0x0 !== this["props"]["onLastDate"] ? this["props"]["onLastDate"] : sl;
+                return undefined !== this["props"]["onLastDate"] ? this["props"]["onLastDate"] : sl;
               }, sl["prototype"]['L'] = function () {
-                return void 0x0 !== this["props"]["themeColor"] ? this["props"]["themeColor"] : "#FFFFFF";
+                return undefined !== this["props"]["themeColor"] ? this["props"]["themeColor"] : "#FFFFFF";
               }, sl["prototype"]['P'] = function () {
-                return void 0x0 !== this["props"]["calendarRangeDate"] ? this["props"]["calendarRangeDate"] : 0x7;
+                return undefined !== this["props"]["calendarRangeDate"] ? this["props"]["calendarRangeDate"] : 0x7;
               }, sl["prototype"]['Y'] = function (sl, sl) {
                 var sl = sl["getFullYear"](),
                   sl = sl["getFullYear"](),
@@ -979,7 +963,7 @@
                 this["setState"](sl);
               }, sl["prototype"]['G'] = function () {
                 var sl = this["state"]["startDate"],
-                  sl = H0["convertTimeToBeginningOrEndOfTheDay"](this["state"]["endDate"], !0x0);
+                  sl = H0["convertTimeToBeginningOrEndOfTheDay"](this["state"]["endDate"], true);
                 this["props"]["onConfirmClicked"](sl, sl);
               }, sl;
             }(HE["default"]["Component"]);
@@ -987,8 +971,8 @@
           var HP = {},
             HT = {};
           var HU = {};
-          HU["value"] = !0x0;
-          Object["defineProperty"](HT, "__esModule", HU), HT["CalendarPickDateViewH"] = void 0x0;
+          HU["value"] = true;
+          Object["defineProperty"](HT, "__esModule", HU), HT["CalendarPickDateViewH"] = undefined;
           var HW = __importDefault(P),
             xK = xK,
             H4 = H4,
@@ -1031,9 +1015,9 @@
                   'onChange': function () {}
                 }, this['j']())));
               }, sl["prototype"]["componentDidMount"] = function () {
-                this['O'](!0x0);
+                this['O'](true);
               }, sl["prototype"]["componentDidUpdate"] = function (sl) {
-                this["props"]["onSelectedDate"] !== sl["onSelectedDate"] && (this['N'](), this['O'](!0x1));
+                this["props"]["onSelectedDate"] !== sl["onSelectedDate"] && (this['N'](), this['O'](false));
               }, sl["prototype"]['N'] = function () {
                 H4["customSelectUtil"]["resetTargetOption"]("select-container-year-" + this["props"]["extraName"]), H4["customSelectUtil"]["resetTargetOption"]("select-container-month-" + this["props"]["extraName"]), H4["customSelectUtil"]["resetTargetOption"]("select-container-day-" + this["props"]["extraName"]);
               }, sl["prototype"]['O'] = function (sl) {
@@ -1044,12 +1028,12 @@
                 sl["borderColor"] = "#FFFFFF";
                 sl["backgroundColor"] = "#30303b";
                 var sl = __assign(__assign({}, xK["styles"]["selectScrollContainerHorizontal"]), sl);
-                return void 0x0 !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"], sl["borderColor"] = this["props"]["themeColor"]), void 0x0 !== this["props"]["backgroundColor"] && (sl["backgroundColor"] = this["props"]["backgroundColor"]), sl;
+                return undefined !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"], sl["borderColor"] = this["props"]["themeColor"]), undefined !== this["props"]["backgroundColor"] && (sl["backgroundColor"] = this["props"]["backgroundColor"]), sl;
               }, sl["prototype"]['k'] = function () {
                 var sl = {};
                 sl["color"] = "#FFFFFF";
                 var sl = __assign(__assign({}, xK["styles"]["dateContainerHorizontal"]), sl);
-                if (void 0x0 !== this["props"]["backgroundColor"] && (sl["color"] = this["props"]["backgroundColor"]), this["props"]["isRTL"]) {
+                if (undefined !== this["props"]["backgroundColor"] && (sl["color"] = this["props"]["backgroundColor"]), this["props"]["isRTL"]) {
                   {
                     sl["direction"] = "rtl";
                     var sl = sl["left"];
@@ -1126,12 +1110,12 @@
                   case 0x2:
                     sl["day"] = sl;
                 }
-                sl = new Date(sl["year"], sl["month"] - 0x1, sl["day"]) > sl ? sl : new Date(sl["year"], sl["month"] - 0x1, sl["day"]), this["props"]["onHandleChange"](sl), this['N'](), this['O'](!0x1);
+                sl = new Date(sl["year"], sl["month"] - 0x1, sl["day"]) > sl ? sl : new Date(sl["year"], sl["month"] - 0x1, sl["day"]), this["props"]["onHandleChange"](sl), this['N'](), this['O'](false);
               }, sl;
             }(HW["default"]["Component"]);
           var Hm = {};
-          Hm["value"] = !0x0;
-          HT["CalendarPickDateViewH"] = HL, Object["defineProperty"](HP, "__esModule", Hm), HP["CalendarCustomViewH"] = void 0x0;
+          Hm["value"] = true;
+          HT["CalendarPickDateViewH"] = HL, Object["defineProperty"](HP, "__esModule", Hm), HP["CalendarCustomViewH"] = undefined;
           var HF = __importDefault(P),
             xK = xK,
             H0 = H0,
@@ -1160,7 +1144,7 @@
                   'endMonth': sl,
                   'endDay': sl,
                   'startDate': H0["convertTimeToBeginningOrEndOfTheDay"](sl),
-                  'endDate': H0["convertTimeToBeginningOrEndOfTheDay"](sl, !0x0),
+                  'endDate': H0["convertTimeToBeginningOrEndOfTheDay"](sl, true),
                   'currentCalendarCustomType': 0x2
                 }, sl['F'] = sl['F']["bind"](sl), sl['I'] = sl['I']["bind"](sl), sl['B'] = sl['B']["bind"](sl), sl['R'] = sl['R']["bind"](sl), sl['A'] = sl['A']["bind"](sl), sl['W'] = sl['W']["bind"](sl), sl['T'] = sl['T']["bind"](sl), sl['M'] = sl['M']["bind"](sl), sl['Y'] = sl['Y']["bind"](sl), sl['G'] = sl['G']["bind"](sl), sl['U'] = sl['U']["bind"](sl), sl['V'] = sl['V']["bind"](sl), sl['q'] = sl['q']["bind"](sl), sl['X'] = sl['X']["bind"](sl), sl['K'] = sl['K']["bind"](sl), sl;
               }
@@ -1230,7 +1214,7 @@
               }, sl["prototype"]['I'] = function () {
                 {
                   var sl;
-                  return sl = this['Z']() === xK["CaseType"]["CARD_GAME"] ? "#262121" : "#30303b", void 0x0 !== this["props"]["backgroundColor"] && (sl = this["props"]["backgroundColor"]), sl;
+                  return sl = this['Z']() === xK["CaseType"]["CARD_GAME"] ? "#262121" : "#30303b", undefined !== this["props"]["backgroundColor"] && (sl = this["props"]["backgroundColor"]), sl;
                 }
               }, sl["prototype"]['R'] = function () {
                 var sl = {};
@@ -1239,14 +1223,14 @@
                 sl["borderStyle"] = "solid";
                 sl["backgroundColor"] = this["props"]["backgroundColor"];
                 var sl = __assign(__assign({}, xK["styles"]["confirmButtonLabelHorizontal"]), sl);
-                return this['Z']() === xK["CaseType"]["CARD_GAME"] ? sl["color"] = "rgba(0,0,0)" : (void 0x0 !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"], sl["borderColor"] = this["props"]["themeColor"]), sl["borderStyle"] = "solid"), void 0x0 !== this["props"]["confirmBackgroundColor"] && (sl["backgroundColor"] = this["props"]["confirmBackgroundColor"]), sl;
+                return this['Z']() === xK["CaseType"]["CARD_GAME"] ? sl["color"] = "rgba(0,0,0)" : (undefined !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"], sl["borderColor"] = this["props"]["themeColor"]), sl["borderStyle"] = "solid"), undefined !== this["props"]["confirmBackgroundColor"] && (sl["backgroundColor"] = this["props"]["confirmBackgroundColor"]), sl;
               }, sl["prototype"]['A'] = function () {
                 {
                   var sl = {};
                   sl["opacity"] = 0x1;
                   sl["color"] = "#FFFFFF";
                   var sl = __assign(__assign({}, xK["styles"]["calendarCustomDescriptionLabelHorizontal"]), sl);
-                  return this['Z']() === xK["CaseType"]["CARD_GAME"] ? (void 0x0 !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"]), sl["opacity"] = 0.6) : void 0x0 !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"]), this["props"]["isRTL"] && (sl["right"] = sl["left"], delete sl["left"]), sl;
+                  return this['Z']() === xK["CaseType"]["CARD_GAME"] ? (undefined !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"]), sl["opacity"] = 0.6) : undefined !== this["props"]["themeColor"] && (sl["color"] = this["props"]["themeColor"]), this["props"]["isRTL"] && (sl["right"] = sl["left"], delete sl["left"]), sl;
                 }
               }, sl["prototype"]['W'] = function () {
                 var sl = {};
@@ -1254,12 +1238,12 @@
                 sl["backgroundColor"] = "#292934";
                 var sl = __assign(__assign({}, xK["styles"]["dotIcon"]), sl);
                 if (this['Z']() === xK["CaseType"]["CARD_GAME"]) {
-                  if (void 0x0 !== this["props"]["themeColor"]) {
+                  if (undefined !== this["props"]["themeColor"]) {
                     var sl = this["props"]["themeColor"];
                     sl["backgroundColor"] = sl;
                   }
                   sl["opacity"] = 0.6;
-                } else void 0x0 !== this["props"]["themeColor"] && (sl = this["props"]["themeColor"], sl["backgroundColor"] = sl);
+                } else undefined !== this["props"]["themeColor"] && (sl = this["props"]["themeColor"], sl["backgroundColor"] = sl);
                 return sl;
               }, sl["prototype"]['U'] = function (sl) {
                 var sl = this['X'](0x0, sl),
@@ -1373,7 +1357,7 @@
                 }
               }, sl["prototype"]['Z'] = function () {
                 var sl = xK["CaseType"]["SLOT_GAME"];
-                return void 0x0 !== this["props"]["caseType"] && (sl = this["props"]["caseType"]), sl;
+                return undefined !== this["props"]["caseType"] && (sl = this["props"]["caseType"]), sl;
               }, sl["prototype"]['tt'] = function (sl) {
                 {
                   var sl = sl,
@@ -1384,17 +1368,17 @@
                 var sl,
                   sl = sl["getFullYear"](),
                   sl = sl["getDate"]();
-                if (void 0x0 !== this["props"]["onBeginDate"]) sl = this["props"]["onBeginDate"];else {
+                if (undefined !== this["props"]["onBeginDate"]) sl = this["props"]["onBeginDate"];else {
                   var sl = sl["getMonth"]() + 0x1 - 0x3;
                   sl = sl > 0x0 ? new Date(sl, sl - 0x1, sl) : new Date(sl - 0x1, 0xc + sl - 0x1, sl);
                 }
                 return sl;
               }, sl["prototype"]['M'] = function (sl) {
-                return void 0x0 !== this["props"]["onLastDate"] ? this["props"]["onLastDate"] : sl;
+                return undefined !== this["props"]["onLastDate"] ? this["props"]["onLastDate"] : sl;
               }, sl["prototype"]['L'] = function () {
-                return void 0x0 !== this["props"]["themeColor"] ? this["props"]["themeColor"] : "#FFFFFF";
+                return undefined !== this["props"]["themeColor"] ? this["props"]["themeColor"] : "#FFFFFF";
               }, sl["prototype"]['P'] = function () {
-                return void 0x0 !== this["props"]["calendarRangeDate"] ? this["props"]["calendarRangeDate"] : 0x7;
+                return undefined !== this["props"]["calendarRangeDate"] ? this["props"]["calendarRangeDate"] : 0x7;
               }, sl["prototype"]['Y'] = function (sl, sl) {
                 {
                   var sl = sl["getFullYear"](),
@@ -1426,63 +1410,63 @@
                 this["setState"](sl);
               }, sl["prototype"]['G'] = function () {
                 var sl = this["state"]["startDate"],
-                  sl = H0["convertTimeToBeginningOrEndOfTheDay"](this["state"]["endDate"], !0x0);
+                  sl = H0["convertTimeToBeginningOrEndOfTheDay"](this["state"]["endDate"], true);
                 this["props"]["onConfirmClicked"](sl, sl);
               }, sl;
             }(HF["default"]["Component"]);
           HP["CalendarCustomViewH"] = Hk, function (sl) {
             {
               var sl = {};
-              sl["value"] = !0x0;
+              sl["value"] = true;
               Object["defineProperty"](sl, "__esModule", sl);
               var sl = xO;
               var sl = {};
-              sl["enumerable"] = !0x0;
+              sl["enumerable"] = true;
               sl["get"] = function () {
                 return sl["CalendarCustomView"];
               };
               Object["defineProperty"](sl, "CalendarCustomView", sl);
               var sl = HP;
               var sl = {};
-              sl["enumerable"] = !0x0;
+              sl["enumerable"] = true;
               sl["get"] = function () {
                 return sl["CalendarCustomViewH"];
               };
               Object["defineProperty"](sl, "CalendarCustomViewH", sl);
               var sl = H3;
               var sl = {};
-              sl["enumerable"] = !0x0;
+              sl["enumerable"] = true;
               sl["get"] = function () {
                 return sl["CalendarPickDateView"];
               };
               Object["defineProperty"](sl, "CalendarPickDateView", sl);
               var sl = HT;
               var sl = {};
-              sl["enumerable"] = !0x0;
+              sl["enumerable"] = true;
               sl["get"] = function () {
                 return sl["CalendarPickDateViewH"];
               };
               Object["defineProperty"](sl, "CalendarPickDateViewH", sl);
               var sl = H0;
               var sl = {};
-              sl["enumerable"] = !0x0;
+              sl["enumerable"] = true;
               sl["get"] = function () {
                 return sl["getCustomDateObject"];
               };
               var xM = {};
-              xM["enumerable"] = !0x0;
+              xM["enumerable"] = true;
               xM["get"] = function () {
                 return sl["convertTimeToBeginningOrEndOfTheDay"];
               };
               Object["defineProperty"](sl, "getCustomDateObject", sl), Object["defineProperty"](sl, "convertTimeToBeginningOrEndOfTheDay", xM);
               var sl = xK;
               var sl = {};
-              sl["enumerable"] = !0x0;
+              sl["enumerable"] = true;
               sl["get"] = function () {
                 return sl["CaseType"];
               };
               Object["defineProperty"](sl, "CaseType", sl), Object["defineProperty"](sl, "LocalePrefix", {
-                'enumerable': !0x0,
+                'enumerable': true,
                 'get': function () {
                   {
                     return sl["LocalePrefix"];
@@ -1605,7 +1589,7 @@
           }
           function Hc(sl, sl) {
             var sl;
-            if (void 0x0 === sl && (sl = !0x1), "land" !== shell["environment"]["getOrientationMode"]() || sl["includes"]("theme_color")) sl = shell["uiAppearance"]['v'](sl);else {
+            if (undefined === sl && (sl = false), "land" !== shell["environment"]["getOrientationMode"]() || sl["includes"]("theme_color")) sl = shell["uiAppearance"]['v'](sl);else {
               {
                 var sl = HZ(sl);
                 sl = shell["uiAppearance"]['v'](sl) || sl;
@@ -1615,7 +1599,7 @@
           }
           var HS = function () {
               function sl() {
-                this['et'] = Hc("history.theme_color") || Hc("game.theme_color"), this['it'] = Hc("history.loading_color", !0x0) || Hc("history.theme_color", !0x0), this['nt'] = Hc("history.loading_close_button_icon_color"), this['rt'] = Hc("history.navigator_bar_bg"), this['ot'] = Hc("history.navigator_separator_bg"), this['lt'] = Hc("history.navigator_title_font_color"), this['ct'] = Hc("history.navigator_back_button_icon_color"), this['ht'] = Hc("history.navigator_close_button_icon_color"), this['ut'] = Hc("history.list_bg"), this['ft'] = Hc("history.list_header_bg"), this['gt'] = Hc("history.list_header_font_color"), this['vt'] = Hc("history.list_item_bg_odd"), this['yt'] = Hc("history.list_item_bg_even"), this['xt'] = Hc("history.list_item_bg_hover"), this['_t'] = Hc("history.list_item_bg_pressed"), this['wt'] = Hc("history.list_item_bg_selected"), this['wt'] = Hc("history.list_item_bg_selected"), this['Ct'] = Hc("history.list_item_font_color"), this['kt'] = Hc("history.list_item_win_font_color"), this['St'] = Hc("history.list_item_loss_font_color"), this['zt'] = Hc("history.list_item_selected_font_color"), this['Dt'] = Hc("history.list_item_arrow_color"), this['Ht'] = Hc("history.summary_bg"), this['jt'] = Hc("history.summary_date_font_color"), this['Ot'] = Hc("history.detail_bg"), this['Nt'] = Hc("history.detail_header_bg"), this['Tt'] = Hc("history.detail_header_key_font_color"), this['Mt'] = Hc("history.detail_header_value_font_color"), this['Pt'] = Hc("history.main_title_font_color"), this['Lt'] = Hc("history.highlight_font_color"), this['Ft'] = Hc("history.primary_font_color"), this['It'] = Hc("history.secondary_font_color"), this['Bt'] = Hc("history.error_message_font_color"), this['Rt'] = Hc("history.error_retry_font_color"), this['At'] = Hc("history.error_close_font_color"), this['Et'] = Hc("history.error_retry_button"), this['Wt'] = Hc("history.error_retry_button_outline"), this['Yt'] = Hc("history.calendar_bg"), this['Gt'] = Hc("history.calendar_title_color"), this['Ut'] = Hc("history.free_spin_list_item_font_color"), this['Vt'] = Hc("history.free_spin_list_selected_font_color"), this['qt'] = Hc("history.free_spin_list_close_button_color"), this['Xt'] = Hc("history.free_spin_list_arrow_color"), this['Kt'] = Hc("history.pages_button_arrow_color"), this['Jt'] = Hc("history.pages_button_background_color"), this['Zt'] = Hc("history.alert_background_color", !0x0), this['$t'] = Hc("history.alert_border_color"), "land" === shell["environment"]["getOrientationMode"]() && (this['Qt'] = Hc("history.navigator_panel_bg"), this['te'] = Hc("history.scroll_to_top_button"), this['ee'] = Hc("history.scroll_to_top_button_border"), this['ie'] = Hc("history.calendar_color")), "port" === shell["environment"]["getOrientationMode"]() && (this['ne'] = Hc("history.summary_border"), this['re'] = Hc("history.calendar_separator_bg"));
+                this['et'] = Hc("history.theme_color") || Hc("game.theme_color"), this['it'] = Hc("history.loading_color", true) || Hc("history.theme_color", true), this['nt'] = Hc("history.loading_close_button_icon_color"), this['rt'] = Hc("history.navigator_bar_bg"), this['ot'] = Hc("history.navigator_separator_bg"), this['lt'] = Hc("history.navigator_title_font_color"), this['ct'] = Hc("history.navigator_back_button_icon_color"), this['ht'] = Hc("history.navigator_close_button_icon_color"), this['ut'] = Hc("history.list_bg"), this['ft'] = Hc("history.list_header_bg"), this['gt'] = Hc("history.list_header_font_color"), this['vt'] = Hc("history.list_item_bg_odd"), this['yt'] = Hc("history.list_item_bg_even"), this['xt'] = Hc("history.list_item_bg_hover"), this['_t'] = Hc("history.list_item_bg_pressed"), this['wt'] = Hc("history.list_item_bg_selected"), this['wt'] = Hc("history.list_item_bg_selected"), this['Ct'] = Hc("history.list_item_font_color"), this['kt'] = Hc("history.list_item_win_font_color"), this['St'] = Hc("history.list_item_loss_font_color"), this['zt'] = Hc("history.list_item_selected_font_color"), this['Dt'] = Hc("history.list_item_arrow_color"), this['Ht'] = Hc("history.summary_bg"), this['jt'] = Hc("history.summary_date_font_color"), this['Ot'] = Hc("history.detail_bg"), this['Nt'] = Hc("history.detail_header_bg"), this['Tt'] = Hc("history.detail_header_key_font_color"), this['Mt'] = Hc("history.detail_header_value_font_color"), this['Pt'] = Hc("history.main_title_font_color"), this['Lt'] = Hc("history.highlight_font_color"), this['Ft'] = Hc("history.primary_font_color"), this['It'] = Hc("history.secondary_font_color"), this['Bt'] = Hc("history.error_message_font_color"), this['Rt'] = Hc("history.error_retry_font_color"), this['At'] = Hc("history.error_close_font_color"), this['Et'] = Hc("history.error_retry_button"), this['Wt'] = Hc("history.error_retry_button_outline"), this['Yt'] = Hc("history.calendar_bg"), this['Gt'] = Hc("history.calendar_title_color"), this['Ut'] = Hc("history.free_spin_list_item_font_color"), this['Vt'] = Hc("history.free_spin_list_selected_font_color"), this['qt'] = Hc("history.free_spin_list_close_button_color"), this['Xt'] = Hc("history.free_spin_list_arrow_color"), this['Kt'] = Hc("history.pages_button_arrow_color"), this['Jt'] = Hc("history.pages_button_background_color"), this['Zt'] = Hc("history.alert_background_color", true), this['$t'] = Hc("history.alert_border_color"), "land" === shell["environment"]["getOrientationMode"]() && (this['Qt'] = Hc("history.navigator_panel_bg"), this['te'] = Hc("history.scroll_to_top_button"), this['ee'] = Hc("history.scroll_to_top_button_border"), this['ie'] = Hc("history.calendar_color")), "port" === shell["environment"]["getOrientationMode"]() && (this['ne'] = Hc("history.summary_border"), this['re'] = Hc("history.calendar_separator_bg"));
               }
               return sl["prototype"]["setDefaultStyle"] = function (sl) {
                 this['oe'] = sl === xS["CARD"] ? HG : Hf;
@@ -1626,340 +1610,340 @@
                 'get': function () {
                   return this['et'] || this['ae']("theme_color");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "loadingColor", {
                 'get': function () {
                   return this['it'] || this["themeColor"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "loadingCloseButtonIconColor", {
                 'get': function () {
                   return this['nt'] || this["navCloseButtonIconColor"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "navBarColor", {
                 'get': function () {
                   return this['oe'] === Hf && this['rt'] || this['ae']("navigator_bar_bg");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "navBarSeparatorColor", {
                 'get': function () {
                   return this['ot'] || this['ae']("navigator_separator_bg");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "navBarPanelColor", {
                 'get': function () {
                   return this['Qt'] || this['ae']("navigator_panel_bg");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "navBarFontTitleColor", {
                 'get': function () {
                   return this['lt'] || this["titleFontColor"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "navBackButtonIconColor", {
                 'get': function () {
                   return this['ct'] || this["themeColor"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "navCloseButtonIconColor", {
                 'get': function () {
                   return this['ht'] || this['ae']("navigator_close_button_icon_color");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "listBackgroundColor", {
                 'get': function () {
                   return this['ut'] || this['ae']("list_bg");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "listHeaderColor", {
                 'get': function () {
                   return this['ft'] || this['ae']("list_header_bg");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "listHeaderFontColor", {
                 'get': function () {
                   return this['gt'] || this['ae']("list_header_font_color");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "listItemOddColor", {
                 'get': function () {
                   return this['oe'] === HG ? this['ae']("list_item_bg_odd") : this['vt'] || this['ae']("list_item_bg_odd");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "listItemEvenColor", {
                 'get': function () {
                   return this['oe'] === HG ? this['ae']("list_item_bg_even") : this['yt'] || this['ae']("list_item_bg_even");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "listItemHoverColor", {
                 'get': function () {
                   return this['xt'] || this['ae']("list_item_bg_hover");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "listItemSelectedColor", {
                 'get': function () {
                   return this['wt'] || this['ae']("list_item_bg_selected");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "listItemPressedColor", {
                 'get': function () {
                   return this['_t'] || this['ae']("list_item_bg_pressed");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "listItemFontColor", {
                 'get': function () {
                   return this['Ct'] || this["primaryFontColor"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "listItemWinFontColor", {
                 'get': function () {
                   {
                     return this['kt'] || this["highlightFontColor"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "listItemLossFontColor", {
                 'get': function () {
                   return this['St'] || this["listItemFontColor"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "listItemSelectedFontColor", {
                 'get': function () {
                   return this['zt'] || this["highlightFontColor"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "listItemArrowColor", {
                 'get': function () {
                   {
                     return this['Dt'] || this['ae']("list_item_arrow_color");
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "footerBarColor", {
                 'get': function () {
                   return this['Ht'] || this['ae']("summary_bg");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "footerSeparatorColor", {
                 'get': function () {
                   return this['ne'] || this['ae']("summary_border");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "footerDateFontColor", {
                 'get': function () {
                   {
                     return this['jt'] || this["themeColor"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "detailBackgroundColor", {
                 'get': function () {
                   return this['Ot'] || this['ae']("detail_bg");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "transactionDetailsHeaderColor", {
                 'get': function () {
                   {
                     return this['Nt'] || this['ae']("detail_header_bg");
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "transactionDetailsHeaderKeyFontColor", {
                 'get': function () {
                   return this['Tt'] || this['ae']("detail_header_key_font_color");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "transactionDetailsHeaderValueFontColor", {
                 'get': function () {
                   {
                     return this['Mt'] || this['ae']("detail_header_value_font_color");
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "scrollToTopButtonColor", {
                 'get': function () {
                   return this['te'] || this['ae']("scroll_to_top_button");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "scrollToTopButtonBorderColor", {
                 'get': function () {
                   return this['ee'] || this['ae']("scroll_to_top_button_border");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "titleFontColor", {
                 'get': function () {
                   return this['Pt'] || this['ae']("main_title_font_color");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "highlightFontColor", {
                 'get': function () {
                   return this['Lt'] || this['ae']("highlight_font_color");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "primaryFontColor", {
                 'get': function () {
                   return this['Ft'] || this['ae']("primary_font_color");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "secondaryFontColor", {
                 'get': function () {
                   return this['It'] || this['ae']("secondary_font_color");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "errorMessageFontColor", {
                 'get': function () {
                   return this['Bt'] || this['ae']("error_message_font_color");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "errorRetryFontColor", {
                 'get': function () {
                   return this['Rt'] || this['ae']("error_retry_font_color");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "errorCloseFontColor", {
                 'get': function () {
                   return this['At'] || this['ae']("error_close_font_color");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "errorRetryButtonColor", {
                 'get': function () {
                   return this['oe'] === HG ? this['ae']("error_retry_button") : this['Et'] || this['ae']("error_retry_button");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "errorRetryButtonOutlineColor", {
                 'get': function () {
                   {
                     return this['oe'] === HG ? this['ae']("error_retry_button_outline") : this['Wt'] || this['ae']("error_retry_button_outline");
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "calendarBackgroundColor", {
                 'get': function () {
                   {
                     return this['Yt'] || this['ae']("calendar_bg");
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "calendarColor", {
                 'get': function () {
                   {
                     return this['ie'] || this["themeColor"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "calendarSeparatorBackgroundColor", {
                 'get': function () {
                   return this['re'] || this['ae']("calendar_separator_bg");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "calendarTitleColor", {
                 'get': function () {
                   return this['Gt'] || this["titleFontColor"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "freeSpinListFontColor", {
                 'get': function () {
                   {
                     return this['Ut'] || this["highlightFontColor"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "freeSpinListSelectedFontColor", {
                 'get': function () {
                   return this['Vt'] || this["themeColor"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "freeSpinListCloseButtonColor", {
                 'get': function () {
                   return this['qt'] || this["primaryFontColor"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "freeSpinListArrowColor", {
                 'get': function () {
                   {
                     return this['Xt'] || this["themeColor"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "pagesButtonArrowColor", {
                 'get': function () {
                   return this['Kt'] || this["themeColor"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "pagesButtonBackgroundColor", {
                 'get': function () {
                   return this['Jt'] || this['ae']("pages_button_background_color");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "alertBackgroundColor", {
                 'get': function () {
                   return this['Zt'] || this['ae']("alert_background_color");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "alertBorderColor", {
                 'get': function () {
                   return this['$t'] || this['ae']("alert_border_color");
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), sl;
             }(),
             HX = new (function () {
               {
                 function sl() {
-                  this['se'] = {}, this['le'] = {}, this["gameName"] = '', this["replayVersion"] = 0x0, this["resourcesLoaded"] = !0x1, this["isPortrait"] = !0x0, this["isMobile"] = !0x0, this["isApiReplay"] = !0x1, this["isPrototype"] = !0x1, this["hasHeader"] = !0x1, this["gsScale"] = 0x1;
+                  this['se'] = {}, this['le'] = {}, this["gameName"] = '', this["replayVersion"] = 0x0, this["resourcesLoaded"] = false, this["isPortrait"] = true, this["isMobile"] = true, this["isApiReplay"] = false, this["isPrototype"] = false, this["hasHeader"] = false, this["gsScale"] = 0x1;
                 }
                 return sl["prototype"]["initHelpers"] = function () {
                   {
@@ -1969,8 +1953,8 @@
                   'get': function () {
                     return this['ce'];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sl["prototype"], "displayConfig", {
                   'get': function () {
                     {
@@ -1980,8 +1964,8 @@
                   'set': function (sl) {
                     sl && (this['se'] = sl);
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), sl["prototype"]["setGameUrl"] = function (sl, sl) {
                   this['le'][sl] = sl;
                 }, sl["prototype"]["getGameUrl"] = function (sl) {
@@ -1995,8 +1979,8 @@
               sl = new Date();
             if (0x2 === sl) {
               var sl = new Date();
-              sl["setDate"](sl["getDate"]() - 0x6), sl = xv["convertTimeToBeginningOrEndOfTheDay"](sl)["getTime"](), sl = xv["convertTimeToBeginningOrEndOfTheDay"](sl, !0x0)["getTime"]();
-            } else 0x3 === sl && sl ? (sl = sl["startDate"]["getTime"](), sl = sl["endDate"]["getTime"]()) : (sl = xv["convertTimeToBeginningOrEndOfTheDay"](sl)["getTime"](), sl = xv["convertTimeToBeginningOrEndOfTheDay"](sl, !0x0)["getTime"]());
+              sl["setDate"](sl["getDate"]() - 0x6), sl = xv["convertTimeToBeginningOrEndOfTheDay"](sl)["getTime"](), sl = xv["convertTimeToBeginningOrEndOfTheDay"](sl, true)["getTime"]();
+            } else 0x3 === sl && sl ? (sl = sl["startDate"]["getTime"](), sl = sl["endDate"]["getTime"]()) : (sl = xv["convertTimeToBeginningOrEndOfTheDay"](sl)["getTime"](), sl = xv["convertTimeToBeginningOrEndOfTheDay"](sl, true)["getTime"]());
             var sl = {};
             sl["startDate"] = sl;
             sl["endDate"] = sl;
@@ -2014,7 +1998,7 @@
             return sl ? sl + '/' + sl : sl;
           }
           function HR(sl, sl) {
-            void 0x0 === sl && (sl = !0x0);
+            undefined === sl && (sl = true);
             var sl = new Date(sl),
               sl = HV(sl["getHours"]()) + ':' + HV(sl["getMinutes"]());
             return sl && (sl = sl + ':' + HV(sl["getSeconds"]())), sl;
@@ -2063,10 +2047,10 @@
             }
           }
           function Hw() {
-            var sl = !0x1,
+            var sl = false,
               sl = shell["environment"]["getOSVersion"](),
               sl = shell["environment"]["getBrowserType"]()["toLowerCase"]();
-            return (shell["environment"]["isIOS"]() && sl["startsWith"]('12') || sl["startsWith"]('11')) && (sl = !0x0), "firefox" !== sl && "edge" !== sl && "ucbrowser" !== sl && "lite baidu" !== sl && "baidubrowser" !== sl && "360browser" !== sl && "opera" !== sl || (sl = !0x0), sl;
+            return (shell["environment"]["isIOS"]() && sl["startsWith"]('12') || sl["startsWith"]('11')) && (sl = true), "firefox" !== sl && "edge" !== sl && "ucbrowser" !== sl && "lite baidu" !== sl && "baidubrowser" !== sl && "360browser" !== sl && "opera" !== sl || (sl = true), sl;
           }
           function Hq() {
             var sl = shell["environment"]["getSafeAreaPadding"] ? shell["environment"]["getSafeAreaPadding"]()["top"] : 0x0;
@@ -2088,13 +2072,13 @@
           function HO() {
             return 0x54 + HD();
           }
-          var HK = void 0x0,
-            h0 = void 0x0,
-            h1 = void 0x0,
+          var HK = undefined,
+            h0 = undefined,
+            h1 = undefined,
             h2 = [],
-            h3 = void 0x0,
+            h3 = undefined,
             h4 = xb["getPlatform"](),
-            h5 = void 0x0,
+            h5 = undefined,
             h6 = "v2/BetSummary/Get",
             h7 = "v2/BetHistory/Get";
           function h8(sl) {
@@ -2195,8 +2179,8 @@
               function sl(sl) {
                 var sl = sl["call"](this, sl) || this;
                 var sl = {};
-                sl["active"] = !0x1;
-                sl["hover"] = !0x1;
+                sl["active"] = false;
+                sl["hover"] = false;
                 return sl["state"] = sl, sl['me'] = sl['me']["bind"](sl), sl['pe'] = sl['pe']["bind"](sl), sl['be'] = sl['be']["bind"](sl), sl['ye'] = sl['ye']["bind"](sl), sl;
               }
               return xF(sl, sl), sl["prototype"]["render"] = function () {
@@ -2238,18 +2222,18 @@
               }, sl["prototype"]['pe'] = function () {
                 {
                   var sl = {};
-                  sl["active"] = !0x1;
+                  sl["active"] = false;
                   this["setState"](sl);
                 }
               }, sl["prototype"]['be'] = function () {
                 {
                   var sl = {};
-                  sl["active"] = !0x0;
+                  sl["active"] = true;
                   this["setState"](sl);
                 }
               }, sl["prototype"]['ye'] = function () {
                 var sl = {};
-                sl["active"] = !0x1;
+                sl["active"] = false;
                 this["setState"](sl);
               }, sl;
             }(P["Component"]),
@@ -2276,7 +2260,7 @@
             return (() => {
               var sl = {
                   0xe5: sl => {
-                    if (void 0x0 === sl) {
+                    if (undefined === sl) {
                       var sl = Error("Cannot find module 'prop-types'");
                       throw sl["code"] = "MODULE_NOT_FOUND", sl;
                     }
@@ -2294,7 +2278,7 @@
                 sl = {};
               function sl(sl) {
                 var sl = sl[sl];
-                if (void 0x0 !== sl) return sl["exports"];
+                if (undefined !== sl) return sl["exports"];
                 var sl = {};
                 sl["exports"] = {};
                 var sl = sl[sl] = sl;
@@ -2307,14 +2291,14 @@
                 }), sl;
               }, sl['d'] = (sl, sl) => {
                 for (var sl in sl) sl['o'](sl, sl) && !sl['o'](sl, sl) && Object["defineProperty"](sl, sl, {
-                  'enumerable': !0x0,
+                  'enumerable': true,
                   'get': sl[sl]
                 });
               }, sl['o'] = (sl, sl) => Object["prototype"]["hasOwnProperty"]["call"](sl, sl), sl['r'] = sl => {
                 var sl = {};
                 sl["value"] = "Module";
                 var sl = {};
-                sl["value"] = !0x0;
+                sl["value"] = true;
                 "undefined" != typeof Symbol && Symbol["toStringTag"] && Object["defineProperty"](sl, Symbol["toStringTag"], sl), Object["defineProperty"](sl, "__esModule", sl);
               };
               var sl = {};
@@ -2366,7 +2350,7 @@
                 }
                 function sl(jj) {
                   {
-                    if (void 0x0 === jj) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
+                    if (undefined === jj) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
                     return jj;
                   }
                 }
@@ -2380,9 +2364,9 @@
                 function jx(jj, jP, jT) {
                   var jU = {};
                   jU["value"] = jT;
-                  jU["enumerable"] = !0x0;
-                  jU["configurable"] = !0x0;
-                  jU["writable"] = !0x0;
+                  jU["enumerable"] = true;
+                  jU["configurable"] = true;
+                  jU["writable"] = true;
                   return jP in jj ? Object["defineProperty"](jj, jP, jU) : jj[jP] = jT, jj;
                 }
                 var sl = function (jj, jP, jT) {
@@ -2398,8 +2382,8 @@
                       jp["prototype"] = Object["create"](jL && jL["prototype"], {
                         'constructor': {
                           'value': jp,
-                          'writable': !0x0,
-                          'configurable': !0x0
+                          'writable': true,
+                          'configurable': true
                         }
                       }), jL && sl(jp, jL);
                     }
@@ -2408,13 +2392,13 @@
                     jT,
                     jU,
                     jW = (jT = ju, jU = function () {
-                      if ("undefined" == typeof Reflect || !Reflect["construct"]) return !0x1;
-                      if (Reflect["construct"]["sham"]) return !0x1;
-                      if ("function" == typeof Proxy) return !0x0;
+                      if ("undefined" == typeof Reflect || !Reflect["construct"]) return false;
+                      if (Reflect["construct"]["sham"]) return false;
+                      if ("function" == typeof Proxy) return true;
                       try {
-                        return Boolean["prototype"]["valueOf"]["call"](Reflect["construct"](Boolean, [], function () {})), !0x0;
+                        return Boolean["prototype"]["valueOf"]["call"](Reflect["construct"](Boolean, [], function () {})), true;
                       } catch (jp) {
-                        return !0x1;
+                        return false;
                       }
                     }(), function () {
                       var jp,
@@ -2430,7 +2414,7 @@
                       var jL;
                       var jm = {};
                       jm["scrollPos"] = 0x0;
-                      jm["onDrag"] = !0x1;
+                      jm["onDrag"] = false;
                       return function (jF, ja) {
                         if (!(jF instanceof ja)) throw new TypeError("Cannot call a class as a function");
                       }(this, ju), jx(sl(jL = jW["call"](this, jp)), "innerContainerRef", (0x0, sl["createRef"])()), jx(sl(jL), "customScrollbarRef", (0x0, sl["createRef"])()), jx(sl(jL), "scrollHandleRef", (0x0, sl["createRef"])()), jx(sl(jL), "contentWrapperRef", (0x0, sl["createRef"])()), jx(sl(jL), "adjustFreezePosition", function (jF) {
@@ -2455,7 +2439,7 @@
                           jL["updateScrollPosition"](jQ);
                         }
                       }), jx(sl(jL), "isMouseEventOnCustomScrollbar", function (jF) {
-                        if (!jL["customScrollbarRef"]["current"]) return !0x1;
+                        if (!jL["customScrollbarRef"]["current"]) return false;
                         var ja = sl()["findDOMNode"](sl(jL))["getBoundingClientRect"](),
                           jQ = jL["customScrollbarRef"]["current"]["getBoundingClientRect"](),
                           jM = jL["props"]["rtl"] ? {
@@ -2498,15 +2482,15 @@
                         return jL["innerContainerRef"]["current"];
                       }), jx(sl(jL), "onMouseDown", function (jF) {
                         var ja = {};
-                        ja["onDrag"] = !0x0;
+                        ja["onDrag"] = true;
                         var jQ = {};
-                        jQ["passive"] = !0x1;
+                        jQ["passive"] = false;
                         var jM = {};
-                        jM["passive"] = !0x1;
+                        jM["passive"] = false;
                         jL["hasScroll"] && jL["isMouseEventOnScrollHandle"](jF) && (jL["startDragHandlePos"] = jL["getScrollHandleStyle"]()["top"], jL["startDragMousePos"] = jF["pageY"], jL["setState"](ja), document["addEventListener"]("mousemove", jL["onHandleDrag"], jQ), document["addEventListener"]("mouseup", jL["onHandleDragEnd"], jM));
                       }), jx(sl(jL), "onTouchStart", function () {
                         var jF = {};
-                        jF["onDrag"] = !0x0;
+                        jF["onDrag"] = true;
                         jL["setState"](jF);
                       }), jx(sl(jL), "onHandleDrag", function (jF) {
                         jF["preventDefault"]();
@@ -2516,7 +2500,7 @@
                         jL["updateScrollPosition"](jM);
                       }), jx(sl(jL), "onHandleDragEnd", function (jF) {
                         var ja = {};
-                        ja["onDrag"] = !0x1;
+                        ja["onDrag"] = false;
                         jL["setState"](ja), jF["preventDefault"](), document["removeEventListener"]("mousemove", jL["onHandleDrag"]), document["removeEventListener"]("mouseup", jL["onHandleDragEnd"]);
                       }), jx(sl(jL), "blockOuterScroll", function (jF) {
                         if (!jL["props"]["allowOuterScroll"]) {
@@ -2568,7 +2552,7 @@
                           {
                             ja(), jF = setTimeout(function () {
                               var jM = {};
-                              jM["onDrag"] = !0x1;
+                              jM["onDrag"] = false;
                               jL["setState"](jM);
                             }, 0x1f4);
                           }
@@ -2581,8 +2565,8 @@
                     'key': "componentDidMount",
                     'value': function () {
                       var jp = {};
-                      jp["passive"] = !0x1;
-                      void 0x0 !== this["props"]["scrollTo"] ? this["updateScrollPosition"](this["props"]["scrollTo"]) : this["forceUpdate"](), this["innerContainerRef"]["current"] && this["innerContainerRef"]["current"]["addEventListener"]("wheel", this["blockOuterScroll"], jp);
+                      jp["passive"] = false;
+                      undefined !== this["props"]["scrollTo"] ? this["updateScrollPosition"](this["props"]["scrollTo"]) : this["forceUpdate"](), this["innerContainerRef"]["current"] && this["innerContainerRef"]["current"]["addEventListener"]("wheel", this["blockOuterScroll"], jp);
                     }
                   }, {
                     'key': "componentDidUpdate",
@@ -2593,7 +2577,7 @@
                         jQ = jL["scrollPos"] >= jm - jF;
                       this["contentHeight"] = ja["scrollHeight"], this["scrollbarYWidth"] = ja["offsetWidth"] - ja["clientWidth"], this["visibleHeight"] = ja["clientHeight"], this["scrollRatio"] = this["contentHeight"] ? this["visibleHeight"] / this["contentHeight"] : 0x1, this["toggleScrollIfNeeded"]();
                       var jM = this["state"] === jL;
-                      (this["props"]["freezePosition"] || jp["freezePosition"]) && this["adjustFreezePosition"](jp), void 0x0 !== this["props"]["scrollTo"] && this["props"]["scrollTo"] !== jp["scrollTo"] ? this["updateScrollPosition"](this["props"]["scrollTo"]) : this["props"]["keepAtBottom"] && jM && jQ && this["updateScrollPosition"](this["contentHeight"] - this["visibleHeight"]);
+                      (this["props"]["freezePosition"] || jp["freezePosition"]) && this["adjustFreezePosition"](jp), undefined !== this["props"]["scrollTo"] && this["props"]["scrollTo"] !== jp["scrollTo"] ? this["updateScrollPosition"](this["props"]["scrollTo"]) : this["props"]["keepAtBottom"] && jM && jQ && this["updateScrollPosition"](this["contentHeight"] - this["visibleHeight"]);
                     }
                   }, {
                     'key': "componentWillUnmount",
@@ -2642,7 +2626,7 @@
                   }]) && function (jp, jL) {
                     for (var jm = 0x0; jm < jL["length"]; jm++) {
                       var jF = jL[jm];
-                      jF["enumerable"] = jF["enumerable"] || !0x1, jF["configurable"] = !0x0, "value" in jF && (jF["writable"] = !0x0), Object["defineProperty"](jp, jF["key"], jF);
+                      jF["enumerable"] = jF["enumerable"] || false, jF["configurable"] = true, "value" in jF && (jF["writable"] = true), Object["defineProperty"](jp, jF["key"], jF);
                     }
                   }(ju["prototype"], jP), ju;
                 }(sl["Component"]);
@@ -2725,7 +2709,7 @@
               function sl(sl) {
                 var sl = sl["call"](this, sl) || this;
                 var sl = {};
-                sl["showing"] = !0x1;
+                sl["showing"] = false;
                 sl["scrollToPosition"] = 0x0;
                 return sl["state"] = sl, sl['xe'] = sl['xe']["bind"](sl), sl['_e'] = sl['_e']["bind"](sl), sl;
               }
@@ -2796,8 +2780,8 @@
             return sl ? "game-list-nav-image-container-disabled" : HX["launchType"] === xS["CARD"] ? "game-list-nav-image-container-card" : "game-list-nav-image-container-slot";
           }
           function hm(sl) {
-            var sl = HN(sl, !0x0),
-              sl = HR(sl, !0x1),
+            var sl = HN(sl, true),
+              sl = HR(sl, false),
               sl = HB(sl);
             return ''["concat"](sl, '\x20')["concat"](sl, '\x20')["concat"](sl);
           }
@@ -2986,7 +2970,7 @@
                     sl = ha['t']("History.HistoryCalenderWeek");
                     break;
                   case 0x3:
-                    sl = HN(this["props"]["calendarCustomDateConfig"]["startDate"], !0x0) + " - " + HN(this["props"]["calendarCustomDateConfig"]["endDate"], !0x0);
+                    sl = HN(this["props"]["calendarCustomDateConfig"]["startDate"], true) + " - " + HN(this["props"]["calendarCustomDateConfig"]["endDate"], true);
                 }
                 return sl;
               }, sl["prototype"]['Me'] = function () {
@@ -3028,7 +3012,7 @@
                 var sl = '',
                   sl = '',
                   sl = '',
-                  sl = void 0x0,
+                  sl = undefined,
                   sl = this["props"]["currentState"],
                   sl = sl === xX["HistoryDetails"] || HX["isPortrait"];
                 switch (HX["launchType"]) {
@@ -3108,13 +3092,13 @@
               sl = sl["clientWidth"],
               sl = sl ? sl["clientWidth"] : 0x0;
             if (sl) {
-              var xM = void 0x0,
-                sl = void 0x0,
-                sl = void 0x0,
-                sl = void 0x0;
-              sl && !0x1 === sl ? (sl = sl / 0x3 * 0.8, sl = xz, xM = 0.6 * (sl / 0x3 - sl / 0x2), sl = (sl - xz + 0x5a) / 0x3) : sl && !0x0 === sl ? (sl = sl - 0x32, sl = 0xb4, xM = sl / 0x2 + 0x19, sl = sl - 0x28) : (sl = sl, sl = 0xb4, xM = sl / 0x2, sl = sl - 0x28 - Hv() + 0xa), sl = {
+              var xM = undefined,
+                sl = undefined,
+                sl = undefined,
+                sl = undefined;
+              sl && false === sl ? (sl = sl / 0x3 * 0.8, sl = xz, xM = 0.6 * (sl / 0x3 - sl / 0x2), sl = (sl - xz + 0x5a) / 0x3) : sl && true === sl ? (sl = sl - 0x32, sl = 0xb4, xM = sl / 0x2 + 0x19, sl = sl - 0x28) : (sl = sl, sl = 0xb4, xM = sl / 0x2, sl = sl - 0x28 - Hv() + 0xa), sl = {
                 'label': shell["I18n"]['t']("History.HistoryLoading"),
-                'isFullBackground': !0x0,
+                'isFullBackground': true,
                 'width': sl,
                 'height': sl,
                 'x': xM,
@@ -3127,9 +3111,9 @@
                 'color': HX["appearanceHelper"]["loadingColor"]
               };
             } else {
-              xM = void 0x0, sl = void 0x0, sl = void 0x0, sl = void 0x0;
-              var sl = void 0x0;
-              sl && !0x1 === sl ? (sl = 0x168, sl = 0x280, xM = sl / 0x3 * (sl ? 0.83 : 0.6), xM = shell["isRTLLanguage"]() ? sl / 0x3 - xM : xM, sl = sl / 0x3 * 0.5, sl = 0.6) : sl && !0x0 === sl ? (sl = sl - 0x32, sl = sl, xM = sl / 0x2 + 0x19, sl = sl / 0x2, sl = 0x1) : (sl = 0x168, sl = 0x280, xM = sl / 0x2, sl = sl / 0x2, sl = 0x1);
+              xM = undefined, sl = undefined, sl = undefined, sl = undefined;
+              var sl = undefined;
+              sl && false === sl ? (sl = 0x168, sl = 0x280, xM = sl / 0x3 * (sl ? 0.83 : 0.6), xM = shell["isRTLLanguage"]() ? sl / 0x3 - xM : xM, sl = sl / 0x3 * 0.5, sl = 0.6) : sl && true === sl ? (sl = sl - 0x32, sl = sl, xM = sl / 0x2 + 0x19, sl = sl / 0x2, sl = 0x1) : (sl = 0x168, sl = 0x280, xM = sl / 0x2, sl = sl / 0x2, sl = 0x1);
               var sl = {};
               sl['x'] = sl;
               var sl = {};
@@ -3235,7 +3219,7 @@
           }
           function hJ(sl, sl, sl, sl) {
             {
-              return void 0x0 === sl && (sl = 0.15), 0x0 === sl ? function (sl, sl, sl) {
+              return undefined === sl && (sl = 0.15), 0x0 === sl ? function (sl, sl, sl) {
                 return Math["max"](sl, Math["min"](sl, sl));
               }(sl, sl, sl) : sl < sl ? -hX(sl - sl, sl - sl, sl) + sl : sl > sl ? hX(sl - sl, sl - sl, sl) + sl : sl;
             }
@@ -3243,7 +3227,7 @@
           function hV(sl, sl) {
             for (var sl = 0x0; sl < sl["length"]; sl++) {
               var sl = sl[sl];
-              sl["enumerable"] = sl["enumerable"] || !0x1, sl["configurable"] = !0x0, "value" in sl && (sl["writable"] = !0x0), Object["defineProperty"](sl, sl["key"], sl);
+              sl["enumerable"] = sl["enumerable"] || false, sl["configurable"] = true, "value" in sl && (sl["writable"] = true), Object["defineProperty"](sl, sl["key"], sl);
             }
           }
           function hN() {
@@ -3281,13 +3265,13 @@
                     if (sl) {
                       if ("string" == typeof sl) return hY(sl, sl);
                       var sl = Object["prototype"]["toString"]["call"](sl)["slice"](0x8, -0x1);
-                      return "Object" === sl && sl["constructor"] && (sl = sl["constructor"]["name"]), "Map" === sl || "Set" === sl ? Array["from"](sl) : "Arguments" === sl || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/["test"](sl) ? hY(sl, sl) : void 0x0;
+                      return "Object" === sl && sl["constructor"] && (sl = sl["constructor"]["name"]), "Map" === sl || "Set" === sl ? Array["from"](sl) : "Arguments" === sl || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/["test"](sl) ? hY(sl, sl) : undefined;
                     }
                   }(sl))) return function () {
                     var sl = {};
-                    sl["done"] = !0x0;
+                    sl["done"] = true;
                     return sl >= sl["length"] ? sl : {
-                      'done': !0x1,
+                      'done': false,
                       'value': sl[sl++]
                     };
                   };
@@ -3304,7 +3288,7 @@
                 for (var sl = arguments["length"], sl = Array(sl), sl = 0x0; sl < sl; sl++) sl[sl] = arguments[sl];
                 return sl["forEach"](function (sl) {
                   {
-                    return sl["apply"](void 0x0, sl);
+                    return sl["apply"](undefined, sl);
                   }
                 });
               };
@@ -3315,14 +3299,14 @@
               }
             },
             hz = function (sl, sl) {
-              return void 0x0 !== sl ? sl : sl;
+              return undefined !== sl ? sl : sl;
             };
           function hv(sl, sl) {
             var sl = {};
             return Object["entries"](sl)["forEach"](function (sl) {
               var sl = sl[0x0],
                 sl = sl[0x1];
-              return (void 0x0 !== sl || sl in sl) && (sl[sl] = sl);
+              return (undefined !== sl || sl in sl) && (sl[sl] = sl);
             }), sl;
           }
           function hO(sl) {
@@ -3333,13 +3317,13 @@
           function hK() {
             {
               var sl = {};
-              sl['Re'] = !0x1;
-              sl['Ae'] = !0x1;
-              sl['Ee'] = [!0x1, !0x1];
+              sl['Re'] = false;
+              sl['Ae'] = false;
+              sl['Ee'] = [false, false];
               sl['We'] = [0x0, 0x0];
               sl['Ye'] = [0x0, 0x0];
-              sl['Ge'] = void 0x0;
-              sl["event"] = void 0x0;
+              sl['Ge'] = undefined;
+              sl["event"] = undefined;
               sl["values"] = [0x0, 0x0];
               sl["velocities"] = [0x0, 0x0];
               sl["delta"] = [0x0, 0x0];
@@ -3349,18 +3333,18 @@
               sl["direction"] = [0x0, 0x0];
               sl["initial"] = [0x0, 0x0];
               sl["previous"] = [0x0, 0x0];
-              sl["first"] = !0x1;
-              sl["last"] = !0x1;
-              sl["active"] = !0x1;
+              sl["first"] = false;
+              sl["last"] = false;
+              sl["active"] = false;
               sl["timeStamp"] = 0x0;
               sl["startTime"] = 0x0;
               sl["elapsedTime"] = 0x0;
               sl["cancel"] = hw;
-              sl["canceled"] = !0x1;
-              sl["memo"] = void 0x0;
-              sl["args"] = void 0x0;
+              sl["canceled"] = false;
+              sl["memo"] = undefined;
+              sl["args"] = undefined;
               var sl = {};
-              sl["axis"] = void 0x0;
+              sl["axis"] = undefined;
               sl['xy'] = [0x0, 0x0];
               sl["vxvy"] = [0x0, 0x0];
               sl["velocity"] = 0x0;
@@ -3368,28 +3352,28 @@
               var sl = sl,
                 sl = sl;
               var sl = {};
-              sl["hovering"] = !0x1;
-              sl["scrolling"] = !0x1;
-              sl["wheeling"] = !0x1;
-              sl["dragging"] = !0x1;
-              sl["moving"] = !0x1;
-              sl["pinching"] = !0x1;
+              sl["hovering"] = false;
+              sl["scrolling"] = false;
+              sl["wheeling"] = false;
+              sl["dragging"] = false;
+              sl["moving"] = false;
+              sl["pinching"] = false;
               sl["touches"] = 0x0;
               sl["buttons"] = 0x0;
-              sl["down"] = !0x1;
-              sl["shiftKey"] = !0x1;
-              sl["altKey"] = !0x1;
-              sl["metaKey"] = !0x1;
-              sl["ctrlKey"] = !0x1;
+              sl["down"] = false;
+              sl["shiftKey"] = false;
+              sl["altKey"] = false;
+              sl["metaKey"] = false;
+              sl["ctrlKey"] = false;
               var sl = {};
-              sl['Ue'] = !0x0;
-              sl['Ve'] = !0x1;
-              sl["tap"] = !0x1;
+              sl['Ue'] = true;
+              sl['Ve'] = false;
+              sl["tap"] = false;
               sl["swipe"] = [0x0, 0x0];
               var sl = {};
               sl['da'] = [0x0, 0x0];
               sl["vdva"] = [0x0, 0x0];
-              sl["origin"] = void 0x0;
+              sl["origin"] = undefined;
               sl["turns"] = 0x0;
               return {
                 'shared': sl,
@@ -3413,8 +3397,8 @@
                 };
               }
             },
-            E1 = E0(!0x0),
-            E2 = E0(!0x1);
+            E1 = E0(true),
+            E2 = E0(false);
           function E3(sl) {
             if ("touches" in sl) {
               {
@@ -3483,9 +3467,9 @@
             }
           }
           var EC = {};
-          EC["lockDirection"] = !0x1;
-          EC["axis"] = void 0x0;
-          EC["bounds"] = void 0x0;
+          EC["lockDirection"] = false;
+          EC["axis"] = undefined;
+          EC["bounds"] = undefined;
           var Ex = function () {
               var sl = this;
               this["state"] = hK(), this["timeouts"] = {}, this["domListeners"] = [], this["windowListeners"] = {}, this["bindings"] = {}, this["clean"] = function () {
@@ -3512,7 +3496,7 @@
                 Object["entries"](sl["bindings"])["forEach"](function (sl) {
                   var sl = sl[0x0],
                     sl = sl[0x1];
-                  sl["domListeners"]["push"]([sl["substr"](0x2)["toLowerCase"](), hq["apply"](void 0x0, sl)]);
+                  sl["domListeners"]["push"]([sl["substr"](0x2)["toLowerCase"](), hq["apply"](undefined, sl)]);
                 }), E1(sl, sl["domListeners"], sl["config"]["eventOptions"]);
               }, this["addBindings"] = function (sl, sl) {
                 (Array["isArray"](sl) ? sl : [sl])["forEach"](function (sl) {
@@ -3525,7 +3509,7 @@
                   var sl = sl[0x0],
                     sl = sl[0x1],
                     sl = Array["isArray"](sl) ? sl : [sl];
-                  sl[sl + sl] = hq["apply"](void 0x0, sl);
+                  sl[sl + sl] = hq["apply"](undefined, sl);
                 }), sl;
               }, this["getBind"] = function () {
                 if (sl["config"]["domTarget"]) {
@@ -3541,10 +3525,10 @@
               function sl(sl, sl, sl) {
                 {
                   var sl = this;
-                  void 0x0 === sl && (sl = []), this["stateKey"] = sl, this["controller"] = sl, this["args"] = sl, this["debounced"] = !0x0, this["setTimeout"] = function (sl, sl) {
+                  undefined === sl && (sl = []), this["stateKey"] = sl, this["controller"] = sl, this["args"] = sl, this["debounced"] = true, this["setTimeout"] = function (sl, sl) {
                     {
                       var sl;
-                      void 0x0 === sl && (sl = 0x8c);
+                      undefined === sl && (sl = 0x8c);
                       for (var sl = arguments["length"], xM = Array(sl > 0x2 ? sl - 0x2 : 0x0), sl = 0x2; sl < sl; sl++) xM[sl - 0x2] = arguments[sl];
                       sl["controller"]["timeouts"][sl["stateKey"]] = (sl = A)["setTimeout"]["apply"](sl, [sl, sl]["concat"](xM));
                     }
@@ -3556,7 +3540,7 @@
                     sl["controller"]["removeWindowListeners"](sl["stateKey"]);
                   }, this["getStartGestureState"] = function (sl, sl) {
                     return hN(hN({}, hK()[sl["stateKey"]]), {}, {
-                      'Re': !0x0,
+                      'Re': true,
                       'values': sl,
                       'initial': sl,
                       'offset': sl["state"]["offset"],
@@ -3572,18 +3556,18 @@
                     }
                   }, this["fireGestureHandler"] = function (sl) {
                     {
-                      if (sl["state"]['Ae']) return sl["debounced"] || (sl["state"]['Re'] = !0x1, sl["clean"]()), null;
+                      if (sl["state"]['Ae']) return sl["debounced"] || (sl["state"]['Re'] = false, sl["clean"]()), null;
                       var sl = sl["state"]['Ee'],
                         sl = sl[0x0],
                         sl = sl[0x1];
-                      if (!sl && !0x1 === sl && !0x1 === sl) return null;
+                      if (!sl && false === sl && false === sl) return null;
                       var xM = sl["state"],
                         sl = xM['Re'],
                         sl = xM["active"];
                       sl["state"]["active"] = sl, sl["state"]["first"] = sl && !sl, sl["state"]["last"] = sl && !sl, sl["controller"]["state"]["shared"][sl["ingKey"]] = sl;
                       var sl = hN(hN(hN({}, sl["controller"]["state"]["shared"]), sl["state"]), sl["mapStateValues"](sl["state"])),
                         sl = sl["handler"](sl);
-                      return sl["state"]["memo"] = void 0x0 !== sl ? sl : sl["state"]["memo"], sl || sl["clean"](), sl;
+                      return sl["state"]["memo"] = undefined !== sl ? sl : sl["state"]["memo"], sl || sl["clean"](), sl;
                     }
                   };
                 }
@@ -3615,11 +3599,11 @@
                 {
                   var sl = {};
                   sl['Ee'] = sl;
-                  sl['Ae'] = !0x1;
+                  sl['Ae'] = false;
                   return sl;
                 }
               }, sl["getMovement"] = function (sl, sl) {
-                void 0x0 === sl && (sl = this["state"]);
+                undefined === sl && (sl = this["state"]);
                 var sl = this["config"],
                   sl = sl["initial"],
                   sl = sl["threshold"],
@@ -3637,7 +3621,7 @@
                   sl = this["getInternalMovement"](sl, sl),
                   jh = sl[0x0],
                   jE = sl[0x1];
-                !0x1 === sl && (sl = hS(jh, sl)), !0x1 === jx && (jx = hS(jE, sl));
+                false === sl && (sl = hS(jh, sl)), false === jx && (jx = hS(jE, sl));
                 var jg = this["checkIntentionality"]([sl, jx], [jh, jE], sl),
                   jA = jg['Ee'],
                   jh = jg['Ae'],
@@ -3647,8 +3631,8 @@
                 var jT = {};
                 jT['We'] = jP;
                 jT["delta"] = [0x0, 0x0];
-                if (!0x1 !== jh && !0x1 === sl[0x0] && (sl[0x0] = hO(sl)[0x0]), !0x1 !== jj && !0x1 === sl[0x1] && (sl[0x1] = hO(sl)[0x1]), jh) return hN(hN({}, jg), {}, jT);
-                var jU = [!0x1 !== jh ? jh - jh : hO(sl)[0x0], !0x1 !== jj ? jE - jj : hO(sl)[0x1]],
+                if (false !== jh && false === sl[0x0] && (sl[0x0] = hO(sl)[0x0]), false !== jj && false === sl[0x1] && (sl[0x1] = hO(sl)[0x1]), jh) return hN(hN({}, jg), {}, jT);
+                var jU = [false !== jh ? jh - jh : hO(sl)[0x0], false !== jj ? jE - jj : hO(sl)[0x1]],
                   jW = hI(jU, sl),
                   ju = sl ? sl : [0x0, 0x0];
                 return jU = this["rubberband"](hI(jU, sl), ju), hN(hN({}, jg), {}, {
@@ -3699,9 +3683,9 @@
                   var sl = sl,
                     sl = sl[0x0],
                     sl = sl[0x1],
-                    sl = !0x1 !== sl || !0x1 !== sl,
+                    sl = false !== sl || false !== sl,
                     sl = sl["axis"],
-                    sl = !0x1;
+                    sl = false;
                   if (sl) {
                     var xM = sl["map"](Math["abs"]),
                       sl = xM[0x0],
@@ -3709,7 +3693,7 @@
                       sl = this["config"],
                       sl = sl["axis"],
                       sl = sl["lockDirection"];
-                    sl = sl || (sl > sl ? 'x' : sl < sl ? 'y' : void 0x0), (sl || sl) && (sl ? sl && sl !== sl ? sl = !0x0 : sl['x' === sl ? 0x1 : 0x0] = !0x1 : sl = [!0x1, !0x1]);
+                    sl = sl || (sl > sl ? 'x' : sl < sl ? 'y' : undefined), (sl || sl) && (sl ? sl && sl !== sl ? sl = true : sl['x' === sl ? 0x1 : 0x0] = false : sl = [false, false]);
                   }
                   var sl = {};
                   sl['Ee'] = sl;
@@ -3741,7 +3725,7 @@
             EE = function (sl) {
               function sl(sl, sl) {
                 var sl;
-                return (sl = sl["call"](this, "drag", sl, sl) || this)["ingKey"] = "dragging", sl["wasTouch"] = !0x1, sl["isEventTypeTouch"] = function (sl) {
+                return (sl = sl["call"](this, "drag", sl, sl) || this)["ingKey"] = "dragging", sl["wasTouch"] = false, sl["isEventTypeTouch"] = function (sl) {
                   {
                     return !!sl && 0x0 === sl["indexOf"]("touch");
                   }
@@ -3766,7 +3750,7 @@
                   var sl = sl ? [["touchmove", sl["onDragChange"]], ["touchend", sl["onDragEnd"]], ["touchcancel", sl["onDragEnd"]]] : [["mousemove", sl["onDragChange"]], ["mouseup", sl["onDragEnd"]]];
                   sl["addWindowListeners"](sl);
                 }, sl["onDragStart"] = function (sl) {
-                  sl["dragShouldStart"](sl) && (sl["controller"]["config"]["pointer"] ? sl["setPointers"](sl) : sl["setListeners"](sl["isEventTypeTouch"](sl["type"])), sl["config"]["delay"] > 0x0 ? (sl["state"]['Ve'] = !0x0, "function" == typeof sl["persist"] && sl["persist"](), sl["setTimeout"](function () {
+                  sl["dragShouldStart"](sl) && (sl["controller"]["config"]["pointer"] ? sl["setPointers"](sl) : sl["setListeners"](sl["isEventTypeTouch"](sl["type"])), sl["config"]["delay"] > 0x0 ? (sl["state"]['Ve'] = true, "function" == typeof sl["persist"] && sl["persist"](), sl["setTimeout"](function () {
                     {
                       return sl["startDrag"](sl);
                     }
@@ -3780,7 +3764,7 @@
                         var sl = E7(sl)["values"],
                           sl = sl["getKinematics"](sl, sl),
                           sl = sl["state"]['Ue'];
-                        sl && hy(sl['We']) >= 0x3 && (sl = !0x1), sl["updateGestureState"](hN(hN(hN({}, sl["getGenericPayload"](sl)), sl), {}, {
+                        sl && hy(sl['We']) >= 0x3 && (sl = false), sl["updateGestureState"](hN(hN(hN({}, sl["getGenericPayload"](sl)), sl), {}, {
                           'Ue': sl,
                           'cancel': function () {
                             return sl["onCancel"]();
@@ -3792,10 +3776,10 @@
                 }, sl["onDragEnd"] = function (sl) {
                   {
                     var sl = {};
-                    sl["down"] = !0x1;
+                    sl["down"] = false;
                     sl["buttons"] = 0x0;
                     sl["touches"] = 0x0;
-                    sl["state"]['Re'] = !0x1, sl["updateSharedState"](sl);
+                    sl["state"]['Re'] = false, sl["updateSharedState"](sl);
                     var sl = sl["state"],
                       sl = sl['Ue'],
                       sl = sl["values"],
@@ -3820,25 +3804,25 @@
                       jT = [0x0, 0x0];
                     var jU = {};
                     jU["event"] = sl;
-                    jh < 0xdc && (!0x1 !== sl && Math["abs"](xM) > jA && Math["abs"](sl) > jj && (jT[0x0] = hc(xM)), !0x1 !== jx && Math["abs"](sl) > jh && Math["abs"](sl) > jP && (jT[0x1] = hc(sl))), sl["updateGestureState"](hN(hN(jU, sl), {}, {
+                    jh < 0xdc && (false !== sl && Math["abs"](xM) > jA && Math["abs"](sl) > jj && (jT[0x0] = hc(xM)), false !== jx && Math["abs"](sl) > jh && Math["abs"](sl) > jP && (jT[0x1] = hc(sl))), sl["updateGestureState"](hN(hN(jU, sl), {}, {
                       'tap': sl,
                       'swipe': jT
                     })), sl["fireGestureHandler"](sl["config"]["filterTaps"] && sl["state"]['Ue']);
                   }
                 }, sl["clean"] = function () {
                   sl["prototype"]["clean"]["call"](function (sl) {
-                    if (void 0x0 === sl) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
+                    if (undefined === sl) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
                     return sl;
-                  }(sl)), sl["state"]['Ve'] = !0x1, sl["controller"]["config"]["pointer"] && sl["removePointers"]();
+                  }(sl)), sl["state"]['Ve'] = false, sl["controller"]["config"]["pointer"] && sl["removePointers"]();
                 }, sl["onCancel"] = function () {
                   var sl = {};
-                  sl["canceled"] = !0x0;
+                  sl["canceled"] = true;
                   sl["cancel"] = hw;
                   var sl = {};
-                  sl["down"] = !0x1;
+                  sl["down"] = false;
                   sl["buttons"] = 0x0;
                   sl["touches"] = 0x0;
-                  sl["updateGestureState"](sl), sl["state"]['Re'] = !0x1, sl["updateSharedState"](sl), requestAnimationFrame(function () {
+                  sl["updateGestureState"](sl), sl["state"]['Re'] = false, sl["updateSharedState"](sl), requestAnimationFrame(function () {
                     return sl["fireGestureHandler"]();
                   });
                 }, sl;
@@ -3849,7 +3833,7 @@
                 var sl = this,
                   sl = E7(sl)["values"];
                 this["updateSharedState"](E4(sl));
-                var sl = hN(hN({}, this["getStartGestureState"](sl, sl)), this["getGenericPayload"](sl, !0x0));
+                var sl = hN(hN({}, this["getStartGestureState"](sl, sl)), this["getGenericPayload"](sl, true));
                 this["updateGestureState"](hN(hN(hN({}, sl), this["getMovement"](sl, sl)), {}, {
                   'cancel': function () {
                     return sl["onCancel"]();
@@ -3859,32 +3843,32 @@
                 this["controller"]["config"]["pointer"] ? (this["controller"]["addBindings"]("onPointerDown", this["onDragStart"]), this["controller"]["addBindings"]("onPointerMove", this["onDragChange"]), this["controller"]["addBindings"](["onPointerUp", "onPointerCancel"], this["onDragEnd"])) : this["controller"]["addBindings"](["onTouchStart", "onMouseDown"], this["onDragStart"]);
               }, sl;
             }(Eh),
-            Eg = void 0x0 !== A ? A : void 0x0,
+            Eg = undefined !== A ? A : undefined,
             EC = EC;
           function Ed(sl) {
             {
               var sl = sl["threshold"],
-                sl = void 0x0 === sl ? void 0x0 : sl,
+                sl = undefined === sl ? undefined : sl,
                 sl = sl["rubberband"],
-                sl = void 0x0 === sl ? 0x0 : sl,
+                sl = undefined === sl ? 0x0 : sl,
                 sl = sl["enabled"],
-                sl = void 0x0 === sl || sl,
+                sl = undefined === sl || sl,
                 sl = sl["initial"];
-              return "boolean" == typeof sl && (sl = sl ? 0.15 : 0x0), void 0x0 === sl && (sl = 0x0), {
+              return "boolean" == typeof sl && (sl = sl ? 0.15 : 0x0), undefined === sl && (sl = 0x0), {
                 'enabled': sl,
-                'initial': void 0x0 === sl ? [0x0, 0x0] : sl,
+                'initial': undefined === sl ? [0x0, 0x0] : sl,
                 'threshold': hD(sl),
                 'rubberband': hD(sl)
               };
             }
           }
           function Es(sl) {
-            void 0x0 === sl && (sl = {});
+            undefined === sl && (sl = {});
             var sl = sl,
               sl = sl["axis"],
               sl = sl["lockDirection"],
               sl = sl["bounds"],
-              sl = void 0x0 === sl ? {} : sl,
+              sl = undefined === sl ? {} : sl,
               sl = hB(sl, ["axis", "lockDirection", "bounds"]),
               sl = [[hz(sl["left"], -0x1 / 0x0), hz(sl["right"], 0x1 / 0x0)], [hz(sl["top"], -0x1 / 0x0), hz(sl["bottom"], 0x1 / 0x0)]];
             var sl = {};
@@ -3909,7 +3893,7 @@
                     sl = sl["values"],
                     sl = sl["turns"],
                     sl = sl["initial"],
-                    sl = (sl = void 0x0 !== sl ? sl : sl[0x1]) - sl[0x1],
+                    sl = (sl = undefined !== sl ? sl : sl[0x1]) - sl[0x1],
                     sl = Math["abs"](sl) > 0x10e ? sl + hc(sl) : sl;
                   return [sl - sl[0x0], sl - 0x168 * sl - sl[0x1]];
                 }, sl["getKinematics"] = function (sl, sl) {
@@ -3949,7 +3933,7 @@
                         sl = sl["values"],
                         sl = sl["origin"];
                       sl["updateSharedState"](E4(sl));
-                      var sl = hN(hN({}, sl["getStartGestureState"](sl, sl)), sl["getGenericPayload"](sl, !0x0));
+                      var sl = hN(hN({}, sl["getStartGestureState"](sl, sl)), sl["getGenericPayload"](sl, true));
                       sl["updateGestureState"](hN(hN(hN({}, sl), sl["getMovement"](sl, sl)), {}, {
                         'origin': sl,
                         'cancel': function () {
@@ -3980,20 +3964,20 @@
                     }
                   }, sl["onPinchEnd"] = function (sl) {
                     var sl = {};
-                    sl["down"] = !0x1;
+                    sl["down"] = false;
                     sl["touches"] = 0x0;
                     var sl = {};
                     sl["event"] = sl;
-                    sl["state"]["active"] && (sl["state"]['Re'] = !0x1, sl["updateSharedState"](sl), sl["updateGestureState"](hN(hN(sl, sl["getGenericPayload"](sl)), sl["getMovement"](sl["state"]["values"]))), sl["fireGestureHandler"]());
+                    sl["state"]["active"] && (sl["state"]['Re'] = false, sl["updateSharedState"](sl), sl["updateGestureState"](hN(hN(sl, sl["getGenericPayload"](sl)), sl["getMovement"](sl["state"]["values"]))), sl["fireGestureHandler"]());
                   }, sl["onCancel"] = function () {
                     {
                       var sl = {};
-                      sl["canceled"] = !0x0;
+                      sl["canceled"] = true;
                       sl["cancel"] = hw;
                       var sl = {};
-                      sl["down"] = !0x1;
+                      sl["down"] = false;
                       sl["touches"] = 0x0;
-                      sl["state"]['Re'] = !0x1, sl["updateGestureState"](sl), sl["updateSharedState"](sl), requestAnimationFrame(function () {
+                      sl["state"]['Re'] = false, sl["updateGestureState"](sl), sl["updateSharedState"](sl), requestAnimationFrame(function () {
                         {
                           return sl["fireGestureHandler"]();
                         }
@@ -4005,7 +3989,7 @@
                         sl["preventDefault"]();
                         var sl = E8(sl)["values"];
                         sl["updateSharedState"](E4(sl));
-                        var sl = hN(hN({}, sl["getStartGestureState"](sl, sl)), sl["getGenericPayload"](sl, !0x0));
+                        var sl = hN(hN({}, sl["getStartGestureState"](sl, sl)), sl["getGenericPayload"](sl, true));
                         sl["updateGestureState"](hN(hN(hN({}, sl), sl["getMovement"](sl, sl)), {}, {
                           'cancel': function () {
                             return sl["onCancel"]();
@@ -4033,9 +4017,9 @@
                     }
                   }, sl["onGestureEnd"] = function (sl) {
                     var sl = {};
-                    sl["down"] = !0x1;
+                    sl["down"] = false;
                     sl["touches"] = 0x0;
-                    sl["preventDefault"](), sl["state"]["active"] && (sl["state"]['Re'] = !0x1, sl["updateSharedState"](sl), sl["updateGestureState"](hN(hN({
+                    sl["preventDefault"](), sl["state"]["active"] && (sl["state"]['Re'] = false, sl["updateSharedState"](sl), sl["updateGestureState"](hN(hN({
                       'event': sl
                     }, sl["getGenericPayload"](sl)), sl["getMovement"](sl["state"]["values"]))), sl["fireGestureHandler"]());
                   }, sl["updateTouchData"] = function (sl) {
@@ -4053,7 +4037,7 @@
                       sl = sl[0x0],
                       sl = sl[0x1];
                     var sl = {};
-                    sl["values"] = [sl - sl, void 0x0 !== sl ? sl : 0x0];
+                    sl["values"] = [sl - sl, undefined !== sl ? sl : 0x0];
                     sl["origin"] = [sl["clientX"], sl["clientY"]];
                     sl["delta"] = [0x0, sl];
                     return sl;
@@ -4067,7 +4051,7 @@
                       sl = sl["delta"],
                       sl = sl["origin"];
                     sl["controller"]["config"]["eventOptions"]["passive"] || sl["preventDefault"](), sl["updateSharedState"](E4(sl));
-                    var sl = hN(hN(hN({}, sl["getStartGestureState"](sl, sl)), sl["getGenericPayload"](sl, !0x0)), {}, {
+                    var sl = hN(hN(hN({}, sl["getStartGestureState"](sl, sl)), sl["getGenericPayload"](sl, true)), {}, {
                       'initial': sl["state"]["values"]
                     });
                     sl["updateGestureState"](hN(hN(hN({}, sl), sl["getMovement"](sl, sl)), {}, {
@@ -4088,7 +4072,7 @@
                     xM["delta"] = sl;
                     sl["updateGestureState"](hN(hN(hN({}, sl["getGenericPayload"](sl)), sl), {}, xM)), sl["fireGestureHandler"]();
                   }, sl["onWheelEnd"] = function () {
-                    sl["state"]['Re'] = !0x1, sl["updateGestureState"](sl["getMovement"](sl["state"]["values"])), sl["fireGestureHandler"]();
+                    sl["state"]['Re'] = false, sl["updateGestureState"](sl["getMovement"](sl["state"]["values"])), sl["fireGestureHandler"]();
                   }, sl;
                 }
               }
@@ -4097,7 +4081,7 @@
                   try {
                     return "constructor" in GestureEvent;
                   } catch (sl) {
-                    return !0x1;
+                    return false;
                   }
                 }() ? (this["controller"]["addBindings"]("onGestureStart", this["onGestureStart"]), this["controller"]["addBindings"]("onGestureChange", this["onGestureChange"]), this["controller"]["addBindings"](["onGestureEnd", "onTouchCancel"], this["onGestureEnd"]), this["controller"]["addBindings"](["onTouchStart", "onTouchMove"], this["updateTouchData"])) : (this["controller"]["addBindings"]("onTouchStart", this["onPinchStart"]), this["controller"]["addBindings"]("onTouchMove", this["onPinchChange"]), this["controller"]["addBindings"](["onTouchEnd", "onTouchCancel"], this["onPinchEnd"]), this["controller"]["addBindings"]("onWheel", this["onWheel"]));
               }, sl;
@@ -4105,7 +4089,7 @@
             ET = function (sl) {
               function sl(sl, sl) {
                 var sl;
-                return (sl = sl["call"](this, "wheel", sl, sl) || this)["ingKey"] = "wheeling", sl["debounced"] = !0x0, sl["wheelShouldRun"] = function (sl) {
+                return (sl = sl["call"](this, "wheel", sl, sl) || this)["ingKey"] = "wheeling", sl["debounced"] = true, sl["wheelShouldRun"] = function (sl) {
                   return (!sl["ctrlKey"] || !("pinch" in sl["controller"]["handlers"])) && sl["enabled"];
                 }, sl["getValuesFromEvent"] = function (sl) {
                   var sl = sl["state"]["values"];
@@ -4117,7 +4101,7 @@
                 }, sl["onWheelStart"] = function (sl) {
                   var sl = sl["getValuesFromEvent"](sl)["values"];
                   sl["updateSharedState"](E4(sl));
-                  var sl = hN(hN(hN({}, sl["getStartGestureState"](sl, sl)), sl["getGenericPayload"](sl, !0x0)), {}, {
+                  var sl = hN(hN(hN({}, sl["getStartGestureState"](sl, sl)), sl["getGenericPayload"](sl, true)), {}, {
                       'initial': sl["state"]["values"]
                     }),
                     sl = sl["getMovement"](sl, sl),
@@ -4136,7 +4120,7 @@
                   var sl = {};
                   sl["velocities"] = [0x0, 0x0];
                   sl["velocity"] = 0x0;
-                  sl["state"]['Re'] = !0x1, sl["updateGestureState"](hN(hN({}, sl["getMovement"](sl["state"]["values"])), {}, sl)), sl["fireGestureHandler"]();
+                  sl["state"]['Re'] = false, sl["updateGestureState"](hN(hN({}, sl["getMovement"](sl["state"]["values"])), {}, sl)), sl["fireGestureHandler"]();
                 }, sl;
               }
               return hR(sl, sl), sl["prototype"]["addBindings"] = function () {
@@ -4147,14 +4131,14 @@
               function sl(sl, sl) {
                 {
                   var sl;
-                  return (sl = sl["call"](this, "move", sl, sl) || this)["ingKey"] = "moving", sl["debounced"] = !0x0, sl["moveShouldRun"] = function () {
+                  return (sl = sl["call"](this, "move", sl, sl) || this)["ingKey"] = "moving", sl["debounced"] = true, sl["moveShouldRun"] = function () {
                     return sl["enabled"];
                   }, sl["onMove"] = function (sl) {
                     sl["moveShouldRun"]() && (sl["clearTimeout"](), sl["setTimeout"](sl["onMoveEnd"]), sl["state"]['Re'] ? sl["onMoveChange"](sl) : sl["onMoveStart"](sl));
                   }, sl["onMoveStart"] = function (sl) {
                     var sl = E7(sl)["values"];
                     sl["updateSharedState"](E4(sl));
-                    var sl = hN(hN({}, sl["getStartGestureState"](sl, sl)), sl["getGenericPayload"](sl, !0x0));
+                    var sl = hN(hN({}, sl["getStartGestureState"](sl, sl)), sl["getGenericPayload"](sl, true));
                     sl["updateGestureState"](hN(hN({}, sl), sl["getMovement"](sl, sl))), sl["fireGestureHandler"]();
                   }, sl["onMoveChange"] = function (sl) {
                     var sl = E4(sl);
@@ -4166,27 +4150,27 @@
                     var sl = {};
                     sl["velocities"] = [0x0, 0x0];
                     sl["velocity"] = 0x0;
-                    sl["state"]['Re'] = !0x1, sl["updateGestureState"](hN(hN({}, sl["getMovement"](sl["state"]["values"])), {}, sl)), sl["fireGestureHandler"]();
+                    sl["state"]['Re'] = false, sl["updateGestureState"](hN(hN({}, sl["getMovement"](sl["state"]["values"])), {}, sl)), sl["fireGestureHandler"]();
                   }, sl["onPointerEnter"] = function (sl) {
-                    if (sl["controller"]["state"]["shared"]["hovering"] = !0x0, sl["controller"]["config"]["enabled"]) {
+                    if (sl["controller"]["state"]["shared"]["hovering"] = true, sl["controller"]["config"]["enabled"]) {
                       if (sl["controller"]["config"]["hover"]["enabled"]) {
                         var sl = E7(sl)["values"],
-                          sl = hN(hN(hN(hN({}, sl["controller"]["state"]["shared"]), sl["state"]), sl["getGenericPayload"](sl, !0x0)), {}, {
+                          sl = hN(hN(hN(hN({}, sl["controller"]["state"]["shared"]), sl["state"]), sl["getGenericPayload"](sl, true)), {}, {
                             'values': sl,
-                            'active': !0x0,
-                            'hovering': !0x0
+                            'active': true,
+                            'hovering': true
                           });
                         sl["controller"]["handlers"]["hover"](hN(hN({}, sl), sl["mapStateValues"](sl)));
                       }
                       "move" in sl["controller"]["handlers"] && sl["onMoveStart"](sl);
                     }
                   }, sl["onPointerLeave"] = function (sl) {
-                    if (sl["controller"]["state"]["shared"]["hovering"] = !0x1, "move" in sl["controller"]["handlers"] && sl["onMoveEnd"](), sl["controller"]["config"]["hover"]["enabled"]) {
+                    if (sl["controller"]["state"]["shared"]["hovering"] = false, "move" in sl["controller"]["handlers"] && sl["onMoveEnd"](), sl["controller"]["config"]["hover"]["enabled"]) {
                       {
                         var sl = E7(sl)["values"],
                           sl = hN(hN(hN(hN({}, sl["controller"]["state"]["shared"]), sl["state"]), sl["getGenericPayload"](sl)), {}, {
                             'values': sl,
-                            'active': !0x1
+                            'active': false
                           });
                         sl["controller"]["handlers"]["hover"](hN(hN({}, sl), sl["mapStateValues"](sl)));
                       }
@@ -4202,14 +4186,14 @@
               function sl(sl, sl) {
                 {
                   var sl;
-                  return (sl = sl["call"](this, "scroll", sl, sl) || this)["ingKey"] = "scrolling", sl["debounced"] = !0x0, sl["scrollShouldRun"] = function () {
+                  return (sl = sl["call"](this, "scroll", sl, sl) || this)["ingKey"] = "scrolling", sl["debounced"] = true, sl["scrollShouldRun"] = function () {
                     return sl["enabled"];
                   }, sl["onScroll"] = function (sl) {
                     sl["scrollShouldRun"]() && (sl["clearTimeout"](), sl["setTimeout"](sl["onScrollEnd"]), sl["state"]['Re'] ? sl["onScrollChange"](sl) : sl["onScrollStart"](sl));
                   }, sl["onScrollStart"] = function (sl) {
                     var sl = E5(sl)["values"];
                     sl["updateSharedState"](E4(sl));
-                    var sl = hN(hN(hN({}, sl["getStartGestureState"](sl, sl)), sl["getGenericPayload"](sl, !0x0)), {}, {
+                    var sl = hN(hN(hN({}, sl["getStartGestureState"](sl, sl)), sl["getGenericPayload"](sl, true)), {}, {
                         'initial': sl["state"]["values"]
                       }),
                       sl = sl["getMovement"](sl, sl),
@@ -4228,7 +4212,7 @@
                     var sl = {};
                     sl["velocities"] = [0x0, 0x0];
                     sl["velocity"] = 0x0;
-                    sl["state"]['Re'] = !0x1, sl["updateGestureState"](hN(hN({}, sl["getMovement"](sl["state"]["values"])), {}, sl)), sl["fireGestureHandler"]();
+                    sl["state"]['Re'] = false, sl["updateGestureState"](hN(hN({}, sl["getMovement"](sl["state"]["values"])), {}, sl)), sl["fireGestureHandler"]();
                   }, sl;
                 }
               }
@@ -4237,7 +4221,7 @@
               }, sl;
             }(Eh);
           function Eu(sl, sl) {
-            void 0x0 === sl && (sl = {});
+            undefined === sl && (sl = {});
             var sl = P["useState"](function () {
                 return new Set(Object["keys"](sl)["map"](function (sl) {
                   return sl["replace"](/End|Start/, '');
@@ -4251,21 +4235,21 @@
               sl = sl["pinch"],
               sl = sl["hover"],
               sl = function (sl) {
-                void 0x0 === sl && (sl = {});
+                undefined === sl && (sl = {});
                 var sl = sl,
                   sl = sl["eventOptions"],
-                  sl = (sl = void 0x0 === sl ? {} : sl)["passive"],
-                  jx = void 0x0 === sl || sl,
+                  sl = (sl = undefined === sl ? {} : sl)["passive"],
+                  jx = undefined === sl || sl,
                   sl = sl["capture"],
-                  jh = void 0x0 !== sl && sl,
+                  jh = undefined !== sl && sl,
                   jE = sl["pointer"],
-                  jg = void 0x0 !== jE && jE,
+                  jg = undefined !== jE && jE,
                   jA = sl["window"],
-                  jh = void 0x0 === jA ? Eg : jA,
+                  jh = undefined === jA ? Eg : jA,
                   jh = sl["domTarget"],
-                  jj = void 0x0 === jh ? void 0x0 : jh,
+                  jj = undefined === jh ? undefined : jh,
                   jP = sl["enabled"],
-                  jT = void 0x0 === jP || jP;
+                  jT = undefined === jP || jP;
                 var jU = {};
                 jU["enabled"] = jT;
                 jU["domTarget"] = jj;
@@ -4281,9 +4265,9 @@
               xM = {},
               sl = hN({}, sl);
             var sl = {};
-            sl["enabled"] = !0x0;
+            sl["enabled"] = true;
             return sl["has"]("onDrag") && (sl["push"](EE), xM["drag"] = Ep(sl, "onDrag", sl), sl["drag"] = function (sl) {
-              void 0x0 === sl && (sl = {});
+              undefined === sl && (sl = {});
               var sl = sl,
                 sl = sl["enabled"],
                 sl = sl["threshold"],
@@ -4292,16 +4276,16 @@
                 jh = sl["initial"],
                 jE = hB(sl, ["enabled", "threshold", "bounds", "rubberband", "initial"]),
                 jg = jE["swipeVelocity"],
-                jA = void 0x0 === jg ? 0.5 : jg,
+                jA = undefined === jg ? 0.5 : jg,
                 jh = jE["swipeDistance"],
-                jh = void 0x0 === jh ? 0x3c : jh,
+                jh = undefined === jh ? 0x3c : jh,
                 jj = jE["delay"],
-                jP = void 0x0 !== jj && jj,
+                jP = undefined !== jj && jj,
                 jT = jE["filterTaps"],
-                jU = void 0x0 !== jT && jT,
+                jU = undefined !== jT && jT,
                 jW = jE["axis"],
                 ju = jE["lockDirection"];
-              void 0x0 === sl ? sl = Math["max"](0x0, jU ? 0x3 : 0x0, ju || jW ? 0x1 : 0x0) : jU = !0x0;
+              undefined === sl ? sl = Math["max"](0x0, jU ? 0x3 : 0x0, ju || jW ? 0x1 : 0x0) : jU = true;
               var jp = {};
               jp["enabled"] = sl;
               jp["threshold"] = sl;
@@ -4318,12 +4302,12 @@
                 'delay': "number" == typeof jP ? jP : jP ? 0xb4 : 0x0
               });
             }(sl)), sl["has"]("onWheel") && (sl["push"](ET), xM["wheel"] = Ep(sl, "onWheel", sl), sl["wheel"] = Es(sl)), sl["has"]("onScroll") && (sl["push"](EW), xM["scroll"] = Ep(sl, "onScroll", sl), sl["scroll"] = Es(sl)), sl["has"]("onMove") && (sl["push"](EU), xM["move"] = Ep(sl, "onMove", sl), sl["move"] = Es(sl)), sl["has"]("onPinch") && (sl["push"](EP), xM["pinch"] = Ep(sl, "onPinch", sl), sl["pinch"] = function (sl) {
-              void 0x0 === sl && (sl = {});
+              undefined === sl && (sl = {});
               var sl = sl,
                 sl = sl["distanceBounds"],
-                sl = void 0x0 === sl ? {} : sl,
+                sl = undefined === sl ? {} : sl,
                 jx = sl["angleBounds"],
-                sl = void 0x0 === jx ? {} : jx,
+                sl = undefined === jx ? {} : jx,
                 jh = hB(sl, ["distanceBounds", "angleBounds"]),
                 jE = [[hz(sl["min"], -0x1 / 0x0), hz(sl["max"], 0x1 / 0x0)], [hz(sl["min"], -0x1 / 0x0), hz(sl["max"], 0x1 / 0x0)]];
               var jg = {};
@@ -4354,7 +4338,7 @@
               sl = sl + "End";
             return delete sl[sl], delete sl[sl], delete sl[sl], function (sl) {
               {
-                var sl = void 0x0;
+                var sl = undefined;
                 return sl["first"] && sl in sl && sl[sl](sl), sl in sl && (sl = sl[sl](sl)), sl["last"] && sl in sl && sl[sl](sl), sl;
               }
             };
@@ -4362,7 +4346,7 @@
           var EL = {},
             Em = {};
           var EF = {};
-          EF["value"] = !0x0;
+          EF["value"] = true;
           Object["defineProperty"](Em, "__esModule", EF);
           var Ea = {};
           Ea["display"] = "flex";
@@ -4442,7 +4426,7 @@
           };
           var EX = {};
           var EJ = {};
-          EJ["value"] = !0x0;
+          EJ["value"] = true;
           Object["defineProperty"](EX, "__esModule", EJ);
           var EV = {};
           EV["display"] = "flex";
@@ -4477,13 +4461,13 @@
             Ez = {},
             Ev = {};
           var EO = {};
-          EO["value"] = !0x0;
+          EO["value"] = true;
           Object["defineProperty"](Ev, "__esModule", EO);
           var EK = {};
-          EK["writable"] = !0x1;
-          EK["value"] = void 0x0;
-          EK["enumerable"] = !0x1;
-          EK["configurable"] = !0x1;
+          EK["writable"] = false;
+          EK["value"] = undefined;
+          EK["enumerable"] = false;
+          EK["configurable"] = false;
           function g1(sl, sl, sl) {
             for (var sl = sl["length"], sl = 0x0; sl < sl; sl++) {
               var sl = sl[sl];
@@ -4491,7 +4475,7 @@
             }
           }
           var g2 = {};
-          g2["value"] = !0x0;
+          g2["value"] = true;
           Ev["unwatch"] = function (sl, sl, sl) {
             if ("object" != typeof sl || null === sl) throw Error("Invalid parameter at index 0");
             if ("string" != typeof sl || '' === sl) throw Error("Invalid parameter at index 1");
@@ -4499,7 +4483,7 @@
             if (sl) {
               {
                 var sl = sl[sl];
-                if (sl) if (void 0x0 === sl) sl["length"] = 0x0;else {
+                if (sl) if (undefined === sl) sl["length"] = 0x0;else {
                   var sl = sl["indexOf"](sl);
                   -0x1 !== sl && sl["splice"](sl, 0x1);
                 }
@@ -4520,7 +4504,7 @@
                 {
                   var sl = Object["getOwnPropertyDescriptor"](sl, sl);
                   if (!sl) throw Error("Object property not exists");
-                  if (!0x1 === sl["writable"] || void 0x0 !== sl["get"] && void 0x0 === sl["set"]) throw Error("Object property is readonly");
+                  if (false === sl["writable"] || undefined !== sl["get"] && undefined === sl["set"]) throw Error("Object property is readonly");
                   if (!sl["configurable"]) throw Error("Object property is not configurable");
                   sl = sl[sl] = [], function (sl, sl, sl) {
                     if (sl["writable"]) {
@@ -4553,7 +4537,7 @@
             g4 = new (function () {
               function sl() {
                 var sl = {};
-                sl["isActive"] = !0x1;
+                sl["isActive"] = false;
                 sl["title"] = '';
                 sl["desc"] = '';
                 sl["posY"] = 0x0;
@@ -4563,11 +4547,11 @@
                 var sl,
                   sl,
                   sl = this;
-                return sl && void 0x0 !== this[sl] && sl(this[sl], this), (sl = this, sl = sl, function (sl) {
-                  var sl = sl["bind"](void 0x0, void 0x0);
+                return sl && undefined !== this[sl] && sl(this[sl], this), (sl = this, sl = sl, function (sl) {
+                  var sl = sl["bind"](undefined, undefined);
                   Ev["watch"](sl, sl, sl);
                 })(function (sl, sl, sl) {
-                  sl || void 0x0 === sl || JSON["stringify"](sl) === JSON["stringify"](sl) || sl(sl, sl);
+                  sl || undefined === sl || JSON["stringify"](sl) === JSON["stringify"](sl) || sl(sl, sl);
                 });
               }, sl["prototype"]["dispose"] = function (sl) {
                 {
@@ -4578,7 +4562,7 @@
               }, sl;
             }())();
           var g5 = {};
-          g5["value"] = !0x0;
+          g5["value"] = true;
           Ez["tooltipViewModel"] = g4, Object["defineProperty"](Eo, "__esModule", g5);
           var g6 = {};
           g6["width"] = "300px";
@@ -4603,7 +4587,7 @@
             gE = function (sl) {
               function sl(sl) {
                 var sl = sl["call"](this, sl) || this;
-                return sl['qe'] = void 0x0, sl['Xe'] = !0x1, sl;
+                return sl['qe'] = undefined, sl['Xe'] = false, sl;
               }
               return __extends(sl, sl), sl["prototype"]["componentDidMount"] = function () {
                 this['Ke']();
@@ -4612,14 +4596,14 @@
               }, sl["prototype"]['Ke'] = function () {
                 {
                   var sl = this;
-                  this['Xe'] = !0x1, clearTimeout(this['qe']), this['qe'] = setTimeout(function () {
-                    sl['Xe'] = !0x0;
+                  this['Xe'] = false, clearTimeout(this['qe']), this['qe'] = setTimeout(function () {
+                    sl['Xe'] = true;
                   }, 0x0);
                 }
               }, sl["prototype"]["componentWillUnmount"] = function () {
                 clearTimeout(this['qe']);
               }, sl["prototype"]['Je'] = function (sl, sl) {
-                void 0x0 === sl && (sl = !0x1);
+                undefined === sl && (sl = false);
                 var sl = sl ? sl["map"](function (sl) {
                   {
                     return shell["I18n"]['t'](sl);
@@ -4638,9 +4622,9 @@
                       return sl["props"]["winCalculation"][sl];
                     }),
                     sl = {
-                      'isActive': !0x0,
+                      'isActive': true,
                       'posY': sl,
-                      'title': this['Je'](sl, !0x0),
+                      'title': this['Je'](sl, true),
                       'desc': this['Je'](sl)
                     };
                   Ez["tooltipViewModel"]["currentTarget"] = sl, Ez["tooltipViewModel"]["update"](sl);
@@ -4671,7 +4655,7 @@
               }, sl;
             }(gx["default"]["Component"]);
           var gg = {};
-          gg["value"] = !0x0;
+          gg["value"] = true;
           Eo["default"] = gE, Object["defineProperty"](ED, "__esModule", gg);
           var gA = {};
           gA["display"] = "flex";
@@ -4784,7 +4768,7 @@
           };
           var gk = {};
           var gf = {};
-          gf["value"] = !0x0;
+          gf["value"] = true;
           Object["defineProperty"](gk, "__esModule", gf);
           var gG = {};
           gG["display"] = "flex";
@@ -4834,7 +4818,7 @@
           };
           var gR = {};
           var gB = {};
-          gB["value"] = !0x0;
+          gB["value"] = true;
           Object["defineProperty"](gR, "__esModule", gB);
           var gY = {};
           gY["display"] = "flex";
@@ -4918,7 +4902,7 @@
             return sl ? sl + '(' + sl + ')' : '' + sl;
           }
           function Ah(sl, sl) {
-            if (void 0x0 === sl && (sl = 0xe), sl["length"] > sl && sl["indexOf"]('\x20') < 0x0) {
+            if (undefined === sl && (sl = 0xe), sl["length"] > sl && sl["indexOf"]('\x20') < 0x0) {
               {
                 var sl = Math["floor"](sl["length"] / 0x2);
                 return sl["slice"](0x0, sl) + '\x20' + sl["slice"](sl, sl["length"]);
@@ -4980,7 +4964,7 @@
           };
           var AE = {};
           var Ag = {};
-          Ag["value"] = !0x0;
+          Ag["value"] = true;
           Object["defineProperty"](AE, "__esModule", Ag);
           var AA = {};
           AA["fontSize"] = "12px";
@@ -5024,7 +5008,7 @@
             AT = AT;
           function Ap(sl) {
             var sl = {};
-            sl["isActive"] = !0x1;
+            sl["isActive"] = false;
             Ez["tooltipViewModel"]["currentTarget"] && Ez["tooltipViewModel"]["currentTarget"]["contains"](sl["target"]) && sl["stopPropagation"](), Ez["tooltipViewModel"]["update"](sl), document["body"]["removeEventListener"]("click", Ap);
           }
           var AL = function (sl) {
@@ -5032,7 +5016,7 @@
               function sl(sl) {
                 var sl = sl["call"](this, sl) || this;
                 var sl = {};
-                sl["isActive"] = !0x1;
+                sl["isActive"] = false;
                 sl["title"] = '';
                 sl["desc"] = '';
                 sl["posY"] = 0x0;
@@ -5092,12 +5076,12 @@
           AE["default"] = AL;
           var Am = {};
           var AF = {};
-          AF["value"] = !0x0;
+          AF["value"] = true;
           !function (sl) {
             {
               var sl;
               var sl = {};
-              sl["value"] = !0x0;
+              sl["value"] = true;
               Object["defineProperty"](sl, "__esModule", sl), (sl = sl["WinCalculation"] || (sl["WinCalculation"] = {}))["BET_SIZE"] = "History.HistoryTipsBetSize", sl["BET_LEVEL"] = "History.HistoryTipsBetLevel", sl["PAYOUT"] = "History.HistoryTipsPayout", sl["WAYS"] = "History.HistoryTipsWay", sl["COUNTS"] = "History.HistoryTipsSymbolCount", sl["MULTIPLIER"] = "History.HistoryTipsMultiplier";
             }
           }(Am), Object["defineProperty"](EL, "__esModule", AF);
@@ -5218,7 +5202,7 @@
                 sl["heightRelativeToParent"] = "inherit";
                 return P["createElement"](hj["default"], sl, P["createElement"](sl, {
                   'data': sl,
-                  'isBO': !0x1,
+                  'isBO': false,
                   'isCurrentPage': sl,
                   'isRTL': shell["isRTLLanguage"]()
                 }), P["createElement"]("div", {
@@ -5250,13 +5234,13 @@
                 sl = xk(W(sl["pageWidth"]), 0x2),
                 sl = sl[0x0],
                 sl = sl[0x1],
-                sl = xk(W(!0x1), 0x2),
+                sl = xk(W(false), 0x2),
                 sl = sl[0x0],
                 sl = sl[0x1],
-                sl = xk(W(!0x1), 0x2),
+                sl = xk(W(false), 0x2),
                 xM = sl[0x0],
                 sl = sl[0x1],
-                sl = xk(W(!0x1), 0x2),
+                sl = xk(W(false), 0x2),
                 sl = sl[0x0],
                 sl = sl[0x1],
                 sl = sl,
@@ -5274,18 +5258,18 @@
                     'x': -sl["pageIndex"] * sl["pageWidth"],
                     'config': xY,
                     'immediate': sl["noAnim"]
-                  }), sl(!0x0), AS(0.3)(function () {
-                    sl(!0x1), sl(!0x1);
+                  }), sl(true), AS(0.3)(function () {
+                    sl(false), sl(false);
                   })), sl !== sl["pageWidth"] && (sl(sl["pageWidth"]), jh({
                     'x': -sl["pageIndex"] * sl["pageWidth"],
                     'config': xY,
-                    'immediate': !0x0
+                    'immediate': true
                   }));
                 }
               }, [sl["pageIndex"], sl["pageWidth"]]);
               var jE = {};
-              jE["capture"] = !0x1;
-              jE["passive"] = !0x1;
+              jE["capture"] = false;
+              jE["passive"] = false;
               var jg = {};
               jg["swipeDistance"] = 0xa;
               jg["swipeVelocity"] = 0.3;
@@ -5311,7 +5295,7 @@
                         jP = jP,
                         jW = jW,
                         jL = jL;
-                      if (!HX["isMobile"] || shell["environment"]["isMac"]() || HX["isPortrait"] || shell["environment"]["getOrientation"]() !== xV["PORTRAIT"] || (ja = Math["abs"](ju), jk = Math["abs"](jW), jP = jT, jW = ju, jL = jm), !xM && !sl && jk > Ac && sl(!0x0), !xM && !sl && ja > 0x14 && sl(!0x0), !ja || jM) {
+                      if (!HX["isMobile"] || shell["environment"]["isMac"]() || HX["isPortrait"] || shell["environment"]["getOrientation"]() !== xV["PORTRAIT"] || (ja = Math["abs"](ju), jk = Math["abs"](jW), jP = jT, jW = ju, jL = jm), !xM && !sl && jk > Ac && sl(true), !xM && !sl && ja > 0x14 && sl(true), !ja || jM) {
                         {
                           if (xM) ;else if (sl) {
                             if (!sl && (function (jN, jR) {
@@ -5336,20 +5320,20 @@
                             var jX = {};
                             jX['x'] = -sl * sl;
                             jX["config"] = xY;
-                            jX["immediate"] = !0x1;
+                            jX["immediate"] = false;
                             jh(jX);
                           }
-                          sl(!0x1), sl(!0x1);
+                          sl(false), sl(false);
                         }
                       } else if (xM) ;else if (sl) {
                         {
                           var jJ = {};
                           jJ['x'] = jW + -sl * sl;
                           jJ["from"] = jW - jP + -sl * sl;
-                          jJ["immediate"] = !0x1;
+                          jJ["immediate"] = false;
                           jh(jJ);
                           var jV = function (jN, jR, jB, jY) {
-                            return void 0x0 === jN && (jN = !0x1), !!(jN && jR > jY / 0x2 || jB > jY);
+                            return undefined === jN && (jN = false), !!(jN && jR > jY / 0x2 || jB > jY);
                           }(sl, jW, ja, sl);
                           jV && ja && jQ();
                         }
@@ -5493,7 +5477,7 @@
                   sl = sl["tba"],
                   sl = sl["tid"],
                   sl = sl["twla"];
-                this["balance"] = sl, this["betTime"] = sl, this["transactionStartTime"] = sl ? sl["tst"] : void 0x0, this["isBot"] = sl, this["totalBetAmount"] = sl, this["transactionId"] = sl, this["totalWinLossAmount"] = sl, this["gameDetail"] = JSON["parse"](JSON["stringify"](sl));
+                this["balance"] = sl, this["betTime"] = sl, this["transactionStartTime"] = sl ? sl["tst"] : undefined, this["isBot"] = sl, this["totalBetAmount"] = sl, this["transactionId"] = sl, this["totalWinLossAmount"] = sl, this["gameDetail"] = JSON["parse"](JSON["stringify"](sl));
               }
             }),
             AY = xb["formatCurrency"],
@@ -5527,19 +5511,19 @@
           var AD = function (sl) {
               function sl(sl) {
                 var sl = sl["call"](this, sl) || this;
-                sl['si'] = [], sl['li'] = [], sl['ci'] = !0x1, sl['hi'] = !0x1, sl['ke'] = HX["launchType"] === xS["CARD"], sl['ti'] = HX["isPortrait"] || HX["isMobile"] ? Ho() : 0x58;
+                sl['si'] = [], sl['li'] = [], sl['ci'] = false, sl['hi'] = false, sl['ke'] = HX["launchType"] === xS["CARD"], sl['ti'] = HX["isPortrait"] || HX["isMobile"] ? Ho() : 0x58;
                 var sl = document["getElementById"]("game-history-container"),
                   sl = HX["isPortrait"] || HX["isMobile"] ? sl["offsetHeight"] : 0x280,
                   sl = Aq();
                 return sl["state"] = {
                   'viewState': xX["HistoryDetails"],
-                  'betDetailModel': void 0x0,
-                  'isLoading': !0x0,
+                  'betDetailModel': undefined,
+                  'isLoading': true,
                   'gameDetailComponent': null,
                   'pages': 0x0,
                   'pageIndex': 0x0,
                   'parentHeight': sl - sl['ti'],
-                  'noAnimation': !0x1,
+                  'noAnimation': false,
                   'detailsPageWidth': sl
                 }, sl['ui'] = sl['ui']["bind"](sl), sl['di'] = sl['di']["bind"](sl), sl['fi'] = sl['fi']["bind"](sl), sl['gi'] = sl['gi']["bind"](sl), sl['vi'] = sl['vi']["bind"](sl), sl['mi'] = sl['mi']["bind"](sl), sl['pi'] = sl['pi']["bind"](sl), sl['bi'] = sl['bi']["bind"](sl), sl['yi'] = function () {
                   return function () {
@@ -5553,11 +5537,11 @@
                   }
                 }, sl['_i'] = function () {
                   return function () {
-                    return !0x1;
+                    return false;
                   };
                 }, sl['wi'] = function () {
                   {
-                    return !0x0;
+                    return true;
                   }
                 }, sl;
               }
@@ -5566,7 +5550,7 @@
                   var sl = hA[this["props"]["gameId"]];
                   var sl = {};
                   sl["pageIndex"] = 0x0;
-                  sl["noAnimation"] = !0x0;
+                  sl["noAnimation"] = true;
                   sl["viewState"] = xX["HistoryDetails"];
                   this['Ci'](sl), this["setState"](sl);
                 }
@@ -5575,7 +5559,7 @@
               }, sl["prototype"]["componentWillUnmount"] = function () {
                 var sl = this['Si'],
                   sl = this['zi'];
-                sl && sl(), sl && sl(), this['Si'] = void 0x0, this['zi'] = void 0x0, HX["context"]["event"]["off"]("Shell.Scaled", this['ii'], this);
+                sl && sl(), sl && sl(), this['Si'] = undefined, this['zi'] = undefined, HX["context"]["event"]["off"]("Shell.Scaled", this['ii'], this);
               }, sl["prototype"]["render"] = function () {
                 var sl = this["state"]["viewState"],
                   sl = {
@@ -5594,7 +5578,7 @@
               }, sl["prototype"]['fi'] = function (sl) {
                 -0x1 === sl ? this["props"]["navLeftButtonCallback"] && this["props"]["navLeftButtonCallback"]() : this["setState"]({
                   'pageIndex': sl,
-                  'noAnimation': !0x1
+                  'noAnimation': false
                 });
               }, sl["prototype"]['di'] = function () {
                 var sl = this["state"]["pageIndex"];
@@ -5619,19 +5603,19 @@
                 var sl = {};
                 sl["viewState"] = xX["HistoryDetails"];
                 sl["pageIndex"] = sl;
-                sl["noAnimation"] = !0x0;
+                sl["noAnimation"] = true;
                 this["setState"](sl);
               }, sl["prototype"]['gi'] = function () {
                 this["state"]["viewState"] === xX["HistoryFreeSpinDetails"] && this["setState"]({
                   'viewState': xX["HistoryDetails"],
-                  'noAnimation': !0x0
+                  'noAnimation': true
                 }), this["props"]["navLeftButtonCallback"] && this["props"]["navLeftButtonCallback"]();
               }, sl["prototype"]['vi'] = function () {
                 this["props"]["navRightButtonCallback"] && this["props"]["navRightButtonCallback"]();
               }, sl["prototype"]['ki'] = function (sl) {
                 var sl = this,
                   sl = this["props"]["betDetailsRaw"]["length"] > 0x5 ? 0.5 : 0x0;
-                this['ji'] = void 0x0, this["state"]["isLoading"] ? this['Oi']() : this['Ni'](), this['Si'] = Al(sl)(function () {
+                this['ji'] = undefined, this["state"]["isLoading"] ? this['Oi']() : this['Ni'](), this['Si'] = Al(sl)(function () {
                   {
                     sl['Ti'](sl);
                   }
@@ -5639,7 +5623,7 @@
               }, sl["prototype"]['Ti'] = function (sl) {
                 var sl = hA[sl],
                   sl = hd[sl];
-                this['Si'] = void 0x0, sl ? (this['Mi'](sl), this['Ci'](sl), sl ? (this["setState"]({
+                this['Si'] = undefined, sl ? (this['Mi'](sl), this['Ci'](sl), sl ? (this["setState"]({
                   'gameDetailComponent': sl
                 }), this['Pi'](0.25)) : this['Li'](sl)) : this['Fi']();
               }, sl["prototype"]['Fi'] = function () {
@@ -5659,7 +5643,7 @@
                     sl = new sl(sl["Domain"], sl["GameLoadResourceError"]);
                   var sl = {};
                   sl["gameDetailComponent"] = null;
-                  HY("History Game Details Load Module Error", sl["domain"], sl["code"], void 0x0, "gameId: "["concat"](sl["props"]["gameId"])), sl['ji'] = sl, sl["setState"](sl), sl['Bi']();
+                  HY("History Game Details Load Module Error", sl["domain"], sl["code"], undefined, "gameId: "["concat"](sl["props"]["gameId"])), sl['ji'] = sl, sl["setState"](sl), sl['Bi']();
                 });
               }, sl["prototype"]['Ii'] = function (sl) {
                 {
@@ -5682,7 +5666,7 @@
                     }
                     var sl = {};
                     sl["gameDetailComponent"] = null;
-                    HY("History Game Details Init Module Error", sl["domain"], sl["code"], void 0x0, "gameId: "["concat"](sl["props"]["gameId"])), sl['ji'] = sl, sl["setState"](sl), sl['Bi']();
+                    HY("History Game Details Init Module Error", sl["domain"], sl["code"], undefined, "gameId: "["concat"](sl["props"]["gameId"])), sl['ji'] = sl, sl["setState"](sl), sl['Bi']();
                   }
                 });
               }, sl["prototype"]['Mi'] = function (sl) {
@@ -5811,8 +5795,8 @@
                       'showTitle': this['yi'](sl, sl),
                       'titleClickCallback': this['pi'],
                       'currentState': sl,
-                      'currentCalendarType': void 0x0,
-                      'currentCalendarState': void 0x0,
+                      'currentCalendarType': undefined,
+                      'currentCalendarState': undefined,
                       'leftButtonClickedCallback': this['gi'],
                       'rightButtonClickedCallback': this['vi'],
                       'showDropDownArrow': this['_i'](sl, sl),
@@ -5914,7 +5898,7 @@
                 sl["key"] = "loading-page";
                 sl["isHorizontal"] = !HX["isPortrait"];
                 sl["isMobile"] = HX["isMobile"];
-                sl["fromSide"] = !0x0;
+                sl["fromSide"] = true;
                 return !sl["gameDetailComponent"] || sl || this['ji'] ? !sl && this['ji'] ? (sl["push"](P["createElement"](hg, {
                   'key': "game-history-view-error",
                   'error': this['ji'],
@@ -5936,21 +5920,21 @@
                 this["setState"](sl);
               }, sl["prototype"]['Ni'] = function () {
                 var sl = {};
-                sl["isLoading"] = !0x0;
-                this['ci'] = !0x1, this['hi'] = !0x1, this["setState"](sl), this['Oi']();
+                sl["isLoading"] = true;
+                this['ci'] = false, this['hi'] = false, this["setState"](sl), this['Oi']();
               }, sl["prototype"]['Oi'] = function (sl) {
                 var sl = this;
-                void 0x0 === sl && (sl = 0x1), this['zi'] = Al(sl)(function () {
-                  sl['ci'] = !0x0, sl['Bi']();
+                undefined === sl && (sl = 0x1), this['zi'] = Al(sl)(function () {
+                  sl['ci'] = true, sl['Bi']();
                 });
               }, sl["prototype"]['Pi'] = function (sl) {
-                void 0x0 === sl && (sl = 0x0);
+                undefined === sl && (sl = 0x0);
                 var sl = this['zi'];
-                sl && sl(), this['zi'] = void 0x0, this['Oi'](sl);
+                sl && sl(), this['zi'] = undefined, this['Oi'](sl);
               }, sl["prototype"]['Bi'] = function () {
                 var sl = {};
-                sl["isLoading"] = !0x1;
-                this['hi'] = !0x0, this['ci'] && this['hi'] && this["setState"](sl);
+                sl["isLoading"] = false;
+                this['hi'] = true, this['ci'] && this['hi'] && this["setState"](sl);
               }, sl;
             }(P["PureComponent"]),
             Ao = shell["I18n"];
@@ -6243,7 +6227,7 @@
             return null;
           }
           function d1(sl, sl) {
-            if (void 0x0 === sl && (sl = 0xe), sl["length"] > sl) {
+            if (undefined === sl && (sl = 0xe), sl["length"] > sl) {
               var sl = Math["floor"](sl["length"] / 0x2);
               return sl["slice"](0x0, sl) + '\x20' + sl["slice"](sl, sl["length"]);
             }
@@ -6253,8 +6237,8 @@
             function sl(sl) {
               var sl = sl["call"](this, sl) || this;
               var sl = {};
-              sl["hover"] = !0x1;
-              sl["active"] = !0x1;
+              sl["hover"] = false;
+              sl["active"] = false;
               return sl["state"] = sl, sl['Yi'] = sl['Yi']["bind"](sl), sl['Zi'] = sl['Zi']["bind"](sl), sl['pe'] = sl['pe']["bind"](sl), sl['be'] = sl['be']["bind"](sl), sl['ye'] = sl['ye']["bind"](sl), sl['$e'] = sl['$e']["bind"](sl), sl['Qe'] = sl['Qe']["bind"](sl), sl['$i'] = sl['$i']["bind"](sl), sl['Qi'] = sl['Qi']["bind"](sl), sl['tn'] = sl['tn']["bind"](sl), sl['en'] = sl['en']["bind"](sl), sl['nn'] = sl['nn']["bind"](sl), sl['rn'] = sl['rn']["bind"](sl), sl['an'] = sl['an']["bind"](sl), sl;
             }
             return xF(sl, sl), sl["prototype"]["render"] = function () {
@@ -6399,37 +6383,37 @@
               }));
             }, sl["prototype"]['Zi'] = function () {
               var sl = {};
-              sl["hover"] = !0x0;
+              sl["hover"] = true;
               this["setState"](sl);
             }, sl["prototype"]['pe'] = function () {
               var sl = {};
-              sl["hover"] = !0x1;
-              sl["active"] = !0x1;
+              sl["hover"] = false;
+              sl["active"] = false;
               this["setState"](sl);
             }, sl["prototype"]['be'] = function () {
               var sl = {};
-              sl["active"] = !0x0;
+              sl["active"] = true;
               this["setState"](sl);
             }, sl["prototype"]['ye'] = function () {
               var sl = {};
-              sl["active"] = !0x1;
+              sl["active"] = false;
               this["setState"](sl);
             }, sl["prototype"]['$e'] = function () {
               var sl = this;
               this['hn'] = xb["timeoutCallback"](0.3)(function () {
                 var sl = {};
-                sl["active"] = !0x0;
+                sl["active"] = true;
                 sl["setState"](sl);
               });
             }, sl["prototype"]['Qe'] = function () {
               var sl = {};
-              sl["active"] = !0x1;
+              sl["active"] = false;
               this["setState"](sl);
             }, sl["prototype"]['$i'] = function () {
               {
                 var sl = {};
-                sl["active"] = !0x1;
-                this['hn'] && this['hn'](), this['hn'] = void 0x0, this["state"]["active"] && this["setState"](sl);
+                sl["active"] = false;
+                this['hn'] && this['hn'](), this['hn'] = undefined, this["state"]["active"] && this["setState"](sl);
               }
             }, sl["prototype"]['an'] = function () {
               {
@@ -6448,7 +6432,7 @@
             }, sl["prototype"]['cn'] = function () {
               {
                 var sl = this['un'];
-                sl && sl(), this['un'] = void 0x0;
+                sl && sl(), this['un'] = undefined;
               }
             }, sl["prototype"]['dn'] = function () {
               var sl = this['fn'](),
@@ -6469,9 +6453,9 @@
             function sl(sl) {
               var sl = sl["call"](this, sl) || this;
               var sl = {};
-              sl["hover"] = !0x1;
-              sl["active"] = !0x1;
-              sl["isFade"] = !0x1;
+              sl["hover"] = false;
+              sl["active"] = false;
+              sl["isFade"] = false;
               return sl["state"] = sl, sl['gn'] = sl['gn']["bind"](sl), sl['Zi'] = sl['Zi']["bind"](sl), sl['pe'] = sl['pe']["bind"](sl), sl['be'] = sl['be']["bind"](sl), sl['ye'] = sl['ye']["bind"](sl), sl['$e'] = sl['$e']["bind"](sl), sl['Qe'] = sl['Qe']["bind"](sl), sl;
             }
             xF(sl, sl), sl["prototype"]["close"] = function () {
@@ -6567,28 +6551,28 @@
               }
             }, sl["prototype"]['Zi'] = function () {
               var sl = {};
-              sl["hover"] = !0x0;
+              sl["hover"] = true;
               this["setState"](sl);
             }, sl["prototype"]['pe'] = function () {
               var sl = {};
-              sl["hover"] = !0x1;
-              sl["active"] = !0x1;
+              sl["hover"] = false;
+              sl["active"] = false;
               this["setState"](sl);
             }, sl["prototype"]['be'] = function () {
               var sl = {};
-              sl["active"] = !0x0;
+              sl["active"] = true;
               this["setState"](sl);
             }, sl["prototype"]['ye'] = function () {
               var sl = {};
-              sl["active"] = !0x1;
+              sl["active"] = false;
               this["setState"](sl);
             }, sl["prototype"]['$e'] = function () {
               var sl = {};
-              sl["active"] = !0x0;
+              sl["active"] = true;
               this["setState"](sl);
             }, sl["prototype"]['Qe'] = function () {
               var sl = {};
-              sl["active"] = !0x1;
+              sl["active"] = false;
               this["setState"](sl);
             }, sl["prototype"]['gn'] = function () {
               var sl = this,
@@ -6619,14 +6603,14 @@
               xb["timeoutCallback"](0.1)(this["props"]["onCloseCallback"]);
             }, sl["prototype"]['pn'] = function () {
               var sl = {};
-              sl["isFade"] = !0x0;
+              sl["isFade"] = true;
               this["setState"](sl);
             }, sl["prototype"]['xn'] = function () {
               var sl = this['mn'];
-              sl && sl(), this['mn'] = void 0x0;
+              sl && sl(), this['mn'] = undefined;
             }, sl["prototype"]['_n'] = function () {
               var sl = this['yn'];
-              sl && sl(), this['yn'] = void 0x0;
+              sl && sl(), this['yn'] = undefined;
             };
           }(P["Component"]);
           var d3,
@@ -6635,13 +6619,13 @@
               function sl(sl) {
                 var sl = sl["call"](this, sl) || this;
                 var sl = {};
-                sl["scrollToTop"] = !0x1;
-                sl["showScrollToTopButton"] = !0x1;
+                sl["scrollToTop"] = false;
+                sl["showScrollToTopButton"] = false;
                 sl["currentDataPage"] = sl["historyItemPageCount"] - 0x1;
                 sl["currentDataPageProps"] = sl["historyItemPageCount"];
                 sl["copiedIndex"] = -0x1;
-                sl["propsChanged"] = !0x1;
-                return sl['wn'] = !0x1, sl['Cn'] = !0x0, sl['kn'] = !0x1, sl['Sn'] = !0x1, sl['zn'] = 0x0, sl["state"] = sl, sl['Dn'] = P["createRef"](), sl['Hn'] = P["createRef"](), sl['jn'] = sl['jn']["bind"](sl), sl['On'] = sl['On']["bind"](sl), sl['Nn'] = sl['Nn']["bind"](sl), sl['Tn'] = sl['Tn']["bind"](sl), sl['Mn'] = sl['Mn']["bind"](sl), sl['zn'] = !HX["isPortrait"] && HX["isMobile"] ? 0xa : 0xf, sl;
+                sl["propsChanged"] = false;
+                return sl['wn'] = false, sl['Cn'] = true, sl['kn'] = false, sl['Sn'] = false, sl['zn'] = 0x0, sl["state"] = sl, sl['Dn'] = P["createRef"](), sl['Hn'] = P["createRef"](), sl['jn'] = sl['jn']["bind"](sl), sl['On'] = sl['On']["bind"](sl), sl['Nn'] = sl['Nn']["bind"](sl), sl['Tn'] = sl['Tn']["bind"](sl), sl['Mn'] = sl['Mn']["bind"](sl), sl['zn'] = !HX["isPortrait"] && HX["isMobile"] ? 0xa : 0xf, sl;
               }
               return xF(sl, sl), sl["prototype"]["componentDidMount"] = function () {
                 this["props"]["reportScrollContainerHeight"] && this['Hn']["current"] && this["props"]["reportScrollContainerHeight"](this['Hn']["current"]["scrollHeight"]), HX["isMobile"] && Hw() && 0x5a === shell["environment"]["getOrientation"]() && document["querySelectorAll"](".rcs-custom-scroll .rcs-inner-container")["forEach"](function (sl) {
@@ -6651,11 +6635,11 @@
                 return sl["historyItemPageCount"] !== sl["currentDataPageProps"] ? {
                   'currentDataPage': sl["historyItemPageCount"] - 0x1,
                   'currentDataPageProps': sl["historyItemPageCount"],
-                  'propsChanged': !0x0
+                  'propsChanged': true
                 } : null;
               }, sl["prototype"]["shouldComponentUpdate"] = function (sl, sl) {
                 {
-                  return !0x0 === sl["freezeScroll"] || sl["selectedIndex"] !== this["props"]["selectedIndex"] ? this['Sn'] = !0x0 : this['Sn'] = !0x1, sl["freezeScroll"] !== this["props"]["freezeScroll"] || sl["selectedIndex"] !== this["props"]["selectedIndex"] || sl["historyItemPageCount"] !== this["props"]["historyItemPageCount"] || sl["copiedIndex"] !== this["state"]["copiedIndex"] || sl["currentDataPage"] !== this["state"]["currentDataPage"] || sl["scrollToTop"] !== this["state"]["scrollToTop"] || sl["showScrollToTopButton"] !== this["state"]["showScrollToTopButton"];
+                  return true === sl["freezeScroll"] || sl["selectedIndex"] !== this["props"]["selectedIndex"] ? this['Sn'] = true : this['Sn'] = false, sl["freezeScroll"] !== this["props"]["freezeScroll"] || sl["selectedIndex"] !== this["props"]["selectedIndex"] || sl["historyItemPageCount"] !== this["props"]["historyItemPageCount"] || sl["copiedIndex"] !== this["state"]["copiedIndex"] || sl["currentDataPage"] !== this["state"]["currentDataPage"] || sl["scrollToTop"] !== this["state"]["scrollToTop"] || sl["showScrollToTopButton"] !== this["state"]["showScrollToTopButton"];
                 }
               }, sl["prototype"]["render"] = function () {
                 var sl = this;
@@ -6675,15 +6659,15 @@
                   'heightRelativeToParent': "inherit",
                   'onScroll': function (sl) {
                     var xM = {};
-                    xM["scrollToTop"] = !0x1;
+                    xM["scrollToTop"] = false;
                     sl && sl["setState"](xM);
                     var sl = sl["target"],
                       sl = sl["scrollTop"],
                       sl = sl["scrollHeight"],
                       sl = sl['Dn']["current"] ? sl / (sl - sl['Dn']["current"]["clientHeight"]) * 0x64 : 0x0;
                     var sl = {};
-                    sl["propsChanged"] = !0x1;
-                    sl['vn'](), 0x0 !== sl || sl["state"]["propsChanged"] || (sl['Bn'](), sl['kn'] = !0x1), sl && sl["setState"](sl), sl > 0x1e && 0x1 === sl || sl > 0x1 ? sl['Tn']() : sl['Mn'](), sl >= 0x63 && (sl + 0x1 === sl["props"]["historyItemPageCount"] ? (sl["props"]["hasLoadMore"] || (sl['kn'] = !0x0), sl["props"]["onBottomReachedCallback"] && sl["props"]["onBottomReachedCallback"]()) : parseInt(sl, 0xa) === sl - sl['Dn']["current"]["clientHeight"] && sl['Rn']());
+                    sl["propsChanged"] = false;
+                    sl['vn'](), 0x0 !== sl || sl["state"]["propsChanged"] || (sl['Bn'](), sl['kn'] = false), sl && sl["setState"](sl), sl > 0x1e && 0x1 === sl || sl > 0x1 ? sl['Tn']() : sl['Mn'](), sl >= 0x63 && (sl + 0x1 === sl["props"]["historyItemPageCount"] ? (sl["props"]["hasLoadMore"] || (sl['kn'] = true), sl["props"]["onBottomReachedCallback"] && sl["props"]["onBottomReachedCallback"]()) : parseInt(sl, 0xa) === sl - sl['Dn']["current"]["clientHeight"] && sl['Rn']());
                   },
                   'freezePosition': this["props"]["freezeScroll"],
                   'scrollTo': sl
@@ -6722,7 +6706,7 @@
                         'useSmallFont': sl['wn'],
                         'isSelected': sl["props"]["selectedIndex"] === sl,
                         'showCopyButton': sl['On'],
-                        'isClickable': !0x0,
+                        'isClickable': true,
                         'isHighlight': sl === sl,
                         'betDetailsRaw': sl["betDetailsRaw"]
                       }));
@@ -6745,19 +6729,19 @@
                 var sl = this["state"]["currentDataPage"];
                 var sl = {};
                 sl["currentDataPage"] = sl + 0x1;
-                this["setState"](sl), this['Cn'] = !0x0;
+                this["setState"](sl), this['Cn'] = true;
               }, sl["prototype"]['Bn'] = function () {
                 var sl = this["state"]["currentDataPage"];
                 sl > 0x2 && (this["setState"]({
                   'currentDataPage': sl - 0x1
-                }), this['Cn'] = !0x1);
+                }), this['Cn'] = false);
               }, sl["prototype"]['Mn'] = function () {
                 var sl = {};
-                sl["showScrollToTopButton"] = !0x1;
+                sl["showScrollToTopButton"] = false;
                 HX["isPortrait"] || this["state"]["showScrollToTopButton"] && this["setState"](sl);
               }, sl["prototype"]['Tn'] = function () {
                 var sl = {};
-                sl["showScrollToTopButton"] = !0x0;
+                sl["showScrollToTopButton"] = true;
                 HX["isPortrait"] || this["state"]["showScrollToTopButton"] || this["setState"](sl);
               }, sl["prototype"]['In'] = function () {
                 if (!HX["isPortrait"] && this["state"]["showScrollToTopButton"] && !this["props"]["freezeScroll"]) {
@@ -6785,24 +6769,24 @@
               }, sl["prototype"]['jn'] = function (sl) {
                 this["props"]["onItemClickedCallback"](sl);
               }, sl["prototype"]['Pn'] = function () {
-                var sl = !0x1;
+                var sl = false;
                 return this["props"]["model"]["betHistoryItems"]["forEach"](function (sl) {
                   sl = sl["grandTotalBetAmount"] > 9999.99 || sl["grandTotalWinLossAmount"] > 9999.99 || sl;
                 }), sl;
               }, sl["prototype"]['Nn'] = function () {
                 var sl = {};
-                sl["scrollToTop"] = !0x0;
+                sl["scrollToTop"] = true;
                 sl["currentDataPage"] = 0x1;
                 this["setState"](sl);
               }, sl["prototype"]['On'] = function () {}, sl["prototype"]['vn'] = function () {
                 {
-                  this['An'] && (this['An']["close"](), this['An'] = void 0x0);
+                  this['An'] && (this['An']["close"](), this['An'] = undefined);
                 }
               }, sl["prototype"]['En'] = function (sl) {
                 var sl = this;
                 var sl = {};
                 sl["copiedIndex"] = sl;
-                this['An'] = void 0x0, this["setState"](sl), xb["timeoutCallback"](0x2)(function () {
+                this['An'] = undefined, this["setState"](sl), xb["timeoutCallback"](0x2)(function () {
                   var sl = {};
                   sl["copiedIndex"] = -0x1;
                   sl["setState"](sl);
@@ -6812,27 +6796,27 @@
             d6 = xb["timeoutCallback"];
           function d7(sl) {
             var sl = U(null),
-              sl = !0x1;
+              sl = false;
             d4 = sl["scrollUpThreshold"];
             var sl = {};
-            sl["capture"] = !0x0;
-            sl["passive"] = !0x1;
+            sl["capture"] = true;
+            sl["passive"] = false;
             var sl = xk(W(0x0), 0x2),
               sl = sl[0x0],
               sl = sl[0x1],
-              sl = xk(W(!0x1), 0x2),
+              sl = xk(W(false), 0x2),
               sl = sl[0x0],
               sl = sl[0x1],
-              sl = xk(W(!0x1), 0x2),
+              sl = xk(W(false), 0x2),
               sl = sl[0x0],
               xM = sl[0x1],
-              sl = xk(W(!0x0), 0x2),
+              sl = xk(W(true), 0x2),
               sl = sl[0x0],
               sl = sl[0x1],
               sl = function () {
                 {
                   sl(0x0), d6(0x0)(function () {
-                    sl(!0x0);
+                    sl(true);
                   });
                 }
               },
@@ -6846,11 +6830,11 @@
                       jg = sl["cancel"],
                       jA = Math["abs"](jh),
                       jh = jh;
-                    !HX["isMobile"] || shell["environment"]["isMac"]() || HX["isPortrait"] || shell["environment"]["getOrientation"]() !== xV["PORTRAIT"] || (jA = Math["abs"](sl), jh = -sl), !jE && sl["hasLoadMore"] && d8(jA) ? sl = !0x0 : (sl["current"]["classList"]["remove"]("transition-transform-on"), jh < 0x0 ? (sl(!0x1), d8(jA) ? (sl["hasLoadMore"] && sl["onScrollThresholdReached"] && sl["onScrollThresholdReached"](!0x0), sl(-d4)) : (sl["hasLoadMore"] && (sl["onScrollThresholdReached"] && sl["onScrollThresholdReached"](!0x1), sl && (sl = !0x1)), sl(jh))) : jh > 0x0 && (sl(!0x1), jg()));
+                    !HX["isMobile"] || shell["environment"]["isMac"]() || HX["isPortrait"] || shell["environment"]["getOrientation"]() !== xV["PORTRAIT"] || (jA = Math["abs"](sl), jh = -sl), !jE && sl["hasLoadMore"] && d8(jA) ? sl = true : (sl["current"]["classList"]["remove"]("transition-transform-on"), jh < 0x0 ? (sl(false), d8(jA) ? (sl["hasLoadMore"] && sl["onScrollThresholdReached"] && sl["onScrollThresholdReached"](true), sl(-d4)) : (sl["hasLoadMore"] && (sl["onScrollThresholdReached"] && sl["onScrollThresholdReached"](false), sl && (sl = false)), sl(jh))) : jh > 0x0 && (sl(false), jg()));
                   }
                 },
                 'onDragEnd': function () {
-                  sl(!0x1), sl["current"] && sl["current"]["classList"]["add"]("transition-transform-on"), sl ? (sl(-d4), sl["onExecuteLoadMoreCallback"] && sl["onExecuteLoadMoreCallback"](function () {
+                  sl(false), sl["current"] && sl["current"]["classList"]["add"]("transition-transform-on"), sl ? (sl(-d4), sl["onExecuteLoadMoreCallback"] && sl["onExecuteLoadMoreCallback"](function () {
                     sl();
                   })) : sl();
                 },
@@ -6863,19 +6847,19 @@
                     jE = jE > 0x0 && "firefox" === shell["environment"]["getBrowserBaseType"]() ? 0xc8 : jE;
                     var jg = Math["abs"](jE);
                     if (!sl) {
-                      if (xM(!0x1), sl["current"] && sl["current"]["classList"]["add"]("transition-transform-on"), jE > 0x0 && sl["hasLoadMore"] && d8(jg)) return sl(!0x1), sl(-d4), void (sl["onExecuteLoadMoreCallback"] && sl["onExecuteLoadMoreCallback"](function () {
+                      if (xM(false), sl["current"] && sl["current"]["classList"]["add"]("transition-transform-on"), jE > 0x0 && sl["hasLoadMore"] && d8(jg)) return sl(false), sl(-d4), void (sl["onExecuteLoadMoreCallback"] && sl["onExecuteLoadMoreCallback"](function () {
                         sl();
                       }));
-                      jE > 0x0 ? d8(jg) ? (sl(!0x1), sl(-d4), d6(0.5)(function () {
+                      jE > 0x0 ? d8(jg) ? (sl(false), sl(-d4), d6(0.5)(function () {
                         sl();
                       })) : (sl(-jE), d3 = d6(0.2)(function () {
-                        sl(), d3 = void 0x0;
+                        sl(), d3 = undefined;
                       })) : jE < 0x0 && sl();
                     }
                   }
                 },
                 'onMouseUp': function () {
-                  'ie' === shell["environment"]["getBrowserBaseType"]() && (sl || sl) && (sl(!0x1), xM(!0x1), sl(!0x0));
+                  'ie' === shell["environment"]["getBrowserBaseType"]() && (sl || sl) && (sl(false), xM(false), sl(true));
                 }
               }, {
                 'domTarget': sl,
@@ -6896,7 +6880,7 @@
               'selectedIndex': sl["selectedIndex"],
               'freezeScroll': !sl,
               'onBottomReachedCallback': function () {
-                HX["isMobile"] ? !sl && sl(!0x0) : !sl && xM(!0x0);
+                HX["isMobile"] ? !sl && sl(true) : !sl && xM(true);
               },
               'reportScrollContainerHeight': sl["reportScrollContainerHeight"]
             }));
@@ -6914,9 +6898,9 @@
             sl['id'] = "load-more-container";
             sl["style"] = sl;
             var sl = {};
-            sl["loadMore"] = !0x0;
+            sl["loadMore"] = true;
             sl["isHorizontal"] = !HX["isPortrait"];
-            sl["isFade"] = !0x0;
+            sl["isFade"] = true;
             sl["isMobile"] = HX["isMobile"];
             var sl = {};
             sl["height"] = sl;
@@ -6965,17 +6949,17 @@
                 return HX["isPortrait"] ? sl['Yn'] = HO() + Ho() : sl['Yn'] = HX["isMobile"] ? 0x70 : 0xe9, sl["state"] = {
                   'containerHeight': sl["offsetHeight"] - sl['Yn'],
                   'scrollableHeight': 0x0,
-                  'isLoading': !0x1,
-                  'showReleaseToLoad': !0x1,
+                  'isLoading': false,
+                  'showReleaseToLoad': false,
                   'pagesRemaining': sl
-                }, sl['Gn'] = sl['Gn']["bind"](sl), sl['Un'] = sl['Un']["bind"](sl), sl['Vn'] = sl['Vn']["bind"](sl), sl['qn'] = sl['qn']["bind"](sl), sl['Xn'] = void 0x0, sl;
+                }, sl['Gn'] = sl['Gn']["bind"](sl), sl['Un'] = sl['Un']["bind"](sl), sl['Vn'] = sl['Vn']["bind"](sl), sl['qn'] = sl['qn']["bind"](sl), sl['Xn'] = undefined, sl;
               }
               return xF(sl, sl), sl["prototype"]["componentDidMount"] = function () {
                 HX["context"]["event"]['on']("Shell.Scaled", this['ii'], this);
               }, sl["prototype"]["componentWillUnmount"] = function () {
                 HX["context"]["event"]["off"]("Shell.Scaled", this['ii'], this);
                 var sl = this['Xn'];
-                this['Xn'] = void 0x0, sl && sl();
+                this['Xn'] = undefined, sl && sl();
               }, sl["prototype"]["render"] = function () {
                 var sl = this["state"],
                   sl = sl["pagesRemaining"],
@@ -7043,17 +7027,17 @@
                   {
                     var sl = sl['Wn'] - (sl["props"]["model"]["betHistoryPageNumber"] - 0x1);
                     var sl = {};
-                    sl["isLoading"] = !0x1;
+                    sl["isLoading"] = false;
                     sl["pagesRemaining"] = sl <= 0x0 ? 0x0 : sl;
-                    sl["setState"](sl), sl['Xn'] = void 0x0, sl && sl();
+                    sl["setState"](sl), sl['Xn'] = undefined, sl && sl();
                   }
                 };
               }, sl["prototype"]['Kn'] = function () {
                 var sl = this;
                 return function (sl) {
                   var sl = {};
-                  sl["isLoading"] = !0x0;
-                  sl["showReleaseToLoad"] = !0x1;
+                  sl["isLoading"] = true;
+                  sl["showReleaseToLoad"] = false;
                   sl["setState"](sl), sl && sl();
                 };
               }, sl["prototype"]['ii'] = function (sl) {
@@ -7071,7 +7055,7 @@
               }, sl;
             }(P["Component"]);
           function dH(sl, sl, sl) {
-            if (void 0x0 === sl && (sl = 0x0), !sl["current"] || !sl["current"]) return 0x1;
+            if (undefined === sl && (sl = 0x0), !sl["current"] || !sl["current"]) return 0x1;
             var sl = sl["current"]["offsetWidth"],
               sl = sl["current"]["offsetWidth"] - sl,
               sl = 0x1;
@@ -7313,13 +7297,13 @@
                 },
                 'titleClickCallback': function () {},
                 'currentState': xX["HistoryDetails"],
-                'currentCalendarType': void 0x0,
-                'currentCalendarState': void 0x0,
+                'currentCalendarType': undefined,
+                'currentCalendarState': undefined,
                 'leftButtonClickedCallback': sl["navLeftButtonCallback"],
                 'rightButtonClickedCallback': function () {},
                 'showDropDownArrow': function () {
                   {
-                    return !0x1;
+                    return false;
                   }
                 }
               })));
@@ -7342,7 +7326,7 @@
                     'selectedIndex': 0x0,
                     'parentHeight': sl["offsetHeight"] - Ho(),
                     'imageUrl': '',
-                    'loadMoreInProgress': !0x1
+                    'loadMoreInProgress': false
                   }, sl['cr'] = sl['cr']["bind"](sl), sl['hr'] = sl['hr']["bind"](sl), sl['ur'] = sl['ur']["bind"](sl), sl['dr'] = sl['dr']["bind"](sl), sl['jn'] = sl['jn']["bind"](sl), sl['Gn'] = sl['Gn']["bind"](sl), sl;
                 }
               }
@@ -7366,7 +7350,7 @@
                 var sl = {};
                 sl["isFade"] = sl;
                 sl["onButtonClickCallback"] = this["props"]["quitCallback"];
-                sl["isHorizontal"] = !0x1;
+                sl["isHorizontal"] = false;
                 var sl = {};
                 sl['id'] = "game-list-view";
                 sl["className"] = "game-list-view-container";
@@ -7466,7 +7450,7 @@
                   'showTitle': function () {
                     return shell["I18n"]['t']("History.HistoryCalenderToday");
                   },
-                  'titleClickCallback': void 0x0,
+                  'titleClickCallback': undefined,
                   'currentState': sl,
                   'currentCalendarType': sl["calendarType"],
                   'currentCalendarState': sl,
@@ -7474,7 +7458,7 @@
                   'rightButtonClickedCallback': this['hr'],
                   'showDropDownArrow': function () {
                     {
-                      return !0x1;
+                      return false;
                     }
                   },
                   'calendarCustomDateConfig': sl["calendarCustomDateConfig"],
@@ -7574,10 +7558,10 @@
                     'enter': xM,
                     'leave': sl,
                     'onStart': function () {
-                      sl !== xX["HistoryDetails"] && sl['_r'](!0x0);
+                      sl !== xX["HistoryDetails"] && sl['_r'](true);
                     },
                     'onRest': function () {
-                      sl === xX["HistoryDetails"] && sl['_r'](!0x1);
+                      sl === xX["HistoryDetails"] && sl['_r'](false);
                     }
                   }, function (sl) {
                     {
@@ -7619,7 +7603,7 @@
                     sl = dQ['t']("History.HistoryCalenderWeek");
                     break;
                   case 0x3:
-                    sl = HN(this["state"]["model"]["calendarCustomDateConfig"]["startDate"], !0x0) + " - " + HN(this["state"]["model"]["calendarCustomDateConfig"]["endDate"], !0x0);
+                    sl = HN(this["state"]["model"]["calendarCustomDateConfig"]["startDate"], true) + " - " + HN(this["state"]["model"]["calendarCustomDateConfig"]["endDate"], true);
                 }
                 return sl;
               }, sl["prototype"]['ii'] = function (sl) {
@@ -7630,10 +7614,10 @@
               }, sl["prototype"]['Gn'] = function (sl) {
                 var sl = this;
                 var sl = {};
-                sl["loadMoreInProgress"] = !0x0;
+                sl["loadMoreInProgress"] = true;
                 this["setState"](sl), this["props"]["onLoadMoreRequestApi"] && this["props"]["onLoadMoreRequestApi"](function () {
                   var sl = {};
-                  sl["loadMoreInProgress"] = !0x1;
+                  sl["loadMoreInProgress"] = false;
                   sl["setState"](sl), sl && sl();
                 });
               }, sl["prototype"]['_r'] = function (sl) {
@@ -7668,16 +7652,16 @@
                 this["props"]["isLoading"] || this["props"]["onChangeCalendarTypeCallback"] && this["props"]["onChangeCalendarTypeCallback"](0x2);
               }, sl["prototype"]['Xi'] = function () {
                 var sl = {};
-                sl["isCustomOpen"] = !0x1;
+                sl["isCustomOpen"] = false;
                 var sl = {};
-                sl["isCustomOpen"] = !0x0;
+                sl["isCustomOpen"] = true;
                 this["props"]["isLoading"] || (this["state"]["isCustomOpen"] ? (this["props"]["onCalendarCustomClicked"] && this["props"]["onCalendarCustomClicked"](xJ["SELECTION"]), this["setState"](sl)) : (this["props"]["onCalendarCustomClicked"] && this["props"]["onCalendarCustomClicked"](xJ["CUSTOM"]), this["setState"](sl)));
               }, sl["prototype"]['G'] = function (sl, sl) {
                 var sl = {};
                 sl["startDate"] = sl;
                 sl["endDate"] = sl;
                 var sl = {};
-                sl["isCustomOpen"] = !0x1;
+                sl["isCustomOpen"] = false;
                 this["props"]["isLoading"] || (this["props"]["model"]["calendarCustomDateConfig"] = sl, this["props"]["onChangeCalendarTypeCallback"](0x3), this["setState"](sl));
               }, sl["prototype"]['Ji'] = function () {
                 var sl = {};
@@ -7763,7 +7747,7 @@
                 var sl = this["state"],
                   sl = sl["isCustomOpen"],
                   sl = sl["customScale"],
-                  sl = void 0x0;
+                  sl = undefined;
                 if (sl) {
                   var sl = {
                     'transform': "scale("["concat"](sl, ") translateX(-20px)")
@@ -7935,7 +7919,7 @@
                   var sl = HX["isMobile"] ? "translate(20px, 0px)" : "translate(25px, 5px)",
                     sl = {};
                   var sl = {};
-                  sl["isPortrait"] = !0x1;
+                  sl["isPortrait"] = false;
                   return shell["isRTLLanguage"]() && (sl["textAlign"] = "left", sl = HX["isMobile"] ? "translate(-20px, 0px)" : "translate(-25px, 5px)"), P["createElement"]("div", {
                     'className': "game-list-nav-image-container game-list-nav-image-container-slot",
                     'key': "game-list-nav-image-container-right",
@@ -7959,7 +7943,7 @@
             dS = function (sl) {
               function sl(sl) {
                 var sl = sl["call"](this, sl) || this;
-                sl['zr'] = !0x1;
+                sl['zr'] = false;
                 var sl = xX["HistoryList"],
                   sl = document["getElementById"]("game-history-container");
                 var sl = {};
@@ -8085,10 +8069,10 @@
                   var sl = {};
                   sl['id'] = "game-list-view-wrapper";
                   var sl = {};
-                  sl["isHorizontal"] = !0x0;
+                  sl["isHorizontal"] = true;
                   sl["isFade"] = sl;
                   sl["onButtonClickCallback"] = this["props"]["quitCallback"];
-                  sl["isMobile"] = !0x1;
+                  sl["isMobile"] = false;
                   return shell["isRTLLanguage"]() && (sl["right"] = "20%", sl["left"] = 0x0), P["createElement"]("div", {
                     'key': "game-list-view-loading",
                     'id': "game-list-view-loading",
@@ -8211,7 +8195,7 @@
                     sl = dc['t']("History.HistoryCalenderWeek");
                     break;
                   case 0x3:
-                    sl = HN(this["state"]["model"]["calendarCustomDateConfig"]["startDate"], !0x0) + " - " + HN(this["state"]["model"]["calendarCustomDateConfig"]["endDate"], !0x0);
+                    sl = HN(this["state"]["model"]["calendarCustomDateConfig"]["startDate"], true) + " - " + HN(this["state"]["model"]["calendarCustomDateConfig"]["endDate"], true);
                 }
                 return sl;
               }, sl["prototype"]['ii'] = function (sl) {
@@ -8223,8 +8207,8 @@
                 this["setState"](sl);
               }, sl["prototype"]['Dr'] = function (sl) {
                 var sl = this;
-                void 0x0 === sl && (sl = 0.15), this['zr'] || (this['zr'] = !0x0, dZ(sl)(function () {
-                  sl['zr'] = !0x1;
+                undefined === sl && (sl = 0.15), this['zr'] || (this['zr'] = true, dZ(sl)(function () {
+                  sl['zr'] = false;
                 }));
               }, sl;
             }(P["PureComponent"]);
@@ -8242,8 +8226,8 @@
               sl['y'] = 0x0;
               sl["width"] = 0x0;
               sl["height"] = 0x0;
-              sl["isRotate"] = !0x1;
-              sl["push"]((sl = sl["resolvePath"], sl = sl, sl = sl["colour"], void 0x0 === sl && (sl = sl), new Promise(function (sl, sl) {
+              sl["isRotate"] = false;
+              sl["push"]((sl = sl["resolvePath"], sl = sl, sl = sl["colour"], undefined === sl && (sl = sl), new Promise(function (sl, sl) {
                 var sl = new plugin["Loader"]();
                 sl["onLoad"] = function (xM) {
                   var sl = document["createElement"]("canvas"),
@@ -8277,10 +8261,10 @@
                 var sl = [];
                 sl["forEach"](function (sl) {
                   sl["push"](sl);
-                }), sl && sl(sl, void 0x0);
+                }), sl && sl(sl, undefined);
               }
             })["catch"](function (sl) {
-              sl && sl(void 0x0, sl);
+              sl && sl(undefined, sl);
             });
           }
           var dJ = {};
@@ -8295,7 +8279,7 @@
               sl = sl && new sl(sl["Domain"], sl["GameLoadResourceError"]),
               sl = sl["resource"]["resolveUrl"](sl);
             return new Promise(function (sl, xM) {
-              return __awaiter(sl, void 0x0, void 0x0, function () {
+              return __awaiter(sl, undefined, undefined, function () {
                 {
                   var sl;
                   return __generator(this, function (sl) {
@@ -8345,7 +8329,7 @@
             });
           }
           function dN(sl, sl, sl, sl, sl) {
-            return void 0x0 === sl && (sl = !0x1), new Promise(function (sl, sl) {
+            return undefined === sl && (sl = false), new Promise(function (sl, sl) {
               sl ? (sl = sl["replace"](/url\((.*?)\)/g, function () {
                 return "url(" + sl + ')';
               }), sl(sl)) : function (sl, sl) {
@@ -8355,7 +8339,7 @@
                   xM = sl && new sl(sl["Domain"], sl["GameLoadResourceError"]);
                 return new Promise(function (sl, sl) {
                   {
-                    return __awaiter(sl, void 0x0, void 0x0, function () {
+                    return __awaiter(sl, undefined, undefined, function () {
                       var sl;
                       return __generator(this, function (sl) {
                         switch (sl["label"]) {
@@ -8452,21 +8436,21 @@
           var dq = {};
           dq["cssFile"] = ".gh_theme_sprite{background-image:url(theme_sprite.png);background-repeat:no-repeat;display:inline-block;overflow:hidden}.gh_ic_nav_bonus_game{background-position:-1px -1px;height:48px;width:48px}.gh_ic_nav_collapse{background-position:-51px -1px;height:48px;width:48px}.gh_ic_nav_free_spin{background-position:-101px -1px;height:48px;width:48px}.gh_ic_nav_freehand{background-position:-151px -1px;height:48px;width:48px}.gh_ic_nav_gift{background-position:-201px -1px;height:48px;width:48px}.gh_ic_nav_jackpot{background-position:-251px -1px;height:48px;width:48px}.gh_ic_nav_super6{background-position:-301px -1px;height:48px;width:48px}";
           dq["imageFile"] = "sprite/theme_sprite.png";
-          dq["tint"] = void 0x0;
-          dq["appendHeader"] = !0x0;
+          dq["tint"] = undefined;
+          dq["appendHeader"] = true;
           var dD = {};
           dD["cssFile"] = ".gh_basic_sprite{background-image:url(basic_sprite.png);background-repeat:no-repeat;background-size:162px 112px;display:inline-block;overflow:hidden}.gh_ic_nav_calendar{background-position:-1px -1px;height:110px;min-height:110px;min-width:110px;width:110px}.gh_ic_nav_info_s{background-position:-113px -1px;height:48px;min-height:48px;min-width:48px;width:48px}";
           dD["imageFile"] = "sprite/basic_sprite.png";
-          dD["tint"] = void 0x0;
-          dD["appendHeader"] = !0x0;
+          dD["tint"] = undefined;
+          dD["appendHeader"] = true;
           var dz = {};
           dz["cssFile"] = ".gh_common_sprite{background-image:url(common_sprite.png);background-repeat:no-repeat;display:inline-block;overflow:hidden}.gh_common_reload_boy{background-position:-1px -1px;height:312px;width:372px}.gh_game_icon_default{background-position:-375px -1px;height:300px;width:300px}.gh_ic_nav_back{background-position:-677px -1px;height:108px;width:108px}";
           dz["imageFile"] = "sprite/common_sprite.png";
-          dz["appendHeader"] = !0x0;
+          dz["appendHeader"] = true;
           var dv = {};
           dv["cssFile"] = ".gh_card_history_sprite{background-image:url(card_history_sprite.png);background-repeat:no-repeat;display:inline-block;overflow:hidden}.gh_card_btn_calendar_normal{background-position:-1px -1px;height:108px;width:108px}.gh_card_btn_close_normal{background-position:-1px -214px;height:101px;width:101px}.gh_card_ic_nav_back_default{background-position:-1px -111px;height:101px;width:106px}";
           dv["imageFile"] = "sprite/card_history_sprite.png";
-          dv["appendHeader"] = !0x0;
+          dv["appendHeader"] = true;
           var dO = [".history .rcs-custom-scroll{min-height:0;min-width:0}.history .rcs-custom-scroll .rcs-outer-container{overflow:hidden}.history .rcs-custom-scroll .rcs-outer-container .rcs-positioning{position:relative;z-index:99}.history .rcs-custom-scroll .rcs-outer-container:hover .rcs-custom-scrollbar{opacity:1;transition-duration:.2s}.history.regular .rcs-custom-scroll .rcs-inner-container{-webkit-overflow-scrolling:touch;overflow-x:hidden;overflow-y:scroll}.history.mobile-horizontal .rcs-custom-scroll .rcs-inner-container{-webkit-overflow-scrolling:touch;overflow-y:scroll}.history .rcs-custom-scroll .rcs-inner-container:after{background-image:linear-gradient(180deg,rgba(0,0,0,.2),rgba(0,0,0,.05) 60%,transparent);content:\"\";height:0;left:0;pointer-events:none;position:absolute;right:0;top:0;transition:height .1s ease-in;will-change:height}.history .rcs-custom-scroll .rcs-inner-container.rcs-content-scrolled:after{height:5px;transition:height .15s ease-out}.history .rcs-custom-scroll.rcs-scroll-handle-dragged .rcs-inner-container{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.history .rcs-custom-scroll .rcs-custom-scrollbar{box-sizing:border-box;height:100%;opacity:0;padding:6px 0;pointer-events:none;position:absolute;right:3px;transition:opacity .4s ease-out;width:6px;will-change:opacity;z-index:1}.history .rcs-custom-scroll .rcs-custom-scrollbar.rcs-custom-scrollbar-rtl{left:3px;right:auto}.history .rcs-custom-scroll.rcs-scroll-handle-dragged .rcs-custom-scrollbar{opacity:1}.history .rcs-custom-scroll .rcs-custom-scroll-handle{position:absolute;top:0;width:100%}.history .rcs-custom-scroll .rcs-inner-handle{background-color:hsla(0,0%,46%,.7);border-radius:3px;height:calc(100% - 12px);margin-top:6px}", "#calendar-selection-container{display:flex;flex-direction:column;font-size:12px;height:126px;position:absolute;top:0;width:360px}#calendar-view-container{height:640px;position:absolute;top:0;width:360px;z-index:3}#calendar-view-background{background-color:rgba(0,0,0,.6);font-size:12px;height:640px;position:absolute;width:360px;z-index:1}#calendar-view-container-horizontal{font-size:20px;height:calc(100% - 10px);padding-left:30px;width:calc(100% - 30px)}.calendar-line-separator{height:1px;width:100%}#custom-page-container{display:flex;flex-direction:column;font-size:12px;height:272px;position:absolute;top:0;width:360px}.calendar-item-container{align-items:center;display:flex;transition:opacity .1s ease-out}.calendar-item-container:active{opacity:.5}.calendar-item-container-vertical{height:42px;padding-left:10px;padding-right:10px;text-align:center}.calendar-item-container-horizontal{height:60px;text-align:left}.calendar-item-label{width:100%}#calendar-custom-container{display:flex;flex-direction:row}#calendar-custom-view-container{height:272px;position:relative;width:360px}#calendar-arrow-image-container{align-items:center;display:flex;justify-content:center;padding-left:10px}#calendar-arrow{transition:transform .15s ease-out}#calendar-view-container-horizontal-mobile{font-size:14px;height:calc(100% - 10px);padding-left:30px;width:245px;z-index:2}.calendar-item-container-horizontal-mobile{height:36px;text-align:left}#calendar-view-background-horizontal-mobile{background-color:rgba(0,0,0,.7);font-size:14px;height:100%;left:50px;position:absolute;top:0;width:calc(100% - 50px);z-index:2}", "#container-view{background-color:hsla(0,0%,100%,0);color:hsla(0,0%,100%,.6);font-size:14px;height:inherit;margin:0 auto;position:relative;width:inherit}", "#error-container{align-items:center;display:flex;flex-direction:column;height:100%;justify-content:center;width:100%}.error-container-vertical{font-size:14px;line-height:20px}.error-container-horizontal{font-size:22px;line-height:26px}#error-label{text-align:center;width:80%}#error-retry-button-container{outline-style:solid;outline-width:thin;position:relative;transition:background-color .1s ease-out}#error-retry-button-container:active{opacity:.5}.error-retry-button-container-card{background-image:linear-gradient(180deg,#fbe96f 30%,#ffe196 50%,#df9b19 90%);outline-style:none!important}#error-retry-button-container-card-close,.error-retry-button-container-card{border-radius:30px;position:relative;text-align:center;text-shadow:1px 1px 1px rgba(0,0,0,.3);transition:opacity .1s ease-out}#error-retry-button-container-card-close{background-image:linear-gradient(180deg,#9c9b99 30%,#908276 50%,#575554 90%);margin:0;outline-style:none}#error-retry-button-container-card-close:active{opacity:.5}.error-retry-button-container-vertical{height:32px;margin-top:5%;width:100px}.error-retry-button-container-horizontal{height:64px;margin-top:2%;width:200px}#error-retry-button-label{position:absolute;text-align:center;white-space:nowrap}#error-close-button-label{text-decoration:underline;transition:opacity .1s ease-out}#error-close-button-label:active{opacity:.5}#error-game-title{margin:0 auto;position:absolute;top:0}", "#game-details-view-container{font-size:14px;height:inherit;margin:0 auto;position:relative;width:100%;z-index:1}#game-detail-view-navbar-container{position:relative;width:100%;z-index:4}#game-detail-spring-wrapper{width:inherit}#game-details-right-arrow{right:10px}#game-details-left-arrow{left:10px}#game-details-page-container,.reset{position:relative}.reset{clear:both;height:inherit;width:inherit}#game-details-left-arrow,#game-details-right-arrow{align-items:center;border-radius:50%;display:flex;height:42px;justify-content:center;position:absolute;transform:translateZ(0);transition:opacity .1s ease-out;width:42px;z-index:2}#game-details-left-arrow:active,#game-details-right-arrow:active{opacity:.5}.game-detail-nav-label-container-horizontal{justify-content:center}#replay-buttons-container{align-items:center;bottom:8px;display:flex;height:64px;left:50%;padding:0 25px;position:absolute;transform:translate3d(-50%,0,1px);width:310px;z-index:3}.replay-icon-container{align-items:center;display:flex;height:32px;justify-content:center;width:32px}.replay-spin-label-wrapper{height:32px;position:relative;width:118px}.replay-spin-label{font-size:12px;font-weight:700;left:50%;line-height:32px;position:absolute;transform-origin:left center;white-space:nowrap}.replay-button-bg{border-radius:16px;display:flex;height:32px;width:150px}.replay-button-bg:active{opacity:.5}.replay-icon-bg{align-items:center;background-color:#fff;border-radius:50%;display:flex;height:21px;justify-content:center;transition:opacity .1s ease-out;width:21px}.replay-icon-triangle{border-style:solid;border-width:5px 0 5px 8.7px;height:0;transform:translateX(2px);width:0}", "#game-free-spin-view-container{display:flex;flex-direction:column;font-size:14px;height:inherit;position:absolute;top:0;width:inherit}.game-free-spin-list-item{display:flex;height:30px;padding:10px;transition:background-color .1s ease-out}.game-free-spin-type{padding-left:15px;padding-top:5px}.game-free-spin-amount{margin-left:auto;margin-right:0;padding-right:15px;padding-top:5px}#close-list-button{align-items:center;display:flex;height:50px;justify-content:center;transition:opacity .1s ease-out;width:inherit}#close-list-button:active{opacity:.3}#nav-drop-down-arrow{transform:scale(.6) translateX(-5px)}", ".transition-transform-on{transition:transform .15s ease-out}.transition-width-on{transition:width .26s cubic-bezier(.19,1,.22,1)}.game-list-column-container{align-items:center;display:flex;flex-direction:column;height:inherit;justify-content:center}.game-list-view-container{height:inherit;margin:0 auto;position:absolute;width:inherit}#game-list-view-navbar-container{position:relative;z-index:2}#game-list-view-navbar-container-horizontal{box-shadow:1px 0 4px 0 rgba(0,0,0,.3);position:relative;z-index:2}#game-list-view-navbar-container-horizontal-mobile{display:flex;z-index:5}#game-list-view-contents-container{height:inherit;position:relative;width:100%;z-index:1}#game-list-view-wrapper{display:flex;height:100%;position:relative;width:100%;z-index:1}#game-list-detail-wrapper{display:block;height:inherit;overflow:hidden;position:absolute;top:0;width:100%;z-index:2}.game-list-detail-wrapper-h{box-shadow:0 2px 10px 0 rgba(0,0,0,.5);height:640px!important;width:360px!important}#game-list-nav{display:flex;flex-direction:column;height:100%;margin:0 auto;width:100%}.game-list-nav-horizontal{flex-direction:row}.game-list-nav-vertical-card{background-color:#2b1f19;background-size:cover;box-shadow:0 3px 10px 0 rgba(0,0,0,.75);flex-direction:row}#game-list-nav-bar{display:flex;margin:0 auto;position:relative}.game-list-nav-bar-vertical{flex-direction:row;height:calc(100% - 2px);width:100%}.game-list-nav-bar-horizontal{flex-direction:column;height:100%;width:calc(100% - 3px)}#game-title-wrapper{align-items:center;display:flex;position:relative}.game-title-wrapper-vertical{justify-content:center;line-height:12px;min-height:12px;padding-top:4px;width:200px}.game-title-wrapper-horizontal{justify-content:flex-start;line-height:40px;min-height:40px;padding-top:14px;width:200px}.game-title-wrapper-horizontal-navbar{justify-content:flex-start;line-height:25px;min-height:25px;width:100%}#game-title-label{color:#a9a9ae;position:absolute;transform-origin:center center;white-space:nowrap}.game-title-label-vertical{left:0;margin:auto;right:0;text-align:center}.game-list-nav-image-container{align-items:center;display:flex;justify-content:center;transition:opacity .1s ease-out;width:22.22%}.game-list-nav-image-container:active{opacity:.5}.game-list-nav-image-container-slot{height:inherit}.game-list-nav-image-container-card{height:80%;justify-content:flex-start;padding-top:3%}.game-list-nav-image-container-disabled{opacity:.5}#game-list-nav-image-right{justify-content:center}.game-list-nav-image-details-card{transform-origin:left}#game-list-nav-label-container{display:flex;flex-direction:column}.game-list-nav-label-container-vertical{align-items:center;height:100%;justify-content:center;text-align:center;width:55.55%}.game-list-nav-label-container-horizontal{align-items:flex-start;height:100px;padding-left:8%;padding-top:76px;text-align:left}.game-list-nav-period-label{font-size:14px}.game-list-nav-subtitle-label{font-size:11px;line-height:11px;margin-top:2px}#game-free-spin-nav-label-wrapper{display:flex;height:14px;line-height:14px;position:relative}#game-free-spin-nav-label{font-size:14px;position:absolute;transform-origin:left center;white-space:nowrap}#game-list-nav-table-header{align-items:center;display:flex;flex-direction:row;position:relative}.game-list-nav-table-header-vertical{font-size:10px;height:36px;padding-left:20px;padding-right:10px}.game-list-nav-table-header-vertical>div:first-child,.game-list-nav-table-header-vertical>div:nth-child(2){width:23%}.game-list-nav-table-header-vertical>div:nth-child(3){justify-content:flex-end;width:22%}.game-list-nav-table-header-vertical>div:nth-child(4){justify-content:flex-end;width:25%}.game-list-nav-table-header-horizontal{font-size:20px;height:84px;line-height:24px;padding-left:30px;padding-right:5%}.game-list-nav-table-header-horizontal>div:first-child{width:20%}.game-list-nav-table-header-horizontal>div:nth-child(2){width:30%}.game-list-nav-table-header-horizontal>div:nth-child(3),.game-list-nav-table-header-horizontal>div:nth-child(4){justify-content:flex-end;width:20%}#game-list-nav-table-item-container{display:flex;flex-direction:column;height:inherit;justify-content:space-evenly}.game-list-nav-table-item{display:flex;height:18px}.game-list-nav-separator-vertical-slot{height:2px;width:100%}.game-list-nav-separator-vertical-card{height:4px;width:100%}.game-list-nav-separator-vertical-lobby{height:1px;width:100%}.game-list-nav-separator-horizontal{height:100%;width:1px}.game-list-nav-row-container{align-items:center;display:flex;flex-direction:row;height:20px;justify-content:center}.game-list-item-container{align-items:center;display:flex;flex-direction:row;transition:background-color .2s ease-out}.game-list-item-container-lobby{height:53px;margin-bottom:1px}.game-list-item-container-card{background:#0e0c0c linear-gradient(0deg,#0f0d0d 80%,#191616)}.game-list-item-container-vertical{font-size:10px;height:54px;padding-left:20px;padding-right:10px}.game-list-item-container-vertical>div:first-child{width:23%}.game-list-item-container-vertical>div:nth-child(2){width:24%}.game-list-item-container-vertical>div:nth-child(3){justify-content:flex-end;margin-left:11px;width:18%}.game-list-item-container-vertical>div:nth-child(4){justify-content:flex-end;margin-left:15px;width:20%}.game-list-item-container-vertical>div:nth-child(5){width:7%}.game-list-item-container-horizontal{font-size:20px;height:76px;line-height:24px;padding-left:30px;padding-right:5%}.game-list-item-container-horizontal>div:first-child{width:20%}.game-list-item-container-horizontal>div:nth-child(2){width:30%}.game-list-item-container-horizontal>div:nth-child(3),.game-list-item-container-horizontal>div:nth-child(4){justify-content:flex-end;width:20%}.game-list-item-container-horizontal>div:nth-child(5){align-items:center;width:10%}#game-list-item-arrow-image-container{align-items:center;display:flex;justify-content:center}.game-list-item-column-container{align-items:flex-start;display:flex;flex-direction:column;height:inherit;justify-content:center}.game-list-item-feature-container{display:flex;flex-direction:row;height:14px;transform:scale(.291);transform-origin:left top}.game-list-item{display:flex}.game-list-item-image-container{padding-right:5px}.game-list-item-collapse-info-label{font-size:30px;line-height:50px;transform-origin:left top;width:30px}.game-list-item-collapse-info{background-color:rgba(0,0,0,.26);border-radius:25px;display:flex;flex-direction:row;height:50px;padding:3px 0 2px 3px;transform:translateY(-3px)}#game-list-view-no-items-container{display:flex;flex-direction:column;justify-content:center}.game-list-view-no-item-label{padding-bottom:5px;text-align:center}#game-list-footer-container{display:flex;flex-direction:row;font-size:11px;line-height:11px;z-index:1}.game-list-footer-container-vertical{bottom:0;padding-left:20px;padding-right:10px;position:absolute;width:calc(100% - 30px)}.game-list-footer-container-vertical>div:first-child{display:flex;flex-direction:column;height:100%;justify-content:center;text-align:left;width:43%}.game-list-footer-container-vertical>div:nth-child(2),.game-list-footer-container-vertical>div:nth-child(3){width:25%}.game-list-footer-container-horizontal{height:147px;padding-left:30px;padding-right:5%;position:relative}.game-list-footer-container-horizontal>div:first-child{text-align:left;width:50%}.game-list-footer-container-horizontal>div:nth-child(2),.game-list-footer-container-horizontal>div:nth-child(3){text-align:right;width:20%}.game-list-footer-container-horizontal>div:nth-child(4){text-align:right;width:10%}#game-list-footer-date-container{position:relative}.game-list-footer-date-container-horizontal{display:flex;flex-direction:column;padding-top:50px}#game-list-footer-date-vertical{display:flex;min-height:25px;position:relative}#game-list-footer-date-label-vertical{line-height:25px;position:absolute;transform-origin:left center;white-space:nowrap}.game-list-footer-date-label-horizontal{font-size:30px;line-height:33px;transform-origin:left center;transition:font-size .2s cubic-bezier(.19,1,.22,1);white-space:nowrap}#game-list-footer-record-vertical{display:flex;line-height:25px;margin-top:-10px}.game-list-footer-record-horizontal{font-size:20px;line-height:normal}.game-list-footer-item{height:100%;position:relative}.game-list-footer-item-wrapper{margin-top:-5.5px;position:absolute;right:0;text-align:end;top:50%;transform-origin:right}#scroll-view{overflow:hidden;position:relative}#load-more-container{align-items:center;bottom:0;display:flex;height:80px;justify-content:center;position:absolute;width:inherit}#load-more-label{text-align:center;width:100%}#game-list-touch-prevention{height:inherit;position:absolute;top:0;width:inherit;z-index:5}#game-banner-container{background-color:#fff;position:absolute;width:100%}#game-banner-image{transform:translateY(-13%);width:100%}#game-banner-tint{background-color:rgba(0,0,0,.6);left:0;position:absolute;top:0;width:360px}#calendar-container{position:relative;z-index:3}#game-list-scroll-view-container{height:100%;width:100%}#scroll-to-top-background{align-items:center;border-radius:50%;box-shadow:0 2px 8px 2px rgba(0,0,0,.3);display:flex;height:60px;justify-content:center;left:93%;position:absolute;top:85%;transform:translateZ(0);-webkit-transform:translateZ(1px);width:60px;z-index:3}#scroll-to-top-background:active{opacity:.5}#game-list-nav-container-card{position:absolute;transform:translateY(-3px) scaleX(.3) scaleY(.45);transform-origin:top left}.gh-angle-vertical{border:solid #000;border-width:0 1px 1px 0;display:inline-block;padding:3px}.gh-angle-horizontal{border:solid #000;border-width:0 2px 2px 0;display:inline-block;padding:8px}.gh-angle-wrapper{align-items:center;display:flex;height:30px;justify-content:center;transform:translateY(4px);width:30px}.angle-right{transform:rotate(-45deg);-webkit-transform:rotate(-45deg)}.angle-left{transform:rotate(135deg);-webkit-transform:rotate(135deg)}.angle-up{transform:rotate(-135deg);-webkit-transform:rotate(-135deg)}.angle-down{transform:rotate(45deg);-webkit-transform:rotate(45deg)}.gh-arrow{height:2px;position:relative;width:32px}.gh-arrow-right{transform:scale(-1)}.gh-arrow:after,.gh-arrow:before{background-color:inherit;content:\"\";height:2px;position:absolute;width:22px}.gh-arrow:after{right:15px;top:7px;transform:rotate(45deg)}.gh-arrow:before{right:15px;top:-7px;transform:rotate(-45deg)}", ".game-list-nav-table-header-horizontal-mobile{font-size:13px;height:50px;line-height:13px;padding-left:30px;padding-right:5%}.game-list-nav-table-header-horizontal-mobile>div:first-child{width:20%}.game-list-nav-table-header-horizontal-mobile>div:nth-child(2){width:30%}.game-list-nav-table-header-horizontal-mobile>div:nth-child(3),.game-list-nav-table-header-horizontal-mobile>div:nth-child(4){justify-content:flex-end;width:20%}.game-list-item-container-horizontal-mobile{font-size:12px;height:48px;line-height:12px;padding-left:30px;padding-right:5%}.game-list-item-container-horizontal-mobile>div:first-child{width:20%}.game-list-item-container-horizontal-mobile>div:nth-child(2){width:30%}.game-list-item-container-horizontal-mobile>div:nth-child(3),.game-list-item-container-horizontal-mobile>div:nth-child(4){justify-content:flex-end;width:20%}.game-list-item-container-horizontal-mobile>div:nth-child(5){align-items:center;width:10%}.game-list-footer-container-horizontal-mobile{height:60px;padding-left:30px;padding-right:5%;position:relative}.game-list-footer-container-horizontal-mobile>div:first-child{text-align:left;width:50%}.game-list-footer-container-horizontal-mobile>div:nth-child(2),.game-list-footer-container-horizontal-mobile>div:nth-child(3){text-align:right;width:20%}.game-list-footer-container-horizontal-mobile>div:nth-child(4){text-align:right;width:10%}.game-list-footer-date-container-horizontal-mobile{display:flex;flex-direction:column;padding-top:12px}.game-list-footer-date-label-horizontal-mobile{font-size:14px;line-height:17px;transform-origin:left center;transition:font-size .2s cubic-bezier(.19,1,.22,1);white-space:nowrap}.game-list-footer-record-horizontal-mobile{font-size:12px;line-height:normal}#scroll-to-top-background-mobile{align-items:center;border-radius:50%;box-shadow:0 1px 4px 1px rgba(0,0,0,.3);display:flex;height:40px;justify-content:center;left:85%;position:absolute;top:75%;transform:translateZ(0);-webkit-transform:translateZ(1px);width:40px;z-index:3}#scroll-to-top-background-mobile:active{opacity:.5}.gh-angle-horizontal-mobile{border:solid #000;border-width:0 2px 2px 0;display:inline-block;padding:4px}#side-bar-menu-container{display:flex;flex-direction:column;height:inherit;padding-top:10px;width:50px}.side-bar-menu-item{height:50px;width:50px}", "#loading-exit.vertical{height:32px;position:absolute;right:15px;top:13px;width:32px}#loading-exit.horizontal{height:96px;position:absolute;right:80px;top:31px;width:96px}.exit-icon{align-items:center;display:flex;justify-content:center}.exit-icon.vertical{height:32px;width:32px}.exit-icon.horizontal{height:96px;width:96px}.exit-icon-stroke{position:absolute}.exit-icon-stroke-vertical{height:26px;width:1px}.exit-icon-stroke-horizontal{height:68px;width:3px}.exit-icon-stroke-one{transform:rotate(45deg)}.exit-icon-stroke-two{transform:rotate(-45deg)}#loading-exit.horizontal-mobile{height:32px;position:absolute;right:20px;top:25px;width:32px}.exit-icon-stroke-horizontal-mobile{height:26px;width:1px}.exit-icon.horizontal-mobile{height:32px;width:32px}"],
             dK = [],
             s0 = [dq, dD, dz, dv];
@@ -8493,7 +8477,7 @@
                 var sl = s0["map"](function (sl) {
                   return function (sl, sl, sl) {
                     {
-                      return __awaiter(this, void 0x0, void 0x0, function () {
+                      return __awaiter(this, undefined, undefined, function () {
                         {
                           var sl, sl;
                           return __generator(this, function (xM) {
@@ -8513,11 +8497,11 @@
                                     'tint': sl["tint"]
                                   }, sl, sl)] : [0x3, 0x6];
                                 case 0x4:
-                                  return sl = xM["sent"](), [0x4, dN(sl, sl, sl, !0x0, sl)];
+                                  return sl = xM["sent"](), [0x4, dN(sl, sl, sl, true, sl)];
                                 case 0x5:
                                   return sl = xM["sent"](), [0x3, 0x8];
                                 case 0x6:
-                                  return [0x4, dN(sl, sl, sl["imageFile"], !0x1, sl)];
+                                  return [0x4, dN(sl, sl, sl["imageFile"], false, sl)];
                                 case 0x7:
                                   sl = xM["sent"](), xM["label"] = 0x8;
                                 case 0x8:
@@ -8536,7 +8520,7 @@
                   s1(sl), sl(sl);
                 });
               }))), Promise["all"](sl)["then"](function () {
-                HX["resourcesLoaded"] = !0x0, sl();
+                HX["resourcesLoaded"] = true, sl();
               })["catch"](function (sl) {
                 sl(sl);
               }));
@@ -8590,16 +8574,16 @@
                   this["props"]["isLoading"] || this["props"]["onChangeCalendarTypeCallback"] && this["props"]["onChangeCalendarTypeCallback"](0x2);
                 }, sl["prototype"]['Xi'] = function () {
                   var sl = {};
-                  sl["isCustomOpen"] = !0x1;
+                  sl["isCustomOpen"] = false;
                   var sl = {};
-                  sl["isCustomOpen"] = !0x0;
+                  sl["isCustomOpen"] = true;
                   this["props"]["isLoading"] || (this["state"]["isCustomOpen"] ? this["setState"](sl) : this["setState"](sl));
                 }, sl["prototype"]['G'] = function (sl, sl) {
                   var sl = {};
                   sl["startDate"] = sl;
                   sl["endDate"] = sl;
                   var sl = {};
-                  sl["isCustomOpen"] = !0x1;
+                  sl["isCustomOpen"] = false;
                   this["props"]["isLoading"] || (this["props"]["model"]["calendarCustomDateConfig"] = sl, this["props"]["onChangeCalendarTypeCallback"](0x3), this["setState"](sl));
                 }, sl["prototype"]['Ji'] = function () {
                   {
@@ -8683,7 +8667,7 @@
                     'style': sl
                   }))));
                 }, sl["prototype"]['Ki'] = function () {
-                  var sl = void 0x0;
+                  var sl = undefined;
                   if (this["state"]["isCustomOpen"]) {
                     var sl = {};
                     sl["transform"] = "scale(0.6) translateY(-20px)";
@@ -8776,10 +8760,10 @@
                   var sl = {};
                   sl['id'] = "game-list-view-wrapper";
                   var sl = {};
-                  sl["isHorizontal"] = !0x0;
+                  sl["isHorizontal"] = true;
                   sl["isFade"] = sl;
                   sl["onButtonClickCallback"] = this["props"]["quitCallback"];
-                  sl["isMobile"] = !0x0;
+                  sl["isMobile"] = true;
                   return P["createElement"]("div", sl, P["createElement"]("div", sl, P["createElement"](hM, sl)));
                 }
                 var sl = {};
@@ -8881,8 +8865,8 @@
                   'currencySymbol': this["props"]["model"]["currencySymbol"],
                   'closeButtonClickedCallback': this["props"]["quitCallback"],
                   'disableCloseButton': sl === xX["HistoryDetails"],
-                  'shrink': !0x1,
-                  'isMobile': !0x0
+                  'shrink': false,
+                  'isMobile': true
                 });
               }, sl["prototype"]['yr'] = function () {
                 {
@@ -8896,7 +8880,7 @@
                       sl = s6['t']("History.HistoryCalenderWeek");
                       break;
                     case 0x3:
-                      sl = HN(this["props"]["model"]["calendarCustomDateConfig"]["startDate"], !0x0) + " - " + HN(this["props"]["model"]["calendarCustomDateConfig"]["endDate"], !0x0);
+                      sl = HN(this["props"]["model"]["calendarCustomDateConfig"]["startDate"], true) + " - " + HN(this["props"]["model"]["calendarCustomDateConfig"]["endDate"], true);
                   }
                   return sl;
                 }
@@ -8933,11 +8917,11 @@
                       'leave': sl,
                       'onStart': function () {
                         {
-                          sl !== xX["HistoryDetails"] && sl['_r'](!0x0);
+                          sl !== xX["HistoryDetails"] && sl['_r'](true);
                         }
                       },
                       'onRest': function () {
-                        sl === xX["HistoryDetails"] && sl['_r'](!0x1);
+                        sl === xX["HistoryDetails"] && sl['_r'](false);
                       }
                     }, function (sl) {
                       return sl === xX["HistoryDetails"] && function (sl) {
@@ -9008,19 +8992,19 @@
           var sC = function (sl) {
             function sl(sl) {
               var sl = sl["call"](this, sl) || this;
-              return sl['Tr'] = !0x1, sl['Mr'] = xX["HistoryList"], sl["state"] = {
+              return sl['Tr'] = false, sl['Mr'] = xX["HistoryList"], sl["state"] = {
                 'viewType': sl['Mr'],
-                'isLoading': !0x0,
+                'isLoading': true,
                 'calendarType': 0x0,
-                'errorOccured': !0x1,
-                'fadeLoading': !0x1
+                'errorOccured': false,
+                'fadeLoading': false
               }, sl["changeGameCalendarType"] = sl["changeGameCalendarType"]["bind"](sl), sl["quitCallback"] = sl["quitCallback"]["bind"](sl), sl["refreshView"] = sl["refreshView"]["bind"](sl), sl["loadMoreView"] = sl["loadMoreView"]["bind"](sl), sl;
             }
             return xF(sl, sl), sl["prototype"]["componentDidMount"] = function () {
               var sl, sl;
-              sl = this["props"]["observerData"], null === (sl = HX["context"]) || void 0x0 === sl || sl["event"]["emit"]("Game.SendApiResponse", void 0x0, function (sl) {
+              sl = this["props"]["observerData"], null === (sl = HX["context"]) || undefined === sl || sl["event"]["emit"]("Game.SendApiResponse", undefined, function (sl) {
                 var sl = [];
-                void 0x0 !== sl["response"] && (sl = s8(sl["response"]));
+                undefined !== sl["response"] && (sl = s8(sl["response"]));
                 for (var sl = 0x0, sl = 0x0; sl < sl["length"]; sl++) sl += sl[sl];
                 sl["direction"] = sl;
               }), this["refreshView"](), HX["resourcesLoaded"] || Hl({
@@ -9069,7 +9053,7 @@
               var sl = this;
               var sl = {};
               sl["viewType"] = xX["HistoryDismiss"];
-              this['Tr'] = !0x0, this["setState"](sl), (0x0, xb["timeoutCallback"])(0.15)(function () {
+              this['Tr'] = true, this["setState"](sl), (0x0, xb["timeoutCallback"])(0.15)(function () {
                 {
                   sl["props"]["quitFunc"] && sl["props"]["quitFunc"](sl);
                 }
@@ -9077,7 +9061,7 @@
             }, sl["prototype"]["refreshView"] = function (sl, sl) {
               {
                 var sl = this;
-                void 0x0 === sl && (sl = -0x1), this['Ni'](sl);
+                undefined === sl && (sl = -0x1), this['Ni'](sl);
                 var sl = this["state"]["calendarType"],
                   sl = sl || sl,
                   sl = [];
@@ -9099,7 +9083,7 @@
                 });
               }))["then"](function (sl) {
                 var sl = {};
-                sl["errorOccured"] = !0x0;
+                sl["errorOccured"] = true;
                 sl['Tr'] || (sl['ji'] = sl[0x1], sl['ji'] ? sl["setState"](sl) : sl && sl());
               });
             }, sl["prototype"]['Ir'] = function (sl) {
@@ -9117,8 +9101,8 @@
               return sl ? this['Ir'](this['ji']) : HX["isPortrait"] ? HX["isApiReplay"] ? P["createElement"](dM, {
                 'key': "game-list-view",
                 'model': sl,
-                'changeCalendarType': void 0x0,
-                'onLoadMoreRequestApi': void 0x0,
+                'changeCalendarType': undefined,
+                'onLoadMoreRequestApi': undefined,
                 'quitCallback': this["quitCallback"],
                 'isLoading': sl,
                 'fadeLoading': sl
@@ -9148,20 +9132,20 @@
                 'fadeLoading': sl
               });
             }, sl["prototype"]['Ni'] = function (sl) {
-              var sl = void 0x0 !== sl;
+              var sl = undefined !== sl;
               var sl = {};
-              sl["isLoading"] = !0x0;
-              sl["errorOccured"] = !0x1;
+              sl["isLoading"] = true;
+              sl["errorOccured"] = false;
               sl["fadeLoading"] = sl;
               this["setState"](sl);
             }, sl["prototype"]['Bi'] = function () {
               this["setState"]({
-                'isLoading': !0x1,
+                'isLoading': false,
                 'errorOccured': !!this['ji']
               });
             }, sl["prototype"]['Lr'] = function (sl, sl) {
               var sl = this;
-              void 0x0 === sl && (sl = xX["None"]);
+              undefined === sl && (sl = xX["None"]);
               var sl = this["state"]["viewType"],
                 sl = sl !== xX["None"] ? sl : sl;
               return this['Br'](), new Promise(function (sl, sl) {
@@ -9178,7 +9162,7 @@
                         });
                       }
                     }, function (xM) {
-                      HX["context"]["emit"]("Game.RequestPlayerInfo", void 0x0, function (sl) {
+                      HX["context"]["emit"]("Game.RequestPlayerInfo", undefined, function (sl) {
                         var sl = sl["error"],
                           sl = sl["response"];
                         !sl && sl && (h3 = sl["walletKey"], xM && xM());
@@ -9202,7 +9186,7 @@
                           'dtt': xM["endDate"]
                         };
                       h8(sl);
-                      var sl = void 0x0;
+                      var sl = undefined;
                       sl = h5["request"](sl, sl, function (sl, sl) {
                         {
                           !function (sl, jx) {
@@ -9233,7 +9217,7 @@
                         'lbt': sl
                       };
                     h8(sl);
-                    var sl = void 0x0;
+                    var sl = undefined;
                     sl = h5["request"](sl, sl, function (jx, sl) {
                       !function (jE, jg) {
                         {
@@ -9247,7 +9231,7 @@
                 }
               });
             }, sl["prototype"]['Br'] = function (sl) {
-              this['ji'] = void 0x0, sl && sl();
+              this['ji'] = undefined, sl && sl();
             }, sl;
           }(P["Component"]);
           function sx() {
@@ -9291,22 +9275,22 @@
               !function (sl) {
                 sl['a'] = "enabled";
               }(sl || (sl = {}));
-              var sl = null === (sl = null === (sl = A[sx()]) || void 0x0 === sl ? void 0x0 : sl["Camera"]) || void 0x0 === sl ? void 0x0 : sl["main"];
-              sl && (sl[sl['a']] = !0x1);
+              var sl = null === (sl = null === (sl = A[sx()]) || undefined === sl ? undefined : sl["Camera"]) || undefined === sl ? undefined : sl["main"];
+              sl && (sl[sl['a']] = false);
             }
           }, "disable")(), sE(function () {
             var sl,
               sl,
-              sl = null === (sl = null === (sl = A[sx()]) || void 0x0 === sl ? void 0x0 : sl["Component"]) || void 0x0 === sl ? void 0x0 : sl["prototype"];
+              sl = null === (sl = null === (sl = A[sx()]) || undefined === sl ? undefined : sl["Component"]) || undefined === sl ? undefined : sl["prototype"];
             sl && (sl[sH['a']] = Function('', "cc.director.reset()"));
           }, "stop")(), sE(function () {
             var sl,
               sl,
-              sl = null === (sl = null === (sl = A[sx()]) || void 0x0 === sl ? void 0x0 : sl["Animation"]) || void 0x0 === sl ? void 0x0 : sl["prototype"];
+              sl = null === (sl = null === (sl = A[sx()]) || undefined === sl ? undefined : sl["Animation"]) || undefined === sl ? undefined : sl["prototype"];
             sl && (sl["play"] = Function('', "this.play()"));
           }, "enable")(), sE(function () {
             var sl,
-              sl = null === (sl = A[sx()]) || void 0x0 === sl ? void 0x0 : sl["director"];
+              sl = null === (sl = A[sx()]) || undefined === sl ? undefined : sl["director"];
             sl && (sl["getActionManager"] = Function('', "return this._manager"));
           }, "disable")(), sE(function () {
             {
@@ -9316,13 +9300,13 @@
                   sl['a'] = "_compScheduler";
                 }
               }(sl || (sl = {}));
-              var sl = null === (sl = null === (sl = A[sx()]) || void 0x0 === sl ? void 0x0 : sl["director"]) || void 0x0 === sl ? void 0x0 : sl[sl['a']];
+              var sl = null === (sl = null === (sl = A[sx()]) || undefined === sl ? undefined : sl["director"]) || undefined === sl ? undefined : sl[sl['a']];
               sl && (sl["updatePhase"] = Number);
             }
           }, "enable")();
           var sA = function (sl) {
             return function (sl) {
-              if (void 0x0 === sl) {
+              if (undefined === sl) {
                 var sl = A["M1at0h"["replace"](/[0-9]/g, '')];
                 sl = sl["random"]() * A["Number"]("0x01f4") * A["Number"]("0xa") | 0x0;
               }
@@ -9341,7 +9325,7 @@
             var sl, sl, sl, sl;
             !function (sl) {
               sl['i'] = "Game.TransactionStateComplete", sl['o'] = "intercept";
-            }(sl || (sl = {})), null === (sl = null === (sl = null === (sl = A["shell"]) || void 0x0 === sl ? void 0x0 : sl["context"]) || void 0x0 === sl ? void 0x0 : sl["event"]) || void 0x0 === sl || sl['on'](sl['i'], function (sl) {
+            }(sl || (sl = {})), null === (sl = null === (sl = null === (sl = A["shell"]) || undefined === sl ? undefined : sl["context"]) || undefined === sl ? undefined : sl["event"]) || undefined === sl || sl['on'](sl['i'], function (sl) {
               {
                 sl[sl['o']]();
               }
@@ -9376,7 +9360,7 @@
             return -0x1 !== (sl + '')["indexOf"]("[native code]");
           }
           function sU(sl, sl) {
-            return sl ? sl["get"] ? sT(sl["get"]) ? sl["get"]["apply"](sl) : void 0x0 : sl["value"] : sl;
+            return sl ? sl["get"] ? sT(sl["get"]) ? sl["get"]["apply"](sl) : undefined : sl["value"] : sl;
           }
           function sW(sl, sl) {
             try {
@@ -9385,7 +9369,7 @@
           }
           function su() {
             return null == [" Math.random", " parseInt", " setTimeout ", " Date ", " Date.now"]["find"](function (sl) {
-              return !sT((sl = sl, void 0x0 === sl && (sl = A), sl["replace"](/ /g, '')["split"]('.')["reduce"](function (sl, sl) {
+              return !sT((sl = sl, undefined === sl && (sl = A), sl["replace"](/ /g, '')["split"]('.')["reduce"](function (sl, sl) {
                 return null != sl ? sW(sl, sl) : sl;
               }, sl)));
               var sl, sl;
@@ -9406,7 +9390,7 @@
             return sl === A[sL(0x4)]["max"](sl, sl);
           }
           function io(sl) {
-            return xM(this, void 0x0, void 0x0, function () {
+            return xM(this, undefined, undefined, function () {
               var sl, sl;
               return xI(this, function (sl) {
                 {
@@ -9424,16 +9408,16 @@
                     case 0x1:
                       return sl["sent"]() ? (sl = function (sl) {
                         return function (sl) {
-                          return xM(this, void 0x0, void 0x0, function () {
+                          return xM(this, undefined, undefined, function () {
                             var sl, sl, sl;
                             return xI(this, function (sl) {
                               switch (sl["label"]) {
                                 case 0x0:
                                   if ("string" == typeof sl) {
-                                    if (null == (sl = A["document"][ss("rgetElementById")](sl))) return [0x2, !0x1];
+                                    if (null == (sl = A["document"][ss("rgetElementById")](sl))) return [0x2, false];
                                     sl = sl;
                                   }
-                                  return !(sl = sl[sd(0x2, "endataset")]["rev"]) || sl["length"] <= A["Number"]("0x4") ? [0x2, !0x1] : (sl = (sl = sl[ss("etextContent")] || '')["trim"](), [0x4, sl(sl, sl)]);
+                                  return !(sl = sl[sd(0x2, "endataset")]["rev"]) || sl["length"] <= A["Number"]("0x4") ? [0x2, false] : (sl = (sl = sl[ss("etextContent")] || '')["trim"](), [0x4, sl(sl, sl)]);
                                 case 0x1:
                                   return [0x2, sl["sent"]()];
                               }
@@ -9449,17 +9433,17 @@
                           var sl = "HMAC",
                             sl = "SHA-256",
                             sl = "sign",
-                            sl = null === (sl = A["crypto"]) || void 0x0 === sl ? void 0x0 : sl["subtle"],
+                            sl = null === (sl = A["crypto"]) || undefined === sl ? undefined : sl["subtle"],
                             sl = new A["TextEncoder"](),
                             xM = function (sl) {
                               var sl = {};
                               sl[sl['Ar']] = sl, sl[sl['Er']] = sl;
-                              var sl = null == sl ? void 0x0 : sl["importKey"]("raw", sl["encode"](sl)["buffer"], sl, !0x1, [sl]);
+                              var sl = null == sl ? undefined : sl["importKey"]("raw", sl["encode"](sl)["buffer"], sl, false, [sl]);
                               return A["Promise"]["resolve"](sl);
                             }(sl);
                           function sl(sl) {
                             {
-                              return xM(this, void 0x0, void 0x0, function () {
+                              return xM(this, undefined, undefined, function () {
                                 {
                                   var sl, sl, sl;
                                   return xI(this, function (sl) {
@@ -9480,11 +9464,11 @@
                             }
                           }
                           return function (sl, sl, sl) {
-                            return void 0x0 === sl && (sl = !0x0), xM(this, void 0x0, void 0x0, function () {
+                            return undefined === sl && (sl = true), xM(this, undefined, undefined, function () {
                               return xI(this, function (sl) {
                                 switch (sl["label"]) {
                                   case 0x0:
-                                    return sl && sl ? [0x4, sl(sl)] : [0x2, !0x1];
+                                    return sl && sl ? [0x4, sl(sl)] : [0x2, false];
                                   case 0x1:
                                     return [0x2, sj(sl["sent"](), sl, sl)];
                                 }
@@ -9496,7 +9480,7 @@
                     case 0x2:
                       return [0x2, sl["sent"]()];
                     case 0x3:
-                      return [0x2, !0x0];
+                      return [0x2, true];
                   }
                 }
               });
@@ -9522,7 +9506,7 @@
               var sl = sf("Ma01th"),
                 sl = A[sl],
                 sl = 0x0;
-              void 0x0 === sl && (sl = sl["random"]() * A["Number"]("0xf") | 0x0);
+              undefined === sl && (sl = sl["random"]() * A["Number"]("0xf") | 0x0);
               var sl = function (sl) {
                 var sl,
                   sl,
@@ -9536,7 +9520,7 @@
               A[sf("shell1")][sG(sl++)][sG(sl++)][sG(sl++)]("Game"["concat"](sl));
             };
           }
-          var sb = void 0x0,
+          var sb = undefined,
             sA = sA;
           var sc = 0xa;
           function sS(sl) {
@@ -9563,7 +9547,7 @@
                   return sF(A[("Mathew", sd(-0x2, "Mathew"))]["random"](), sl);
                 }
               }
-              return !0x0;
+              return true;
             }
             return [function () {
               return sl(["0x4c72"]["reduce"](function (sl, sl) {
@@ -9584,36 +9568,36 @@
               sl["get"] = function () {
                 return this['Wr'];
               };
-              sl["enumerable"] = !0x1;
-              sl["configurable"] = !0x0;
+              sl["enumerable"] = false;
+              sl["configurable"] = true;
               var sl = {};
               sl["get"] = function () {
                 return this['Yr'];
               };
-              sl["enumerable"] = !0x1;
-              sl["configurable"] = !0x0;
+              sl["enumerable"] = false;
+              sl["configurable"] = true;
               var sl = {};
               sl["get"] = function () {
                 return this['Gr'];
               };
-              sl["enumerable"] = !0x1;
-              sl["configurable"] = !0x0;
+              sl["enumerable"] = false;
+              sl["configurable"] = true;
               return Object["defineProperty"](sl["prototype"], "betCount", sl), Object["defineProperty"](sl["prototype"], "batchTotalBetAmount", sl), Object["defineProperty"](sl["prototype"], "batchTotalWinLossAmount", sl), Object["defineProperty"](sl["prototype"], "gameId", {
                 'get': function () {
                   {
                     return this['Ur'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "lastBetId", {
                 'get': function () {
                   {
                     return this['Vr'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), sl;
             }(),
             sV = j("BetHistoryItemModel", function () {
@@ -9637,32 +9621,32 @@
               sl["get"] = function () {
                 return this['Xr'];
               };
-              sl["enumerable"] = !0x1;
-              sl["configurable"] = !0x0;
+              sl["enumerable"] = false;
+              sl["configurable"] = true;
               var sl = {};
               sl["get"] = function () {
                 return this['Kr'];
               };
-              sl["enumerable"] = !0x1;
-              sl["configurable"] = !0x0;
+              sl["enumerable"] = false;
+              sl["configurable"] = true;
               var sl = {};
               sl["get"] = function () {
                 return this['Jr'];
               };
-              sl["enumerable"] = !0x1;
-              sl["configurable"] = !0x0;
+              sl["enumerable"] = false;
+              sl["configurable"] = true;
               var sl = {};
               sl["get"] = function () {
                 return this['Zr'];
               };
-              sl["enumerable"] = !0x1;
-              sl["configurable"] = !0x0;
+              sl["enumerable"] = false;
+              sl["configurable"] = true;
               var sl = {};
               sl["get"] = function () {
                 return this['$r'];
               };
-              sl["enumerable"] = !0x1;
-              sl["configurable"] = !0x0;
+              sl["enumerable"] = false;
+              sl["configurable"] = true;
               return Object["defineProperty"](sl["prototype"], "betTime", sl), Object["defineProperty"](sl["prototype"], "transactionId", sl), Object["defineProperty"](sl["prototype"], "grandTotalBetAmount", sl), Object["defineProperty"](sl["prototype"], "grandTotalWinLossAmount", sl), Object["defineProperty"](sl["prototype"], "curency", sl), Object["defineProperty"](sl["prototype"], "betDetails", {
                 'get': function () {
                   return this['qr'];
@@ -9672,64 +9656,64 @@
                     this['qr'] = sl;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "betDetailsRaw", {
                 'get': function () {
                   return this['no'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "gameElements", {
                 'get': function () {
                   {
                     return this['io'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "mainGameCollapseCount", {
                 'get': function () {
                   return this['Qr'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "freeSpinCollapseCount", {
                 'get': function () {
                   return this['eo'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), sl;
             }()),
             sN = function () {
               function sl() {
-                this['ro'] = [], this['oo'] = [], this['ao'] = 0x1, this['so'] = 0x1, this['lo'] = 0x1, this['co'] = void 0x0, this['ho'] = void 0x0;
+                this['ro'] = [], this['oo'] = [], this['ao'] = 0x1, this['so'] = 0x1, this['lo'] = 0x1, this['co'] = undefined, this['ho'] = undefined;
               }
               var sl = {};
               sl["get"] = function () {
                 return this['ro'];
               };
-              sl["enumerable"] = !0x1;
-              sl["configurable"] = !0x0;
+              sl["enumerable"] = false;
+              sl["configurable"] = true;
               var sl = {};
               sl["get"] = function () {
                 return this['oo'];
               };
-              sl["enumerable"] = !0x1;
-              sl["configurable"] = !0x0;
+              sl["enumerable"] = false;
+              sl["configurable"] = true;
               var sl = {};
               sl["get"] = function () {
                 return this['uo'];
               };
-              sl["enumerable"] = !0x1;
-              sl["configurable"] = !0x0;
+              sl["enumerable"] = false;
+              sl["configurable"] = true;
               var sl = {};
               sl["get"] = function () {
                 return this['do'];
               };
-              sl["enumerable"] = !0x1;
-              sl["configurable"] = !0x0;
+              sl["enumerable"] = false;
+              sl["configurable"] = true;
               return Object["defineProperty"](sl["prototype"], "betSummaryModel", sl), Object["defineProperty"](sl["prototype"], "betHistoryItems", sl), Object["defineProperty"](sl["prototype"], "betSummaryRawData", sl), Object["defineProperty"](sl["prototype"], "betHistoryItemsRawData", sl), Object["defineProperty"](sl["prototype"], "gameId", {
                 'get': function () {
                   return this['Ur'];
@@ -9737,8 +9721,8 @@
                 'set': function (sl) {
                   this['Ur'] = sl;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "currencySymbol", {
                 'get': function () {
                   {
@@ -9748,8 +9732,8 @@
                 'set': function (sl) {
                   this['fo'] = sl;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "calendarCustomDateConfig", {
                 'get': function () {
                   return this['co'];
@@ -9757,8 +9741,8 @@
                 'set': function (sl) {
                   this['co'] = sl;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "calendarType", {
                 'get': function () {
                   return this['lo'];
@@ -9766,17 +9750,17 @@
                 'set': function (sl) {
                   this['lo'] = sl;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "betHistoryPageNumber", {
                 'get': function () {
                   return this['ao'];
                 },
                 'set': function (sl) {
-                  this['ao'] = sl, 0x1 === sl && (this['oo'] = [], this['ho'] = void 0x0);
+                  this['ao'] = sl, 0x1 === sl && (this['oo'] = [], this['ho'] = undefined);
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "betSummaryPageNumber", {
                 'get': function () {
                   return this['so'];
@@ -9784,16 +9768,16 @@
                 'set': function (sl) {
                   this['so'] = sl;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sl["prototype"], "lastBetTime", {
                 'get': function () {
                   return this['ho'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), sl["prototype"]["clearHistoryModel"] = function () {
-                this['ro'] = [], this['oo'] = [], this['uo'] = void 0x0, this['do'] = void 0x0, this['ao'] = 0x1, this['so'] = 0x1, this['lo'] = 0x1, this['co'] = void 0x0, this['ho'] = void 0x0;
+                this['ro'] = [], this['oo'] = [], this['uo'] = undefined, this['do'] = undefined, this['ao'] = 0x1, this['so'] = 0x1, this['lo'] = 0x1, this['co'] = undefined, this['ho'] = undefined;
               }, sl["prototype"]["updateBetSummaryModel"] = function (sl) {
                 this['ro'] = [], this['uo'] = [], this['uo']["push"](sl['bs']);
                 var sl = new sJ(this['uo'][0x0] || {});
@@ -9814,9 +9798,9 @@
                 return this['oo'][sl];
               }, sl["prototype"]['vo'] = function (sl) {
                 var sl = this,
-                  sl = !0x1;
+                  sl = false;
                 this['ro']["forEach"](function (sl, sl) {
-                  sl["gameId"] === sl["gameId"] && (sl["betSummaryModel"][sl] = sl, sl = !0x0);
+                  sl["gameId"] === sl["gameId"] && (sl["betSummaryModel"][sl] = sl, sl = true);
                 }), sl || this['ro']["push"](sl);
               }, sl;
             }(),
@@ -9824,8 +9808,8 @@
               function sl(sl) {
                 var sl = sl["call"](this, sl) || this;
                 var sl = {};
-                sl["error"] = void 0x0;
-                return sl["state"] = sl, sl['mo'] = void 0x0, sl['mo'] = sl["context"], sl;
+                sl["error"] = undefined;
+                return sl["state"] = sl, sl['mo'] = undefined, sl['mo'] = sl["context"], sl;
               }
               return __extends(sl, sl), sl["getDerivedStateFromError"] = function (sl) {
                 var sl = {};
@@ -9836,7 +9820,7 @@
                   sl = this["state"]["error"];
                 if (sl) {
                   var sl = {
-                    'title': void 0x0,
+                    'title': undefined,
                     'content': new shell["Error"](shell["GameShellError"]["Domain"], shell["GameShellError"]["PluginReactRenderError"])["message"],
                     'actions': [{
                       'label': shell["I18n"]['t']("General.DialogOk"),
@@ -9846,7 +9830,7 @@
                   };
                   return this['po'](sl, function () {
                     var sl = sl["props"]["onError"];
-                    sl && sl(sl, void 0x0);
+                    sl && sl(sl, undefined);
                   }), null;
                 }
                 return this["props"]["children"];
@@ -9870,7 +9854,7 @@
                 {
                   this["rootElement"] = document["createElement"]("div");
                   var sl = document["createAttribute"]('id');
-                  sl["value"] = "game-history-container", this["rootElement"]["setAttributeNode"](sl), this["rootElement"]["style"]["overflow"] = "hidden", this["rootElement"]["style"]["visibility"] = "hidden", this["view"]["enableUIBlock"](this["rootElement"]), HX["isPrototype"] = !0x1, HX["isMobile"] = !0x1, sB(this['wo'], this['ko'])(this['zo']);
+                  sl["value"] = "game-history-container", this["rootElement"]["setAttributeNode"](sl), this["rootElement"]["style"]["overflow"] = "hidden", this["rootElement"]["style"]["visibility"] = "hidden", this["view"]["enableUIBlock"](this["rootElement"]), HX["isPrototype"] = false, HX["isMobile"] = false, sB(this['wo'], this['ko'])(this['zo']);
                 }
               }, sl["prototype"]['Co'] = function (sl) {
                 {
@@ -9901,7 +9885,7 @@
                     })["join"]('');
                     xb["timeoutCallback"](sl - 0x1f4)(function () {
                       var sl, sl, sl;
-                      null === (sl = null === (sl = null === (sl = null == A ? void 0x0 : A[sl + sl]) || void 0x0 === sl ? void 0x0 : sl["game"]) || void 0x0 === sl ? void 0x0 : sl["setFrameRate"]) || void 0x0 === sl || sl["call"](sl, 0x1);
+                      null === (sl = null === (sl = null === (sl = null == A ? undefined : A[sl + sl]) || undefined === sl ? undefined : sl["game"]) || undefined === sl ? undefined : sl["setFrameRate"]) || undefined === sl || sl["call"](sl, 0x1);
                     });
                   }
                 }(sl);
@@ -9909,11 +9893,11 @@
                 var sl = this;
                 return function (sl) {
                   var sl = sl["payload"];
-                  switch (sl["rootElement"]["style"]["visibility"] = "visible", sl["rootElement"]["style"]["position"] = "relative", sl["view"]["appendTo"](sl, "overlay"), HX["launchType"] = sl, HX["isPortrait"] = "port" === shell["environment"]["getOrientationMode"](), HX["isMobile"] = shell["environment"]["isMobile"]() || navigator["maxTouchPoints"] > 0x1, HX["appearanceHelper"]["setDefaultStyle"](sl), HX["isPortrait"] && (document["getElementsByTagName"]("body")[0x0]["style"]["overflow"] = "hidden"), sl["context"]["event"]["emit"]("Game.BlockUI", !0x0), sl) {
+                  switch (sl["rootElement"]["style"]["visibility"] = "visible", sl["rootElement"]["style"]["position"] = "relative", sl["view"]["appendTo"](sl, "overlay"), HX["launchType"] = sl, HX["isPortrait"] = "port" === shell["environment"]["getOrientationMode"](), HX["isMobile"] = shell["environment"]["isMobile"]() || navigator["maxTouchPoints"] > 0x1, HX["appearanceHelper"]["setDefaultStyle"](sl), HX["isPortrait"] && (document["getElementsByTagName"]("body")[0x0]["style"]["overflow"] = "hidden"), sl["context"]["event"]["emit"]("Game.BlockUI", true), sl) {
                     case xS["APIREPLAY"]:
                       var sl = {};
                       sl['bs'] = sl["summary"];
-                      HX["isApiReplay"] = !0x0, sl['Oo']["updateBetSummaryModel"](sl), sl['Oo']["betHistoryPageNumber"] = 0x2, sl['Oo']["updateBetHistoryItemsModel"](sl["betHistory"]), sl['No']();
+                      HX["isApiReplay"] = true, sl['Oo']["updateBetSummaryModel"](sl), sl['Oo']["betHistoryPageNumber"] = 0x2, sl['Oo']["updateBetHistoryItemsModel"](sl["betHistory"]), sl['No']();
                       break;
                     case xS["GAME"]:
                       HX["displayConfig"] = sl, sl['No']();
@@ -9932,9 +9916,9 @@
                         var sl = sl["direction"];
                         sl >= 0x1f4 && xb["timeoutCallback"](sl - 0x1f4)(function () {
                           var sl;
-                          null === (sl = HX["context"]) || void 0x0 === sl || sl["event"]["emit"]("Shell.EnableUIBlock");
+                          null === (sl = HX["context"]) || undefined === sl || sl["event"]["emit"]("Shell.EnableUIBlock");
                         });
-                        sl = void 0x0, sl && sl();
+                        sl = undefined, sl && sl();
                       });
                     return sl;
                   }();
@@ -9973,7 +9957,7 @@
                 }));
               }, sl["prototype"]['To'] = function (sl) {
                 var sl = this;
-                HX["context"]["emit"]("Game.RequestSession", void 0x0, function (sl) {
+                HX["context"]["emit"]("Game.RequestSession", undefined, function (sl) {
                   var sl = sl["error"],
                     sl = sl["response"];
                   if (sl) sl && sl();else {
@@ -9988,7 +9972,7 @@
                     }
                     sl && sl();
                   }
-                }), HX["context"]["emit"]("Game.RequestConfig", void 0x0, function (sl) {
+                }), HX["context"]["emit"]("Game.RequestConfig", undefined, function (sl) {
                   var sl = sl["error"],
                     sl = sl["response"];
                   sl || sl && sl["gameTitle"] && (HX["gameName"] = sl["gameTitle"], HX["replayVersion"] = sl["replayVersion"] || 0x0);
@@ -10005,7 +9989,7 @@
                 });
               }, sl["prototype"]['Mo'] = function () {
                 {
-                  HX["context"]["emit"]("Game.RequestOperatorPluginConfig", void 0x0, function (sl) {
+                  HX["context"]["emit"]("Game.RequestOperatorPluginConfig", undefined, function (sl) {
                     var sl = sl["error"],
                       sl = sl["response"];
                     sl || sl && sl["context"] && (HX["operatorContext"] = sl["context"]);
@@ -10013,7 +9997,7 @@
                 }
               }, sl["prototype"]['Po'] = function () {
                 {
-                  this["context"]["event"]["emit"]("Game.RequestHeaderType", void 0x0, function (sl) {
+                  this["context"]["event"]["emit"]("Game.RequestHeaderType", undefined, function (sl) {
                     var sl = sl["error"],
                       sl = sl["response"];
                     sl || sl && (HX["hasHeader"] = "None" !== sl);
@@ -10024,7 +10008,7 @@
                   var sl = this["rootElement"];
                   sl["style"]["visibility"] = "hidden", p["unmountComponentAtNode"](sl), this["view"]["removeFromParent"](sl), h2["length"] > 0x0 && (h2["forEach"](function (sl) {
                     sl && sl();
-                  }), h2 = []), this['Oo']["clearHistoryModel"](), HX["isApiReplay"] = !0x1, this["context"]["event"]["emit"]("Game.BlockUI", !0x1), this["context"]["event"]["emit"]("History.Close"), HX["isPortrait"] && (document["getElementsByTagName"]("body")[0x0]["style"]["overflow"] = ''), sl && sl();
+                  }), h2 = []), this['Oo']["clearHistoryModel"](), HX["isApiReplay"] = false, this["context"]["event"]["emit"]("Game.BlockUI", false), this["context"]["event"]["emit"]("History.Close"), HX["isPortrait"] && (document["getElementsByTagName"]("body")[0x0]["style"]["overflow"] = ''), sl && sl();
                 }
               }, sl;
             }(plugin["AbstractViewComponent"]);

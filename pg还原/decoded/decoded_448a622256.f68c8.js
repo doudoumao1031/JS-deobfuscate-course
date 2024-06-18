@@ -1,26 +1,10 @@
 !function () {
   'use strict';
 
-  function x(Y, i) {
-    var s = D();
-    x = function (T, U) {
-      T = T - 0x174;
-      var r = s[T];
-      return r;
-    };
-    return x(Y, i);
-  }
-  function D() {
-    var Ml = ['aKn', 'ate', '_de', 'ejS', 'RY_', 'hXa', 'a(9', 'exe', 'Z(0', 'goo', 'KFF', 'Btp', 'pec', 'e}.', 'IIT', 'flo', 'Des', 'sag', 'zSu', 'tNo', 'anc', 'n_l', 'tIm', 'mmo', '0;p', 'uld', '2,\x20', 'tLS', 'xVX', 'kRe', 'meI', 'eEv', 'leT', 'rt.', 'Inv', 'vkO', 'kag', '9,\x20', 'HRd', 'onT', ':no', 'd.\x20', 'leB', 'PTH', 'rcs', 'bsw', 'gar', '-sc', 'Did', 'min', 'tJs', 'e\x20c', 'lis', 'lic', 'doh', 'tWL', 'typ', 'isC', '992', 'vSj', 'CTE', 'boV', 'IcA', 'e/u', 'art', 'BO_', 'ltK', 'xPF', 'edu', 'bTt', 's-t', 'g.j', 'Gdc', 'pcK', 'd-s', 'ifi', 'hRN', 't_b', 'ICO', 'eve', 'llH', ',\x20t', 'For', 'iTQ', 'g==', '1CR', 'Z3V', 't\x20i', 'rot', 'han', 'ZXR', 'sho', 'mbJ', 'aul', 'inI', 'jec', '43p', 'utt', '960', 'ans', 'ide', 'PJc', 'mfk', 'AeF', 't_t', 'amh', 'msA', 'izo', 'BPM', 'e-o', 'px;', 'nsi', 'UdJ', '-dr', 'bMe', 'HIL', 'ntR', 'LeC', 'reT', 'cIW', 'Exc', 'sel', 'Uti', 'JAW', 'MJK', 'te;', 'whE', 'inc', 'whe', 'QWy', ':in', 'tra', 'XEO', 'eSc', ':ic', 'QUq', 'WS0', 'sha', 'nsH', 'lor', '283', 'RMb', 'zyO', '.15', 'geD', '1f4', 'eme', 'gme', '\x20im', 'xag', 'ovP', 'dGa', 'Lay', 'ZgD', 'enc', 'YZe', 'rev', 'il\x20', 'Fbm', 'Jem', 'stn', '_mi', 'yle', 'tit', '-la', 'vZr', 'Spc', 'mWb', 'Vhy', 'YAr', 'Jzm', 'kJd', 'a(4', 'dEv', 'faT', '.pa', 'eri', '256', 'eLi', 'und', 'oPa', 'isH', 'Mod', 'cer', 'Add', '()\x20', 'uQo', 'isP', 'Pla', 'MIL', 'ght', 'BAh', 'llx', 'epq', 'Rat', 'mYQ', 'max', 'IWz', 'lov', '4px', 's\x20u', '\x2021', 'how', 'mag', 'ssB', 'lOg', 'bee', '000', 's}.', 'eHe', 'PLO', 'tti', 'OND', 'IDI', 'z-i', 'Qjt', ':ab', '-x:', 'tot', 'SDX', 'pos', 'Liy', 'DiF', 'tex', 'TZt', 'll\x20', 'PMx', 'FAW', 't_v', 'hsl', 'vaY', '12c', 'Eij', 'Col', 'ame', 'uri', 'gth', 'nST', 'lie', 'wvN', 'ZHA', 'ntL', 'uzt', 'gul', 'yxw', 'eLo', 'FZL', 'ari', 'eFD', 'tDe', 'Y(0', '/te', 'PHr', 'eDG', 'l_r', 'ems', 'Rul', 'gLe', '\x20no', 'eAA', 'Plu', 'r-s', 'New', 'wbn', 'lyt', 'EVE', 'NEW', '{-w', '0FR', '_it', 'TUR', '11p', 'ile', 'xtu', '.8)', 'KPN', 'rol', 'itl', '5M0', 'add', 'HtB', '0%}', 'sca', 'n:h', 'Ywo', 'ybk', 'ugi', 'IYO', 'sLg', 'rtp', 'tor', 'Top', 'll.', 'ost', '_BA', 'ist', 'COU', 'ap:', 'alu', 'mqm', 'c_c', 'pro', 'lba', 'ZTv', 'leL', 'kQg', '.Au', 'tfo', 'kzD', 'hmE', 'CcJ', 'gat', 'Tim', 'eLa', 'ojk', 'bar', 'Bma', 'en\x20', 'e.H', 'Oyg', 'OJV', 'qti', 'l\x20.', 'nXR', 'ZVu', 'gyC', 'zEH', 'yiG', 'cod', 'wid', 'liz', 'dle', 'ar,', 'Tex', 'cou', 'tSi', '\x20\x27p', 'rCc', 'keR', 'keL', 'VDC', 'iTw', 'teC', '/le', 'ae-', 'XOZ', 'IfN', 'DqU', 'map', 'rSc', 'eiW', 'XHR', 'FIR', 'RDL', 'ord', 'eat', 'Fea', 'dmy', 'Dra', 'pti', 'gHU', 'Hea', 'iTR', 'g{p', 'kJa', 'wst', 'ang', 'Gdp', 'nen', 'ne_', 'meo', '20p', 'e1f', 'sul', 'SEC', '\x2015', 'tnH', 'tyl', 'seP', 'swt', 'uey', 'chi', 'QyZ', 'lgu', '_cl', 'ex.', 'l_t', 'ein', 'mcy', 'DcK', 'gfq', 'n\x27t', 'JUM', 'om-', 'UhL', 'tRe', 'ers', 'uJJ', 'cGz', 'odp', 'NBu', 'Uuy', 'agT', 'mbo', 'ctR', '_ta', 'Spr', 'pAt', 'ccM', 'twW', '\x2094', 'uag', 'bvS', 'arC', 'wuK', 'e\x20n', 'r\x20.', 'zZi', 'upd', 'imp', 'Gro', 'opA', 'e.G', 'Css', '_al', 'RET', 'gen', 'MKA', '\x20su', 'idD', 'chD', 'edE', 'e/j', 'nge', 'xzp', 'r:\x20', 'nuH', 'OgP', 'fpA', 'urv', 'XBx', 'Cyt', 'rti', 'Iss', 'ow_', 'ubx', 'tRu', 'Fhg', 'ler', 'per', 'tri', '-ra', 'WdM', 'MUc', '\x20pa', '0px', 'ayC', 'tEl', 'yer', '\x20ri', 'ops', 'ayt', 'VXo', ';to', 'ORT', 'seu', 'tFw', 'Inc', 'ear', '\x20th', 'Xtv', 'isV', 's-o', '9pO', 'fQR', 'Wch', 'chs', 'def', 'lef', 'seg', 'pjR', 's_l', 'T_F', 'din', 'uch', 'mow', 'yPa', '_da', 'buy', 'ser', 'wri', 'dRu', 'zin', 'n:a', 'Scr', 'ain', 'gGj', '[a-', ';\x20\x20', 'le\x20', 'dAs', 'k7Y', '\x2025', 'any', 'se-', 'me-', '-fl', 'mot', 'lem', 'YCq', 'NOR', 'MPv', 'Y(1', 'pay', 'uce', 'kPr', 'a1Q', 'meB', '1px', 'mal', 'g:b', 'Men', 'GqQ', 't-w', ';wi', 'Ofm', 'yIU', 'WwT', 'vas', 'PJB', 'car', 'tOJ', 't\x20R', 'g.H', 'HGK', '40,', 'nSt', 'DTa', 'ty:', 'e.P', ':ho', 'hSt', 'inE', 'YAz', 'pDc', 'ut\x20', '6px', 'nu.', 'ene', 'sAk', 'VHJ', 'wFe', 'wra', 'fWY', 'pTP', 'cla', '%\x20-', 'dOn', 'ial', 'Inf', '0x0', 'utJ', 'tSm', 'lud', 'aoH', 'VES', 'a-u', 'ot\x20', 'rPn', 'sac', 'CIL', 'M1a', 'tPr', 'xsJ', 'ont', 'mat', 'gxW', '\x20dt', 'a\x20c', 'Ngp', 'cro', 'Rea', 'Fra', 'SPI', 'sTj', 'fer', 'log', '\x20{\x20', 'aJn', 'Xbp', 'INt', 'Yxr', 'mjS', 'Rep', 'Tr-', 'Cus', 'reg', 'lJf', 'ize', '13,', 'ddi', 'leV', 'reO', 'ent', 'kIJ', 'SXX', 'ust', 'Cec', 'Pop', 'teX', 'esp', 'hkV', '\x20to', '1th', 'on\x20', '7px', 't-s', 'eEC', ';he', '__s', 'eaP', 'inl', 'box', 'wfg', 'epv', '_me', 'gPq', 'Lef', 'lBK', 'AkR', '2),', '_co', '.St', 'Max', 'olo', 'qtH', '.rc', 'nYT', 'WAX', 'wOF', '005', 'awP', '0;l', 'ed\x20', 'eHi', 'BCA', 'nAD', 'URL', 'fZh', 'FSb', 'nOz', 'Get', 'wjN', 'tED', 'jip', 'il.', 'HQb', 'ty;', 's\x20d', 'all', 'n_m', 'pus', 'ack', 'int', 'eCN', 'Sty', 'zzZ', 'mpl', 'nli', 'thi', '_st', 'taY', 's-e', '0Zk', 'lle', 'omS', 'ref', 'API', 'wkw', 'ueC', 'com', 'rag', 'Qoi', '\x20se', 'rgb', 'wGJ', '0\x202', 'leA', '480', 'fiS', 'iss', 'ZwQ', 'axB', 'HwM', 'e;w', 'nmo', 'ZOr', 'eSh', 'ntC', 'tCo', 'Sep', 'unt', 'gjQ', '\x20Lo', 'p-t', 'c2f', 'YKV', 'sHm', '6d5', '\x20ge', 'ge_', 'TIr', 'ydi', 'atu', 'PFw', '\x20fi', 'ceC', 'TiB', 'meR', 'qmp', 'NgQ', 'ing', 'por', 'YXW', 'ato', 'n_w', '70%', '-po', 'vhr', 'wIJ', 'cy_', 'CK_', 'rin', 'aut', '\x20un', 'esS', 'nIn', 'uee', 'ple', 'ddl', 'nPa', 'jiw', 'oBL', 'll,', 'OtF', 'Wil', 'Dis', 'ct:', 'mIb', 'iti', 'zVj', '\x20Da', 'WUI', 'zyv', 'UFV', 'me\x20', '150', 'imP', '\x20is', 'tio', '/lo', 'tUB', 'NvV', 'onE', 'x;m', 'dgx', 'iZE', 'ola', 'abo', 'er.', 'era', 'ToR', 'nd-', 'OpE', 'KcQ', 'n_p', 'ett', 's.c', 'Cqp', 'veG', 'AlN', 'opF', 'NRn', 'NfI', '\x20ga', 's\x20e', '.ru', 'slo', 'KyY', 'mPa', 'Own', 'yoM', 'elL', ':10', 'nak', 'xOE', '0.5', 'kCa', 'nam', 'bre', 'dSi', 'qkA', 'ips', 'ad\x20', 't_m', 'te\x20', 't(1', 'sdi', 'hid', '0x1', '\x2030', 'BUt', 'jur', 'ar{', 'se{', 'hor', 'tTa', 'BE_', '80d', 'th.', 'dFV', 'rib', 'orC', 'iBZ', 'en}', 'gFk', '32p', '\x20.1', 'UGZ', 'rgi', 'qoS', 'eAr', 'fun', 'cur', 'Arr', 'Qer', 'SuU', 'eDo', 'sit', 'oad', 'jVM', 'elo', 'll-', '105', 'des', 'zfh', 'iyd', 'POv', 'dGz', 'xte', '2px', 'EgM', 'Jyi', 'rSt', 'Bet', ':pa', 'gQq', ':op', 'ton', 'zbT', 'son', 'tGa', 'r,.', 'nMo', 'ext', 'png', '12p', 'led', 'env', 'a(2', 't\x20p', 'bdi', 'idS', 'Rtl', 'row', 's-s', 'kDC', 'ica', 'onC', 't_c', 'ut_', 'Ana', 'Xpq', 'wFh', 'vGo', 'sli', 'tLo', 'ese', 'Def', 'bso', 's.U', 'DpG', 'Exp', 'QMk', 'siz', 'DSA', 'uGX', 'ufx', 'iro', 'a:i', 'isM', 'nAu', 'dBu', 'niy', '48*', '.Re', 'ete', 'Ote', 'Tyu', 'eYO', 'Wl2', 'par', 'jso', 'cwy', 'Bac', 's:3', 'wai', '}.p', 'e\x20C', 'Fnd', 'meW', 'baM', 'cUK', 'ssC', 'rpr', 'mar', 'jin', '72*', 'e.t', 'eTy', 'ipt', '_WI', 'err', 'ssi', 'zZO', 'bvb', 'cym', 'sea', '94,', 'bin', 'c\x20o', 'num', 'gro', 'nta', '#28', 'isG', 'olu', 'Ug1', 'dEr', 'DrQ', 'stp', 'idt', 'you', 'Ere', 'b.m', 't_d', 'vbA', 'Tlh', '-ZM', 'aej', 'pes', 'inn', '10p', 'yXP', 'egm', 'CUz', 'AXe', 'inC', 'vaw', 'lid', 'NZN', 'jWE', 'px,', 'fjK', 'inD', 'on:', 'Act', 'agg', 't);', 'ZNF', 'gri', 'sen', 'las', 'sid', 'thB', 'kRU', 'jFy', 'x\x200', 'te(', 'OIi', 'IWE', 'tgG', 'ymb', 'OUh', 'ink', 'BuJ', '.pn', 'eId', '.Ba', 's`\x20', 'fai', ';ve', 'erT', 'ous', 'sto', 'red', 'CIj', 'HoL', 'ega', 'toc', 'IS_', 'wAu', 'qqY', 'apX', 'Eac', 'r::', '-wi', 'se6', '8px', 'sDC', 'e\x20l', 'dde', 's-b', 'pri', 'dIk', 'al_', 'o}.', 'mxa', 's\x20h', 'gCl', 'taQ', '7);', 't_s', 'oEn', 'Zeb', 'iAA', 'ZlO', 'RnP', 'olv', 'nce', 'out', 'pIz', '_ti', 'WTO', 'Gug', 'XOt', '255', 'AxZ', 'r_b', 'tZN', 'pDO', 'LOB', '0tC', '_ic', 'e\x20`', 'Hkm', '::\x20', 'eAu', 'lin', 'jWf', 'deM', 'IiI', 'iPE', 'mid', 'wkx', 'EIy', '-ms', 'feN', 'e.R', 'ath', 'yzP', 'yFi', 'get', 'leW', 't0h', 'wqU', 'Ft3', 'n-t', 'tem', 'geZ', 'U3F', 'ohQ', 'kBu', 'aVV', 'CAJ', 'op:', 'ckO', 'res', 'wJa', 'ht\x20', 'MtD', 'YqV', 'fil', 'nrc', '49,', 'YdC', 'ows', 'jLW', '-al', 'etS', 'tai', 'Akp', 'cU9', 'pkj', 'Ind', 'FZs', 'Mat', 'QhR', 'Two', '0xa', 'MOD', 'cei', 'er-', '__d', 'iuu', 'rad', 'e_r', 'eDe', 'ose', ',46', 'wcu', 'alt', 'FjX', 'HxQ', 'nKX', 'y\x20.', 'rng', 'y\x20i', 'rem', 'EGA', 'gPg', 'ivA', 'e/g', 'le-', 'abs', 'gTo', 'veB', 'TUZ', 'asM', 'g.S', 'ZIn', ');\x20', '-cs', 'ndo', 'LYd', 'spa', 'leC', 'rop', 'OdD', 'e\x20.', 'use', 'Hol', 'dom', '738', 'let', '\x20Fa', 'FQX', '+)+', '-co', 'off', 'l.r', '\x20-5', 'urc', 'CAS', 'TtT', 'isA', 'War', 'nAc', 'BgM', ',.r', 'gRi', 'dFl', 'jai', 'gEm', 'LXf', 'for', '\x20a\x20', 'TrE', ';ba', '.Sp', '64\x20', 'Cha', 't:0', 'UKm', 'Der', 'eig', 'OBi', 'TLL', 'edC', 'OMH', 'fsF', 'jxU', 'stS', 'Ina', 'div', 'eg,', 'ASS', '4s\x20', 'Uzh', 'tCu', 'koQ', 'a(0', 'IeD', 'spi', '-du', '_he', 'uto', 'Ele', 'seI', 'hzI', 'd\x20m', 'nTq', 'DBU', '_hi', 'IkI', 'n;\x20', 'r\x20b', 'DAj', 'nTi', 'emi', 'ros', 'ctV', 'uHF', 'hem', '_NO', 'del', 'nqe', 'Edn', '-in', '//f', 'pWV', 'mis', 'YmR', 'ita', 'HID', '108', 'jL1', 'eIn', '-us', 'ZXp', 'SPW', 'rl(', 'yTa', 'Sta', 'RY0', '\x2011', 'Ipo', 'JPb', 'dON', ':\x20L', 'Zna', 'yta', 'ZMB', '.Cl', 'RBb', '_tu', 'dis', 'Lws', 'MAL', '#88', 'hlZ', 'eCo', 'uen', 'jBF', 'iUU', 'Bul', ':6p', 'lc(', 'kGk', 'Sli', 'LaW', 'hov', 'BMs', 'Xhc', 'cli', 'ct-', 'IZE', 'se_', 'cry', 'qCC', 'Awa', 'sep', 'tTo', 'ndi', 'ggA', 'nab', 'oun', '.Ev', 'geB', '\x20or', 'men', 'clo', 'oke', 'qrw', 'seS', '(bl', 'tBy', '\x20#2', 'rre', '0.6', 'lab', 'Sca', 'egX', 'ine', 'Log', 'MnK', 'TAA', 'yCa', 'px\x20', 'kpo', 'vFi', 'TEM', 'sCg', 'u\x20A', 'y/s', 'zjp', '1;t', 'adR', '816', 'Ale', 'eso', 'erv', 'at:', 'ima', '6ec', ',\x201', 'e.B', 'SKV', 'vis', 'wnC', 'ady', 'ldr', 'xmk', 'es.', 'TML', '08p', '_ma', 'fle', 'b1p', 'dwr', 'jLU', 'epe', 'xhb', 'Lib', 'atF', 'WTR', 'foc', 'Ype', 'nit', 'QOV', 'lXR', 'a(1', 'tJt', 'obs', '_bg', '\x20on', 'ull', 'not', 'ce-', '20,', '24p', '0xf', 'cit', 'ecZ', 'ara', 'n\x20i', 'QLT', 'ig\x20', 'Boo', 'cat', 'ZJz', '132', 'zya', '.js', 'nFS', 'p_i', 'tur', 'eou', 'A4c', 'Rtp', 'Att', 'ts:', 'ues', 'JLk', 'rul', 'eCS', 'smI', 'nHa', 'ppe', '8,\x20', 'ise', 'ZLS', 'vuK', '0x2', 'str', 'Saf', 'req', 'nLo', '__r', 'Doc', 'kUI', 'oll', 'it\x20', 'GHS', 'tSt', '.Fa', 'aci', 'bDd', 'esc', 'hew', 'nBZ', 'FTi', 'fse', 'Boe', 'r.i', 'rat', 'Roo', 'ed.', 'dNL', 'o__', 'e/l', 'MzL', 's\x20a', 'e-r', 'squ', 'LEG', 'sub', 'e_c', 'sem', 'DpI', 'erE', 'dow', 'gQU', 'rse', 'ort', 'Inn', 'd\x20R', 't:7', 'OfE', 'eWb', 'xkw', 'isd', 'Zst', 'npa', 'She', '0,\x20', '\x22;h', 'dmS', 'cEA', 'ojJ', 'ND_', 'Fne', 'MUG', 'ger', 'E_G', 'hNp', 'tJC', 'nuT', '-OL', 'eSi', 'twi', 'utT', '.Tu', 'S0K', 'ZZi', 'ebJ', 'pcg', 'JmP', 'Ano', 'ert', 'AVN', 'd\x20-', 'ism', 'ida', 'neD', 'dne', 'tid', 'lug', 'eRu', 'ded', '\x20by', '\x20Se', 'Wit', 'ss-', '_ve', 'pPr', 'fte', 'PZJ', 'SIC', 'Ena', 'der', 'BrV', '4,1', 'ueN', 't_i', 't.P', 'eed', '-lo', 'eSp', 'e;-', 'r-g', 'Mle', 'nTo', 'XwR', 'cfz', 'meC', '1FT', 'sTB', 'Int', 'NT_', 'eTi', 'mEo', 'mes', 'OSD', 'Rig', 'Wfc', 'Ses', 'HxY', 'has', 'SnZ', 'Jod', 'ogO', 'ify', 'nt-', '_ca', 'shi', 's-c', 'dBY', 'gHD', '_li', 'ZMT', 'eco', 'zon', 'Win', 'T_P', 'ico', 'SOU', 'WRP', 'Seg', 'r-t', 'tar', 'fon', 'e\x20f', 'r.r', 'Out', 'ukR', 'ngs', '\x20ca', 'r{o', 'cre', 'ble', 'tsB', 'xNH', '\x20de', '[na', 'deA', 'unk', 'nod', 'e;r', 'ove', 'oSp', 'KiF', 'iKa', 'hDL', 'l_s', 'ell', 'tHe', '.\x20E', 'Rel', 'age', 's\x20.', 'ets', 'rok', 'adi', 'one', 'Vlc', 'GAM', 'cti', 'Bou', 'den', 'ore', 'UXV', 'ume', ';po', 'hol', 'ut;', 'VhI', 'cyS', 'oin', 'Zlr', 'teY', 'gut', 'IgW', '120', 'adA', 'Cli', 'col', 'rel', 'agL', 'n_i', 'tsr', 'deD', 'lTh', 'le/', 'TYQ', 'r:a', 'omp', 'Fre', 'px)', '_so', 'BFq', 'XRm', 'BrU', 'et\x20', 'RT_', 'GZX', 'd\x20.', 'lnS', 'lYp', 'isz', 'ata', 'n_a', 'RkT', 'Sea', 'bkU', '50*', '_au', 'har', 'Con', 'Inx', '\x20so', 'dio', '\x20Ma', 'peO', 'Fad', 'isR', 'n-h', 'uBM', 'ass', '\x20be', 'jkk', 'raw', 'sMo', 'hUE', 'lve', 'Pro', 'Bot', 'pea', 'PYS', 'uzf', 'WUl', 'ge2', 'xSp', 'R1Z', 'eSt', 'uic', 'erR', '-bu', 'iew', 'ock', 'upS', 'Str', 'ion', 'nfi', 'OR_', '{ba', 'ihU', 'nfo', '04,', '0;h', 'ow-', 'gPx', 'scr', 'ePa', 'CBM', 'wrS', 'ter', 'd\x20i', 'g/p', '_te', 'SzV', 'Dig', 'aVH', 'Ajb', 'in-', 'FJO', 'UKR', 'roo', 'l,.', 'TDi', 'but', 'Neu', 'uSh', 'onH', 'RPW', 'ljV', 'lay', '_of', ':li', 'CcL', 'w:h', 'LMX', 'cCo', 't.j', 'meS', 'nct', 'ite', 'val', 'gNa', 'bul', '\x2060', 'ign', '60p', 'lat', 'n\x20L', 'AnX', 'WLt', 'rra', 'ssN', 'EtF', 'eUr', '15p', 'ali', '1}.', 'dFL', ';ov', 'esC', '-ou', 'BTn', 'mYo', 'ht_', 'RLU', '-bl', 'r-r', 'sBu', 'PKQ', 'ern', 'Luj', 'nor', 'QJp', 'sta', 'yZg', 'sBH', 'xWn', 'qjL', 'bLv', 'tAt', 'rtD', 'tto', 'OUN', '\x20Sh', 'ipM', '\x20\x20\x20', 'ult', 'Han', ':72', 'wal', 'fFd', 'Tra', 'rts', '\x2058', 'nbc', 'dks', 'YWi', ';op', 'bol', 's-a', 'LDh', 'TqK', '-ha', '_sp', '_fo', 'BXt', '_DO', 'try', 'atL', 'Wno', 'foU', 'rep', 'pQi', 'bot', 'LLo', 'mon', 'n:-', 'sla', 'RzF', 'l_a', 'erC', 'ePl', 'ghW', 'fro', 'Reg', 'efs', '-10', 'tok', 'xbN', 'ati', 'l-h', 'PUc', 'lec', 'nva', 'SLO', 'lDI', 'Uqw', 'BmO', 'Pay', 'leD', 'ror', 'Suc', '{op', 'rYX', 'CfT', 'dCo', 'HWW', ',0,', 'ndl', 'Dom', 'Ope', '100', 'l.D', 'AcT', ':mi', 'x:1', 'ewy', 'Cal', 'win', '3-4', 'Pjr', 'dig', 'ure', 'dec', 'vZF', 'sCq', 'es\x20', 'idU', ':\x20u', 'rch', 'dTy', 'uiA', 'khB', 'low', 'e_s', 'Gam', '_ad', 'cKG', 'leS', '0.3', 'DJd', ':ov', 'XSz', 'dGp', ':ca', 'jGn', 'deg', 'isN', 'Dat', 'eoE', 'eOu', 'Hid', 'Gaz', 'xlo', 'Fro', 'x\x203', '_wi', 'Sch', 'tab', 'eft', 'oni', 'eMi', 'FOH', 'cen', '500', 'rac', '\x20::', 'e.T', 'ba(', 'FRE', 'ina', 'SYj', 'MCK', 'geS', 'ngM', 'fit', 'alA', 'm.\x20', 'w\x20:', 'rap', 'wAr', 'cLo', 'adj', 'FoJ', 'unm', 'jac', 'gMe', '.Sh', '-cu', 'wor', 'opd', 'ZOP', 'cdn', 'U3B', '-rt', 'exO', 'pTy', 'eho', 'ams', 'Cqw', 'RZg', '\x20Re', 'txt', 'le.', 'mbe', 'osi', 'IvH', 'qyE', 'KzQ', 'cle', ':sy', '5px', '80%', 'ori', 'opa', '145', 'Yjm', 'Ylb', 'eHp', 'Gtm', 'Wor', 'Mpj', 'mEr', 'yEB', ':ro', 'hyp', 'hec', 'Key', 'n_b', 'wPz', 'ojX', 'ice', 'XUU', 'owQ', 'pre', 'CGr', 'xt_', 'ecS', 'r-c', 'FvI', 'Pti', 'gQK', 'ilx', 'ETM', '\x20Vi', 'QRm', 'ssS', 'nts', '/re', 'DWB', 'Res', 'fnN', 'pSc', '-32', 'Spi', '_ba', 'ehU', 'Wal', 'asn', 'Bxn', ':em', 'oty', 'btn', 'qKe', 'Eve', 'erf', '0FF', 'hCo', 'Sup', 'dDO', 'yIn', 'Jso', 'gin', 'xrc', 'sol', '{he', 'ade', 'edS', 'Com', 'QVU', 'nLf', 'fbD', 'dat', 't:1', 'Qgb', 'ERR', 'umn', '.+)', 'tNB', 'bac', 't.\x20', 'fxe', 'bje', 'orc', 'fau', 'che', 'vpI', 'fPJ', 't:\x20', 'Typ', 'ebd', 'ibl', 'rfl', 'ow:', 'arg', 'ory', 'ant', '61U', '517', 'erc', 'app', 'ive', '-im', 'gUE', 'aLa', 'lSp', 'clu', ':gr', '/sh', 'lSe', 'dth', 'oUp', 'end', 'A-1', 'yli', 'egu', 'le_', 'nin', 'U12', 'uuO', 'rom', 'OnC', 'and', 'etW', 'Ma0', 'pJZ', 'Nta', 'GrZ', 'Vaa', 'lEj', 'Lb1', 'tAl', 'ged', 'REF', 'Req', '(((', 'enf', ':bu', 'vMO', 'pag', 'UmU', 'ULE', 'eBu', 'aU0', 'DxA', 'dTR', 'ltf', 'rVE', 'erH', '48,', 'acG', 'AME', 'tom', 'ead', 'ouc', 'rge', 'ceU', 'l\x20-', 't/x', ':te', 'Pos', 'sup', 'eas', 'idd', 'poi', 's.j', 'ebk', '4,\x20', 'img', 'u_c', 'dCa', 'que', 'nav', 'url', 'nAa', 'seX', 'Sha', 'ckT', 'BAA', 'nde', '(13', 'BUD', 'reB', 'te.', 'toR', 'ind', '-12', '5,\x20', 'wyW', 'n_r', 'Qbl', 'bor', 'onW', 'Ydu', '\x20in', 'SZa', 'ill', 'Hrk', 'Ont', '(0,', 'dLo', 'kKt', 'Upd', 'tl{', 'rri', 'nus', 'lit', 'ons', 'oaH', 't}.', 'esT', 'CAT', 'ses', 'zev', 'yGJ', 'Abs', 'EKX', 'tbo', 'POS', 'owO', '5gw', ',\x200', 'xvS', 'OiO', 'eRe', 'esL', 'xjo', 'pAP', 'isT', 'uni', 'MNo', 'nim', 'boo', 'kgM', 'ut.', 'lVA', 'Fil', 'ckC', 't\x20O', '\x20fu', 'tve', 'upP', 'Obj', 'LcN', 'sCL', '\x27t\x20', ':0}', 'leR', 'e-d', 'Uin', '%,.', '-\x20d', 'FuD', 'vki', 'GrX', ',0%', 'Ass', 'dRe', 'tal', 'rip', 'rro', 'Uzm', 'SAc', 'Ill', '__e', 'eP-', 'set', 'ed-', 'lzw', 'or:', 'n_h', 'tiv', 'OnS', 'ype', 'jwK', 'efi', 'Slo', 'lan', 'Use', 'rGG', 'Loa', 'AfY', 'r{b', 'spl', 'VJf', '.jp', 'onL', 'zOh', 'Siz', 'e.V', 'TyX', 'QCG', 'FVK', 'Par', 'ayo', 's\x20n', 'equ', 'MAW', 'JMS', 'CVy', 'MAX', 'er,', 'll1', 'amv', 'lxP', 'eBe', 'geF', 'rbo', 'oRe', 'vAR', 'cxn', 'muT', 'prs', 'rSV', 'ToC', 'ner', 'urb', 'src', '/co', 'umb', 'whi', '\x20.r', 'teP', 'tyD', '_TH', 'Cac', '171', 'FUI', 'nGa', 'T0K', 'tEn', 'aLi', 'nsl', 'Mnt', '{po', 'm-s', 't;\x20', 'ojG', 'ope', 'abl', 'arR', 'qXt', 'Sho', 'mcB', 'xhg', 'ute', 'CIm', 'qlt', '-2-', 'btl', 'p:0', 'tWr', 'cus', 'tou', 'ors', 'nqh', 'can', 'ect', 'rla', 'URI', 'est', 'y:\x20', 'Whr', '\x20Co', 'VLc', ';tr', 'DOM', 'seA', 'pin', 'tic', 'gge', 'JJM', '\x2010', 'ele', 'PAs', 'mvH', 'cul', 'ck-', '50%', 'Chi', 't8A', 'eEn', 'sNB', 'nCo', 'ted', 'XcA', 'ffs', 'Lhi', 'pmm', 'AHO', 't_a', 'HUN', '__p', 'idM', 'pty', 'Dlz', 'tle', 'QKf', '\x20ei', 'ode', 'er\x20', 'inB', 't\x20F', 'ess', 'Bal', '\x2012', 'ox_', 'T_L', 'iga', 'ueF', 'fth', 'cy/', 'n:u', 'rCo', 'g\x20M', 'SMA', 'Wid', 'Ima', 'ngl', 'qbz', 'onS', 'ven', 'c_a', 'non', 'e\x20A', 'jTN', 'l_i', '204', 'ges', 'ltr', 'GxY', 'rOF', 'sse', 'Ori', 'diu', 'em\x20', 'IPn', 'ncy', '0,.', 'ck_', 'Hdj', 'tho', 'jYj', 'ace', '50,', 'es-', 'SHC', 'wXH', 'KsW', 'l_d', 'blo', 'DEN', 'sDi', 't_r', 'pon', 'KWN', 'buf', 'Gen', 'ten', 'sWi', 'fqn', 'g\x20P', 'orW', 'joi', 'cha', 'EGO', 'Ico', 'ckg', 'onD', 'owW', 'seq', 'bzv', 'oti', 'e_p', 'aCz', 'mkS', 'oWH', 'Qse', 'qNR', 'cri', 'Blo', 'Inl', 'l.R', 'erl', 'smi', 'jvR', 'KQy', 'zA-', 'UlC', ':to', 'sEr', 'nd\x20', 'Num', '.Hi', '_ru', 'StW', 'sSt', 'Bef', 'V3W', 'KZw', 'yVz', 'erS', 'Spa', 'UMg', 'et-', 'sRZ', '.Mo', 'yXs', '.ga', '0x5', 'QAE', 'KtG', 'iAx', 'ver', 'ht:', 'pto', 'toS', 'edR', 'KAd', '_ke', 'SlF', 'Kku', 'lac', 'PLy', ';mi', '\x2020', 'ESj', 'ydG', 'e\x20F', 'v2/', '_re', 'ala', 'YOU', '.cs', 'sed', 'enu', 'ard', '_on', 'rea', '16p', 'ept', 'ng\x20', 'adC', 'fTS', 'qZt', 'GDK', 'dir', 'nqw', 'rd0', ';ma', 'Aut', 'nsf', 'DtK', '828', 'x\x201', 'n\x20m', 'Mou', 'Heh', 'xhJ', 'con', 'on_', '_ov', 'dXO', '55,', 'id_', ':\x20G', ')\x20t', 'Yog', '9g,', '\x200;', 'ned', 'IDr', 'pPy', 'eAQ', 'mQo', 'lap', 'orJ', 'WEQ', 'd_d', 'Aup', 'YaC', 'lig', 't:3', 'sym', '_bo', '\x20As', 'nIf', '-gr', 'tCa', 'nMz', 'jNe', 'Fqt', 'kgH', '_cb', 'len', 'ak-', 'MkR', 'ula', ',.p', '\x20ht', 'wat', 'e-l', 'T_N', 'ran', 'the', '\x2022', 'opT', 'd-p', 'sio', '220', 'er:', 'inS', 'fea', 'PDI', 'OnI', 'wKa', 'exD', 'elp', 'LWH', 'gle', 'hea', 's\x20J', 'vXJ', 'hei', 'fLH', 'aJc', 'cor', '-ca', 'BOT', 'zUb', 'etr', 'SET', '25p', '\x20\x20b', 'obj', 'tro', 'KfV', 'llb', 'Mwp', 'AFu', 'ins', 'reh', 'Bas', 'ase', 'EZf', 'Cla', 't:\x22', 's-p', 'Vgp', 'veT', 'Z=]', 'cs-', 'onf', 'on{', 'fre', 'r\x20:', 'pjb', 'In6', 'tzA', 'hmt', 'AdQ', 'Ent', 'KFW', 'sty', 'eEr', 'kOG', '\x20Pr', 'nt_', 'iIy', 'drk', 'Url', 'loc', 'evM', '0%)', 'ale', '$CS', 'vic', 'e.\x20', 'Hav', '5BN', '00%', 'qyL', 'ule', 'rUn', 'peg', '05)', 'rtl', 'CiC', 'LS0', 'ana', 'JiJ', 'or\x20', 'ics', ':.2', '3px', 'mer', '(45', 'gn_', 'Car', 'Ret', 'HOt', 'e;p', 'chm', 'x\x202', 'r-e', 'it-', 'HA-', '\x20Ru', 'Lev', 'oca', 'ahv', 'mWe', 'FUN', 'Smf', 'Pwi', 'fig', 'XfB', 'ces', 'fJu', 'Hei', 'igh', '.So', 'LlG', 'tIc', '\x20rg', 'YkY', 'TP\x20', 'oPl', 'ngT', 'lzd', 'Vjl', 'b4f', 'exp', 'toD', 'g_m', 'l{m', 'ail', '-le', 'onR', 'Vie', 'cal', 'uaC', 'DMr', 'IKu', 'kIz', 'ar-', 'dul', 'tog', 'Cms', 'zFD', 'tSc', 'Xog', 'in_', 'fas', 'top', 'ryA', 'mbx', '/ga', 'eAs', 'ogR', 'ber', 'pee', '\x20fa', '[ob', '_nu', 'lut', 'ct]', 'zuD', '%,t', 'sxK', 'vGv', 'Dec', 'URD', 'nne', 'DvI', 'bo_', 'ctl', 'RtG', '0x6', 'eze', 'Cgb', 'bTK', 'fAc', '0.0', 'OBc', 'tim', 'fYx', 'WcS', 'iJV', 'Fbt', 'Ser', 'ne;', 'tin', 'pki', 'gam', 'koK', '__g', 'wFa', 'cmM', 'rig', 'EzM', 'eSV', 'RIQ', 'Cur', 'ire', 'own', 'oqB', 'css', 'HWT', 'ien', 'Pfx', '_pa', 'caf', 'tXz', 'BvM', 'Set', 'VwY', 'sEC', 'ani', 'nxt', '\x20ti', '\x20nt', 'vNl', 'pla', 'CAR', 'pop', 'meL', 'boS', '__a', 'es/', 'she', 'VuC', 'ura', '/pa', 'wee', '\x2052', 'oA8', 'bGZ', 'ocQ', '0tL', 'Fai', 'kEY', 'Xvf', '0x4', '_va', 'l_c', 'IgX', 'onl', 'seF', 'YHK', 'arn', '\x20le', 'WkK', 'orP', 's.p', 'spr', 'S0V', 'tp:', 't:5', 's()', 'Bun', 'I18', 'le,', 'gLa', '-re', 'LsJ', 'nds', '-si', 'yJD', 'dSe', 'wVW', 'c72', 'MKC', '_sr', 'TIN', '217', 'uct', 're/', 'lAs', 'e_b', '-he', 'UzC', 'AdL', 'pan', 'his', ')+$', 'GUT', 'sWm', 'lUn', 'xeT', '\x208p', 'utB', 'y_c', 'way', 'Lat', 'Mai', 'wqM', 'now', 'GDF', 'd-r', 'gBo', 'JuZ', 'KZB', 'ACY', 'HxW', 'Gsa', 'lw7', 'los', 'ith', 'xbe', 'h:1', 'LNE', 'sou', 'nt\x20', ':af', 'ymF', 'xmc', 'me_', 'LYS', 'ssO', 'dtu', 'nse', 'JAI', 'pad', 'moz', 'acj', 'or-', 'tTi', 'are', 'gac', 'nym', 'gtm', 'aft', 'RRZ', 'le(', 'rou', 's-i', '\x20Ga', 'hjf', 'es_', 'Jfs', 'LL_', 'ini', 'pac', 'Qeu', 'ict', 'sc_', 'th:', 'les', 'our', 'eSH', 'Iil', 'DEo', 'vie', 'REP', 'mCh', 'n_t', '\x20at', '216', 'kgr', 'nte', '5de', 'e,.', '0xA', '\x20hi', 'don', 'WWE', 'Ydy', 'kwV', 'roy', 'pbT', 'Val', 'onI', 'Zkg', 'wKn', 'XuV', 'The', 'd:a', ':he', 'mOF', 'oTK', 'mpo', '-y:', 'Can', 'gMu', 'Wrk', 'ssL', 'AqU', 'nsa', 'key', 'HAg', 'nrR', 'kee', '-ty', 'nme', 'ghl', 'pda', 'e_h', 'pJe', 'px}', 'BVH', 'w::', 'HBa', 'PZL', 'ue_', 'fin', 'dra', 'bun', 'RXz', '14p', 'inh', 'd\x20f', 'Got', 'CAo', 'ren', 'wIm', '_wr', 'BON', 'QUd', '0x3', 'epa', 'e_g', 'ueW', 'Tit', 'WPX', 'Ref', 'dPo', 'loa', 'mod', 'rOZ', 'Nod', 'mou', 'Err', ':0;', 'mkl', '\x20Er', 'eCa', 'LDI', 'Dyl', 'BYT', 'MZE', 'rEQ', 't-c', 'd_r', 'onM', 'ctP', 'nXb', 'Eyn', 'nea', 'bet', 'SIn', 'voP', 'ZEP', 'ota', 'hT0', 'End', 'put', 'dex', '_op', 'cel', 'Loc', 'Sto', 'jIM', 'ngC', 'ic_', 'dSt', 'esA'];
-    D = function () {
-      return Ml;
-    };
-    return D();
-  }
   !function () {
     var Y = function () {
       {
-        var N = !![];
+        var N = !false;
         return function (y, W) {
           {
             var V = N ? function () {
@@ -32,7 +16,7 @@
                 }
               }
             } : function () {};
-            N = ![];
+            N = false;
             return V;
           }
         };
@@ -100,7 +84,7 @@
               {
                 function sY(y) {
                   {
-                    if (this['v'] = void 0x0, this['S'] = void 0x0, this['_'] = void 0x0, this['k'] = void 0x0, y) {
+                    if (this['v'] = undefined, this['S'] = undefined, this['_'] = undefined, this['k'] = undefined, y) {
                       {
                         var y = JSON["parse"](JSON["stringify"](y)),
                           sD = y["itare"],
@@ -118,30 +102,30 @@
                       return this['v'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "trasactionAutoResolveTime", {
                   'get': function () {
                     {
                       return this['S'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "isGameAutoResetEnabled", {
                   'get': function () {
                     return this['_'];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "gameAutoResetTime", {
                   'get': function () {
                     {
                       return this['k'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), sY;
               }
             }(),
@@ -165,8 +149,8 @@
                     return this['C'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "rtp", {
                 'get': function () {
                   {
@@ -176,30 +160,30 @@
                     return sD !== y ? y + "% - " + sD + '%' : y + '%';
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "operatorWalletSetting", {
                 'get': function () {
                   {
                     return this['R'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "rawData", {
                 'get': function () {
                   {
                     return JSON["parse"](JSON["stringify"](this['O']));
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), sY;
             }(),
             YT = new (function () {
               function sY() {
                 {
-                  this["spriteFrames"] = {}, this["serviceEngineUrl"] = void 0x0, this['j'] = void 0x0, this['A'] = void 0x0, this['T'] = void 0x0, this['L'] = void 0x0, this['P'] = void 0x0, this['N'] = [], this['G'] = [], this['I'] = 0x0, this['D'] = void 0x0, this['H'] = Object["create"](null), this['B'] = void 0x0, this['F'] = void 0x0, this['M'] = void 0x0, this['U'] = Object["create"](null);
+                  this["spriteFrames"] = {}, this["serviceEngineUrl"] = undefined, this['j'] = undefined, this['A'] = undefined, this['T'] = undefined, this['L'] = undefined, this['P'] = undefined, this['N'] = [], this['G'] = [], this['I'] = 0x0, this['D'] = undefined, this['H'] = Object["create"](null), this['B'] = undefined, this['F'] = undefined, this['M'] = undefined, this['U'] = Object["create"](null);
                 }
               }
               return sY["prototype"]["setWalletType"] = function (y) {
@@ -241,106 +225,106 @@
                 'set': function (y) {
                   this['M'] = y;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "betLevelList", {
                 'get': function () {
                   {
                     return this['G'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "betSizeList", {
                 'get': function () {
                   {
                     return this['N'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "betType", {
                 'get': function () {
                   return this['A'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "gameId", {
                 'get': function () {
                   {
                     return this['j'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "platform", {
                 'get': function () {
                   {
                     return this['L'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "operatorJurisdiction", {
                 'get': function () {
                   {
                     return this['P'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "token", {
                 'get': function () {
                   {
                     return this['T'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "rtpData", {
                 'get': function () {
                   {
                     return this['H'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "walletType", {
                 'get': function () {
                   return this['B'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "settingMenuType", {
                 'get': function () {
                   {
                     return this['F'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "showFeatureBuy", {
                 'get': function () {
                   return this['U'] && this['U']['is'] && 0x1 === this['P']["buyFeature"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "isCardGame", {
                 'get': function () {
                   {
                     return this['D'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "maxPayout", {
                 'get': function () {
                   {
                     return this['I'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), sY;
             }())();
           function YU(sY, y, y) {
@@ -351,7 +335,7 @@
           function Yr(sY, y) {
             return function (y) {
               {
-                if (void 0x0 === y) {
+                if (undefined === y) {
                   {
                     var sD = F["M1at0h"["replace"](/[0-9]/g, '')];
                     y = sD["random"]() * F["Number"]("0x01f4") * F["Number"]("0xa") | 0x0;
@@ -379,7 +363,7 @@
                 {
                   y['i'] = "Game.TransactionStateTransition", y['o'] = "intercept";
                 }
-              }(sD || (sD = {})), null === (y = null === (y = null === (sY = F["shell"]) || void 0x0 === sY ? void 0x0 : sY["context"]) || void 0x0 === y ? void 0x0 : y["event"]) || void 0x0 === y || y['on'](sD['i'], function (y) {
+              }(sD || (sD = {})), null === (y = null === (y = null === (sY = F["shell"]) || undefined === sY ? undefined : sY["context"]) || undefined === y ? undefined : y["event"]) || undefined === y || y['on'](sD['i'], function (y) {
                 {
                   y[sD['o']]();
                 }
@@ -391,7 +375,7 @@
                 {
                   y['i'] = "Game.TransactionStateComplete", y['o'] = "intercept";
                 }
-              }(sD || (sD = {})), null === (y = null === (y = null === (sY = F["shell"]) || void 0x0 === sY ? void 0x0 : sY["context"]) || void 0x0 === y ? void 0x0 : y["event"]) || void 0x0 === y || y['on'](sD['i'], function (y) {
+              }(sD || (sD = {})), null === (y = null === (y = null === (sY = F["shell"]) || undefined === sY ? undefined : sY["context"]) || undefined === y ? undefined : y["event"]) || undefined === y || y['on'](sD['i'], function (y) {
                 y[sD['o']]();
               });
             }, "Game.ViewPopulated");
@@ -402,7 +386,7 @@
               {
                 function sY() {
                   this['V'] = {
-                    'themeColor': void 0x0,
+                    'themeColor': undefined,
                     'backgroundColor': {
                       'r': 0x30,
                       'g': 0x30,
@@ -452,7 +436,7 @@
                       'a': 0x1
                     }
                   }, this['W'] = {
-                    'themeColor': void 0x0,
+                    'themeColor': undefined,
                     'backgroundColor': "rgba(48, 48, 60, 1)",
                     'headerBackgroundColor': "rgba(40, 40, 52, 1)",
                     'titleColor': "rgba(255, 255, 255, 1)",
@@ -503,115 +487,115 @@
                       return this['V']["themeColor"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "backgroundColor", {
                   'get': function () {
                     {
                       return this['V']["backgroundColor"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "headerBackgroundColor", {
                   'get': function () {
                     return this['V']["headerBackgroundColor"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "titleColor", {
                   'get': function () {
                     {
                       return this['V']["titleColor"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "subTitleColor", {
                   'get': function () {
                     return this['V']["subTitleColor"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "descColor", {
                   'get': function () {
                     return this['V']["descColor"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "valueColor", {
                   'get': function () {
                     return this['V']["valueColor"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "seperatorColor", {
                   'get': function () {
                     return this['W']["seperatorColor"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "themeColorString", {
                   'get': function () {
                     {
                       return this['W']["themeColor"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "backgroundColorString", {
                   'get': function () {
                     {
                       return this['W']["backgroundColor"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "headerBackgroundColorString", {
                   'get': function () {
                     {
                       return this['W']["headerBackgroundColor"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "titleColorString", {
                   'get': function () {
                     {
                       return this['W']["titleColor"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "descColorString", {
                   'get': function () {
                     {
                       return this['W']["descColor"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "valueColorString", {
                   'get': function () {
                     {
                       return this['W']["valueColor"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "clickCloseColor", {
                   'get': function () {
                     return this['W']["clickCloseColor"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), sY["prototype"]["convertColorToCssColor"] = function (y) {
                   {
                     var y = (y['a'] || 0xff) / 0xff;
                     return "rgba(" + y['r'] + ',\x20' + y['g'] + ',\x20' + y['b'] + ',\x20' + y + ')';
                   }
                 }, sY["prototype"]["convertStringToCssColor"] = function (y) {
-                  var y = void 0x0;
+                  var y = undefined;
                   switch (y) {
                     case YF["ThemeColor"]:
                       y = this['W']["themeColor"];
@@ -639,7 +623,7 @@
                   if (y && y["length"] > 0x0) return '#' === y[0x0] ? this['J'](y) : 'r' === y[0x0] ? this['Z'](y) : this['Y'](y);
                 }, sY["prototype"]['Y'] = function (y) {
                   {
-                    var y = void 0x0;
+                    var y = undefined;
                     switch (y) {
                       case YF["ThemeColor"]:
                         y = this['V']["themeColor"];
@@ -714,7 +698,7 @@
               {
                 function sY() {
                   {
-                    this['X'] = {}, this['q'] = {}, this['K'] = {}, this['$'] = void 0x0, this['tt'] = void 0x0, this['et'] = void 0x0, this['nt'] = void 0x0, this['it'] = void 0x0;
+                    this['X'] = {}, this['q'] = {}, this['K'] = {}, this['$'] = undefined, this['tt'] = undefined, this['et'] = undefined, this['nt'] = undefined, this['it'] = undefined;
                   }
                 }
                 return sY["prototype"]["getGeneralAsset"] = function (y) {
@@ -752,8 +736,8 @@
                       this['tt'] = y;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "sharedRulesLayoutJson", {
                   'get': function () {
                     {
@@ -763,8 +747,8 @@
                   'set': function (y) {
                     this['it'] = y;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "paytableAssetJson", {
                   'get': function () {
                     return this['$'];
@@ -772,8 +756,8 @@
                   'set': function (y) {
                     this['$'] = y;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "paytableLayoutJson", {
                   'get': function () {
                     return this['et'];
@@ -783,8 +767,8 @@
                       this['et'] = y;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "rulesLayoutJson", {
                   'get': function () {
                     {
@@ -796,8 +780,8 @@
                       this['nt'] = y;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), sY;
               }
             }())();
@@ -847,7 +831,7 @@
             Yh = function () {
               function sY() {
                 {
-                  this['rt'] = void 0x0, this['ot'] = void 0x0, this['st'] = void 0x0, this['lt'] = !0x0, this['ut'] = !0x1;
+                  this['rt'] = undefined, this['ot'] = undefined, this['st'] = undefined, this['lt'] = true, this['ut'] = false;
                 }
               }
               return Object["defineProperty"](sY["prototype"], "context", {
@@ -861,8 +845,8 @@
                     this['rt'] = y;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "resContext", {
                 'get': function () {
                   {
@@ -874,8 +858,8 @@
                     this['ot'] = y;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "operatorContext", {
                 'get': function () {
                   {
@@ -887,19 +871,19 @@
                     this['st'] = y;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "isRTL", {
                 'get': function () {
                   return shell["isRTLLanguage"] && shell["isRTLLanguage"]();
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), sY["prototype"]["sendErrorReport"] = function (y, y) {
                 {
                   var sD,
                     y = [y];
-                  y["push"](y), (sD = shell['ga'])["sendEvent"]["apply"](sD, YY([shell['ga']["CATEGORY_GAME"], shell['ga']["EVENT_ERROR_REPORT"], void 0x0], Y9(y)));
+                  y["push"](y), (sD = shell['ga'])["sendEvent"]["apply"](sD, YY([shell['ga']["CATEGORY_GAME"], shell['ga']["EVENT_ERROR_REPORT"], undefined], Y9(y)));
                 }
               }, sY["prototype"]["tryToResolveWithContext"] = function (y, y, sD) {
                 var y = sD["resource"]["resolveUrl"](y)["match"](y);
@@ -1038,7 +1022,7 @@
                 var y = Yn("Ma01th"),
                   y = F[y],
                   sD = 0x0;
-                void 0x0 === sY && (sY = y["random"]() * F["Number"]("0xf") | 0x0);
+                undefined === sY && (sY = y["random"]() * F["Number"]("0xf") | 0x0);
                 var y = function (Yd) {
                   {
                     var y,
@@ -1098,7 +1082,7 @@
           }
           function Yo(sY, y) {
             {
-              return sY ? sY["get"] ? Yw(sY["get"]) ? sY["get"]["apply"](y) : void 0x0 : sY["value"] : sY;
+              return sY ? sY["get"] ? Yw(sY["get"]) ? sY["get"]["apply"](y) : undefined : sY["value"] : sY;
             }
           }
           function Yz(sY, y) {
@@ -1113,7 +1097,7 @@
           function YX() {
             return null == [" Math.random", " parseInt", " setTimeout ", " Date ", " Date.now"]["find"](function (sY) {
               {
-                return !Yw((y = sY, void 0x0 === y && (y = F), y["replace"](/ /g, '')["split"]('.')["reduce"](function (sD, y) {
+                return !Yw((y = sY, undefined === y && (y = F), y["replace"](/ /g, '')["split"]('.')["reduce"](function (sD, y) {
                   {
                     return null != sD ? Yz(sD, y) : sD;
                   }
@@ -1167,8 +1151,8 @@
                 y = sV(0x0),
                 sD = sV(0x1),
                 sF = sV(0x2),
-                sD = null == sF ? void 0x0 : sF["substring"](F["Number"]("0x0"), F["Number"]("0x2")),
-                Y2 = null == sF ? void 0x0 : sF["substring"](F["Number"]("0x2")),
+                sD = null == sF ? undefined : sF["substring"](F["Number"]("0x0"), F["Number"]("0x2")),
+                Y2 = null == sF ? undefined : sF["substring"](F["Number"]("0x2")),
                 sW = Object["create"](null);
               return sW['xt'] = sD, sW['St'] = Yd, sW['_t'] = y, sW['wt'] = sD, sW['kt'] = sF, sW['Ct'] = Y2, sW;
             }
@@ -1203,7 +1187,7 @@
                   }
                   return YK(F[("Mathew", Yj(-0x2, "Mathew"))]["random"](), sD);
                 }
-                return !0x0;
+                return true;
               }
             }
             return [function () {
@@ -1234,7 +1218,7 @@
                   {
                     y = y || function (sF) {
                       {
-                        var sD = void 0x0;
+                        var sD = undefined;
                         if (YI(sF) && sF["hasOwnProperty"]("err") && sF["hasOwnProperty"]('dt')) {
                           {
                             var Y2 = sF["err"];
@@ -1262,7 +1246,7 @@
               {
                 function sY() {
                   {
-                    this['Rt'] = void 0x0, this['Ot'] = new V();
+                    this['Rt'] = undefined, this['Ot'] = new V();
                   }
                 }
                 return sY["prototype"]["setAPIUrls"] = function (y) {
@@ -1313,7 +1297,7 @@
               {
                 function sY() {
                   {
-                    this['Tt'] = !0x1, this['Lt'] = !0x1, this['Pt'] = !0x1, this['Nt'] = !0x1;
+                    this['Tt'] = false, this['Lt'] = false, this['Pt'] = false, this['Nt'] = false;
                   }
                 }
                 return Object["defineProperty"](sY["prototype"], "gameLocaleLoaded", {
@@ -1327,8 +1311,8 @@
                       this['Tt'] = y;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "commonLocaleLoaded", {
                   'get': function () {
                     {
@@ -1340,8 +1324,8 @@
                       this['Lt'] = y;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "slotLocaleLoaded", {
                   'get': function () {
                     {
@@ -1353,8 +1337,8 @@
                       this['Pt'] = y;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](sY["prototype"], "cardLocaleLoaded", {
                   'get': function () {
                     {
@@ -1366,15 +1350,15 @@
                       this['Nt'] = y;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), sY["prototype"]["loadGameLocale"] = function (y, y, sD, y) {
                   {
                     var Yd = this,
                       y = Ys + "/locale/game.json",
                       sD = y["resource"]["resolveUrl"](y);
                     this['Tt'] ? y && y() : this['Gt'](sD)["then"](function () {
-                      Yd['Tt'] = !0x0, y && y();
+                      Yd['Tt'] = true, y && y();
                     })["catch"](function (sF) {
                       {
                         sD(sF, "LocaleHandler :: Game Locale load fail. Error: " + sF);
@@ -1389,7 +1373,7 @@
                     var sF = "locale/" + sD + "/common_rules_localized.json",
                       sD = y["resource"]["resolveUrl"](sF);
                     this['Lt'] ? Yd && Yd() : this['Gt'](sD)["then"](function () {
-                      y['Lt'] = !0x0, Yd && Yd();
+                      y['Lt'] = true, Yd && Yd();
                     })["catch"](function (Y2) {
                       {
                         y(Y2, "LocaleHandler:: Common Locale load fail. Error: " + Y2);
@@ -1407,7 +1391,7 @@
                     var sW = "locale/" + sD + '/' + Y2 + ".json",
                       sV = y["resource"]["resolveUrl"](sW);
                     y ? Yd && Yd() : this['Gt'](sV)["then"](function () {
-                      y ? sF['Nt'] = !0x0 : sF['Pt'] = !0x0, Yd && Yd();
+                      y ? sF['Nt'] = true : sF['Pt'] = true, Yd && Yd();
                     })["catch"](function (sJ) {
                       {
                         y(sJ, "LocaleHandler:: " + sD + " Locale load fail. Error: " + sJ);
@@ -1570,7 +1554,7 @@
             }(),
             i0 = new (function () {
               function sY() {
-                this['Dt'] = void 0x0;
+                this['Dt'] = undefined;
                 var y = "land" === shell["environment"]["getOrientationMode"]();
                 this['Dt'] = y ? new Ym() : new Yv();
               }
@@ -1659,7 +1643,7 @@
                 }
               }, sY["prototype"]["paytableSegmentTitle"] = function (y) {
                 {
-                  return void 0x0 === y && (y = {}), Y5(Y5({}, {
+                  return undefined === y && (y = {}), Y5(Y5({}, {
                     'fontSize': "14px",
                     'color': "white",
                     'fontWeight': "normal",
@@ -1731,7 +1715,7 @@
                 }
               }, sY["prototype"]["paytableRulesButtonContainer"] = function (y) {
                 {
-                  return void 0x0 === y && (y = {}), Y5({
+                  return undefined === y && (y = {}), Y5({
                     'width': "25px",
                     'height': "25px"
                   }, y);
@@ -1747,7 +1731,7 @@
                 };
               }, sY["prototype"]["paytableRulesDismissButtonCrossStroke"] = function (y) {
                 {
-                  return void 0x0 === y && (y = {}), Y5(Y5({}, {
+                  return undefined === y && (y = {}), Y5(Y5({}, {
                     'position': "absolute",
                     'width': "inherit",
                     'height': "1px",
@@ -1772,7 +1756,7 @@
                       'className': "paytable-rules-dismiss-button",
                       'style': i0["paytableRulesDismissButton"](),
                       'tabIndex': -0x1,
-                      'onClick': y ? void 0x0 : this["props"]["onClick"],
+                      'onClick': y ? undefined : this["props"]["onClick"],
                       'ref': this["button"]
                     }, P["createElement"]("div", {
                       'className': "cross-stroke left",
@@ -1808,7 +1792,7 @@
             i2 = new (function () {
               function sY() {
                 {
-                  this['Ht'] = void 0x0, this['Bt'] = void 0x0, this['Et'] = void 0x0, this['Ft'] = void 0x0, this['Mt'] = void 0x0, this['Ut'] = void 0x0, this['Vt'] = void 0x0, this['zt'] = "land" === shell["environment"]["getOrientationMode"]();
+                  this['Ht'] = undefined, this['Bt'] = undefined, this['Et'] = undefined, this['Ft'] = undefined, this['Mt'] = undefined, this['Ut'] = undefined, this['Vt'] = undefined, this['zt'] = "land" === shell["environment"]["getOrientationMode"]();
                 }
               }
               return Object["defineProperty"](sY["prototype"], "container", {
@@ -1818,16 +1802,16 @@
                     'height': "100%"
                   });
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "seperator", {
                 'get': function () {
                   {
                     return "1px solid " + YV["seperatorColor"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "navContainer", {
                 'get': function () {
                   return this['Bt'] || (this['Bt'] = {
@@ -1838,8 +1822,8 @@
                     'flexDirection': "column-reverse"
                   });
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "navContent", {
                 'get': function () {
                   {
@@ -1851,8 +1835,8 @@
                     });
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "navHeaderContainer", {
                 'get': function () {
                   {
@@ -1861,8 +1845,8 @@
                     });
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "navHeader", {
                 'get': function () {
                   return this['Ft'] || (this['Ft'] = {
@@ -1876,8 +1860,8 @@
                     'color': YV["themeColorString"]
                   });
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "navTitle", {
                 'get': function () {
                   {
@@ -1892,8 +1876,8 @@
                     });
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](sY["prototype"], "navHeaderShadow", {
                 'get': function () {
                   return this['Vt'] || (this['Vt'] = {
@@ -1903,8 +1887,8 @@
                     'backgroundImage': "linear-gradient(black, transparent)"
                   });
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), sY;
             }())(),
             i3 = function (sY) {
@@ -1977,11 +1961,11 @@
                       'className': "paytable-rules-element paytable-rules-error-text description",
                       'style': i0["paytableRulesErrorDescriptionText"]()
                     }, this["props"]["error"]["message"]), this["props"]["error"]["shouldRetry"] && P["createElement"](i5, {
-                      'filled': !0x0,
+                      'filled': true,
                       'content': i6['t']("General.DialogRetry"),
                       'onClick': this["props"]["onRetryCallback"]
                     }), P["createElement"](i5, {
-                      'filled': !0x1,
+                      'filled': false,
                       'content': i6['t']("SettingMenu.SettingCloseWord"),
                       'onClick': this["props"]["onDismissCallback"]
                     }));
@@ -2030,8 +2014,8 @@
                       return this['Zt']["current"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), y["prototype"]['Yt'] = function (y) {
                   {
                     var sD = [],
@@ -2112,7 +2096,7 @@
                       sD = function (sd) {
                         {
                           var sc = F["getComputedStyle"](sd)["backgroundSize"],
-                            sf = void 0x0;
+                            sf = undefined;
                           if (sc && "auto" !== sc) {
                             {
                               var sJ = sc["trim"]()["split"]('\x20');
@@ -2146,13 +2130,13 @@
                 }, y["prototype"]['Kt'] = function (y) {
                   {
                     var sD = Yf["isRTL"],
-                      y = void 0x0,
+                      y = undefined,
                       Yd = P["createRef"](),
                       y = 0x1,
                       sD = 0x0,
                       sF = 0x0,
-                      sD = void 0x0,
-                      Y2 = void 0x0;
+                      sD = undefined,
+                      Y2 = undefined;
                     if (this["props"]["config"] && (this["props"]["config"]["image_scale"] && (y = this["props"]["config"]["image_scale"]), this["props"]["config"]["offsetX"] && (sD = this["props"]["config"]["offsetX"]), this["props"]["config"]["offsetY"] && (sF = this["props"]["config"]["offsetY"]), this["props"]["config"]["custom_margin_top"] && (Y2 = this["props"]["config"]["custom_margin_top"]), this["props"]["config"]["custom_margin_left"])) {
                       {
                         var sW = this["props"]["config"]["custom_margin_left"]["replace"](/\D/g, '');
@@ -2220,8 +2204,8 @@
                       'style': {
                         'textAlign': y ? "right" : "left",
                         'lineHeight': "16px",
-                        'marginLeft': this["props"]["disableBullet"] ? void 0x0 : y ? "0px" : "12px",
-                        'marginRight': this["props"]["disableBullet"] ? void 0x0 : y ? "12px" : "0px",
+                        'marginLeft': this["props"]["disableBullet"] ? undefined : y ? "0px" : "12px",
+                        'marginRight': this["props"]["disableBullet"] ? undefined : y ? "12px" : "0px",
                         'color': YV["subTitleColor"]
                       }
                     }, shell["I18n"]['t'](this["props"]["subtitle"])), this['Xt']()));
@@ -2232,7 +2216,7 @@
           function ii(sY) {
             return sY && sY["__esModule"] && Object["prototype"]["hasOwnProperty"]["call"](sY, "default") ? sY["default"] : sY;
           }
-          void 0x0 !== U || void 0x0 !== F || "undefined" != typeof global && global;
+          undefined !== U || undefined !== F || "undefined" != typeof global && global;
           var is,
             iD,
             ix,
@@ -2270,16 +2254,16 @@
                     if (y[y]) return y[y]["exports"];
                     var sD = y[y] = {
                       'i': y,
-                      'l': !0x1,
+                      'l': false,
                       'exports': {}
                     };
-                    return sD[y]["call"](sD["exports"], sD, sD["exports"], Yd), sD['l'] = !0x0, sD["exports"];
+                    return sD[y]["call"](sD["exports"], sD, sD["exports"], Yd), sD['l'] = true, sD["exports"];
                   }
                 }
                 return Yd['m'] = sD, Yd['c'] = y, Yd['d'] = function (y, sD, sF) {
                   {
                     Yd['o'](y, sD) || Object["defineProperty"](y, sD, {
-                      'enumerable': !0x0,
+                      'enumerable': true,
                       'get': sF
                     });
                   }
@@ -2288,7 +2272,7 @@
                     "undefined" != typeof Symbol && Symbol["toStringTag"] && Object["defineProperty"](y, Symbol["toStringTag"], {
                       'value': "Module"
                     }), Object["defineProperty"](y, "__esModule", {
-                      'value': !0x0
+                      'value': true
                     });
                   }
                 }, Yd['t'] = function (y, sD) {
@@ -2297,7 +2281,7 @@
                     if (0x4 & sD && "object" == typeof y && y && y["__esModule"]) return y;
                     var sF = Object["create"](null);
                     if (Yd['r'](sF), Object["defineProperty"](sF, "default", {
-                      'enumerable': !0x0,
+                      'enumerable': true,
                       'value': y
                     }), 0x2 & sD && "string" != typeof y) for (var sD in y) Yd['d'](sF, sD, function (Y2) {
                       {
@@ -2339,7 +2323,7 @@
               }
             }, function (sD) {
               {
-                if (void 0x0 === y) {
+                if (undefined === y) {
                   {
                     var y = Error("Cannot find module 'prop-types'");
                     throw y["code"] = "MODULE_NOT_FOUND", y;
@@ -2376,7 +2360,7 @@
               }
               function sO(sf) {
                 {
-                  if (void 0x0 === sf) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
+                  if (undefined === sf) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
                   return sf;
                 }
               }
@@ -2391,9 +2375,9 @@
                 {
                   return sJ in sf ? Object["defineProperty"](sf, sJ, {
                     'value': sH,
-                    'enumerable': !0x0,
-                    'configurable': !0x0,
-                    'writable': !0x0
+                    'enumerable': true,
+                    'configurable': true,
+                    'writable': true
                   }) : sf[sJ] = sH, sf;
                 }
               }
@@ -2412,8 +2396,8 @@
                     sj["prototype"] = Object["create"](sM && sM["prototype"], {
                       'constructor': {
                         'value': sj,
-                        'writable': !0x0,
-                        'configurable': !0x0
+                        'writable': true,
+                        'configurable': true
                       }
                     }), sM && sJ(sj, sM);
                   }
@@ -2423,15 +2407,15 @@
                     {
                       var sM = function () {
                         {
-                          if ("undefined" == typeof Reflect || !Reflect["construct"]) return !0x1;
-                          if (Reflect["construct"]["sham"]) return !0x1;
-                          if ("function" == typeof Proxy) return !0x0;
+                          if ("undefined" == typeof Reflect || !Reflect["construct"]) return false;
+                          if (Reflect["construct"]["sham"]) return false;
+                          if ("function" == typeof Proxy) return true;
                           try {
                             {
-                              return Date["prototype"]["toString"]["call"](Reflect["construct"](Date, [], function () {})), !0x0;
+                              return Date["prototype"]["toString"]["call"](Reflect["construct"](Date, [], function () {})), true;
                             }
                           } catch (sH) {
-                            return !0x1;
+                            return false;
                           }
                         }
                       }();
@@ -2487,7 +2471,7 @@
                     }
                   }), YF(sO(sM), "isMouseEventOnCustomScrollbar", function (sH) {
                     {
-                      if (!sM["customScrollbarRef"]["current"]) return !0x1;
+                      if (!sM["customScrollbarRef"]["current"]) return false;
                       var sR = sD['a']["findDOMNode"](sO(sM))["getBoundingClientRect"](),
                         Yd = sM["customScrollbarRef"]["current"]["getBoundingClientRect"](),
                         sw = sM["props"]["rtl"] ? {
@@ -2544,17 +2528,17 @@
                   }), YF(sO(sM), "onMouseDown", function (sH) {
                     {
                       sM["hasScroll"] && sM["isMouseEventOnScrollHandle"](sH) && (sM["startDragHandlePos"] = sM["getScrollHandleStyle"]()["top"], sM["startDragMousePos"] = sH["pageY"], sM["setState"]({
-                        'onDrag': !0x0
+                        'onDrag': true
                       }), document["addEventListener"]("mousemove", sM["onHandleDrag"], {
-                        'passive': !0x1
+                        'passive': false
                       }), document["addEventListener"]("mouseup", sM["onHandleDragEnd"], {
-                        'passive': !0x1
+                        'passive': false
                       }));
                     }
                   }), YF(sO(sM), "onTouchStart", function () {
                     {
                       sM["setState"]({
-                        'onDrag': !0x0
+                        'onDrag': true
                       });
                     }
                   }), YF(sO(sM), "onHandleDrag", function (sH) {
@@ -2566,11 +2550,11 @@
                   }), YF(sO(sM), "onHandleDragEnd", function (sH) {
                     {
                       sM["setState"]({
-                        'onDrag': !0x1
+                        'onDrag': false
                       }), sH["preventDefault"](), document["removeEventListener"]("mousemove", sM["onHandleDrag"], {
-                        'passive': !0x1
+                        'passive': false
                       }), document["removeEventListener"]("mouseup", sM["onHandleDragEnd"], {
-                        'passive': !0x1
+                        'passive': false
                       });
                     }
                   }), YF(sO(sM), "blockOuterScroll", function (sH) {
@@ -2624,7 +2608,7 @@
                     }
                   }), sM["scrollbarYWidth"] = 0x0, sM["state"] = {
                     'scrollPos': 0x0,
-                    'onDrag': !0x1
+                    'onDrag': false
                   }, sM["hideScrollThumb"] = function (sH) {
                     {
                       var sR;
@@ -2645,7 +2629,7 @@
                   }(function () {
                     {
                       sM["setState"]({
-                        'onDrag': !0x1
+                        'onDrag': false
                       });
                     }
                   }), sM;
@@ -2653,8 +2637,8 @@
                 return (sJ = [{
                   'key': "componentDidMount",
                   'value': function () {
-                    void 0x0 !== this["props"]["scrollTo"] ? this["updateScrollPosition"](this["props"]["scrollTo"]) : this["forceUpdate"](), this["innerContainerRef"]["current"] && this["innerContainerRef"]["current"]["addEventListener"]("wheel", this["blockOuterScroll"], {
-                      'passive': !0x1
+                    undefined !== this["props"]["scrollTo"] ? this["updateScrollPosition"](this["props"]["scrollTo"]) : this["forceUpdate"](), this["innerContainerRef"]["current"] && this["innerContainerRef"]["current"]["addEventListener"]("wheel", this["blockOuterScroll"], {
+                      'passive': false
                     });
                   }
                 }, {
@@ -2667,7 +2651,7 @@
                         sw = sM["scrollPos"] >= sH - sR;
                       this["contentHeight"] = Yd["scrollHeight"], this["scrollbarYWidth"] = Yd["offsetWidth"] - Yd["clientWidth"], this["visibleHeight"] = Yd["clientHeight"], this["scrollRatio"] = this["contentHeight"] ? this["visibleHeight"] / this["contentHeight"] : 0x1, this["toggleScrollIfNeeded"]();
                       var so = this["state"] === sM;
-                      (this["props"]["freezePosition"] || sj["freezePosition"]) && this["adjustFreezePosition"](sj), void 0x0 !== this["props"]["scrollTo"] && this["props"]["scrollTo"] !== sj["scrollTo"] ? this["updateScrollPosition"](this["props"]["scrollTo"]) : this["props"]["keepAtBottom"] && so && sw && this["updateScrollPosition"](this["contentHeight"] - this["visibleHeight"]);
+                      (this["props"]["freezePosition"] || sj["freezePosition"]) && this["adjustFreezePosition"](sj), undefined !== this["props"]["scrollTo"] && this["props"]["scrollTo"] !== sj["scrollTo"] ? this["updateScrollPosition"](this["props"]["scrollTo"]) : this["props"]["keepAtBottom"] && so && sw && this["updateScrollPosition"](this["contentHeight"] - this["visibleHeight"]);
                     }
                   }
                 }, {
@@ -2675,9 +2659,9 @@
                   'value': function () {
                     {
                       this["hideScrollThumb"]["cancel"](), document["removeEventListener"]("mousemove", this["onHandleDrag"], {
-                        'passive': !0x1
+                        'passive': false
                       }), document["removeEventListener"]("mouseup", this["onHandleDragEnd"], {
-                        'passive': !0x1
+                        'passive': false
                       }), this["innerContainerRef"]["current"] && this["innerContainerRef"]["current"]["removeEventListener"]("wheel", this["blockOuterScroll"]);
                     }
                   }
@@ -2726,7 +2710,7 @@
                     for (var sH = 0x0; sH < sM["length"]; sH++) {
                       {
                         var sR = sM[sH];
-                        sR["enumerable"] = sR["enumerable"] || !0x1, sR["configurable"] = !0x0, "value" in sR && (sR["writable"] = !0x0), Object["defineProperty"](sj, sR["key"], sR);
+                        sR["enumerable"] = sR["enumerable"] || false, sR["configurable"] = true, "value" in sR && (sR["writable"] = true), Object["defineProperty"](sj, sR["key"], sR);
                       }
                     }
                   }
@@ -2837,19 +2821,19 @@
               return sY["prototype"]["isTurboSpinEnable"] = function () {
                 {
                   var y = YT["operatorJurisdiction"]["turboSpinEnable"];
-                  return void 0x0 === y ? YT["operatorJurisdiction"]["regionFeature"]["turboSpinFeature"] : y;
+                  return undefined === y ? YT["operatorJurisdiction"]["regionFeature"]["turboSpinFeature"] : y;
                 }
               }, sY["prototype"]["shouldHideAutoSpin"] = function () {
                 var y = YT["operatorJurisdiction"]["autoPlayConfig"];
-                return void 0x0 === y ? 0x0 === YT["operatorJurisdiction"]["jurisdictionId"] || 0x1 === YT["operatorJurisdiction"]["jurisdictionId"] : 0x0 === y;
+                return undefined === y ? 0x0 === YT["operatorJurisdiction"]["jurisdictionId"] || 0x1 === YT["operatorJurisdiction"]["jurisdictionId"] : 0x0 === y;
               }, sY["prototype"]["shouldShowFastStopFeature"] = function () {
                 {
                   var y = YT["operatorJurisdiction"]["turboSpinEnable"];
-                  return void 0x0 === y ? YT["operatorJurisdiction"]["regionFeature"]["fastStopFeature"] : y;
+                  return undefined === y ? YT["operatorJurisdiction"]["regionFeature"]["fastStopFeature"] : y;
                 }
               }, sY["prototype"]["shouldShowAutoSpinStop"] = function () {
                 var y = YT["operatorJurisdiction"]["autoPlayConfig"];
-                if (void 0x0 === y) {
+                if (undefined === y) {
                   var y = YT["operatorJurisdiction"]["regionFeature"];
                   return y["autoSpinBalanceDecreaseStopFeature"] || y["autoSpinBalanceIncreaseStopFeature"] || y["autoSpinSingleWinStopFeature"];
                 }
@@ -2895,10 +2879,10 @@
                   return sD;
                 }, y["prototype"]['ne'] = function (y, sD) {
                   {
-                    void 0x0 === sD && (sD = !0x0);
+                    undefined === sD && (sD = true);
                     for (var y = iJ()["currencySymbol"], Yd = [], y = 0x0; y < y["length"]; y++) {
                       {
-                        var sD = void 0x0,
+                        var sD = undefined,
                           sF = y[y],
                           sD = y[y];
                         if (sD["subtitle"]) {
@@ -2912,7 +2896,7 @@
                               sD = sD["subContent"],
                               YF = this['ee'](sD),
                               sf = sD["subtitle"],
-                              sL = sD["config"] ? sD["config"] : void 0x0;
+                              sL = sD["config"] ? sD["config"] : undefined;
                             if ("ic_rollover" !== sD || Y2) {
                               if ("center_turbo_on" !== sD || sV) {
                                 if ("ic_wallet_open" === sD) {
@@ -2928,8 +2912,8 @@
                                   });
                                 } else if ("ic_nav_maxbet" !== sD || sJ) {
                                   if ("center_autoplay" !== sD && "icon_auto_spin_menu" !== sD || !iW["shouldHideAutoSpin"]()) {
-                                    if ("btn_stop" === sD && iW["shouldHideAutoSpin"]()) sD = void 0x0;else if ("ic_spin" !== sD || sW) {
-                                      if ("ic_chip" === sD && sW) sD = void 0x0;else if ("btn_add" === sD && sW) sD = void 0x0;else if ("btn_minus" === sD && sW) sD = void 0x0;else if ("ic_soundon" === sD) sD = P["createElement"](iY, {
+                                    if ("btn_stop" === sD && iW["shouldHideAutoSpin"]()) sD = undefined;else if ("ic_spin" !== sD || sW) {
+                                      if ("ic_chip" === sD && sW) sD = undefined;else if ("btn_add" === sD && sW) sD = undefined;else if ("btn_minus" === sD && sW) sD = undefined;else if ("ic_soundon" === sD) sD = P["createElement"](iY, {
                                         'ref': this['Qt'],
                                         'texts': YF,
                                         'images': sO,
@@ -2945,7 +2929,7 @@
                                         'config': sL
                                       });else if ("ic_nav_return" === sD) switch (YT["operatorJurisdiction"]["backButton"]) {
                                         case Y1["HIDDEN"]:
-                                          sD = void 0x0;
+                                          sD = undefined;
                                           break;
                                         case Y1["NORMAL_BACK_FUNC"]:
                                           sD = P["createElement"](iY, {
@@ -2962,7 +2946,7 @@
                                             'subtitle': sf,
                                             'key': y,
                                             'config': sL,
-                                            'dontTint': !0x0
+                                            'dontTint': true
                                           });
                                           break;
                                         case Y1["TURBO_SPIN"]:
@@ -2972,7 +2956,7 @@
                                             'subtitle': sf,
                                             'key': y,
                                             'config': sL,
-                                            'dontTint': !0x0
+                                            'dontTint': true
                                           });
                                       } else sD = P["createElement"](iY, {
                                         'texts': YF,
@@ -2981,15 +2965,15 @@
                                         'subtitle': sf,
                                         'config': sL
                                       });
-                                    } else sD = void 0x0;
-                                  } else sD = void 0x0;
-                                } else sD = void 0x0;
-                              } else sD = void 0x0;
-                            } else sD = void 0x0;
+                                    } else sD = undefined;
+                                  } else sD = undefined;
+                                } else sD = undefined;
+                              } else sD = undefined;
+                            } else sD = undefined;
                           }
                         } else if (sF["type"]) {
                           {
-                            var sZ = void 0x0;
+                            var sZ = undefined;
                             switch (sF["type"]) {
                               case "bet":
                                 var sj = YT["betSizeList"],
@@ -3002,7 +2986,7 @@
                                 });
                                 break;
                               case "currency":
-                                sD = void 0x0, y && '' !== y && (sZ = shell["I18n"]['t'](sF["text"], {
+                                sD = undefined, y && '' !== y && (sZ = shell["I18n"]['t'](sF["text"], {
                                   'configuredValue': y
                                 }));
                                 break;
@@ -3012,7 +2996,7 @@
                                 });
                                 break;
                               case "inactive":
-                                sD = void 0x0;
+                                sD = undefined;
                                 var sH = YT["rtpData"]["operatorWalletSetting"],
                                   sR = sH["isGameAutoResetEnabled"],
                                   Yd = sH["gameAutoResetTime"];
@@ -3047,7 +3031,7 @@
                           'text': sZ,
                           'key': y,
                           'bullet': sD
-                        }), "SlotRulesShared.AutoSpinPlays" === y[y] && iW["shouldHideAutoSpin"]() && (sD = void 0x0);
+                        }), "SlotRulesShared.AutoSpinPlays" === y[y] && iW["shouldHideAutoSpin"]() && (sD = undefined);
                         Yd["push"](sD);
                       }
                     }
@@ -3061,7 +3045,7 @@
                           sJ['id'] === sW['id'] && (sW = sJ);
                         });
                         var sV = sW["bullet"];
-                        void 0x0 === sV && (sV = !0x0);
+                        undefined === sV && (sV = true);
                         var sJ = sW["title"],
                           sD = sW["content"],
                           sO = sF['ne'](sD, sV),
@@ -3084,7 +3068,7 @@
                           })),
                           sc = "SlotRulesShared.ReturnToPlayerTitle" === sJ && !YT["operatorJurisdiction"]["gameReturnToPlayer"],
                           sf = "FeatureBuy" === sW['id'] && !YT["showFeatureBuy"];
-                        (sc || sf) && (sd = void 0x0), y["push"](sd);
+                        (sc || sf) && (sd = undefined), y["push"](sd);
                       }, sF = this, sD = 0x0; sD < y["length"]; sD++) sD(sD);
                     return y;
                   }
@@ -3104,7 +3088,7 @@
                     }, P["createElement"]("div", {
                       'style': i0["gameRulesContent"](this["state"]["height"]),
                       'className': "rulesContent"
-                    }, this['ie'](YJ["rulesLayoutJson"], "game"), y ? void 0x0 : this['ie'](YJ["sharedRulesLayoutJson"], "shared")));
+                    }, this['ie'](YJ["rulesLayoutJson"], "game"), y ? undefined : this['ie'](YJ["sharedRulesLayoutJson"], "shared")));
                   }
                 }, y;
               }
@@ -3119,12 +3103,12 @@
                   'y': 0x0,
                   'width': 0x0,
                   'height': 0x0
-                }, y = sD["colour"], void 0x0 === Yd && (Yd = {
+                }, y = sD["colour"], undefined === Yd && (Yd = {
                   'x': 0x0,
                   'y': 0x0,
                   'width': 0x0,
                   'height': 0x0,
-                  'isRotate': !0x1
+                  'isRotate': false
                 }), new Promise(function (sD, sF) {
                   {
                     var sD = new plugin["Loader"]();
@@ -3169,10 +3153,10 @@
                 {
                   y["push"](Yd);
                 }
-              }), y && y(y, void 0x0);
+              }), y && y(y, undefined);
             })["catch"](function (sD) {
               {
-                y && y(void 0x0, sD);
+                y && y(undefined, sD);
               }
             });
           }
@@ -3190,7 +3174,7 @@
                 Y2 = y["resource"]["resolveUrl"](Yd);
               return new Promise(function (sW, sV) {
                 {
-                  return __awaiter(y, void 0x0, void 0x0, function () {
+                  return __awaiter(y, undefined, undefined, function () {
                     {
                       var sJ;
                       return __generator(this, function (sD) {
@@ -3244,7 +3228,7 @@
             }
           }
           function iL(sY, y, y) {
-            return __awaiter(this, void 0x0, void 0x0, function () {
+            return __awaiter(this, undefined, undefined, function () {
               {
                 var sD, y;
                 return __generator(this, function (Yd) {
@@ -3264,11 +3248,11 @@
                           'tint': sY["tint"]
                         }, y, y)] : [0x3, 0x6];
                       case 0x4:
-                        return y = Yd["sent"](), [0x4, ip(sD, y, y, !0x0, y)];
+                        return y = Yd["sent"](), [0x4, ip(sD, y, y, true, y)];
                       case 0x5:
                         return sD = Yd["sent"](), [0x3, 0x8];
                       case 0x6:
-                        return [0x4, ip(sD, y, sY["imageFile"], !0x1, y)];
+                        return [0x4, ip(sD, y, sY["imageFile"], false, y)];
                       case 0x7:
                         sD = Yd["sent"](), Yd["label"] = 0x8;
                       case 0x8:
@@ -3302,7 +3286,7 @@
           }
           function ip(sY, y, y, sD, y) {
             {
-              return void 0x0 === sD && (sD = !0x1), new Promise(function (Yd, y) {
+              return undefined === sD && (sD = false), new Promise(function (Yd, y) {
                 sD ? (sY = sY["replace"](/url\((.*?)\)/g, function () {
                   {
                     return "url(" + y + ')';
@@ -3324,7 +3308,7 @@
               Yd = sD && new sD(y["Domain"], y["GameLoadResourceError"]);
             return new Promise(function (y, sD) {
               {
-                return __awaiter(y, void 0x0, void 0x0, function () {
+                return __awaiter(y, undefined, undefined, function () {
                   {
                     var sF;
                     return __generator(this, function (sD) {
@@ -3473,7 +3457,7 @@
                   }
                 }, sY["prototype"]["resizeImage"] = function (y, y) {
                   var sD = this;
-                  void 0x0 === y && (y = 0x1);
+                  undefined === y && (y = 0x1);
                   for (var y, Yd = /\.([^}]+)\}/gm, y = []; y = Yd["exec"](y);) y["push"]('.' + y[0x1] + '}');
                   if (y && 0x1 === y["length"]) {
                     {
@@ -3499,7 +3483,7 @@
                     }
                   } else if (y && y["length"] > 0x1) {
                     {
-                      var sJ = void 0x0;
+                      var sJ = undefined;
                       y["forEach"](function (sD, sO) {
                         {
                           if (0x0 === sO) sJ = /\.([^{]+)\{/["exec"](sD)[0x1]["replace"](/\s/g, '');else {
@@ -3543,12 +3527,12 @@
                 function y(y) {
                   {
                     var sD = sY["call"](this, y) || this;
-                    return sD['se'] = void 0x0, sD['ot'] = void 0x0, sD['st'] = void 0x0, sD["state"] = {
-                      'visible': !0x1,
-                      'loading': !0x1,
-                      'error': void 0x0,
-                      'animating': !0x1,
-                      'loadComplete': !0x1
+                    return sD['se'] = undefined, sD['ot'] = undefined, sD['st'] = undefined, sD["state"] = {
+                      'visible': false,
+                      'loading': false,
+                      'error': undefined,
+                      'animating': false,
+                      'loadComplete': false
                     }, sD['ot'] = sD["props"]["resContext"], sD['st'] = sD["props"]["operatorContext"], sD;
                   }
                 }
@@ -3579,12 +3563,12 @@
                       sV = sD["error"],
                       sJ = sD["animating"],
                       sD = sD["loadComplete"],
-                      sO = !sW && sD && void 0x0 !== YJ["rulesLayoutJson"] && void 0x0 !== YJ["sharedRulesLayoutJson"];
+                      sO = !sW && sD && undefined !== YJ["rulesLayoutJson"] && undefined !== YJ["sharedRulesLayoutJson"];
                     return P["createElement"]("div", {
                       'className': "rules",
                       'style': i2["container"]
                     }, P["createElement"](O, {
-                      'native': !0x0,
+                      'native': true,
                       'to': Y2 ? {
                         'transform': "translateY(0%)"
                       } : {
@@ -3593,7 +3577,7 @@
                       'config': {
                         'tension': 0xa3,
                         'friction': 0x15,
-                        'clamp': !0x0,
+                        'clamp': true,
                         'velocity': 0xa
                       },
                       'onStart': Y2 ? Yd : y,
@@ -3620,7 +3604,7 @@
                           'context': y
                         })), P["createElement"](i3, {
                           'content': iw['t']("GameRule.RulesTitle"),
-                          'onDismiss': sW || sV ? void 0x0 : function () {
+                          'onDismiss': sW || sV ? undefined : function () {
                             {
                               return y['ce']();
                             }
@@ -3634,10 +3618,10 @@
                   {
                     var sD = this,
                       y = this['se'];
-                    this['se'] = void 0x0, y && y(), this["state"]["loading"] && this['fe'](function () {
+                    this['se'] = undefined, y && y(), this["state"]["loading"] && this['fe'](function () {
                       {
                         sD["setState"]({
-                          'loading': !0x1,
+                          'loading': false,
                           'error': y
                         });
                       }
@@ -3646,34 +3630,34 @@
                 }, y["prototype"]['ae'] = function () {
                   {
                     this["setState"]({
-                      'error': void 0x0,
-                      'visible': !0x0,
-                      'animating': !0x0,
-                      'loadComplete': !0x1
+                      'error': undefined,
+                      'visible': true,
+                      'animating': true,
+                      'loadComplete': false
                     });
                   }
                 }, y["prototype"]['ue'] = function () {
                   {
                     this["props"]["context"]["event"]['on']("Game.HideRules", this['ce'], this), this["setState"]({
-                      'animating': !0x1
+                      'animating': false
                     });
                     var y = this["props"]["onDidShow"];
                     y && y();
                   }
                 }, y["prototype"]['ce'] = function () {
                   this["state"]["visible"] && (this["props"]["context"]["event"]["off"]("Game.HideRules", this['ce'], this), this["setState"]({
-                    'visible': !0x1,
-                    'animating': !0x0
+                    'visible': false,
+                    'animating': true
                   }));
                 }, y["prototype"]['le'] = function (y) {
                   var sD = this;
                   this["setState"]({
-                    'loading': !0x0,
-                    'error': void 0x0
+                    'loading': true,
+                    'error': undefined
                   }), this['se'] = iM(this['de']["bind"](this), this['ve']["bind"](this), this['pe']["bind"](this), this['ge']["bind"](this), this['be']["bind"](this), this['me']["bind"](this), this['ye']["bind"](this), this['xe']["bind"](this), this['Se']["bind"](this), this['fe']["bind"](this))(function () {
                     sD["setState"]({
-                      'loading': !0x1,
-                      'loadComplete': !0x0
+                      'loading': false,
+                      'loadComplete': true
                     }), y && y();
                   });
                 }, y["prototype"]['de'] = function (y) {
@@ -3779,8 +3763,8 @@
                       sD = Ys + "/game-rules/rules.json";
                     sD = Yf["tryToResolveWithContext"](sD, "rules.json", this['st']) ? this['st'] : this['ot'];
                     var sF = [],
-                      sD = YJ["rulesLayoutJson"] ? void 0x0 : sD["resource"]["resolveUrl"](sD),
-                      Y2 = YJ["sharedRulesLayoutJson"] ? void 0x0 : y["resource"]["resolveUrl"](YT["settingMenuType"] === Y2["LEGACY"] ? "rules/config/legacy/sharedRules.json" : "rules/config/sharedRules.json");
+                      sD = YJ["rulesLayoutJson"] ? undefined : sD["resource"]["resolveUrl"](sD),
+                      Y2 = YJ["sharedRulesLayoutJson"] ? undefined : y["resource"]["resolveUrl"](YT["settingMenuType"] === Y2["LEGACY"] ? "rules/config/legacy/sharedRules.json" : "rules/config/sharedRules.json");
                     if (sD && sF["push"]({
                       'src': sD,
                       'type': plugin["LoadType"]["Json"],
@@ -3827,7 +3811,7 @@
                     YJ["getRulesAsset"]("game-rules-tinted-sprite") ? y() : iL({
                       'imageFile': sD,
                       'cssFile': sF,
-                      'appendHeader': !0x1,
+                      'appendHeader': false,
                       'tint': YV["themeColor"]
                     }, Yd, 0x0)["then"](function (sD) {
                       {
@@ -3864,7 +3848,7 @@
                       {
                         var Yd = Ys + "/game-rules/rules_img.png";
                         iL({
-                          'appendHeader': !0x1,
+                          'appendHeader': false,
                           'cssFile': Ys + "/game-rules/rules_img.css",
                           'imageFile': Yd
                         }, Yf["tryToResolveWithContext"](Yd, "rules_img.png", this['st']) ? this['st'] : this['ot'], 0x0)["then"](function (y) {
@@ -3907,8 +3891,8 @@
                   {
                     var sD = sY["call"](this, y) || this;
                     return sD["state"] = {
-                      'error': void 0x0
-                    }, sD['rt'] = void 0x0, sD['rt'] = y["context"], sD;
+                      'error': undefined
+                    }, sD['rt'] = undefined, sD['rt'] = y["context"], sD;
                   }
                 }
                 return __extends(y, sY), y["getDerivedStateFromError"] = function (y) {
@@ -3924,7 +3908,7 @@
                     if (sD) {
                       {
                         var y = {
-                          'title': void 0x0,
+                          'title': undefined,
                           'content': new shell["Error"](shell["GameShellError"]["Domain"], shell["GameShellError"]["PluginReactRenderError"])["message"],
                           'actions': [{
                             'label': shell["I18n"]['t']("General.DialogOk"),
@@ -3935,7 +3919,7 @@
                         return this['_e'](y, function () {
                           {
                             var Yd = y["props"]["onError"];
-                            Yd && Yd(sD, void 0x0);
+                            Yd && Yd(sD, undefined);
                           }
                         }), null;
                       }
@@ -3982,7 +3966,7 @@
                 sW = sY[sD](Y2);
               return function () {
                 {
-                  return Y7(this, void 0x0, void 0x0, function () {
+                  return Y7(this, undefined, undefined, function () {
                     var sV, sJ, sD, sO;
                     return Y8(this, function () {
                       return sD && sD === sF ? (sV = F["Number"]("0xf") - F["Number"]("0x0" + sD[0x2]), (sJ = sW[sV]) ? !(sD = sD["substring"](F["Number"]("0x3"))) || sD["length"] <= F["Number"]("0x4") ? [0x2, 0x0] : (sO = Ye([Yd, y, y, sJ]), [0x2, y(sO, sD)["then"](function (sD) {
@@ -4000,11 +3984,11 @@
             {
               var sY,
                 y = YM("eSHA-1"),
-                y = null === (sY = F["crypto"]) || void 0x0 === sY ? void 0x0 : sY["subtle"],
+                y = null === (sY = F["crypto"]) || undefined === sY ? undefined : sY["subtle"],
                 sD = new F["TextEncoder"]();
               function y(Yd) {
                 {
-                  return Y7(this, void 0x0, void 0x0, function () {
+                  return Y7(this, undefined, undefined, function () {
                     {
                       var y;
                       return Y8(this, function (sD) {
@@ -4027,13 +4011,13 @@
                 }
               }
               return function (Yd, y, sD) {
-                return void 0x0 === sD && (sD = !0x0), Y7(this, void 0x0, void 0x0, function () {
+                return undefined === sD && (sD = true), Y7(this, undefined, undefined, function () {
                   {
                     return Y8(this, function (sF) {
                       {
                         switch (sF["label"]) {
                           case 0x0:
-                            return y && Yd ? [0x4, y(Yd)] : [0x2, !0x1];
+                            return y && Yd ? [0x4, y(Yd)] : [0x2, false];
                           case 0x1:
                             return [0x2, YR(sF["sent"](), y, sD)];
                         }
@@ -4045,7 +4029,7 @@
             }
           }
           function iu(sY) {
-            return Y7(this, void 0x0, void 0x0, function () {
+            return Y7(this, undefined, undefined, function () {
               var y,
                 y,
                 sD,
@@ -4074,7 +4058,7 @@
                   case 0x1:
                     return Y2["sent"]() ? (YA(0x1), YA(0x3), y = Yu(), sD = y['xt'], y = function () {
                       {
-                        return Y7(sD, void 0x0, void 0x0, function () {
+                        return Y7(sD, undefined, undefined, function () {
                           {
                             return Y8(this, function () {
                               {
@@ -4094,7 +4078,7 @@
                           YF = YM("c2f");
                         return function () {
                           {
-                            return Y7(this, void 0x0, void 0x0, function () {
+                            return Y7(this, undefined, undefined, function () {
                               var sf, sL, sd;
                               return Y8(this, function () {
                                 {
@@ -4111,8 +4095,8 @@
                                         sM = sJ["RegExp"],
                                         sH = sJ["Number"],
                                         sR = sM(sf["kReplacer"], 'g'),
-                                        Yd = sH(null == sc ? void 0x0 : sc["substring"](sH("0x0"), sH("0x2")), sH("0xa"));
-                                      return sZ(Yd) && (null == sc ? void 0x0 : sc["includes"]('.')) ? sc : null == sc ? void 0x0 : sc["substring"](sH("0x2"))["replace"](sR, function (sw) {
+                                        Yd = sH(null == sc ? undefined : sc["substring"](sH("0x0"), sH("0x2")), sH("0xa"));
+                                      return sZ(Yd) && (null == sc ? undefined : sc["includes"]('.')) ? sc : null == sc ? undefined : sc["substring"](sH("0x2"))["replace"](sR, function (sw) {
                                         {
                                           if ('=' === sw) return '.';
                                           var so = sw["charCodeAt"](0x0),
@@ -4135,7 +4119,7 @@
                       }
                     }(function (sW, sV) {
                       var sJ, sD;
-                      void 0x0 === sV && (sV = "der"), function (sJ) {
+                      undefined === sV && (sV = "der"), function (sJ) {
                         {
                           sJ['we'] = "name", sJ['ke'] = "namedCurve", sJ['Ce'] = "hash", sJ['Re'] = "0x1";
                         }
@@ -4145,7 +4129,7 @@
                         YF = YM("eECDSA"),
                         sf = YM("eP-256"),
                         sL = "verify",
-                        sd = null === (sJ = F["crypto"]) || void 0x0 === sJ ? void 0x0 : sJ["subtle"],
+                        sd = null === (sJ = F["crypto"]) || undefined === sJ ? undefined : sJ["subtle"],
                         sc = new F["TextEncoder"]();
                       function sf() {
                         {
@@ -4162,20 +4146,20 @@
                               }
                             })[sj](sR))),
                             sw = ((sJ = {})[sD['we']] = YF, sJ[sD['ke']] = sf, sJ),
-                            so = null == sd ? void 0x0 : sd["importKey"](sO, Yd["buffer"], sw, !0x1, [sL]);
+                            so = null == sd ? undefined : sd["importKey"](sO, Yd["buffer"], sw, false, [sL]);
                           return F["Promise"]["resolve"](so);
                         }
                       }
                       return function (sJ, sH) {
                         {
-                          return Y7(this, void 0x0, void 0x0, function () {
+                          return Y7(this, undefined, undefined, function () {
                             {
                               var sZ, sj, sM, sH, sR, Yd;
                               return Y8(this, function (sw) {
                                 {
                                   switch (sw["label"]) {
                                     case 0x0:
-                                      if (!sJ || !sH) return [0x2, !0x1];
+                                      if (!sJ || !sH) return [0x2, false];
                                       sw["label"] = 0x1;
                                     case 0x1:
                                       return sw["trys"]["push"]([0x1, 0x4,, 0x5]), [0x4, sf()];
@@ -4193,17 +4177,17 @@
                                             sE = Yd["substr"](0xc + sA);
                                           sK = sK["length"] > 0x40 ? sK["substr"](-0x40) : sK["padStart"](0x40, '0'), sE = sE["length"] > 0x40 ? sE["substr"](-0x40) : sE["padStart"](0x40, '0');
                                           var su = ''["concat"](sK)["concat"](sE);
-                                          return new F["Uint8Array"]((null === (sz = su["match"](/[\da-f]{2}/gi)) || void 0x0 === sz ? void 0x0 : sz["map"](function (sB) {
+                                          return new F["Uint8Array"]((null === (sz = su["match"](/[\da-f]{2}/gi)) || undefined === sz ? undefined : sz["map"](function (sB) {
                                             {
                                               return F["parseInt"](sB, 0x10);
                                             }
                                           })) || []);
                                         }
-                                      }(sM)), sH = sc["encode"](sJ)["buffer"], [0x4, null == sd ? void 0x0 : sd[sL](sj, sZ, sM, sH)]) : [0x2, !0x1];
+                                      }(sM)), sH = sc["encode"](sJ)["buffer"], [0x4, null == sd ? undefined : sd[sL](sj, sZ, sM, sH)]) : [0x2, false];
                                     case 0x3:
                                       return [0x2, !!sw["sent"]()];
                                     case 0x4:
-                                      return sw["sent"](), [0x2, !0x1];
+                                      return sw["sent"](), [0x2, false];
                                     case 0x5:
                                       return [0x2];
                                   }
@@ -4217,7 +4201,7 @@
                   case 0x2:
                     return [0x2, 0x1 === Y2["sent"]()];
                   case 0x3:
-                    return [0x2, !0x0];
+                    return [0x2, true];
                 }
               });
             });
@@ -4225,7 +4209,7 @@
           function iB(sY) {
             {
               var y = sY["response"];
-              (sY["error"] || !0x1 === y) && Yf['vt'](y);
+              (sY["error"] || false === y) && Yf['vt'](y);
             }
           }
           function iS(sY) {
@@ -4236,7 +4220,7 @@
                 }
               }, function () {
                 {
-                  sY["response"] = !0x1, sY["propagate"]();
+                  sY["response"] = false, sY["propagate"]();
                 }
               });
             }
@@ -4245,14 +4229,14 @@
               {
                 function y() {
                   var y = null !== sY && sY["apply"](this, arguments) || this;
-                  return y["rootElement"] = void 0x0, y['Oe'] = y['je']["bind"](y), y['Ae'] = y['Te']["bind"](y), y['Le'] = y['Pe']["bind"](y), y['Ne'] = y['Ge']["bind"](y), y['Ie'] = y['De']["bind"](y), y['He'] = {
-                    'mounted': !0x1,
-                    'unmounted': !0x1
+                  return y["rootElement"] = undefined, y['Oe'] = y['je']["bind"](y), y['Ae'] = y['Te']["bind"](y), y['Le'] = y['Pe']["bind"](y), y['Ne'] = y['Ge']["bind"](y), y['Ie'] = y['De']["bind"](y), y['He'] = {
+                    'mounted': false,
+                    'unmounted': false
                   }, y;
                 }
                 return Y4(y, sY), y["prototype"]["onCreate"] = function () {
                   {
-                    Yf["context"]["event"]['on']("GameRules.Show", this['Be'], this), Yf["context"]["event"]["emit"]("GameRule.OnInitialize", void 0x0, iB);
+                    Yf["context"]["event"]['on']("GameRules.Show", this['Be'], this), Yf["context"]["event"]["emit"]("GameRule.OnInitialize", undefined, iB);
                   }
                 }, y["prototype"]["onDestroy"] = function () {
                   {
@@ -4285,13 +4269,13 @@
                     Yd = y["overflow"],
                     y = y["textAlign"],
                     sD = y["color"];
-                  this["rootElement"]["style"]["overflow"] = Yd, this["rootElement"]["style"]["textAlign"] = y, this["rootElement"]["style"]["color"] = sD, Yf["context"]["view"]["appendTo"](y, "overlay"), Yf["context"]["event"]['on']("Shell.Scaled", this['Ue'], this), Yf["context"]["event"]["emit"]("Shell.GetScale", void 0x0, function (sF) {
+                  this["rootElement"]["style"]["overflow"] = Yd, this["rootElement"]["style"]["textAlign"] = y, this["rootElement"]["style"]["color"] = sD, Yf["context"]["view"]["appendTo"](y, "overlay"), Yf["context"]["event"]['on']("Shell.Scaled", this['Ue'], this), Yf["context"]["event"]["emit"]("Shell.GetScale", undefined, function (sF) {
                     {
                       sF["error"] || (sD["rootElement"]["style"]["height"] = sF["response"]["height"] + 'px', sD["rootElement"]["style"]["width"] = sF["response"]["width"] + 'px'), y && y();
                     }
                   });
                 }, y["prototype"]['je'] = function () {
-                  Yf["context"]["event"]["emit"]("Game.BlockUI", !0x0);
+                  Yf["context"]["event"]["emit"]("Game.BlockUI", true);
                 }, y["prototype"]['Te'] = function () {
                   {
                     Yf["context"]["event"]["emit"]("Analytics.Event", {
@@ -4306,17 +4290,17 @@
                   if (this["rootElement"]) {
                     {
                       var sD = this["rootElement"];
-                      J["unmountComponentAtNode"](sD), Yf["context"]["view"]["removeFromParent"](y), this["rootElement"] = void 0x0;
+                      J["unmountComponentAtNode"](sD), Yf["context"]["view"]["removeFromParent"](y), this["rootElement"] = undefined;
                     }
                   }
-                  Yf["context"]["event"]["off"]("Shell.Scaled", this['Ue'], this), Yf["context"]["event"]["emit"]("Game.RuleStateChanged", "Hide"), Yf["context"]["event"]["emit"]("Game.BlockUI", !0x1), document["getElementById"]("GameCanvas")["focus"](), !y || this['He']["mounted"] || this['He']["unmounted"] || this['De']();
+                  Yf["context"]["event"]["off"]("Shell.Scaled", this['Ue'], this), Yf["context"]["event"]["emit"]("Game.RuleStateChanged", "Hide"), Yf["context"]["event"]["emit"]("Game.BlockUI", false), document["getElementById"]("GameCanvas")["focus"](), !y || this['He']["mounted"] || this['He']["unmounted"] || this['De']();
                 }, y["prototype"]['De'] = function () {
                   {
-                    Yf["context"]["event"]["emit"]("GameRules.Hide"), this['He']["mounted"] = !0x1, this['He']["unmounted"] = !0x0;
+                    Yf["context"]["event"]["emit"]("GameRules.Hide"), this['He']["mounted"] = false, this['He']["unmounted"] = true;
                   }
                 }, y["prototype"]['Ge'] = function () {
                   {
-                    this['He']["mounted"] = !0x0, this['He']["unmounted"] = !0x1;
+                    this['He']["mounted"] = true, this['He']["unmounted"] = false;
                   }
                 }, y["prototype"]['Ue'] = function (y) {
                   {
@@ -4325,7 +4309,7 @@
                   }
                 }, y["prototype"]['Ee'] = function () {
                   {
-                    this['He']["mounted"] = this['He']["unmounted"] = !0x1;
+                    this['He']["mounted"] = this['He']["unmounted"] = false;
                   }
                 }, y;
               }
@@ -4360,9 +4344,9 @@
                 }, sY['Ve'] = function (y, y, sD, y) {
                   {
                     var Yd = this;
-                    void 0x0 === y && (y = !0x1);
+                    undefined === y && (y = false);
                     var y = !!sD["title_format_number"] && sD["title_format_number"],
-                      sD = sD["segment_title"] ? Yf["getTranslatedString"](iq['t'](sD["segment_title"]), y) : void 0x0,
+                      sD = sD["segment_title"] ? Yf["getTranslatedString"](iq['t'](sD["segment_title"]), y) : undefined,
                       sF = sD["segment_content"],
                       sD = [];
                     sF && sF["forEach"](function (sJ, sD) {
@@ -4371,7 +4355,7 @@
                         sD["push"](sO);
                       }
                     });
-                    var Y2 = y ? void 0x0 : i2["seperator"],
+                    var Y2 = y ? undefined : i2["seperator"],
                       sW = {};
                     0x0 === y && (sW["marginTop"] = "12px"), sW["borderBottom"] = Y2;
                     var sV = P["createElement"]("div", Y5({
@@ -4392,7 +4376,7 @@
                   }
                 }, sY['ze'] = function (y, y, sD) {
                   {
-                    switch (void 0x0 === sD && (sD = !0x1), y["type"]) {
+                    switch (undefined === sD && (sD = false), y["type"]) {
                       case "inline_table":
                       case "topdown_table":
                       case "column_table":
@@ -4518,15 +4502,15 @@
                         Y2 = sD["subtitle"],
                         sW = sD["subContent"],
                         sV = sD["config"];
-                      YT["operatorJurisdiction"]["backButton"] === Y1["HIDDEN"] && -0x1 !== Y2["indexOf"]("MainGameBackTitle") ? y["push"](void 0x0) : y["push"](P["createElement"](iY, {
+                      YT["operatorJurisdiction"]["backButton"] === Y1["HIDDEN"] && -0x1 !== Y2["indexOf"]("MainGameBackTitle") ? y["push"](undefined) : y["push"](P["createElement"](iY, {
                         'texts': sW,
                         'images': sD,
                         'key': sF,
                         'subtitle': Y2,
                         'imageSize': 0x2a,
                         'config': sV,
-                        'disablePaddings': !0x0,
-                        'disableBullet': !0x0
+                        'disablePaddings': true,
+                        'disableBullet': true
                       }));
                     }
                   }), P["createElement"]("div", {
@@ -4675,17 +4659,17 @@
                       sD = Yd["horizontal_cell_span"],
                       Y2 = Yd["vertical_cell_span"],
                       sW = {
-                        'isHorizontalSpan': !0x1,
-                        'isVerticalSpan': !0x1
+                        'isHorizontalSpan': false,
+                        'isVerticalSpan': false
                       },
                       sV = y + ':' + y["toString"](0xa),
                       sJ = {
                         'display': "inline_table" === y["type"] ? "table" : "block",
-                        'borderCollapse': "inline_table" === y["type"] ? "collapse" : void 0x0,
+                        'borderCollapse': "inline_table" === y["type"] ? "collapse" : undefined,
                         'width': sD ? "auto" : "100%",
                         'height': "fit-content"
                       };
-                    sD && sD > 0x1 && (sW["isHorizontalSpan"] = !0x0), Y2 && Y2 > 0x1 && (sW["isVerticalSpan"] = !0x0);
+                    sD && sD > 0x1 && (sW["isHorizontalSpan"] = true), Y2 && Y2 > 0x1 && (sW["isVerticalSpan"] = true);
                     var sD = Y5(Y5({}, y), sW),
                       sO = this['nn'](sV, y, sD),
                       sD = null;
@@ -4754,7 +4738,7 @@
                     var y = Y5({}, y["config"]),
                       Yd = Yf["isRTL"],
                       y = {
-                        'display': sD && sD["isHorizontalSpan"] ? "table" : void 0x0,
+                        'display': sD && sD["isHorizontalSpan"] ? "table" : undefined,
                         'width': sD && sD["isHorizontalSpan"] ? "fit-content" : "100%",
                         'fontSize': y["custom_font_size"] ? y["custom_font_size"] : sD["font_size"] ? sD["font_size"] : "12px"
                       },
@@ -4769,7 +4753,7 @@
                         'textAlign': Yd ? "right" : y["text_align"] ? y["text_align"] : "left",
                         'dir': Yd ? "rtl" : "ltr"
                       };
-                    y["custom_font_color"] && this['$e'](sF, "color", y["custom_font_color"]), y && y["line_height"] && (y["lineHeight"] = y["line_height"]), sD && (sD["isHorizontalSpan"] ? sD["width"] = "100%" : "topdown_table" === sD["type"] && (sD["width"] = void 0x0), "inline_table" === sD["type"] && (y["display"] = "table-cell", y["textAlign"] = Yd ? "right" : y["horizontal_align"] ? y["horizontal_align"] : "left", y["verticalAlign"] = y["vertical_align"] ? y["vertical_align"] : "middle", y["direction"] = Yd ? "rtl" : "ltr"));
+                    y["custom_font_color"] && this['$e'](sF, "color", y["custom_font_color"]), y && y["line_height"] && (y["lineHeight"] = y["line_height"]), sD && (sD["isHorizontalSpan"] ? sD["width"] = "100%" : "topdown_table" === sD["type"] && (sD["width"] = undefined), "inline_table" === sD["type"] && (y["display"] = "table-cell", y["textAlign"] = Yd ? "right" : y["horizontal_align"] ? y["horizontal_align"] : "left", y["verticalAlign"] = y["vertical_align"] ? y["vertical_align"] : "middle", y["direction"] = Yd ? "rtl" : "ltr"));
                     var sD = y["string"];
                     if (sD) {
                       {
@@ -4872,7 +4856,7 @@
                   }
                 }, sY['Xe'] = function (y, y, sD) {
                   {
-                    void 0x0 === sD && (sD = !0x1);
+                    undefined === sD && (sD = false);
                     var y,
                       Yd,
                       y = Y5({}, y["config"]),
@@ -4884,7 +4868,7 @@
                       sV = y['id'],
                       sJ = y['id'] + ':' + y,
                       sD = {
-                        'display': sD ? "table-cell" : void 0x0,
+                        'display': sD ? "table-cell" : undefined,
                         'height': "fit-content",
                         'width': "fit-content",
                         'alignItems': "center",
@@ -4943,7 +4927,7 @@
                   }
                 }, sY['Ye'] = function (y, y, sD) {
                   {
-                    void 0x0 === sD && (sD = !0x1);
+                    undefined === sD && (sD = false);
                     var y = y['id'],
                       Yd = y['id'] + ':' + y,
                       y = y["type"],
@@ -4953,7 +4937,7 @@
                       Y2 = [],
                       sW = sF["column"] || sD["length"],
                       sV = {
-                        'display': sD ? "table-cell" : void 0x0
+                        'display': sD ? "table-cell" : undefined
                       };
                     sF["bottom_margin"] && (sV["paddingBottom"] = sF["bottom_margin"]), sF["top_margin"] && (sV["paddingTop"] = sF["top_margin"]), sF["left_margin"] && (sV[sD ? "paddingRight" : "paddingLeft"] = sF["left_margin"]), sF["right_margin"] && (sV[sD ? "paddingLeft" : "paddingRight"] = sF["right_margin"]), sF["width"] && (sV["width"] = sF["width"]);
                     for (var sJ = 0x0; sJ < sD["length"]; sJ++) {
@@ -5032,7 +5016,7 @@
                 }, sY['qe'] = function (y, y, sD) {
                   {
                     var y = this;
-                    void 0x0 === sD && (sD = !0x1);
+                    undefined === sD && (sD = false);
                     var Yd = y['id'],
                       y = y['id'] + ':' + y,
                       sD = y["type"],
@@ -5041,7 +5025,7 @@
                       Y2 = YY([], Y9(y["content"])),
                       sW = [],
                       sV = {
-                        'display': sD ? "table-cell" : void 0x0,
+                        'display': sD ? "table-cell" : undefined,
                         'color': YV["descColor"],
                         'fontSize': "12px",
                         'width': "fit-content"
@@ -5078,7 +5062,7 @@
                 }, sY['Ke'] = function (y, y, sD) {
                   {
                     var y = this;
-                    void 0x0 === sD && (sD = !0x1);
+                    undefined === sD && (sD = false);
                     var Yd = y['id'],
                       y = y['id'] + ':' + y,
                       sD = y["type"],
@@ -5088,10 +5072,10 @@
                       sW = YY([], Y9(y["content"])),
                       sV = [],
                       sJ = {
-                        'display': sD ? "table-cell" : void 0x0
+                        'display': sD ? "table-cell" : undefined
                       };
                     return sD["right_margin"] && (sJ[Y2 ? "marginLeft" : "marginRight"] = sD["right_margin"]), sD["left_margin"] && (sJ[Y2 ? "marginRight" : "marginLeft"] = sD["left_margin"]), sD["top_margin"] && (sJ["marginTop"] = sD["top_margin"]), sD["bottom_margin"] && (sJ["marginBottom"] = sD["bottom_margin"]), sW["forEach"](function (sD, sO) {
-                      var sD = y['ze'](sD, sO, !0x0),
+                      var sD = y['ze'](sD, sO, true),
                         YF = Y5({}, sD["config"]),
                         sf = y + ":grid_div_" + sO["toString"](0xa);
                       sD['id'] && (sf += ':' + sD['id']), sV["push"]({
@@ -5177,7 +5161,7 @@
                             var so = sd["length"] + sM;
                             sV(sf, function (sz) {
                               return sz < so;
-                            }), void 0x0 === sf[so] && (sf[so] = []), sf[so]["push"](sw), sL++;
+                            }), undefined === sf[so] && (sf[so] = []), sf[so]["push"](sw), sL++;
                           }
                         };
                       for (sO = 0x0; sO < y && "break" !== sf(); sO++);
@@ -5243,12 +5227,12 @@
               function y(y) {
                 {
                   var sD = sY["call"](this, y) || this;
-                  return sD['se'] = void 0x0, sD['ot'] = void 0x0, sD['st'] = void 0x0, sD["state"] = {
-                    'visible': !0x1,
-                    'loading': !0x1,
-                    'error': void 0x0,
-                    'animating': !0x1,
-                    'loadComplete': !0x1
+                  return sD['se'] = undefined, sD['ot'] = undefined, sD['st'] = undefined, sD["state"] = {
+                    'visible': false,
+                    'loading': false,
+                    'error': undefined,
+                    'animating': false,
+                    'loadComplete': false
                   }, sD['ot'] = sD["props"]["resContext"], sD['st'] = sD["props"]["operatorContext"], sD;
                 }
               }
@@ -5278,12 +5262,12 @@
                     sJ = sD["animating"],
                     sD = sD["visible"],
                     sO = YJ["paytableLayoutJson"],
-                    sD = !sW && sV && void 0x0 !== sO;
+                    sD = !sW && sV && undefined !== sO;
                   return P["createElement"]("div", {
                     'className': "paytable",
                     'style': i2["container"]
                   }, P["createElement"](O, {
-                    'native': !0x0,
+                    'native': true,
                     'to': sD ? {
                       'transform': "translateY(0%)"
                     } : {
@@ -5292,7 +5276,7 @@
                     'config': {
                       'tension': 0xa3,
                       'friction': 0x15,
-                      'clamp': !0x0,
+                      'clamp': true,
                       'velocity': 0xa
                     },
                     'onStart': sD ? y : Yd,
@@ -5322,7 +5306,7 @@
                         'context': sF
                       })), P["createElement"](i3, {
                         'content': YT["pageTitle"] ? s2['t'](YT["pageTitle"]) : s2['t']("GamePayout.PayoutTitle"),
-                        'onDismiss': sW || Y2 ? void 0x0 : function () {
+                        'onDismiss': sW || Y2 ? undefined : function () {
                           {
                             return y['ce']();
                           }
@@ -5336,9 +5320,9 @@
                 {
                   var sD = this,
                     y = this['se'];
-                  this['se'] = void 0x0, y && y(), this["state"]["loading"] && this['fe'](function () {
+                  this['se'] = undefined, y && y(), this["state"]["loading"] && this['fe'](function () {
                     sD["setState"]({
-                      'loading': !0x1,
+                      'loading': false,
                       'error': y
                     });
                   });
@@ -5346,16 +5330,16 @@
               }, y["prototype"]['ae'] = function () {
                 {
                   this["setState"]({
-                    'error': void 0x0,
-                    'visible': !0x0,
-                    'animating': !0x0,
-                    'loadComplete': !0x1
+                    'error': undefined,
+                    'visible': true,
+                    'animating': true,
+                    'loadComplete': false
                   });
                 }
               }, y["prototype"]['ue'] = function () {
                 {
                   this["props"]["context"]["event"]['on']("Game.HidePaytable", this['ce'], this), this["setState"]({
-                    'animating': !0x1
+                    'animating': false
                   });
                   var y = this["props"]["onDidShow"];
                   y && y();
@@ -5363,20 +5347,20 @@
               }, y["prototype"]['ce'] = function () {
                 {
                   this["state"]["visible"] && (this["props"]["context"]["event"]["off"]("Game.HidePaytable", this['ce'], this), this["setState"]({
-                    'visible': !0x1,
-                    'animating': !0x0
+                    'visible': false,
+                    'animating': true
                   }));
                 }
               }, y["prototype"]['le'] = function (y) {
                 {
                   var sD = this;
                   this["setState"]({
-                    'loading': !0x0,
-                    'error': void 0x0
+                    'loading': true,
+                    'error': undefined
                   }), this['se'] = im(this['de']["bind"](this), this['ve']["bind"](this), this['pe']["bind"](this), this['ge']["bind"](this), this['be']["bind"](this), this['hn']["bind"](this), this['Se']["bind"](this), this['ye']["bind"](this), this['fn']["bind"](this), this['fe']["bind"](this))(function () {
                     sD["setState"]({
-                      'loading': !0x1,
-                      'loadComplete': !0x0
+                      'loading': false,
+                      'loadComplete': true
                     }), y && y();
                   });
                 }
@@ -5478,8 +5462,8 @@
                     sD = Ys + "/paytable/config/paytableLayout.json";
                   y = Yf["tryToResolveWithContext"](sD, "paytableLayout.json", this['st']) ? this['st'] : this['ot'];
                   var sF = [],
-                    sD = YJ["paytableAssetJson"] ? void 0x0 : sD["resource"]["resolveUrl"](Yd),
-                    Y2 = YJ["paytableLayoutJson"] ? void 0x0 : y["resource"]["resolveUrl"](sD);
+                    sD = YJ["paytableAssetJson"] ? undefined : sD["resource"]["resolveUrl"](Yd),
+                    Y2 = YJ["paytableLayoutJson"] ? undefined : y["resource"]["resolveUrl"](sD);
                   if (sD && sF["push"]({
                     'src': sD,
                     'type': plugin["LoadType"]["Json"],
@@ -5529,7 +5513,7 @@
                   YJ["getRulesAsset"]("game-rules-tinted-sprite") ? y() : iL({
                     'imageFile': sD,
                     'cssFile': sF,
-                    'appendHeader': !0x1,
+                    'appendHeader': false,
                     'tint': YV["themeColor"]
                   }, Yd, 0x0)["then"](function (sD) {
                     {
@@ -5574,8 +5558,8 @@
                             sW = Ys + "/paytable/texture/" + sF["img"] + '.' + Y2,
                             sV = Ys + "/paytable/texture/" + sF["img"] + ".css";
                           sD = Yf["tryToResolveWithContext"](sW, sF["img"] + '.' + Y2, sD['st']) ? sD['st'] : sD['ot'], sF["tint"] ? iL({
-                            'appendHeader': !0x1,
-                            'tint': sF["tint"] ? "string" == typeof sF["tint"] ? YV["convertStringToColor"](sF["tint"]) : sF["tint"] : void 0x0,
+                            'appendHeader': false,
+                            'tint': sF["tint"] ? "string" == typeof sF["tint"] ? YV["convertStringToColor"](sF["tint"]) : sF["tint"] : undefined,
                             'cssFile': sV,
                             'imageFile': sW
                           }, sD, 0x0)["then"](function (sJ) {
@@ -5588,7 +5572,7 @@
                               sD['he'](sJ, sD);
                             }
                           }) : iL({
-                            'appendHeader': !0x1,
+                            'appendHeader': false,
                             'cssFile': sV,
                             'imageFile': sW
                           }, sD, 0x0)["then"](function (sJ) {
@@ -5624,7 +5608,7 @@
             }(P["Component"]);
           function s4() {
             {
-              return Y7(this, void 0x0, void 0x0, function () {
+              return Y7(this, undefined, undefined, function () {
                 {
                   var sY, y, y;
                   return Y8(this, function (sD) {
@@ -5638,24 +5622,24 @@
                                 return y || (y = function () {
                                   {
                                     var sD, sF;
-                                    return Y7(this, void 0x0, void 0x0, function () {
+                                    return Y7(this, undefined, undefined, function () {
                                       {
                                         var sD, Y2, sW, sV;
                                         return Y8(this, function (sJ) {
                                           switch (sJ["label"]) {
                                             case 0x0:
-                                              return void 0x0 === Yd ? [0x2, void 0x0] : (sD = "google_tag_manager", Y2 = "dataLayer", sW = function (sD, sO) {
+                                              return undefined === Yd ? [0x2, undefined] : (sD = "google_tag_manager", Y2 = "dataLayer", sW = function (sD, sO) {
                                                 {
-                                                  return Y7(this, void 0x0, void 0x0, function () {
+                                                  return Y7(this, undefined, undefined, function () {
                                                     {
                                                       return Y8(this, function () {
                                                         {
                                                           return [0x2, new r["Promise"](function (sD) {
                                                             {
-                                                              for (var YF = r["dataLayer"], sf = sO ? sO["length"] : 0x0, sL = sf % 0x2 ? (sf--, sO["pop"]()) : void 0x0, sd = {}, sc = 0x0, sf = sf; sc < sf; sc++) sd[sO[sc]] = sO[++sc];
+                                                              for (var YF = r["dataLayer"], sf = sO ? sO["length"] : 0x0, sL = sf % 0x2 ? (sf--, sO["pop"]()) : undefined, sd = {}, sc = 0x0, sf = sf; sc < sf; sc++) sd[sO[sc]] = sO[++sc];
                                                               sd["event"] = "gtm_cb", sd["eventCallback"] = function (sJ) {
                                                                 {
-                                                                  void 0x0 !== sL && sJ !== sL || sD();
+                                                                  undefined !== sL && sJ !== sL || sD();
                                                                 }
                                                               }, YF["push"](sd);
                                                             }
@@ -5669,7 +5653,7 @@
                                                 F["setTimeout"](sD, 0x61a8);
                                               }), [0x4, r["Promise"]["race"]([sW, sV])]);
                                             case 0x1:
-                                              return sJ["sent"](), [0x2, null === (sF = null === (sD = r[sD]) || void 0x0 === sD ? void 0x0 : sD[Yd]) || void 0x0 === sF ? void 0x0 : sF[Y2]];
+                                              return sJ["sent"](), [0x2, null === (sF = null === (sD = r[sD]) || undefined === sD ? undefined : sD[Yd]) || undefined === sF ? undefined : sF[Y2]];
                                           }
                                         });
                                       }
@@ -5681,7 +5665,7 @@
                           }(sY = y), y = function (Yd, y) {
                             {
                               return function () {
-                                return Y7(this, void 0x0, void 0x0, function () {
+                                return Y7(this, undefined, undefined, function () {
                                   {
                                     var sD, sF;
                                     return Y8(this, function (sD) {
@@ -5712,7 +5696,7 @@
           function s5() {
             {
               var sY, y;
-              Yf['yt']() && void 0x0 !== (y = null === (sY = F['cc']) || void 0x0 === sY ? void 0x0 : sY["renderer"]) && (y["render"] = function () {
+              Yf['yt']() && undefined !== (y = null === (sY = F['cc']) || undefined === sY ? undefined : sY["renderer"]) && (y["render"] = function () {
                 {
                   var y = function (sD) {
                     {
@@ -5732,7 +5716,7 @@
                 }
               }, function () {
                 {
-                  sY["response"] = !0x1, sY["propagate"]();
+                  sY["response"] = false, sY["propagate"]();
                 }
               });
             }
@@ -5740,21 +5724,21 @@
           function s7(sY) {
             {
               var y = sY["response"];
-              (sY["error"] || !0x1 === y) && Yf['bt'](y);
+              (sY["error"] || false === y) && Yf['bt'](y);
             }
           }
           var s8 = function (sY) {
               {
                 function y() {
                   var y = null !== sY && sY["apply"](this, arguments) || this;
-                  return y["rootElement"] = void 0x0, y['Oe'] = y['je']["bind"](y), y['Ae'] = y['Te']["bind"](y), y['Le'] = y['Pe']["bind"](y), y['Ne'] = y['Ge']["bind"](y), y['Ie'] = y['De']["bind"](y), y['He'] = {
-                    'mounted': !0x1,
-                    'unmounted': !0x1
+                  return y["rootElement"] = undefined, y['Oe'] = y['je']["bind"](y), y['Ae'] = y['Te']["bind"](y), y['Le'] = y['Pe']["bind"](y), y['Ne'] = y['Ge']["bind"](y), y['Ie'] = y['De']["bind"](y), y['He'] = {
+                    'mounted': false,
+                    'unmounted': false
                   }, y;
                 }
                 return Y4(y, sY), y["prototype"]["onCreate"] = function () {
                   {
-                    Yf["context"]["event"]['on']("Paytable.Show", this['dn'], this), Yf["context"]["event"]["emit"]("Paytable.OnInitialize", void 0x0, s7);
+                    Yf["context"]["event"]['on']("Paytable.Show", this['dn'], this), Yf["context"]["event"]["emit"]("Paytable.OnInitialize", undefined, s7);
                   }
                 }, y["prototype"]["onDestroy"] = function () {
                   this['Pe']();
@@ -5783,14 +5767,14 @@
                 }, y["prototype"]['Fe'] = function (y) {
                   {
                     var sD = this;
-                    this["rootElement"] = document["createElement"]("div"), this["rootElement"]["setAttribute"]('id', "paytable-container"), this["view"]["appendTo"](y, "overlay"), this["rootElement"]["style"]["overflow"] = "hidden", this["rootElement"]["style"]["color"] = "#888", Yf["context"]["event"]['on']("Shell.Scaled", this['Ue'], this), Yf["context"]["event"]["emit"]("Shell.GetScale", void 0x0, function (y) {
+                    this["rootElement"] = document["createElement"]("div"), this["rootElement"]["setAttribute"]('id', "paytable-container"), this["view"]["appendTo"](y, "overlay"), this["rootElement"]["style"]["overflow"] = "hidden", this["rootElement"]["style"]["color"] = "#888", Yf["context"]["event"]['on']("Shell.Scaled", this['Ue'], this), Yf["context"]["event"]["emit"]("Shell.GetScale", undefined, function (y) {
                       {
                         y["error"] || (sD["rootElement"]["style"]["height"] = y["response"]["height"] + 'px', sD["rootElement"]["style"]["width"] = y["response"]["width"] + 'px'), y && y();
                       }
                     });
                   }
                 }, y["prototype"]['je'] = function () {
-                  Yf["context"]["event"]["emit"]("Game.BlockUI", !0x0);
+                  Yf["context"]["event"]["emit"]("Game.BlockUI", true);
                 }, y["prototype"]['Te'] = function () {
                   {
                     Yf["context"]["event"]["emit"]("Analytics.Event", {
@@ -5803,22 +5787,22 @@
                   {
                     if (this["rootElement"]) {
                       var sD = this["rootElement"];
-                      J["unmountComponentAtNode"](sD), Yf["context"]["view"]["removeFromParent"](y), this["rootElement"] = void 0x0;
+                      J["unmountComponentAtNode"](sD), Yf["context"]["view"]["removeFromParent"](y), this["rootElement"] = undefined;
                     }
-                    Yf["context"]["event"]["off"]("Shell.Scaled", this['Ue'], this), Yf["context"]["event"]["emit"]("Game.PaytableStateChanged", "Hide"), Yf["context"]["event"]["emit"]("Game.BlockUI", !0x1), document["getElementById"]("GameCanvas")["focus"](), !y || this['He']["mounted"] || this['He']["unmounted"] || this['De']();
+                    Yf["context"]["event"]["off"]("Shell.Scaled", this['Ue'], this), Yf["context"]["event"]["emit"]("Game.PaytableStateChanged", "Hide"), Yf["context"]["event"]["emit"]("Game.BlockUI", false), document["getElementById"]("GameCanvas")["focus"](), !y || this['He']["mounted"] || this['He']["unmounted"] || this['De']();
                   }
                 }, y["prototype"]['De'] = function () {
                   {
-                    Yf["context"]["event"]["emit"]("Paytable.Hide"), this['He']["mounted"] = !0x1, this['He']["unmounted"] = !0x0;
+                    Yf["context"]["event"]["emit"]("Paytable.Hide"), this['He']["mounted"] = false, this['He']["unmounted"] = true;
                   }
                 }, y["prototype"]['Ge'] = function () {
-                  this['He']["mounted"] = !0x0, this['He']["unmounted"] = !0x1;
+                  this['He']["mounted"] = true, this['He']["unmounted"] = false;
                 }, y["prototype"]['Ue'] = function (y) {
                   var sD = y["payload"];
                   this["rootElement"]["style"]["height"] = sD["height"] + 'px', this["rootElement"]["style"]["width"] = sD["width"] + 'px';
                 }, y["prototype"]['Ee'] = function () {
                   {
-                    this['He']["mounted"] = this['He']["unmounted"] = !0x1;
+                    this['He']["mounted"] = this['He']["unmounted"] = false;
                   }
                 }, y;
               }
@@ -5842,7 +5826,7 @@
                   }, YS)(function (y, Yd) {
                     {
                       if (Yd) throw Error(Yd["message"]);
-                      !0x1 === y && YZ(Yf['ht'](0x1))();
+                      false === y && YZ(Yf['ht'](0x1))();
                     }
                   }), this["complete"]();
                 }
@@ -5851,13 +5835,13 @@
                   switch (y["payload"]) {
                     case "LatePluginLoadComplete":
                       var sD = Yf["context"]["event"];
-                      sD["emit"]("Game.RequestSession", void 0x0, this['mn']["bind"](this)), sD["emit"]("SettingMenuHelper.GetSettingMenuType", void 0x0, this['yn']["bind"](this)), sD["emit"]("Game.RequestOperatorPluginConfig", void 0x0, this['xn']["bind"](this));
+                      sD["emit"]("Game.RequestSession", undefined, this['mn']["bind"](this)), sD["emit"]("SettingMenuHelper.GetSettingMenuType", undefined, this['yn']["bind"](this)), sD["emit"]("Game.RequestOperatorPluginConfig", undefined, this['xn']["bind"](this));
                       break;
                     case "GameStarted":
                       this['Sn']();
                       break;
                     case "GameReady":
-                      !0x1 === Yf['gt']() && YZ(Yf['ht'](0x0))();
+                      false === Yf['gt']() && YZ(Yf['ht'](0x0))();
                       break;
                     case "GameLoadComplete":
                       this['_n']();
@@ -5908,7 +5892,7 @@
                     'backgroundColor': sD["color"]["backgroundColor"],
                     'valueColor': sD["color"]["valueColor"],
                     'seperatorColor': sD["color"]["seperatorColor"]
-                  }), sD["paytableAsset"] && (YJ["paytableAssetJson"] = sD["paytableAsset"]), sD["paytableLayout"] && (YJ["paytableLayoutJson"] = sD["paytableLayout"]), sD["gameRulesLayout"] && (YJ["rulesLayoutJson"] = sD["gameRulesLayout"]), void 0x0 !== sD["settingMenuType"] && null !== sD["settingMenuType"] && this['yn'](sD["settingMenuType"]);
+                  }), sD["paytableAsset"] && (YJ["paytableAssetJson"] = sD["paytableAsset"]), sD["paytableLayout"] && (YJ["paytableLayoutJson"] = sD["paytableLayout"]), sD["gameRulesLayout"] && (YJ["rulesLayoutJson"] = sD["gameRulesLayout"]), undefined !== sD["settingMenuType"] && null !== sD["settingMenuType"] && this['yn'](sD["settingMenuType"]);
                 }
               }, y["prototype"]['vn'] = function (y) {
                 {

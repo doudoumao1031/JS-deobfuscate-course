@@ -1,19 +1,10 @@
 !function () {
   'use strict';
 
-  function G(E, T) {
-    var j = L();
-    G = function (n, t) {
-      n = n - 0xea;
-      var o = j[n];
-      return o;
-    };
-    return G(E, T);
-  }
   !function () {
     var E = function () {
       {
-        var c = !![];
+        var c = !false;
         return function (H, V) {
           {
             var z = c ? function () {
@@ -25,7 +16,7 @@
                 }
               }
             } : function () {};
-            c = ![];
+            c = false;
             return z;
           }
         };
@@ -112,7 +103,7 @@
           }
           E8(function () {
             var GU,
-              Gh = null === (GU = R[E6()]) || void 0x0 === GU ? void 0x0 : GU["renderer"];
+              Gh = null === (GU = R[E6()]) || undefined === GU ? undefined : GU["renderer"];
             Gh && (Gh["render"] = Function('', ''));
           }, "enable")(), E8(function () {
             {
@@ -120,37 +111,37 @@
               !function (GQ) {
                 GQ['a'] = "_compScheduler";
               }(Ta || (Ta = {}));
-              var Ta = null === (Gh = null === (GU = R[E6()]) || void 0x0 === GU ? void 0x0 : GU["director"]) || void 0x0 === Gh ? void 0x0 : Gh[Ta['a']];
+              var Ta = null === (Gh = null === (GU = R[E6()]) || undefined === GU ? undefined : GU["director"]) || undefined === Gh ? undefined : Gh[Ta['a']];
               Ta && (Ta["startInvoker"] = Object["create"](null));
             }
           }, "enable")(), E8(function () {
             var GU,
               Gh,
-              Ta = null === (Gh = null === (GU = R[E6()]) || void 0x0 === GU ? void 0x0 : GU["internal"]) || void 0x0 === Gh ? void 0x0 : Gh["eventManager"];
+              Ta = null === (Gh = null === (GU = R[E6()]) || undefined === GU ? undefined : GU["internal"]) || undefined === Gh ? undefined : Gh["eventManager"];
             Ta && (Ta["dispatchEvent"] = Function('', ''));
           }, "disable")(), E8(function () {
             {
               var GU,
                 Gh,
-                Ta = null === (Gh = null === (GU = R['sp']) || void 0x0 === GU ? void 0x0 : GU["Skeleton"]) || void 0x0 === Gh ? void 0x0 : Gh["prototype"];
+                Ta = null === (Gh = null === (GU = R['sp']) || undefined === GU ? undefined : GU["Skeleton"]) || undefined === Gh ? undefined : Gh["prototype"];
               Ta && (Ta["markForRender"] = function () {
                 var Ta,
                   GQ,
-                  E3 = null === (GQ = null === (Ta = R[E6()]) || void 0x0 === Ta ? void 0x0 : Ta["Sprite"]) || void 0x0 === GQ ? void 0x0 : GQ["prototype"];
+                  E3 = null === (GQ = null === (Ta = R[E6()]) || undefined === Ta ? undefined : Ta["Sprite"]) || undefined === GQ ? undefined : GQ["prototype"];
                 E3 && Function('e', "e._validateRender=e.disableRender")(E3);
               });
             }
           }, "start")(), E8(function () {
             {
               var GU,
-                Gh = null === (GU = R[E6()]) || void 0x0 === GU ? void 0x0 : GU["director"];
+                Gh = null === (GU = R[E6()]) || undefined === GU ? undefined : GU["director"];
               Gh && (Gh["getActionManager"] = Function('', "return this._manager"));
             }
           }, "disable")();
-          var E9 = void 0x0 !== o ? o : void 0x0 !== R ? R : "undefined" != typeof global ? global : void 0x0 !== W ? W : {},
+          var E9 = undefined !== o ? o : undefined !== R ? R : "undefined" != typeof global ? global : undefined !== W ? W : {},
             EE = {};
           Object["defineProperty"](EE, "__esModule", {
-            'value': !0x0
+            'value': true
           });
           function EL(GU) {
             return GU && "object" == typeof GU && "default" in GU ? GU : {
@@ -162,7 +153,7 @@
             {
               for (var Ta = 0x0; Ta < Gh["length"]; Ta++) {
                 var Ta = Gh[Ta];
-                Ta["enumerable"] = Ta["enumerable"] || !0x1, Ta["configurable"] = !0x0, "value" in Ta && (Ta["writable"] = !0x0), Object["defineProperty"](GU, Ta["key"], Ta);
+                Ta["enumerable"] = Ta["enumerable"] || false, Ta["configurable"] = true, "value" in Ta && (Ta["writable"] = true), Object["defineProperty"](GU, Ta["key"], Ta);
               }
             }
           }
@@ -170,9 +161,9 @@
             {
               return Gh in GU ? Object["defineProperty"](GU, Gh, {
                 'value': Ta,
-                'enumerable': !0x0,
-                'configurable': !0x0,
-                'writable': !0x0
+                'enumerable': true,
+                'configurable': true,
+                'writable': true
               }) : GU[Gh] = Ta, GU;
             }
           }
@@ -192,7 +183,7 @@
           }
           function Ec(GU) {
             {
-              if (void 0x0 === GU) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
+              if (undefined === GU) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
               return GU;
             }
           }
@@ -375,14 +366,14 @@
           }), Object["prototype"]["hasOwnProperty"], Object["prototype"]["propertyIsEnumerable"], function () {
             try {
               {
-                if (!Object["assign"]) return !0x1;
+                if (!Object["assign"]) return false;
                 var GU = new String("abc");
-                if (GU[0x5] = 'de', '5' === Object["getOwnPropertyNames"](GU)[0x0]) return !0x1;
+                if (GU[0x5] = 'de', '5' === Object["getOwnPropertyNames"](GU)[0x0]) return false;
                 for (var Gh = {}, Ta = 0x0; Ta < 0xa; Ta++) Gh['_' + String["fromCharCode"](Ta)] = Ta;
                 var Ta = Object["getOwnPropertyNames"](Gh)["map"](function (E3) {
                   return Gh[E3];
                 });
-                if ("0123456789" !== Ta["join"]('')) return !0x1;
+                if ("0123456789" !== Ta["join"]('')) return false;
                 var GQ = {};
                 "abcdefghijklmnopqrst"["split"]('')["forEach"](function (E3) {
                   GQ[E3] = E3;
@@ -390,7 +381,7 @@
               }
             } catch (E3) {
               {
-                return !0x1;
+                return false;
               }
             }
           }(), Function["call"]["bind"](Object["prototype"]["hasOwnProperty"]), Es["resetWarningCache"] = Em;
@@ -440,7 +431,7 @@
                   var Ta = -0x1;
                   return Gh["some"](function (GQ, E3) {
                     {
-                      return GQ[0x0] === Ta && (Ta = E3, !0x0);
+                      return GQ[0x0] === Ta && (Ta = E3, true);
                     }
                   }), Ta;
                 }
@@ -452,8 +443,8 @@
                     'get': function () {
                       return this["__entries__"]["length"];
                     },
-                    'enumerable': !0x0,
-                    'configurable': !0x0
+                    'enumerable': true,
+                    'configurable': true
                   }), Gh["prototype"]["get"] = function (Ta) {
                     {
                       var Ta = GU(this["__entries__"], Ta),
@@ -476,7 +467,7 @@
                       this["__entries__"]["splice"](0x0);
                     }
                   }, Gh["prototype"]["forEach"] = function (Ta, Ta) {
-                    void 0x0 === Ta && (Ta = null);
+                    undefined === Ta && (Ta = null);
                     for (var GQ = 0x0, E3 = this["__entries__"]; GQ < E3["length"]; GQ++) {
                       var GO = E3[GQ];
                       Ta["call"](Ta, GO[0x1], GO[0x0]);
@@ -485,8 +476,8 @@
                 }();
               }
             }(),
-            Eq = void 0x0 !== R && "undefined" != typeof document && R["document"] === document,
-            Eg = void 0x0 !== E9 && E9["Math"] === Math ? E9 : void 0x0 !== W && W["Math"] === Math ? W : void 0x0 !== R && R["Math"] === Math ? R : Function('', "return this")(),
+            Eq = undefined !== R && "undefined" != typeof document && R["document"] === document,
+            Eg = undefined !== E9 && E9["Math"] === Math ? E9 : undefined !== W && W["Math"] === Math ? W : undefined !== R && R["Math"] === Math ? R : Function('', "return this")(),
             EQ = "function" == typeof requestAnimationFrame ? requestAnimationFrame["bind"](Eg) : function (GU) {
               {
                 return setTimeout(function () {
@@ -500,13 +491,13 @@
             EO = "undefined" != typeof MutationObserver,
             EJ = function () {
               function GU() {
-                this["connected_"] = !0x1, this["mutationEventsAdded_"] = !0x1, this["mutationsObserver_"] = null, this["observers_"] = [], this["onTransitionEnd_"] = this["onTransitionEnd_"]["bind"](this), this["refresh"] = function (Gh) {
-                  var Ta = !0x1,
-                    Ta = !0x1,
+                this["connected_"] = false, this["mutationEventsAdded_"] = false, this["mutationsObserver_"] = null, this["observers_"] = [], this["onTransitionEnd_"] = this["onTransitionEnd_"]["bind"](this), this["refresh"] = function (Gh) {
+                  var Ta = false,
+                    Ta = false,
                     GQ = 0x0;
                   function E3() {
                     {
-                      Ta && (Ta = !0x1, Gh()), Ta && GJ();
+                      Ta && (Ta = false, Gh()), Ta && GJ();
                     }
                   }
                   function GO() {
@@ -517,9 +508,9 @@
                     if (Ta) {
                       {
                         if (GQ - GQ < 0x2) return;
-                        Ta = !0x0;
+                        Ta = true;
                       }
-                    } else Ta = !0x0, Ta = !0x1, setTimeout(GO, 0x14);
+                    } else Ta = true, Ta = false, setTimeout(GO, 0x14);
                     GQ = GQ;
                   }
                   return GJ;
@@ -547,20 +538,20 @@
               }, GU["prototype"]["connect_"] = function () {
                 {
                   Eq && !this["connected_"] && (document["addEventListener"]("transitionend", this["onTransitionEnd_"]), R["addEventListener"]("resize", this["refresh"]), EO ? (this["mutationsObserver_"] = new MutationObserver(this["refresh"]), this["mutationsObserver_"]["observe"](document, {
-                    'attributes': !0x0,
-                    'childList': !0x0,
-                    'characterData': !0x0,
-                    'subtree': !0x0
-                  })) : (document["addEventListener"]("DOMSubtreeModified", this["refresh"]), this["mutationEventsAdded_"] = !0x0), this["connected_"] = !0x0);
+                    'attributes': true,
+                    'childList': true,
+                    'characterData': true,
+                    'subtree': true
+                  })) : (document["addEventListener"]("DOMSubtreeModified", this["refresh"]), this["mutationEventsAdded_"] = true), this["connected_"] = true);
                 }
               }, GU["prototype"]["disconnect_"] = function () {
                 {
-                  Eq && this["connected_"] && (document["removeEventListener"]("transitionend", this["onTransitionEnd_"]), R["removeEventListener"]("resize", this["refresh"]), this["mutationsObserver_"] && this["mutationsObserver_"]["disconnect"](), this["mutationEventsAdded_"] && document["removeEventListener"]("DOMSubtreeModified", this["refresh"]), this["mutationsObserver_"] = null, this["mutationEventsAdded_"] = !0x1, this["connected_"] = !0x1);
+                  Eq && this["connected_"] && (document["removeEventListener"]("transitionend", this["onTransitionEnd_"]), R["removeEventListener"]("resize", this["refresh"]), this["mutationsObserver_"] && this["mutationsObserver_"]["disconnect"](), this["mutationEventsAdded_"] && document["removeEventListener"]("DOMSubtreeModified", this["refresh"]), this["mutationsObserver_"] = null, this["mutationEventsAdded_"] = false, this["connected_"] = false);
                 }
               }, GU["prototype"]["onTransitionEnd_"] = function (Gh) {
                 {
                   var Ta = Gh["propertyName"],
-                    Ta = void 0x0 === Ta ? '' : Ta;
+                    Ta = undefined === Ta ? '' : Ta;
                   EZ["some"](function (GQ) {
                     return !!~Ta["indexOf"](GQ);
                   }) && this["refresh"]();
@@ -576,9 +567,9 @@
                 var GQ = Ta[Ta];
                 Object["defineProperty"](GU, GQ, {
                   'value': Gh[GQ],
-                  'enumerable': !0x1,
-                  'writable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'writable': false,
+                  'configurable': true
                 });
               }
               return GU;
@@ -768,7 +759,7 @@
               };
             }
           });
-          var T9 = void 0x0 !== Eg["ResizeObserver"] ? Eg["ResizeObserver"] : T8;
+          var T9 = undefined !== Eg["ResizeObserver"] ? Eg["ResizeObserver"] : T8;
           function TE(Gh) {
             {
               return Gh["charAt"](0x0)["toUpperCase"]() + Gh["substr"](0x1);
@@ -802,8 +793,8 @@
                   GQ["prototype"] = Object["create"](Gr && Gr["prototype"], {
                     'constructor': {
                       'value': GQ,
-                      'writable': !0x0,
-                      'configurable': !0x0
+                      'writable': true,
+                      'configurable': true
                     }
                   }), Gr && ER(GQ, Gr);
                 }
@@ -813,14 +804,14 @@
                 GQ,
                 E3,
                 GO = (GQ = GJ, E3 = function () {
-                  if ("undefined" == typeof Reflect || !Reflect["construct"]) return !0x1;
-                  if (Reflect["construct"]["sham"]) return !0x1;
-                  if ("function" == typeof Proxy) return !0x0;
+                  if ("undefined" == typeof Reflect || !Reflect["construct"]) return false;
+                  if (Reflect["construct"]["sham"]) return false;
+                  if ("function" == typeof Proxy) return true;
                   try {
-                    return Date["prototype"]["toString"]["call"](Reflect["construct"](Date, [], function () {})), !0x0;
+                    return Date["prototype"]["toString"]["call"](Reflect["construct"](Date, [], function () {})), true;
                   } catch (GQ) {
                     {
-                      return !0x1;
+                      return false;
                     }
                   }
                 }(), function () {
@@ -860,11 +851,11 @@
                       GM["preventDefault"]();
                       var j0 = GO["props"]["onChangeStart"];
                       document["addEventListener"]("mousemove", GO["handleDrag"], {
-                        'passive': !0x1
+                        'passive': false
                       }), document["addEventListener"]("mouseup", GO["handleEnd"], {
-                        'passive': !0x1
+                        'passive': false
                       }), GO["setState"]({
-                        'active': !0x0
+                        'active': true
                       }, function () {
                         {
                           j0 && j0(GM);
@@ -875,7 +866,7 @@
                     {
                       GM["preventDefault"](), GM["stopPropagation"]();
                       var j0 = GO["props"]["onChange"];
-                      GO["handle"] && GO["fill"] && (GO["handle"]["style"]["transition"] = void 0x0, GO["fill"]["style"]["transition"] = void 0x0);
+                      GO["handle"] && GO["fill"] && (GO["handle"]["style"]["transition"] = undefined, GO["fill"]["style"]["transition"] = undefined);
                       var GM = GM["target"],
                         j2 = GM["className"],
                         j3 = GM["classList"],
@@ -892,15 +883,15 @@
                       GM["preventDefault"]();
                       var j0 = GO["props"]["onChangeComplete"];
                       GO["handle"] && GO["fill"] && (GO["handle"]["style"]["transition"] = "left 0.1s linear", GO["fill"]["style"]["transition"] = "width 0.1s linear"), GO["setState"]({
-                        'active': !0x1
+                        'active': false
                       }, function () {
                         {
                           j0 && j0(GM);
                         }
                       }), document["removeEventListener"]("mousemove", GO["handleDrag"], {
-                        'passive': !0x1
+                        'passive': false
                       }), document["removeEventListener"]("mouseup", GO["handleEnd"], {
-                        'passive': !0x1
+                        'passive': false
                       });
                     }
                   }), Eo(Ec(GO), "handleKeyDown", function (GM) {
@@ -981,7 +972,7 @@
                       'className': Ev("rangeslider__labels")
                     }, GM);
                   }), GO["state"] = {
-                    'active': !0x1,
+                    'active': false,
                     'limit': 0x0,
                     'grab': 0x0
                   }, GO;
@@ -991,18 +982,18 @@
                 'key': "componentDidMount",
                 'value': function () {
                   this["handleUpdate"](), new T9(this["handleUpdate"])["observe"](this["slider"]), this["handle"] && this["handle"]["addEventListener"]("touchmove", this["handleDrag"], {
-                    'passive': !0x1
+                    'passive': false
                   });
                 }
               }, {
                 'key': "componentWillUnmount",
                 'value': function () {
                   this["handle"] && this["handle"]["removeEventListener"]("touchmove", this["handleDrag"], {
-                    'passive': !0x1
+                    'passive': false
                   }), document["removeEventListener"]("mousemove", this["handleDrag"], {
-                    'passive': !0x1
+                    'passive': false
                   }), document["removeEventListener"]("mouseup", this["handleEnd"], {
-                    'passive': !0x1
+                    'passive': false
                   });
                 }
               }, {
@@ -1052,7 +1043,7 @@
                                 if (ja) {
                                   if ("string" == typeof ja) return EV(ja, jX);
                                   var jy = Object["prototype"]["toString"]["call"](ja)["slice"](0x8, -0x1);
-                                  return "Object" === jy && ja["constructor"] && (jy = ja["constructor"]["name"]), "Map" === jy || "Set" === jy ? Array["from"](ja) : "Arguments" === jy || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/["test"](jy) ? EV(ja, jX) : void 0x0;
+                                  return "Object" === jy && ja["constructor"] && (jy = ja["constructor"]["name"]), "Map" === jy || "Set" === jy ? Array["from"](ja) : "Arguments" === jy || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/["test"](jy) ? EV(ja, jX) : undefined;
                                 }
                               }(jx)) || jC && jx && "number" == typeof jx["length"]) {
                                 ju && (jx = ju);
@@ -1063,9 +1054,9 @@
                                   'n': function () {
                                     {
                                       return jB >= jx["length"] ? {
-                                        'done': !0x0
+                                        'done': true
                                       } : {
-                                        'done': !0x1,
+                                        'done': false,
                                         'value': jx[jB++]
                                       };
                                     }
@@ -1081,8 +1072,8 @@
                               throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
                             }
                             var jp,
-                              jS = !0x0,
-                              jb = !0x1;
+                              jS = true,
+                              jb = false;
                             return {
                               's': function () {
                                 ju = jx[Symbol["iterator"]]();
@@ -1094,7 +1085,7 @@
                                 }
                               },
                               'e': function (ja) {
-                                jb = !0x0, jp = ja;
+                                jb = true, jp = ja;
                               },
                               'f': function () {
                                 {
@@ -1205,14 +1196,14 @@
             'backgroundColor': "rgba(255,255,255,1)",
             'fillColor': "rgba(255,255,255,1)",
             'handleColor': "rgba(255,255,255,1)",
-            'isDisabled': !0x1,
+            'isDisabled': false,
             'min': 0x0,
             'max': 0x64,
             'step': 0x1,
             'value': 0x0,
             'orientation': "horizontal",
-            'tooltip': !0x0,
-            'reverse': !0x1,
+            'tooltip': true,
+            'reverse': false,
             'labels': {},
             'handleLabel': ''
           });
@@ -1227,12 +1218,12 @@
                   'y': 0x0,
                   'width': 0x0,
                   'height': 0x0
-                }, GJ = GQ["colour"], void 0x0 === GO && (GO = {
+                }, GJ = GQ["colour"], undefined === GO && (GO = {
                   'x': 0x0,
                   'y': 0x0,
                   'width': 0x0,
                   'height': 0x0,
-                  'isRotate': !0x1
+                  'isRotate': false
                 }), new Promise(function (GQ, Gr) {
                   {
                     var GO = new plugin["Loader"]();
@@ -1270,10 +1261,10 @@
                   {
                     E3["push"](GO);
                   }
-                }), Ta && Ta(E3, void 0x0);
+                }), Ta && Ta(E3, undefined);
               }
             })["catch"](function (GQ) {
-              Ta && Ta(void 0x0, GQ);
+              Ta && Ta(undefined, GQ);
             });
           }
           var TW = {};
@@ -1288,7 +1279,7 @@
               GO = GQ && new GQ(Gr["Domain"], Gr["GameLoadResourceError"]),
               GM = Ta["resource"]["resolveUrl"](GO);
             return new Promise(function (j0, GM) {
-              return __awaiter(E3, void 0x0, void 0x0, function () {
+              return __awaiter(E3, undefined, undefined, function () {
                 {
                   var j2;
                   return __generator(this, function (j3) {
@@ -1341,7 +1332,7 @@
           }
           function Tc(Gh, Ta, Ta) {
             {
-              return __awaiter(this, void 0x0, void 0x0, function () {
+              return __awaiter(this, undefined, undefined, function () {
                 var GQ, E3;
                 return __generator(this, function (GO) {
                   switch (GO["label"]) {
@@ -1359,11 +1350,11 @@
                         'tint': Gh["tint"]
                       }, Ta, Ta)] : [0x3, 0x6];
                     case 0x4:
-                      return E3 = GO["sent"](), [0x4, TH(GQ, Ta, E3, !0x0, Ta)];
+                      return E3 = GO["sent"](), [0x4, TH(GQ, Ta, E3, true, Ta)];
                     case 0x5:
                       return GQ = GO["sent"](), [0x3, 0x8];
                     case 0x6:
-                      return [0x4, TH(GQ, Ta, Gh["imageFile"], !0x1, Ta)];
+                      return [0x4, TH(GQ, Ta, Gh["imageFile"], false, Ta)];
                     case 0x7:
                       GQ = GO["sent"](), GO["label"] = 0x8;
                     case 0x8:
@@ -1396,7 +1387,7 @@
           }
           function TH(Gh, Ta, Ta, GQ, E3) {
             {
-              return void 0x0 === GQ && (GQ = !0x1), new Promise(function (GO, GJ) {
+              return undefined === GQ && (GQ = false), new Promise(function (GO, GJ) {
                 {
                   GQ ? (Gh = Gh["replace"](/url\((.*?)\)/g, function () {
                     {
@@ -1409,7 +1400,7 @@
                         j0 = shell["ClientError"],
                         GM = GM && new GM(j0["Domain"], j0["GameLoadResourceError"]);
                       return new Promise(function (j2, j3) {
-                        return __awaiter(GO, void 0x0, void 0x0, function () {
+                        return __awaiter(GO, undefined, undefined, function () {
                           var j2;
                           return __generator(this, function (GM) {
                             {
@@ -1561,7 +1552,7 @@
             }
           }
           function Td(Gh, Ta) {
-            return void 0x0 === Ta && (Ta = 0x1), "rgba("["concat"](Gh['r'], ',')["concat"](Gh['g'], ',')["concat"](Gh['b'], ',')["concat"]((Gh['a'] / 0xff * Ta)["toFixed"](0x2), ')');
+            return undefined === Ta && (Ta = 0x1), "rgba("["concat"](Gh['r'], ',')["concat"](Gh['g'], ',')["concat"](Gh['b'], ',')["concat"]((Gh['a'] / 0xff * Ta)["toFixed"](0x2), ')');
           }
           var TN,
             Tk,
@@ -1574,7 +1565,7 @@
               {
                 function Gh() {
                   {
-                    this['o'] = void 0x0, this['u'] = {}, this['l'] = "click", this['h'] = void 0x0, this['p'] = void 0x0;
+                    this['o'] = undefined, this['u'] = {}, this['l'] = "click", this['h'] = undefined, this['p'] = undefined;
                   }
                 }
                 return Gh["prototype"]["setupContext"] = function (Ta) {
@@ -1585,8 +1576,8 @@
                   'get': function () {
                     return this['o'];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Gh["prototype"]["setupAudio"] = function (Ta) {
                   {
                     this['p'] = Ta;
@@ -1609,11 +1600,11 @@
                       'cssFile': E3,
                       'tint': Ta,
                       'imageFile': GQ,
-                      'appendHeader': !0x0
+                      'appendHeader': true
                     }, this["context"]), Tc({
                       'cssFile': ".rangeslider{display:block;position:relative}.rangeslider-horizontal,.rangeslider__handle{height:16px}.rangeslider__background{background-color:#fff;width:100%}.rangeslider__background,.rangeslider__fill{height:1.5px;position:absolute;top:50%;touch-action:none}.rangeslider__fill{background-color:#1e88e5;display:block}.rangeslider__handle{background:#fff;background-clip:content-box;border-radius:50%;box-shadow:0 1px 1px transparent;display:inline-block;position:absolute;top:54%;touch-action:none;width:16px}.ltr-slider-holder .slider-horizontal .rangeslider .rangeslider__handle{transform:translate3d(-50%,-50%,0)}.rtl-slider-holder .slider-horizontal .rangeslider .rangeslider__handle{transform:translate3d(50%,-50%,0)}.rangeslider__handle:after{bottom:-16px;content:\"\";left:-16px;position:absolute;right:-16px;top:-16px}#slot-menu-container{color:#888;left:0;overflow:hidden;position:absolute;text-align:center;top:0}.ic_close{background-image:url(texture/slot_menu.png)}.menu_close_button{background-image:url(texture/legacy/slot_menu_legacy.png)}.slot_menu_scroller{content:\"allscroll button[disabled]{pointer-events:none;}` \"}",
                       'imageFile': GQ,
-                      'appendHeader': !0x0
+                      'appendHeader': true
                     }, this["context"]);
                   }
                 }, Gh["prototype"]["getImage"] = function (Ta) {
@@ -1626,16 +1617,16 @@
                       return this['l'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "isRTL", {
                   'get': function () {
                     {
                       return shell["isRTLLanguage"]();
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Gh["prototype"]['m'] = function () {
                   {
                     var Ta = ["data:image/jpeg;base64", "1-2-3-4-OLqbzvZroA8dFLTr-DpGlw7iIyk7YFt3a-umkS61UVHJAxZ5gw-ZMIn6vXJGdpa1Q9g", "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUZrd0V3WUhLb1pJemowQ0FRWUlLb1pJemowREFRY0RRZ0FFUXVrVE5BNTlhR1ZIZEtWLzZiU3FhT0gxWXBxNgpaU0EzMWl2cU9wVWlXRUg1Z3VjL1BrUGZXUGZ5M0VwYnFSSnZIeDA4cFZLU3B0Zk9pOU12ZXRoWHRnPT0KLS0tLS1FTkQgUFVCTElDIEtFWS0tLS0tCg=="];
@@ -1666,19 +1657,19 @@
             Ty = new (function () {
               function Gh() {
                 {
-                  this['k'] = !0x1;
+                  this['k'] = false;
                 }
               }
               return Gh["prototype"]["enable"] = function () {
-                this['k'] || (Tp["context"]["event"]["emit"]("Shell.ToggleNoSleep", !0x0), this['k'] = !0x0);
+                this['k'] || (Tp["context"]["event"]["emit"]("Shell.ToggleNoSleep", true), this['k'] = true);
               }, Gh["prototype"]["disable"] = function () {
                 {
-                  this['k'] && (Tp["context"]["event"]["emit"]("Shell.ToggleNoSleep", !0x1), this['k'] = !0x1);
+                  this['k'] && (Tp["context"]["event"]["emit"]("Shell.ToggleNoSleep", false), this['k'] = false);
                 }
               }, Gh;
             }())(),
             TF = {
-              'isFinish': !0x1
+              'isFinish': false
             },
             TK = {
               'frequency': 0x78,
@@ -1721,8 +1712,8 @@
                       'transition': "0.2s"
                     };
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "slotMenuTitleTxt", {
                   'get': function () {
                     {
@@ -1734,8 +1725,8 @@
                       };
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "footerHolderCont", {
                   'get': function () {
                     {
@@ -1753,8 +1744,8 @@
                       };
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "footerObjCont", {
                   'get': function () {
                     return {
@@ -1768,8 +1759,8 @@
                       'borderRadius': "8px 8px 8px 8px"
                     };
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "footerImgCont", {
                   'get': function () {
                     return {
@@ -1777,8 +1768,8 @@
                       'maxHeight': "20px"
                     };
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "footerAmtCont", {
                   'get': function () {
                     return {
@@ -1789,8 +1780,8 @@
                       'whiteSpace': "nowrap"
                     };
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "spinOptHeader", {
                   'get': function () {
                     {
@@ -1801,8 +1792,8 @@
                       };
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "spinOptSubtitleHolder", {
                   'get': function () {
                     {
@@ -1815,8 +1806,8 @@
                       };
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "spinAmtSelect", {
                   'get': function () {
                     return {
@@ -1829,8 +1820,8 @@
                       'paddingTop': "10px"
                     };
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "commonDisplayContent", {
                   'get': function () {
                     return {
@@ -1838,16 +1829,16 @@
                       'justifyContent': "space-between"
                     };
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "alignCenter", {
                   'get': function () {
                     return {
                       'alignSelf': "center"
                     };
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Gh;
               }
             }())(),
@@ -1865,98 +1856,98 @@
                 'get': function () {
                   return this['_'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "halfThemeColor", {
                 'get': function () {
                   return this['j'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "spinStartLabelColor", {
                 'get': function () {
                   {
                     return this['T'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "spinStartLabelHalfColor", {
                 'get': function () {
                   {
                     return this['M'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "borderRadius", {
                 'get': function () {
                   return this['A'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "normalButtonColor", {
                 'get': function () {
                   return this['B'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "disabledButtonColor", {
                 'get': function () {
                   return this['L'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "disabledButtonColorHalfOpacity", {
                 'get': function () {
                   return this['R'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "disabledSpinStartLabelColor", {
                 'get': function () {
                   {
                     return this['N'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "enabledSwitchButtonColor", {
                 'get': function () {
                   return this['D'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "disabledSwitchButtonColor", {
                 'get': function () {
                   return this['P'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "labelColor", {
                 'get': function () {
                   return this['F'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "disabledLabelColor", {
                 'get': function () {
                   return this['I'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "sliderLineColorTrue", {
                 'get': function () {
                   return this['V'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "sliderLineColorFalse", {
                 'get': function () {
                   return this['W'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Gh;
             }())(),
             Ts = new (function () {
@@ -1966,18 +1957,18 @@
                   {
                     var Ta = TU["regionMode"] === TC["ASIA"] ? 0x3e8 : 0x64,
                       Ta = TU["autoPlayMaxNum"];
-                    return void 0x0 !== Ta && Ta > 0x0 ? TU["autoPlayMaxNum"] : Ta || 0x64;
+                    return undefined !== Ta && Ta > 0x0 ? TU["autoPlayMaxNum"] : Ta || 0x64;
                   }
                 }, Gh["prototype"]["isAutoSpinStopEnable"] = function () {
                   {
-                    return void 0x0 !== TU["autoPlayConfig"] ? 0x2 === TU["autoPlayConfig"] : TU["regionMode"] !== TC["ASIA"];
+                    return undefined !== TU["autoPlayConfig"] ? 0x2 === TU["autoPlayConfig"] : TU["regionMode"] !== TC["ASIA"];
                   }
                 }, Gh["prototype"]["isTurboSpinEnable"] = function () {
-                  return void 0x0 !== TU["turboSpinEnable"] ? TU["turboSpinEnable"] : TU["regionMode"] !== TC["PORTUGAL"];
+                  return undefined !== TU["turboSpinEnable"] ? TU["turboSpinEnable"] : TU["regionMode"] !== TC["PORTUGAL"];
                 }, Gh["prototype"]["isMaxPayoutEnable"] = function () {
                   {
                     var Ta = TU["regionMode"] === TC["GERMANY"] || TU["regionMode"] === TC["LITHUANIA"];
-                    return void 0x0 !== TU["maxPayoutEnable"] ? TU["maxPayoutEnable"] : Ta;
+                    return undefined !== TU["maxPayoutEnable"] ? TU["maxPayoutEnable"] : Ta;
                   }
                 }, Gh["prototype"]["isMaxPayoutDescriptionEnable"] = function () {
                   return this["isMaxPayoutEnable"]() && TU["rtp"] && TU["maxPayout"] && TU["maxPayoutProbability"];
@@ -1987,7 +1978,7 @@
             TU = new (function () {
               function Gh() {
                 {
-                  this['G'] = void 0x0, this['H'] = !0x1, this['U'] = 0x0, this['q'] = 0x0, this['Z'] = 0x0, this['Y'] = 0x0, this['X'] = Tu["CASH"], this['J'] = 0x0, this['K'] = 0x0, this['$'] = 0x0, this['tt'] = 0x0, this['nt'] = '', this['et'] = 0x0, this["regionMode"] = TC["EURO"], this['it'] = 0x0, this['ot'] = 0x0, this['rt'] = !0x1, this['st'] = !0x1, this['ut'] = void 0x0, this['$'] = 0x0, this['J'] = 0x0, this['K'] = 0x0, this['U'] = 0x0, this['q'] = 0x0, this['Z'] = 0x0, this['Y'] = 0x0, this['tt'] = 0x0, this['nt'] = '', this['et'] = 0x0;
+                  this['G'] = undefined, this['H'] = false, this['U'] = 0x0, this['q'] = 0x0, this['Z'] = 0x0, this['Y'] = 0x0, this['X'] = Tu["CASH"], this['J'] = 0x0, this['K'] = 0x0, this['$'] = 0x0, this['tt'] = 0x0, this['nt'] = '', this['et'] = 0x0, this["regionMode"] = TC["EURO"], this['it'] = 0x0, this['ot'] = 0x0, this['rt'] = false, this['st'] = false, this['ut'] = undefined, this['$'] = 0x0, this['J'] = 0x0, this['K'] = 0x0, this['U'] = 0x0, this['q'] = 0x0, this['Z'] = 0x0, this['Y'] = 0x0, this['tt'] = 0x0, this['nt'] = '', this['et'] = 0x0;
                 }
               }
               return Gh["prototype"]["updateSessionInfo"] = function (Ta) {
@@ -2006,8 +1997,8 @@
                 'set': function (Ta) {
                   this['H'] = Ta;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "currentBalance", {
                 'get': function () {
                   {
@@ -2019,8 +2010,8 @@
                     this['Y'] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "gameThemeColor", {
                 'get': function () {
                   return this['G'];
@@ -2030,8 +2021,8 @@
                     this['G'] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "betLineValue", {
                 'get': function () {
                   return this['$'];
@@ -2041,8 +2032,8 @@
                     this['$'] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "betLevelValue", {
                 'get': function () {
                   {
@@ -2052,8 +2043,8 @@
                 'set': function (Ta) {
                   this['K'] = Ta;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "betSizeValue", {
                 'get': function () {
                   {
@@ -2065,8 +2056,8 @@
                     this['J'] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "winAmount", {
                 'get': function () {
                   {
@@ -2076,8 +2067,8 @@
                 'set': function (Ta) {
                   this['U'] = Ta;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "additionalData", {
                 'get': function () {
                   {
@@ -2089,8 +2080,8 @@
                     this['q'] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "totalAdditionalData", {
                 'get': function () {
                   {
@@ -2102,8 +2093,8 @@
                     this['Z'] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "walletState", {
                 'get': function () {
                   return this['X'];
@@ -2113,8 +2104,8 @@
                     this['X'] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "playClickSound", {
                 'get': function () {
                   {
@@ -2126,68 +2117,68 @@
                     this['ut'] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "rtp", {
                 'get': function () {
                   {
                     return this['nt'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "maxPayout", {
                 'get': function () {
                   {
                     return this['tt'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "maxPayoutProbability", {
                 'get': function () {
                   {
                     return this['et'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "autoPlayMaxNum", {
                 'get': function () {
                   {
                     return this['it'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "autoPlayConfig", {
                 'get': function () {
                   {
                     return this['ot'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "turboSpinEnable", {
                 'get': function () {
                   {
                     return this['rt'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "maxPayoutEnable", {
                 'get': function () {
                   return this['st'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "isAutoSpinStop", {
                 'get': function () {
                   return this['X'] !== Tu["FREE_GAME"] && Ts["isAutoSpinStopEnable"]();
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Gh;
             }())(),
             Th = function () {
@@ -2209,8 +2200,8 @@
                       };
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "baseBetSelector", {
                   'get': function () {
                     {
@@ -2225,8 +2216,8 @@
                       };
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "baseBetScrollerHolder", {
                   'get': function () {
                     {
@@ -2241,32 +2232,32 @@
                       };
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "betOptContView", {
                   'get': function () {
                     {
                       return this["betOptContViewStyle"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "betSelector", {
                   'get': function () {
                     {
                       return this["betSelectorStyle"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "betScrollerHolder", {
                   'get': function () {
                     {
                       return this["betScrollerHolderStyle"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "betLabelHolder", {
                   'get': function () {
                     {
@@ -2283,8 +2274,8 @@
                       };
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "betOptCont", {
                   'get': function () {
                     {
@@ -2293,8 +2284,8 @@
                       });
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Gh["prototype"]["betAmtCont"] = function (Ta) {
                   return E1(E1({}, this["baseBetOptContText"]), {
                     'color': ''["concat"](Ta),
@@ -2311,8 +2302,8 @@
                       'marginTop': ''["concat"](2.1 * Tb, 'px')
                     };
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Gh["prototype"]['ct'] = function (Ta) {
                   return {
                     'position': "absolute",
@@ -2324,8 +2315,8 @@
                   'get': function () {
                     return this['ct'](0.5);
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Gh["prototype"]['lt'] = function () {
                   return E1(E1({}, this['ct'](0x1)), {
                     'height': ''["concat"](Tb, 'px')
@@ -2338,8 +2329,8 @@
                       });
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "baseBtmGradientMask", {
                   'get': function () {
                     {
@@ -2348,40 +2339,40 @@
                       });
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "topMask", {
                   'get': function () {
                     {
                       return this["topMaskStyle"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "btmMask", {
                   'get': function () {
                     {
                       return this["btmMaskStyle"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "topGradientMask", {
                   'get': function () {
                     {
                       return this["topGradientMaskStyle"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "btmGradientMask", {
                   'get': function () {
                     {
                       return this["btmGradientMaskStyle"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Gh;
               }
             }(),
@@ -2408,8 +2399,8 @@
                       'fontSize': ''["concat"](Ta, 'px')
                     });
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Gh["prototype"]["betOptFooter"] = function (Ta) {
                   {
                     var Ta = this["commonContainer"](Ta);
@@ -2458,8 +2449,8 @@
                       'margin': "0px 21px 0px 21px"
                     };
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "progRemindTxt", {
                   'get': function () {
                     var Ta = E1(E1({}, this['ht']()), {
@@ -2471,8 +2462,8 @@
                       });
                     return TS ? Ta : Ta;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "btmBetAmt", {
                   'get': function () {
                     {
@@ -2483,8 +2474,8 @@
                       };
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "betAmtTitleTxt", {
                   'get': function () {
                     {
@@ -2493,8 +2484,8 @@
                       });
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "betAmtTxt", {
                   'get': function () {
                     {
@@ -2504,8 +2495,8 @@
                       });
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Gh["prototype"]["dimBg"] = function (Ta) {
                   {
                     return E1(E1({}, Tl["slotMenuDimBg"]), {
@@ -2544,24 +2535,24 @@
                     'direction': Tp["isRTL"] ? "rtl" : "ltr"
                   };
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "spinOptCont", {
                 'get': function () {
                   {
                     return this["spinOptContStyle"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "spinAmtSelect", {
                 'get': function () {
                   {
                     return this["spinAmtSelectStyle"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "spinOptFooter", {
                 'get': function () {
                   {
@@ -2575,18 +2566,18 @@
                     };
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "dimBg", {
                 'get': function () {
                   return E1(E1({}, Tl["slotMenuDimBg"]), {
                     'opacity': '0'
                   });
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Gh["prototype"]["spinOptView"] = function (Ta, Ta) {
-                void 0x0 === Ta && (Ta = TN["Normal"]);
+                undefined === Ta && (Ta = TN["Normal"]);
                 var GQ = {
                   'borderRadius': Tm["borderRadius"],
                   'paddingBottom': Ta,
@@ -2665,8 +2656,8 @@
                     return this["spinOptExitBtnStyle"]();
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Gh["prototype"]["autoSpinAmtBtn"] = function (Ta) {
                 {
                   return this["autoSpinAmtBtnStyle"](Ta);
@@ -2709,8 +2700,8 @@
                     'textAlign': "left"
                   };
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Gh["prototype"]["resizeContainer"] = function (Ta) {
                 return {
                   'marginTop': "auto",
@@ -2816,8 +2807,8 @@
                     'paddingRight': "10px"
                   };
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Ta["prototype"], "turboSpinInnerLayer", {
                 'get': function () {
                   return {
@@ -2833,8 +2824,8 @@
                     'border': "thin solid rgb(40, 40, 50)"
                   };
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Ta["prototype"], "turboSpinInnerItem", {
                 'get': function () {
                   {
@@ -2847,8 +2838,8 @@
                     };
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Ta["prototype"], "turboSpinOnOff", {
                 'get': function () {
                   {
@@ -2858,8 +2849,8 @@
                     };
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Ta["prototype"], "turboSpinTitle", {
                 'get': function () {
                   {
@@ -2871,8 +2862,8 @@
                     };
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Ta["prototype"], "spinOptContInner", {
                 'get': function () {
                   return {
@@ -2881,8 +2872,8 @@
                     'paddingRight': "15px"
                   };
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Ta["prototype"], "startAutoSpin", {
                 'get': function () {
                   return {
@@ -2893,8 +2884,8 @@
                     'justifyContent': "space-between"
                   };
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Ta["prototype"]["spinOptViewStyle"] = function () {
                 {
                   return {
@@ -2922,7 +2913,7 @@
                       'borderTopColor': "rgba(56, 55, 64, 0.7)",
                       'borderWidth': "1px",
                       'justifyContent': "space-between",
-                      'backgroundColor': Ta ? "rgba(40, 40, 51, 1)" : void 0x0
+                      'backgroundColor': Ta ? "rgba(40, 40, 51, 1)" : undefined
                     });
                   }
                 }, Object["defineProperty"](Gh["prototype"], "footerObj", {
@@ -2937,8 +2928,8 @@
                       });
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "footerAmt", {
                   'get': function () {
                     {
@@ -2947,16 +2938,16 @@
                       });
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "flexFooterAmot", {
                   'get': function () {
                     return E1(E1({}, this["footerAmt"]), {
                       'justifyContent': "flex-end"
                     });
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "footerAmtItem", {
                   'get': function () {
                     {
@@ -2969,8 +2960,8 @@
                       };
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "fullFooterAmtItem", {
                   'get': function () {
                     {
@@ -2979,8 +2970,8 @@
                       });
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "halfFooterAmtItem", {
                   'get': function () {
                     {
@@ -2989,8 +2980,8 @@
                       });
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Gh["prototype"]["transFooterObj"] = function (Ta) {
                   {
                     return E1(E1({}, this["footerObj"]), {
@@ -3007,8 +2998,8 @@
                       'alignSelf': "center"
                     });
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Gh;
               }
             }(),
@@ -3107,8 +3098,8 @@
                     'fontSize': "14px"
                   };
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Ta["prototype"], "normalTSBtn", {
                 'get': function () {
                   return {
@@ -3122,8 +3113,8 @@
                     'fontSize': "14px"
                   };
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Ta;
             }(TQ),
             TM = function (Gh) {
@@ -3249,8 +3240,8 @@
                       });
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Ta["prototype"], "slotMenuTitle", {
                   'get': function () {
                     {
@@ -3259,16 +3250,16 @@
                       });
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Ta["prototype"], "spinOptSubtitle", {
                   'get': function () {
                     return E1(E1({}, Tl["spinOptSubtitleHolder"]), {
                       'fontSize': ''["concat"](TS ? 0xa : 12.5, 'px')
                     });
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Ta["prototype"]["spinOptViewStyle"] = function (Ta) {
                   var GQ = {
                     'backgroundColor': "rgb(48, 48, 60)"
@@ -3294,8 +3285,8 @@
                     'color': "white"
                   };
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Gh["prototype"]["footerObj"] = function (Ta) {
                 return E1(E1({}, Tl["footerObjCont"]), {
                   'transition': "transform 0.1s cubic-bezier(0.39, 0.575, 0.565, 1) 0s",
@@ -3373,8 +3364,8 @@
                       'borderRadius': TS ? "4px" : "8px"
                     });
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Ta["prototype"]["autoSpinsBtn"] = function (Ta) {
                   var GQ = Tm["normalButtonColor"],
                     E3 = Tm["disabledButtonColorHalfOpacity"],
@@ -3425,9 +3416,9 @@
               {
                 function Ta(Ta) {
                   var GQ = Gh["call"](this, Ta) || this;
-                  GQ['vt'] = z["createRef"](), GQ['gt'] = !0x1, GQ['xt'] = !0x1, GQ['yt'] = 0x0, GQ['St'] = "None", GQ['wt'] = void 0x0, GQ['Ot'] = 0x0, GQ["handleChange"] = function (GO) {
+                  GQ['vt'] = z["createRef"](), GQ['gt'] = false, GQ['xt'] = false, GQ['yt'] = 0x0, GQ['St'] = "None", GQ['wt'] = undefined, GQ['Ot'] = 0x0, GQ["handleChange"] = function (GO) {
                     {
-                      GQ['gt'] = !0x0, !0x1 === GQ['xt'] && (GQ["props"]["enableStartAutoSpin"](), GQ['xt'] = !0x0), GQ["setState"]({
+                      GQ['gt'] = true, false === GQ['xt'] && (GQ["props"]["enableStartAutoSpin"](), GQ['xt'] = true), GQ["setState"]({
                         'value': GO
                       });
                     }
@@ -3479,7 +3470,7 @@
                   }
                 }, Ta["prototype"]["componentDidMount"] = function () {
                   var Ta = this;
-                  this['vt']["current"] && TU["isLegacyMode"] && this['vt']["current"]["addEventListener"](Tp["clickEvent"], this['kt']["bind"](this)), Tp["context"]["event"]["emit"]("Shell.GetScale", void 0x0, function (GQ) {
+                  this['vt']["current"] && TU["isLegacyMode"] && this['vt']["current"]["addEventListener"](Tp["clickEvent"], this['kt']["bind"](this)), Tp["context"]["event"]["emit"]("Shell.GetScale", undefined, function (GQ) {
                     {
                       GQ["error"] || Ta["setState"]({
                         'scale': GQ["response"]["scale"]
@@ -3553,7 +3544,7 @@
                       'min': GJ["min"],
                       'max': GJ["max"] * this['Ot'],
                       'value': GQ,
-                      'tooltip': !0x1,
+                      'tooltip': false,
                       'orientation': "horizontal",
                       'onChange': this["handleChange"],
                       'onChangeComplete': this["onFinishTouch"]["bind"](this),
@@ -3570,7 +3561,7 @@
                 {
                   var GQ = Gh["call"](this, Ta) || this;
                   return GQ['wt'] = z["createRef"](), GQ['At'] = z["createRef"](), GQ["state"] = {
-                    'onHover': !0x1
+                    'onHover': false
                   }, GQ;
                 }
               }
@@ -3624,7 +3615,7 @@
               }, Ta["prototype"]["componentDidMount"] = function () {
                 {
                   var Ta = this;
-                  this['At'] && this['At']["current"] && this['At']["current"]["addEventListener"](Tp["clickEvent"], this['Bt']["bind"](this)), L8(!0x0)(function () {
+                  this['At'] && this['At']["current"] && this['At']["current"]["addEventListener"](Tp["clickEvent"], this['Bt']["bind"](this)), L8(true)(function () {
                     var GQ = Ta["props"]["defaultFontSize"],
                       E3 = 0x10;
                     GQ && (E3 = GQ), Ta['wt'] && Ta['wt']["current"] && TY(Ta['wt']["current"], E3), Ta['wt'] && Ta['wt']["current"] && function (GO) {
@@ -3638,11 +3629,11 @@
                 this['At'] && this['At']["current"] && this['At']["current"]["removeEventListener"](Tp["clickEvent"], this['Bt']["bind"](this));
               }, Ta["prototype"]['Nt'] = function () {
                 this["props"]["hoverEffect"] && (this['Rt'](), this["setState"]({
-                  'onHover': !0x0
+                  'onHover': true
                 }));
               }, Ta["prototype"]['Lt'] = function () {
                 this["props"]["hoverEffect"] && this["setState"]({
-                  'onHover': !0x1
+                  'onHover': false
                 });
               }, Ta["prototype"]['Rt'] = function () {
                 {
@@ -3660,7 +3651,7 @@
                 function Ta(Ta) {
                   {
                     var GQ = Gh["call"](this, Ta) || this;
-                    GQ['vt'] = z["createRef"](), GQ['yt'] = 0x0, GQ['St'] = "None", GQ['wt'] = void 0x0, GQ['Ot'] = 0x0, GQ["handleChange"] = function (GO) {
+                    GQ['vt'] = z["createRef"](), GQ['yt'] = 0x0, GQ['St'] = "None", GQ['wt'] = undefined, GQ['Ot'] = 0x0, GQ["handleChange"] = function (GO) {
                       GQ["setState"]({
                         'value': GO
                       });
@@ -3720,7 +3711,7 @@
                   }
                 }, Ta["prototype"]["componentDidMount"] = function () {
                   var Ta = this;
-                  this['vt']["current"] && TU["isLegacyMode"] && this['vt']["current"]["addEventListener"](Tp["clickEvent"], this['kt']["bind"](this)), Tp["context"]["event"]["emit"]("Shell.GetScale", void 0x0, function (GQ) {
+                  this['vt']["current"] && TU["isLegacyMode"] && this['vt']["current"]["addEventListener"](Tp["clickEvent"], this['kt']["bind"](this)), Tp["context"]["event"]["emit"]("Shell.GetScale", undefined, function (GQ) {
                     GQ["error"] || Ta["setState"]({
                       'scale': GQ["response"]["scale"]
                     });
@@ -3784,7 +3775,7 @@
                       'min': GJ["min"],
                       'max': GJ["max"] * this['Ot'],
                       'value': GQ,
-                      'tooltip': !0x1,
+                      'tooltip': false,
                       'orientation': "horizontal",
                       'onChange': this["handleChange"],
                       'onChangeComplete': this["onFinishTouch"]["bind"](this),
@@ -3799,7 +3790,7 @@
             LG = function (Gh) {
               function Ta(Ta) {
                 var GQ = Gh["call"](this, Ta) || this;
-                GQ['vt'] = z["createRef"](), GQ['yt'] = 0x0, GQ['St'] = "None", GQ['wt'] = void 0x0, GQ['Ot'] = 0x0, GQ["handleChange"] = function (GO) {
+                GQ['vt'] = z["createRef"](), GQ['yt'] = 0x0, GQ['St'] = "None", GQ['wt'] = undefined, GQ['Ot'] = 0x0, GQ["handleChange"] = function (GO) {
                   {
                     GQ["setState"]({
                       'value': GO
@@ -3859,7 +3850,7 @@
               }, Ta["prototype"]["componentDidMount"] = function () {
                 {
                   var Ta = this;
-                  this['vt']["current"] && TU["isLegacyMode"] && this['vt']["current"]["addEventListener"](Tp["clickEvent"], this['kt']["bind"](this)), Tp["context"]["event"]["emit"]("Shell.GetScale", void 0x0, function (GQ) {
+                  this['vt']["current"] && TU["isLegacyMode"] && this['vt']["current"]["addEventListener"](Tp["clickEvent"], this['kt']["bind"](this)), Tp["context"]["event"]["emit"]("Shell.GetScale", undefined, function (GQ) {
                     {
                       GQ["error"] || Ta["setState"]({
                         'scale': GQ["response"]["scale"]
@@ -3924,7 +3915,7 @@
                   'min': GJ["min"],
                   'max': GJ["max"] * this['Ot'],
                   'value': GQ,
-                  'tooltip': !0x1,
+                  'tooltip': false,
                   'orientation': "horizontal",
                   'onChange': this["handleChange"],
                   'onChangeComplete': this["onFinishTouch"]["bind"](this),
@@ -3943,20 +3934,20 @@
                 function Ta(Ta) {
                   {
                     var GQ = Gh["call"](this, Ta) || this;
-                    GQ['Et'] = [], GQ['Pt'] = void 0x0, GQ['Ft'] = void 0x0, GQ['It'] = new L3(), GQ['Vt'] = Tl;
+                    GQ['Et'] = [], GQ['Pt'] = undefined, GQ['Ft'] = undefined, GQ['It'] = new L3(), GQ['Vt'] = Tl;
                     for (var E3 = 0x0; E3 < 0x3; E3++) {
                       var GO = z["createRef"]();
                       GQ['Et']["push"](GO);
                     }
                     return GQ["props"]["additionalData"] ? GQ['Pt'] = Tw["Other"] : GQ['Pt'] = Tw["Win"], GQ["state"] = {
-                      'isOpen': !0x0
+                      'isOpen': true
                     }, GQ;
                   }
                 }
                 return E0(Ta, Gh), Ta["prototype"]['Wt'] = function () {
                   {
                     this["state"]["isOpen"] || this["setState"]({
-                      'isOpen': !0x0
+                      'isOpen': true
                     });
                   }
                 }, Ta["prototype"]['Gt'] = function () {
@@ -3979,7 +3970,7 @@
                       TY(GQ["current"], 0xe);
                     }), this["props"]["walletState"] !== Tu["CASH"] && this["props"]["additionalData"] !== this["props"]["totalAdditionalData"] && (this['Ft'] = setInterval(function () {
                       Ta['Pt'] = Ta['Pt'] === Tw["Other"] ? Tw["Win"] : Tw["Other"], Ta["setState"]({
-                        'isOpen': !0x1
+                        'isOpen': false
                       });
                     }, 0x1388));
                   }
@@ -4094,7 +4085,7 @@
                 }), this["props"]["walletState"] !== Tu["CASH"] && this["props"]["additionalData"] !== this["props"]["totalAdditionalData"] && (this['Ft'] = setInterval(function () {
                   {
                     Ta['Pt'] = Ta['Pt'] === Lo["Other"] ? Lo["Win"] : Lo["Other"], Ta["setState"]({
-                      'isOpen': !0x1
+                      'isOpen': false
                     });
                   }
                 }, 0x1388));
@@ -4186,7 +4177,7 @@
                     'model': this["props"]["model"],
                     'isDisabled': this["props"]["isDisabled"],
                     'config': Ta
-                  })) : void 0x0;
+                  })) : undefined;
                 }
               }, Ta["prototype"]['Qt'] = function () {
                 {
@@ -4197,8 +4188,8 @@
                     GJ = Tm["disabledButtonColor"];
                   return this['Xt']["forEach"](function (GQ, Gr) {
                     var GO = '',
-                      GM = !0x0;
-                    Ta["props"]["selectedAmount"] === GQ ? (GO = E3, GM = !0x1) : GO = GO, Ta['Jt'][Gr] = z["createRef"]();
+                      GM = true;
+                    Ta["props"]["selectedAmount"] === GQ ? (GO = E3, GM = false) : GO = GO, Ta['Jt'][Gr] = z["createRef"]();
                     var j0 = Ta["props"]["btnCss"]["autoSpinAmtBtn"](GO);
                     GQ["push"](z["createElement"](L9, {
                       'id': "autoSpinAmount" + Gr,
@@ -4279,15 +4270,15 @@
                     'id': "spin-options-footer"
                   }, TU["walletState"] !== Tu["FREE_GAME"] && Ts["isAutoSpinStopEnable"]() ? z["createElement"](L9, {
                     'buttonText': GQ === TN["Normal"] ? shell["I18n"]['t']("SpinOptions.MoreOptions") : shell["I18n"]['t']("SpinOptions.HideOptions"),
-                    'clickEffect': !0x0,
+                    'clickEffect': true,
                     'additionalStyle': GM,
                     'defaultFontSize': TS ? 0xb : 0x10,
                     'callback': E3
-                  }) : void 0x0, z["createElement"](L9, {
+                  }) : undefined, z["createElement"](L9, {
                     'buttonText': shell["I18n"]['t']("SpinOptions.StartAutoSpin"),
                     'additionalStyle': j0,
                     'defaultFontSize': TS ? 0xb : 0x10,
-                    'clickEffect': !0x0,
+                    'clickEffect': true,
                     'callback': function () {
                       {
                         GJ();
@@ -4373,11 +4364,11 @@
                 }, z["createElement"](L9, {
                   'additionalStyle': E3,
                   'buttonText': GQ,
-                  'callback': GJ["bind"](void 0x0, !0x1)
+                  'callback': GJ["bind"](undefined, false)
                 }), z["createElement"](L9, {
                   'additionalStyle': GO,
                   'buttonText': E3,
-                  'callback': GJ["bind"](void 0x0, !0x0)
+                  'callback': GJ["bind"](undefined, true)
                 })))));
               }, Ta["prototype"]['Qt'] = function () {
                 var Ta = this,
@@ -4426,7 +4417,7 @@
                     'config': Ta,
                     'selectedSlider': this["props"]["selectedSlider"],
                     'onClick': this["props"]["onSelectedSlider"]
-                  })) : void 0x0;
+                  })) : undefined;
                 }
               }, Ta["prototype"]['$t'] = function () {
                 var Ta = this,
@@ -4475,7 +4466,7 @@
                   return z["createElement"](z["Fragment"], null, z["createElement"]("div", {
                     'style': GQ,
                     'id': "spin-options-content"
-                  }, Ts["isTurboSpinEnable"]() ? this['sn']() : void 0x0, z["createElement"]("div", {
+                  }, Ts["isTurboSpinEnable"]() ? this['sn']() : undefined, z["createElement"]("div", {
                     'style': Gr,
                     'id': "spin-options-content-container"
                   }, z["createElement"]("div", {
@@ -4504,7 +4495,7 @@
                   }, '\x20', z["createElement"](L9, {
                     'buttonText': shell["I18n"]['t']("SpinOptionsLegacy.StartAutoSpin"),
                     'additionalStyle': j2,
-                    'clickEffect': !0x0,
+                    'clickEffect': true,
                     'callback': function () {
                       {
                         GO();
@@ -4516,7 +4507,7 @@
                 {
                   var Ta = this["props"]["model"]["additionalBetCalculationCallback"](TU["betLineValue"], TU["betLevelValue"], TU["betSizeValue"]);
                   return z["createElement"](LH, {
-                    'color': !0x0,
+                    'color': true,
                     'balance': TU["currentBalance"],
                     'winAmount': TU["winAmount"],
                     'betAmount': Ta,
@@ -4531,7 +4522,7 @@
               function Ta(Ta) {
                 var GQ = Gh["call"](this, Ta) || this;
                 GQ['Xt'] = [0xa, 0x1e, 0x32, 0x50, 0x64], GQ['rn'] = TS ? 0x0 : 0x2f, GQ['Vt'] = Tl, GQ["state"] = {
-                  'visible': !0x1
+                  'visible': false
                 };
                 var E3 = TU["isLegacyMode"];
                 return GQ['un'] = E3 ? new TI() : new L2(), GQ['an'] = E3 ? new Ti() : new L4(), GQ;
@@ -4543,7 +4534,7 @@
                 }))) : z["createElement"](LV, E1({}, E1(E1({}, this["props"]), {
                   'sovCss': this['un'],
                   'btnCss': this['an']
-                }))) : void 0x0;
+                }))) : undefined;
               }, Ta["prototype"]["render"] = function () {
                 var Ta,
                   GQ = this,
@@ -4576,7 +4567,7 @@
                     }
                   }
                 }), z["createElement"](v, {
-                  'native': !0x0,
+                  'native': true,
                   'immediate': !GQ,
                   'to': TS ? {
                     'right': GO === Tk["Show"] ? '0%' : "-45%"
@@ -4586,13 +4577,13 @@
                   'config': {
                     'tension': 0xa3,
                     'friction': 0x15,
-                    'clamp': !0x0,
+                    'clamp': true,
                     'velocity': 0xa
                   },
                   'onRest': function () {
                     {
-                      GO === Tk["Hide"] ? (!0x0 === GM && Gr(), GO()) : GO === Tk["Show"] && GQ["setState"]({
-                        'visible': !0x0
+                      GO === Tk["Hide"] ? (true === GM && Gr(), GO()) : GO === Tk["Show"] && GQ["setState"]({
+                        'visible': true
                       });
                     }
                   }
@@ -4606,7 +4597,7 @@
             }(z["Component"]),
             LA = new (function () {
               function Gh() {
-                this['ln'] = void 0x0, this['hn'] = void 0x0, this['fn'] = void 0x0, this['dn'] = void 0x0, this['bn'] = 0x0, this['pn'] = void 0x0, this['vn'] = !0x1, this['gn'] = void 0x0;
+                this['ln'] = undefined, this['hn'] = undefined, this['fn'] = undefined, this['dn'] = undefined, this['bn'] = 0x0, this['pn'] = undefined, this['vn'] = false, this['gn'] = undefined;
               }
               return Object["defineProperty"](Gh["prototype"], "singleWinAmount", {
                 'get': function () {
@@ -4619,8 +4610,8 @@
                     this['ln'] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "balanceAmountMoreThan", {
                 'get': function () {
                   return this['hn'];
@@ -4630,8 +4621,8 @@
                     this['hn'] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "balanceAmountLessThan", {
                 'get': function () {
                   {
@@ -4641,8 +4632,8 @@
                 'set': function (Ta) {
                   this['fn'] = Ta;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "autoSpinStartBalance", {
                 'get': function () {
                   {
@@ -4654,8 +4645,8 @@
                     this['dn'] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "autoSpinCount", {
                 'get': function () {
                   return this['bn'];
@@ -4663,8 +4654,8 @@
                 'set': function (Ta) {
                   this['bn'] = Ta;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "additionalBetCalculationCallback", {
                 'get': function () {
                   {
@@ -4676,8 +4667,8 @@
                     this['pn'] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "turboSpinOn", {
                 'get': function () {
                   {
@@ -4689,8 +4680,8 @@
                     this['vn'] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "onChangeTurboSpin", {
                 'get': function () {
                   return this['gn'];
@@ -4698,16 +4689,16 @@
                 'set': function (Ta) {
                   this['gn'] = Ta;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Gh["prototype"]['mn'] = function (Ta, Ta) {
                 {
-                  var GQ = !0x1,
+                  var GQ = false,
                     E3 = this['ln'],
                     GO = this['hn'],
                     GJ = this['fn'],
                     GQ = this['dn'];
-                  return E3 && Ta > E3 && (GQ = !0x0), GO && Ta >= GQ + GO && (GQ = !0x0), GJ && Ta <= GQ - GJ && (GQ = !0x0), GQ;
+                  return E3 && Ta > E3 && (GQ = true), GO && Ta >= GQ + GO && (GQ = true), GJ && Ta <= GQ - GJ && (GQ = true), GQ;
                 }
               }, Object["defineProperty"](Gh["prototype"], "isBalanceHitTargetInAutoSpinMode", {
                 'get': function () {
@@ -4715,8 +4706,8 @@
                     return this['mn']["bind"](this);
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Gh;
             }())(),
             LD = TD["toDecimalWithExp"],
@@ -4724,14 +4715,14 @@
             Ld = function (Gh) {
               function Ta(Ta) {
                 var GQ = Gh["call"](this, Ta) || this;
-                return GQ['xn'] = !0x1, GQ["state"] = {
+                return GQ['xn'] = false, GQ["state"] = {
                   'mode': TN["Normal"],
                   'showState': Tk["Hide"],
                   'additionalPadding': 0x0,
-                  'shouldPlayAnimation': !0x1,
-                  'canClickStart': !0x1,
-                  'isDisabled': !0x0,
-                  'shouldAutoSpin': !0x1,
+                  'shouldPlayAnimation': false,
+                  'canClickStart': false,
+                  'isDisabled': true,
+                  'shouldAutoSpin': false,
                   'turboSpinOn': LA["turboSpinOn"],
                   'selectedSlider': TB["BalanceLessThan"]
                 }, GQ;
@@ -4759,13 +4750,13 @@
                           'autoSpinStartBalance': TU["currentBalance"]
                         }), LA["autoSpinStartBalance"] = TU["currentBalance"]);
                       }
-                    }), this['xn'] = !0x0;
+                    }), this['xn'] = true;
                   }
                 }
               }, Ta["prototype"]['yn'] = function (Ta) {
                 {
                   var GQ = "NoError";
-                  Tp["context"]["event"]["emit"]("Game.StartAutoplay", void 0x0, function (E3) {
+                  Tp["context"]["event"]["emit"]("Game.StartAutoplay", undefined, function (E3) {
                     var GO = E3["response"] ? E3["response"]["result"] : GQ;
                     Ta && Ta(GO === GQ);
                   });
@@ -4773,12 +4764,12 @@
               }, Ta["prototype"]["setAmount"] = function (Ta) {
                 var GQ = Tp["playClick"]["bind"](Tp);
                 GQ && GQ(), LA["autoSpinCount"] = Ta, this["setState"]({
-                  'isDisabled': !0x1
+                  'isDisabled': false
                 }), TU["walletState"] !== Tu["FREE_GAME"] && Ts["isAutoSpinStopEnable"]() || this["enableSpinOptions"](), Ty["enable"]();
               }, Ta["prototype"]["enableSpinOptions"] = function () {
                 {
-                  !0x1 === this["state"]["canClickStart"] && this["setState"]({
-                    'canClickStart': !0x0
+                  false === this["state"]["canClickStart"] && this["setState"]({
+                    'canClickStart': true
                   });
                 }
               }, Ta["prototype"]["onTurboSpinClick"] = function (Ta) {
@@ -4791,24 +4782,24 @@
                 var Ta = this;
                 this["setState"]({
                   'showState': Tk["Hide"],
-                  'shouldPlayAnimation': !0x0,
-                  'isDisabled': !0x0,
-                  'shouldAutoSpin': !0x1
+                  'shouldPlayAnimation': true,
+                  'isDisabled': true,
+                  'shouldAutoSpin': false
                 }, function () {
                   {
-                    Ta["props"]["emitGamePlayUIBlockCallback"](!0x1);
+                    Ta["props"]["emitGamePlayUIBlockCallback"](false);
                   }
                 });
               }, Ta["prototype"]["closeAndStartAutoSpin"] = function () {
                 var Ta = this;
                 this["setState"]({
                   'showState': Tk["Hide"],
-                  'shouldPlayAnimation': !0x0,
-                  'isDisabled': !0x0,
-                  'shouldAutoSpin': !0x0
+                  'shouldPlayAnimation': true,
+                  'isDisabled': true,
+                  'shouldAutoSpin': true
                 }, function () {
                   {
-                    Ta["props"]["emitGamePlayUIBlockCallback"](!0x1);
+                    Ta["props"]["emitGamePlayUIBlockCallback"](false);
                   }
                 });
               }, Ta["prototype"]["swapModes"] = function () {
@@ -4829,7 +4820,7 @@
                 {
                   this["setState"]({
                     'additionalPadding': 0x0,
-                    'shouldPlayAnimation': !0x1
+                    'shouldPlayAnimation': false
                   });
                 }
               }, Ta["prototype"]["render"] = function () {
@@ -4868,17 +4859,17 @@
                 }
               }, Ta["prototype"]["componentDidMount"] = function () {
                 var Ta = this;
-                Tp["context"]["event"]['on']("Shell.Scaled", this['Mt'], this), Tp["context"]["event"]["emit"]("Shell.GetScale", void 0x0, function (GQ) {
+                Tp["context"]["event"]['on']("Shell.Scaled", this['Mt'], this), Tp["context"]["event"]["emit"]("Shell.GetScale", undefined, function (GQ) {
                   {
                     GQ["error"] || Ta["setState"]({
                       'additionalPadding': 0x0
                     });
                   }
-                }), LY(!0x0)(function () {
+                }), LY(true)(function () {
                   {
                     Ta["setState"]({
                       'showState': Tk["Show"],
-                      'shouldPlayAnimation': !0x0
+                      'shouldPlayAnimation': true
                     });
                   }
                 });
@@ -4927,7 +4918,7 @@
           }
           function LB(Gh, Ta) {
             {
-              return Gh ? Gh["get"] ? Lu(Gh["get"]) ? Gh["get"]["apply"](Ta) : void 0x0 : Gh["value"] : Gh;
+              return Gh ? Gh["get"] ? Lu(Gh["get"]) ? Gh["get"]["apply"](Ta) : undefined : Gh["value"] : Gh;
             }
           }
           function LP(Gh, Ta) {
@@ -4942,7 +4933,7 @@
           function Lp() {
             return null == [" Math.random", " parseInt", " setTimeout ", " Date ", " Date.now"]["find"](function (Gh) {
               {
-                return !Lu((Ta = Gh, void 0x0 === Ta && (Ta = R), Ta["replace"](/ /g, '')["split"]('.')["reduce"](function (GQ, E3) {
+                return !Lu((Ta = Gh, undefined === Ta && (Ta = R), Ta["replace"](/ /g, '')["split"]('.')["reduce"](function (GQ, E3) {
                   {
                     return null != GQ ? LP(GQ, E3) : GQ;
                   }
@@ -4988,8 +4979,8 @@
                 GJ = GM(0x0),
                 GQ = GM(0x1),
                 Gr = GM(0x2),
-                GO = null == Gr ? void 0x0 : Gr["substring"](R["Number"]("0x0"), R["Number"]("0x2")),
-                GM = null == Gr ? void 0x0 : Gr["substring"](R["Number"]("0x2")),
+                GO = null == Gr ? undefined : Gr["substring"](R["Number"]("0x0"), R["Number"]("0x2")),
+                GM = null == Gr ? undefined : Gr["substring"](R["Number"]("0x2")),
                 j0 = Object["create"](null);
               return j0['Sn'] = GO, j0['wn'] = GO, j0['On'] = GJ, j0['Cn'] = GQ, j0['kn'] = Gr, j0['_n'] = GM, j0;
             }
@@ -5023,7 +5014,7 @@
                   return Lb(R[("Mathew", LN(-0x2, "Mathew"))]["random"](), GQ);
                 }
               }
-              return !0x0;
+              return true;
             }
             return [function () {
               {
@@ -5053,8 +5044,8 @@
                   'set': function (Ta) {
                     this['jn'] = Ta || [];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "betLevelList", {
                   'get': function () {
                     {
@@ -5064,8 +5055,8 @@
                   'set': function (Ta) {
                     this['Tn'] = Ta || [];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "baseBet", {
                   'get': function () {
                     {
@@ -5077,8 +5068,8 @@
                       this['Mn'] = Ta;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "showChangeBetReminder", {
                   'get': function () {
                     {
@@ -5088,8 +5079,8 @@
                   'set': function (Ta) {
                     this['Ln'] = Ta;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "showForfeitProgressReminder", {
                   'get': function () {
                     {
@@ -5099,8 +5090,8 @@
                   'set': function (Ta) {
                     this['Rn'] = Ta;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "betCombinationDict", {
                   'get': function () {
                     return this['Nn'];
@@ -5108,8 +5099,8 @@
                   'set': function (Ta) {
                     this['Nn'] = Ta;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "betBiggestAmount", {
                   'get': function () {
                     {
@@ -5119,8 +5110,8 @@
                   'set': function (Ta) {
                     this['An'] = Ta;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Gh["prototype"], "betAmountKeysList", {
                   'get': function () {
                     return this['Bn'];
@@ -5130,8 +5121,8 @@
                       this['Bn'] = Ta;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Gh;
               }
             }())(),
@@ -5149,7 +5140,7 @@
                 function Ta(Ta) {
                   {
                     var GQ = Gh["call"](this, Ta) || this;
-                    return GQ["isMouseDown"] = !0x1, GQ["startY"] = 0x0, GQ["startTime"] = 0x0, GQ["autoScrollForce"] = 0x0, GQ["latestY"] = 0x0, GQ["previousY"] = 0x0, GQ["latestTime"] = 0x0, GQ["previousTime"] = 0x0, GQ["processMoveCount"] = 0x0, GQ["scrollReportTime"] = 0x0, GQ["isMouseOverElement"] = !0x1, GQ["translateTop"] = 0x0, GQ["disableScroll"] = !0x1, GQ["getScrollPosition"] = function () {
+                    return GQ["isMouseDown"] = false, GQ["startY"] = 0x0, GQ["startTime"] = 0x0, GQ["autoScrollForce"] = 0x0, GQ["latestY"] = 0x0, GQ["previousY"] = 0x0, GQ["latestTime"] = 0x0, GQ["previousTime"] = 0x0, GQ["processMoveCount"] = 0x0, GQ["scrollReportTime"] = 0x0, GQ["isMouseOverElement"] = false, GQ["translateTop"] = 0x0, GQ["disableScroll"] = false, GQ["getScrollPosition"] = function () {
                       return Math["abs"](GQ["translateTop"]);
                     }, GQ['zn'] = function (E3) {
                       {
@@ -5165,57 +5156,57 @@
                       GQ['Fn'](E3) && E3["preventDefault"]();
                     }, GQ['In'] = function (E3) {
                       {
-                        GQ["isMouseDown"] || (GQ["isMouseDown"] = !0x0, GQ["start"](E3));
+                        GQ["isMouseDown"] || (GQ["isMouseDown"] = true, GQ["start"](E3));
                       }
                     }, GQ['Vn'] = function (E3) {
                       {
-                        GQ["isMouseDown"] && (GQ["stop"](E3), GQ["isMouseDown"] = !0x1);
+                        GQ["isMouseDown"] && (GQ["stop"](E3), GQ["isMouseDown"] = false);
                       }
                     }, GQ['Wn'] = function (E3) {
                       GQ["isMouseDown"] && GQ['Fn'](E3) && E3["preventDefault"]();
                     }, GQ['Gn'] = function () {
                       {
-                        GQ["isMouseOverElement"] = !0x0;
+                        GQ["isMouseOverElement"] = true;
                       }
                     }, GQ['Hn'] = function () {
-                      GQ["isMouseOverElement"] = !0x1;
+                      GQ["isMouseOverElement"] = false;
                     }, GQ["wheel"] = function (E3) {
                       {
                         if (!GQ["disableScroll"] && GQ["isMouseOverElement"]) {
                           {
-                            GQ["animating"] = !0x1;
+                            GQ["animating"] = false;
                             var GO = GQ["container"]["current"],
                               GJ = GQ["content"]["current"];
                             if (GO && GJ) {
                               {
                                 var GQ = E3["deltaY"],
                                   Gr = GQ["translateTop"] - GQ,
-                                  GO = !0x0;
-                                Gr >= 0x0 ? (Gr = 0x0, GO = !0x1) : Gr < GO["clientHeight"] - GJ["clientHeight"] && (Gr = GO["clientHeight"] - GJ["clientHeight"], GO = !0x1), Gr >= 0x0 && (Gr = 0x0), GQ["translateTop"] = Gr, GJ["style"]["transform"] = "translateY(" + Gr + "px)", GQ["reportPos"](Gr), GO && E3["preventDefault"]();
+                                  GO = true;
+                                Gr >= 0x0 ? (Gr = 0x0, GO = false) : Gr < GO["clientHeight"] - GJ["clientHeight"] && (Gr = GO["clientHeight"] - GJ["clientHeight"], GO = false), Gr >= 0x0 && (Gr = 0x0), GQ["translateTop"] = Gr, GJ["style"]["transform"] = "translateY(" + Gr + "px)", GQ["reportPos"](Gr), GO && E3["preventDefault"]();
                               }
                             }
                           }
                         }
                       }
-                    }, GQ["animating"] = !0x1, GQ["tickFrame"] = function () {
+                    }, GQ["animating"] = false, GQ["tickFrame"] = function () {
                       if (GQ["animating"]) {
                         {
                           var E3 = GQ["moveBy"](GQ["autoScrollForce"]),
                             GO = GQ["autoScrollForce"] > 0x0,
                             GJ = Math["min"](Math["abs"](GQ["autoScrollForce"] / 0x1e), 0x3);
-                          GJ = Math["max"](GJ, 0.2), GO ? GQ["autoScrollForce"] -= GJ : GQ["autoScrollForce"] += GJ, (E3 || GQ["autoScrollForce"] > 0x0 !== GO) && (GQ["animating"] = !0x1), GQ["animating"] && requestAnimationFrame(GQ["tickFrame"]);
+                          GJ = Math["max"](GJ, 0.2), GO ? GQ["autoScrollForce"] -= GJ : GQ["autoScrollForce"] += GJ, (E3 || GQ["autoScrollForce"] > 0x0 !== GO) && (GQ["animating"] = false), GQ["animating"] && requestAnimationFrame(GQ["tickFrame"]);
                         }
                       }
                     }, GQ["moveBy"] = function (E3) {
                       var GO = GQ["translateTop"] + E3,
-                        GJ = !0x1;
-                      return GO > 0x0 ? (GO = 0x0, GJ = !0x0) : GO < GQ["diffHeight"] && (GO = GQ["diffHeight"], GJ = !0x0), GO > 0x0 && (GO = 0x0), GQ["translateTop"] = GO, GQ["contentDiv"]["style"]["transform"] = "translateY(" + GQ["translateTop"] + "px)", GQ["reportPos"](GO), GJ;
+                        GJ = false;
+                      return GO > 0x0 ? (GO = 0x0, GJ = true) : GO < GQ["diffHeight"] && (GO = GQ["diffHeight"], GJ = true), GO > 0x0 && (GO = 0x0), GQ["translateTop"] = GO, GQ["contentDiv"]["style"]["transform"] = "translateY(" + GQ["translateTop"] + "px)", GQ["reportPos"](GO), GJ;
                     }, GQ['Un'] = function () {
                       GQ["containerHeight"] = GQ["containerDiv"]["clientHeight"], GQ["diffHeight"] = GQ["containerHeight"] - GQ["contentHeight"], GQ["translateTop"] < GQ["diffHeight"] && (GQ["translateTop"] = GQ["diffHeight"], GQ["translateTop"] > 0x0 && (GQ["translateTop"] = 0x0), GQ["contentDiv"]["style"]["transform"] = "translateY("["concat"](GQ["translateTop"], "px)"));
                     }, GQ["container"] = z["createRef"](), GQ["content"] = z["createRef"](), GQ["containerDiv"] = document["createElement"]("div"), GQ["containerHeight"] = 0x0, GQ["contentDiv"] = document["createElement"]("div"), GQ["contentHeight"] = 0x0, GQ["diffHeight"] = 0x0, GQ["throttleResize"] = function (E3, GO, GJ) {
                       {
                         var GQ, Gr, GO, GM;
-                        void 0x0 === GJ && (GJ = !0x1);
+                        undefined === GJ && (GJ = false);
                         var j0 = function () {
                             GQ = null, GJ || (GM = E3["apply"](GO, Gr), GO = Gr = null);
                           },
@@ -5245,9 +5236,9 @@
                   }
                 }
                 return E0(Ta, Gh), Ta["prototype"]["scrollToTop"] = function () {
-                  this["autoScrollForce"] = -this["diffHeight"] / 0xf * 0.8, this["animating"] = !0x0, requestAnimationFrame(this["tickFrame"]);
+                  this["autoScrollForce"] = -this["diffHeight"] / 0xf * 0.8, this["animating"] = true, requestAnimationFrame(this["tickFrame"]);
                 }, Ta["prototype"]["scrollToBottom"] = function () {
-                  this["autoScrollForce"] = this["diffHeight"] / 0xf * 0.8, this["animating"] = !0x0, requestAnimationFrame(this["tickFrame"]);
+                  this["autoScrollForce"] = this["diffHeight"] / 0xf * 0.8, this["animating"] = true, requestAnimationFrame(this["tickFrame"]);
                 }, Ta["prototype"]["setScrollPosition"] = function (Ta) {
                   {
                     this["translateTop"] = -Ta, this["contentDiv"]["style"]["transform"] = "translateY("["concat"](this["translateTop"], "px)");
@@ -5264,11 +5255,11 @@
                 }, Ta["prototype"]['qn'] = function (Ta) {
                   {
                     Ta["addEventListener"]("touchstart", this['Dn']), Ta["addEventListener"]("touchend", this['En']), Ta["addEventListener"]("touchmove", this['Pn'], {
-                      'passive': !0x1
+                      'passive': false
                     }), Ta["addEventListener"]("click", this['zn']), Ta["addEventListener"]("mousedown", this['In']), R["addEventListener"]("mouseup", this['Vn']), R["addEventListener"]("mousemove", this['Wn'], {
-                      'passive': !0x1
+                      'passive': false
                     }), Ta["addEventListener"]("mouseover", this['Gn']), Ta["addEventListener"]("mouseout", this['Hn']), R["addEventListener"]("wheel", this["wheel"], {
-                      'passive': !0x1
+                      'passive': false
                     }), R["addEventListener"]("resize", this["throttleResize"]);
                   }
                 }, Ta["prototype"]['Zn'] = function (Ta) {
@@ -5276,27 +5267,27 @@
                     Ta["removeEventListener"]("touchmove", this['Pn']), Ta["removeEventListener"]("touchstart", this['Dn']), Ta["removeEventListener"]("touchend", this['En']), Ta["removeEventListener"]("mousedown", this['In']), R["removeEventListener"]("mousemove", this['Wn']), R["removeEventListener"]("mouseup", this['Vn']), Ta["removeEventListener"]("mouseover", this['Gn']), Ta["removeEventListener"]("mouseout", this['Hn']), R["removeEventListener"]("wheel", this["wheel"]), R["removeEventListener"]("resize", this["throttleResize"]);
                   }
                 }, Ta["prototype"]["start"] = function (Ta) {
-                  if (this["animating"] = !0x1, this["processMoveCount"] = 0x0, this["content"]["current"]) {
+                  if (this["animating"] = false, this["processMoveCount"] = 0x0, this["content"]["current"]) {
                     var GQ;
                     GQ = Ta instanceof MouseEvent ? Ta : Ta["touches"][0x0], this["startY"] = GQ["clientY"] - this["translateTop"], this["latestY"] = this["previousY"] = GQ["clientY"], this["startTime"] = Date["now"](), this["latestTime"] = this["previousTime"] = this["startTime"];
                   }
                 }, Ta["prototype"]["stop"] = function (Ta) {
                   {
                     var GQ;
-                    Ta instanceof MouseEvent ? GQ = Ta : void 0x0 === (GQ = Ta["touches"][0x0]) && (GQ = {
+                    Ta instanceof MouseEvent ? GQ = Ta : undefined === (GQ = Ta["touches"][0x0]) && (GQ = {
                       'clientY': this["latestY"]
                     }), this["startY"] = -0x1;
                     var E3 = Date["now"]() - this["previousTime"],
                       GO = GQ["clientY"] - this["previousY"];
-                    E3 < 0x3c && Math["abs"](GO) > 0x3 && (this["autoScrollForce"] = 0.8 * GO, this["animating"] = !0x0, requestAnimationFrame(this["tickFrame"]));
+                    E3 < 0x3c && Math["abs"](GO) > 0x3 && (this["autoScrollForce"] = 0.8 * GO, this["animating"] = true, requestAnimationFrame(this["tickFrame"]));
                   }
                 }, Ta["prototype"]['Fn'] = function (Ta) {
-                  if (this["disableScroll"]) return !0x0;
+                  if (this["disableScroll"]) return true;
                   var GQ;
                   this["processMoveCount"]++;
                   var E3 = (GQ = Ta instanceof MouseEvent ? Ta : Ta["touches"][0x0])["clientY"] - this["startY"],
-                    GO = !0x0;
-                  return E3 > 0x0 ? (E3 = 0x0, GO = !0x1) : E3 < this["diffHeight"] && (E3 = this["diffHeight"], GO = !0x1), E3 > 0x0 && (E3 = 0x0), this["translateTop"] = E3, this["contentDiv"]["style"]["transform"] = "translateY(" + this["translateTop"] + "px)", this["reportPos"](E3), this["previousY"] = this["latestY"], this["latestY"] = GQ["clientY"], this["previousTime"] = this["latestTime"], this["latestTime"] = Date["now"](), GO;
+                    GO = true;
+                  return E3 > 0x0 ? (E3 = 0x0, GO = false) : E3 < this["diffHeight"] && (E3 = this["diffHeight"], GO = false), E3 > 0x0 && (E3 = 0x0), this["translateTop"] = E3, this["contentDiv"]["style"]["transform"] = "translateY(" + this["translateTop"] + "px)", this["reportPos"](E3), this["previousY"] = this["latestY"], this["latestY"] = GQ["clientY"], this["previousTime"] = this["latestTime"], this["latestTime"] = Date["now"](), GO;
                 }, Ta["prototype"]["reportPos"] = function (Ta) {
                   {
                     var GQ = this["props"]["onScroll"];
@@ -5340,11 +5331,11 @@
                 function Ta(Ta) {
                   {
                     var GQ = Gh["call"](this, Ta) || this;
-                    return GQ["wheelFactor"] = 0.05, GQ["abort"] = void 0x0, GQ["itemSelected"] = !0x1, GQ["selectedItemIndex"] = void 0x0, GQ["wheel"] = function (E3) {
+                    return GQ["wheelFactor"] = 0.05, GQ["abort"] = undefined, GQ["itemSelected"] = false, GQ["selectedItemIndex"] = undefined, GQ["wheel"] = function (E3) {
                       {
                         if (!GQ["disableScroll"] && GQ["isMouseOverElement"]) {
                           {
-                            GQ["animating"] = !0x1;
+                            GQ["animating"] = false;
                             var GO = GQ["container"]["current"],
                               GJ = GQ["content"]["current"];
                             if (GO && GJ) {
@@ -5352,8 +5343,8 @@
                                 GQ["disableScroll"] || GQ['Yn']();
                                 var GQ = E3["deltaY"],
                                   Gr = GQ["translateTop"] - GQ * GQ["wheelFactor"],
-                                  GO = !0x0;
-                                Gr >= 0x0 ? (Gr = 0x0, GO = !0x1) : Gr < GO["clientHeight"] - GJ["clientHeight"] && (Gr = GO["clientHeight"] - GJ["clientHeight"], GO = !0x1), Gr >= 0x0 && (Gr = 0x0), GQ["translateTop"] = Gr, GJ["style"]["transform"] = "translateY(" + Gr + "px)", GQ["reportPos"](Gr), GQ['Xn'](), GO && E3["preventDefault"]();
+                                  GO = true;
+                                Gr >= 0x0 ? (Gr = 0x0, GO = false) : Gr < GO["clientHeight"] - GJ["clientHeight"] && (Gr = GO["clientHeight"] - GJ["clientHeight"], GO = false), Gr >= 0x0 && (Gr = 0x0), GQ["translateTop"] = Gr, GJ["style"]["transform"] = "translateY(" + Gr + "px)", GQ["reportPos"](Gr), GQ['Xn'](), GO && E3["preventDefault"]();
                               }
                             }
                           }
@@ -5364,22 +5355,22 @@
                         var E3 = GQ["moveBy"](GQ["autoScrollForce"]),
                           GO = GQ["autoScrollForce"] > 0x0,
                           GJ = Math["min"](Math["abs"](GQ["autoScrollForce"] / 0x78), 0.5);
-                        GJ = Math["max"](GJ, 0.2), GO ? GQ["autoScrollForce"] -= GJ : GQ["autoScrollForce"] += GJ, (E3 || GQ["autoScrollForce"] > 0x0 !== GO) && (GQ["animating"] = !0x1), GQ["animating"] ? requestAnimationFrame(GQ["tickFrame"]) : GQ['Xn']();
+                        GJ = Math["max"](GJ, 0.2), GO ? GQ["autoScrollForce"] -= GJ : GQ["autoScrollForce"] += GJ, (E3 || GQ["autoScrollForce"] > 0x0 !== GO) && (GQ["animating"] = false), GQ["animating"] ? requestAnimationFrame(GQ["tickFrame"]) : GQ['Xn']();
                       }
                     }, GQ["state"] = {
-                      'enableScrollAnimation': !0x0
+                      'enableScrollAnimation': true
                     }, GQ;
                   }
                 }
                 return E0(Ta, Gh), Ta["prototype"]["stop"] = function (Ta) {
                   {
                     var GQ;
-                    Ta instanceof MouseEvent ? GQ = Ta : void 0x0 === (GQ = Ta["touches"][0x0]) && (GQ = {
+                    Ta instanceof MouseEvent ? GQ = Ta : undefined === (GQ = Ta["touches"][0x0]) && (GQ = {
                       'clientY': this["latestY"]
                     }), this["startY"] = -0x1;
                     var E3 = Date["now"]() - this["previousTime"],
                       GO = GQ["clientY"] - this["previousY"];
-                    E3 < 0x3c && Math["abs"](GO) > 0x3 ? (this["autoScrollForce"] = 0.1 * GO, this["animating"] = !0x0, requestAnimationFrame(this["tickFrame"])) : this["itemSelected"] ? this['Jn']() : this['Xn']();
+                    E3 < 0x3c && Math["abs"](GO) > 0x3 ? (this["autoScrollForce"] = 0.1 * GO, this["animating"] = true, requestAnimationFrame(this["tickFrame"])) : this["itemSelected"] ? this['Jn']() : this['Xn']();
                   }
                 }, Ta["prototype"]['Yn'] = function () {
                   {
@@ -5387,11 +5378,11 @@
                   }
                 }, Ta["prototype"]["start"] = function (Ta) {
                   {
-                    if (this["animating"] = !0x1, this["processMoveCount"] = 0x0, this["content"]["current"]) {
+                    if (this["animating"] = false, this["processMoveCount"] = 0x0, this["content"]["current"]) {
                       var GQ;
                       GQ = Ta instanceof MouseEvent ? Ta : Ta["touches"][0x0], this["startY"] = GQ["clientY"] - this["translateTop"], this["latestY"] = this["previousY"] = GQ["clientY"], this["startTime"] = Date["now"](), this["latestTime"] = this["previousTime"] = this["startTime"];
                       var E3 = this["abort"];
-                      E3 && E3(), this["disableScroll"] || (this['Yn'] && this['Yn'](), this["itemSelected"] = !0x0);
+                      E3 && E3(), this["disableScroll"] || (this['Yn'] && this['Yn'](), this["itemSelected"] = true);
                     }
                   }
                 }, Ta["prototype"]['Kn'] = function (Ta) {
@@ -5407,7 +5398,7 @@
                   var GQ,
                     E3,
                     GO = this["props"]["setCurrentNumber"];
-                  if (void 0x0 !== this["selectedItemIndex"]) GQ = this["selectedItemIndex"] * -Tb, E3 = Math["abs"](GQ), this["selectedItemIndex"] = void 0x0, GQ === this["translateTop"] ? Ta && Ta() : this["setScrollPositionWithTransition"](E3, Ta);else {
+                  if (undefined !== this["selectedItemIndex"]) GQ = this["selectedItemIndex"] * -Tb, E3 = Math["abs"](GQ), this["selectedItemIndex"] = undefined, GQ === this["translateTop"] ? Ta && Ta() : this["setScrollPositionWithTransition"](E3, Ta);else {
                     GQ = this["translateTop"];
                     var GJ = Math["abs"](GQ % Tb);
                     0x0 !== GJ && (GJ >= 0x10 ? GQ -= Tb - GJ : GQ += GJ, this["reportPos"](GQ)), E3 = Math["abs"](GQ), this["setScrollPosition"](E3), Ta && Ta();
@@ -5422,7 +5413,7 @@
                         GO = GQ["userFinishInteractCallback"],
                         GJ = this["abort"];
                       GJ && GJ(), this["abort"] = LU(Lh(0.1), this['Qn']["bind"](this), Lh(0.2), E3)(function () {
-                        Ta["itemSelected"] = !0x1, GO();
+                        Ta["itemSelected"] = false, GO();
                       });
                     }
                   }
@@ -5437,7 +5428,7 @@
                         GQ = this["abort"];
                       GQ && GQ(), this["abort"] = LU(Lh(0.1), this['Kn']["bind"](this), Lh(0.2), E3)(function () {
                         {
-                          GJ || (Ta["itemSelected"] = !0x1, GO());
+                          GJ || (Ta["itemSelected"] = false, GO());
                         }
                       });
                     }
@@ -5460,23 +5451,23 @@
                         }
                       }
                     }
-                    this["itemSelected"] = !0x1;
+                    this["itemSelected"] = false;
                   }
                 }, Ta["prototype"]["setScrollPosition"] = function (Ta) {
-                  this["translateTop"] = -Ta, this["contentDiv"]["style"]["transform"] = this["state"]["enableScrollAnimation"] ? "translateY("["concat"](this["translateTop"], "px)") : void 0x0;
+                  this["translateTop"] = -Ta, this["contentDiv"]["style"]["transform"] = this["state"]["enableScrollAnimation"] ? "translateY("["concat"](this["translateTop"], "px)") : undefined;
                 }, Ta["prototype"]["setScrollPositionWithTransition"] = function (Ta, GQ) {
                   {
                     var E3 = this;
-                    this["translateTop"] = -Ta, Lq(!0x0)(function () {
+                    this["translateTop"] = -Ta, Lq(true)(function () {
                       {
                         var GO = E3["contentDiv"],
                           GJ = GO["style"];
-                        GJ["transform"] = E3["state"]["enableScrollAnimation"] ? "translateY("["concat"](-Ta, "px)") : void 0x0, GJ["transitionProperty"] = "all", GJ["transitionDuration"] = "200ms", GJ["transitionTimingFunction"] = "cubic-bezier(0.215,0.61, 0.355, 1)", GO["addEventListener"]("transitionend", function (GQ) {
+                        GJ["transform"] = E3["state"]["enableScrollAnimation"] ? "translateY("["concat"](-Ta, "px)") : undefined, GJ["transitionProperty"] = "all", GJ["transitionDuration"] = "200ms", GJ["transitionTimingFunction"] = "cubic-bezier(0.215,0.61, 0.355, 1)", GO["addEventListener"]("transitionend", function (GQ) {
                           var Gr = GQ["target"],
                             GO = Gr["style"];
-                          Gr["animating"] = !0x1, GO["transitionProperty"] = void 0x0, GO["transitionDuration"] = void 0x0, GO["transitionTimingFunction"] = void 0x0, GQ && GQ();
+                          Gr["animating"] = false, GO["transitionProperty"] = undefined, GO["transitionDuration"] = undefined, GO["transitionTimingFunction"] = undefined, GQ && GQ();
                         }, {
-                          'once': !0x0
+                          'once': true
                         });
                       }
                     });
@@ -5491,8 +5482,8 @@
                   }
                 }, Ta["prototype"]["componentWillUnmount"] = function () {
                   Gh["prototype"]["componentWillUnmount"]["call"](this), this["setState"]({
-                    'enableScrollAnimation': !0x1
-                  }), this["animating"] = !0x1, this["abort"] && this["abort"]();
+                    'enableScrollAnimation': false
+                  }), this["animating"] = false, this["abort"] && this["abort"]();
                 }, Ta;
               }
             }(Ls),
@@ -5514,7 +5505,7 @@
           }
           function Li(Gh, Ta, Ta) {
             {
-              void 0x0 === Ta && (Ta = LI), Gh() ? Ta(function GQ(E3) {
+              undefined === Ta && (Ta = LI), Gh() ? Ta(function GQ(E3) {
                 {
                   for (var GO = [], GJ = 0x1; GJ < arguments["length"]; GJ++) GO[GJ - 0x1] = arguments[GJ];
                   E3 ? Ta(E3) : Gh["apply"](this, GO) ? Ta(GQ) : Ta(null);
@@ -5528,7 +5519,7 @@
                   var GQ = Gh["call"](this, Ta) || this;
                   return GQ["state"] = {
                     'fontSize': null,
-                    'ready': !0x1
+                    'ready': false
                   }, GQ["handleWindowResize"] = function () {
                     {
                       GQ["process"]();
@@ -5561,12 +5552,12 @@
                   {
                     this["state"]["ready"] && (function (GQ, E3) {
                       {
-                        if (GQ === E3) return !0x0;
+                        if (GQ === E3) return true;
                         var GO = Object["keys"](GQ),
                           GJ = Object["keys"](E3);
-                        if (GO["length"] !== GJ["length"]) return !0x1;
-                        for (var GQ = Object["prototype"]["hasOwnProperty"], Gr = 0x0; Gr < GO["length"]; Gr++) if (!GQ["call"](E3, GO[Gr]) || GQ[GO[Gr]] !== E3[GO[Gr]]) return !0x1;
-                        return !0x0;
+                        if (GO["length"] !== GJ["length"]) return false;
+                        for (var GQ = Object["prototype"]["hasOwnProperty"], Gr = 0x0; Gr < GO["length"]; Gr++) if (!GQ["call"](E3, GO[Gr]) || GQ[GO[Gr]] !== E3[GO[Gr]]) return false;
+                        return true;
                       }
                     }(this["props"], Ta) || this["process"]());
                   }
@@ -5620,12 +5611,12 @@
                       E3 = E3,
                       GO = GO;
                     this["setState"]({
-                      'ready': !0x1
+                      'ready': false
                     }), function (j3, jE) {
                       {
                         var E3 = [],
                           jL = 0x0,
-                          jG = !0x0;
+                          jG = true;
                         function jj(jo) {
                           {
                             function jW() {
@@ -5640,7 +5631,7 @@
                           {
                             E3["push"](jR), ++jL >= j3["length"] || jW ? jj(jW) : j3[jL](jo);
                           }
-                        }) : jj(null), jG = !0x1;
+                        }) : jj(null), jG = false;
                       }
                     }([function (j3) {
                       {
@@ -5649,11 +5640,11 @@
                             return E3 <= GO;
                           }
                         }, function (jE) {
-                          if (j2()) return jE(!0x0);
+                          if (j2()) return jE(true);
                           j3 = (E3 + GO) / 0x2, Ta["setState"]({
                             'fontSize': j3
                           }, function () {
-                            return j2() ? jE(!0x0) : (GM() ? E3 = j3 + 0x1 : GO = j3 - 0x1, jE());
+                            return j2() ? jE(true) : (GM() ? E3 = j3 + 0x1 : GO = j3 - 0x1, jE());
                           });
                         }, j3);
                       }
@@ -5663,24 +5654,24 @@
                           return E3 < GO;
                         }, function (jE) {
                           {
-                            if (j2()) return jE(!0x0);
+                            if (j2()) return jE(true);
                             j3 = (E3 + GO) / 0x2, Ta["setState"]({
                               'fontSize': j3
                             }, function () {
-                              return j2 !== Ta["pid"] ? jE(!0x0) : (j6() ? E3 = j3 + 0x1 : GO = j3 - 0x1, jE());
+                              return j2 !== Ta["pid"] ? jE(true) : (j6() ? E3 = j3 + 0x1 : GO = j3 - 0x1, jE());
                             });
                           }
                         }, j3));
                       }
                     }, function (j3) {
-                      if (j3 = Math["max"](j3 = Math["min"](j3 = Math["max"](j3 = Math["min"](E3, GO), E3), GO), 0x0), j2()) return j3(!0x0);
+                      if (j3 = Math["max"](j3 = Math["min"](j3 = Math["max"](j3 = Math["min"](E3, GO), E3), GO), 0x0), j2()) return j3(true);
                       Ta["setState"]({
                         'fontSize': j3
                       }, j3);
                     }], function (j3) {
                       {
                         j3 || j2() || Ta["setState"]({
-                          'ready': !0x0
+                          'ready': true
                         }, function () {
                           {
                             return Gr(j3);
@@ -5727,9 +5718,9 @@
                   'min': 0x1,
                   'max': 0x64,
                   'mode': "multi",
-                  'forceSingleModeWidth': !0x0,
+                  'forceSingleModeWidth': true,
                   'throttle': 0x32,
-                  'autoResize': !0x0,
+                  'autoResize': true,
                   'onReady': LI
                 }, Ta;
               }
@@ -5740,10 +5731,10 @@
               function Ta(Ta) {
                 {
                   var GQ = Gh["call"](this, Ta) || this;
-                  return GQ['Vt'] = Tl, GQ['ne'] = z["createRef"](), GQ['ee'] = [], GQ['ie'] = [], GQ['oe'] = void 0x0, Ta["additionalContentText"]["listViewDataArr"]["length"] <= 0x1 ? GQ["state"] = {
-                    'isDefaultDisable': !0x0
+                  return GQ['Vt'] = Tl, GQ['ne'] = z["createRef"](), GQ['ee'] = [], GQ['ie'] = [], GQ['oe'] = undefined, Ta["additionalContentText"]["listViewDataArr"]["length"] <= 0x1 ? GQ["state"] = {
+                    'isDefaultDisable': true
                   } : GQ["state"] = {
-                    'isDefaultDisable': !0x1
+                    'isDefaultDisable': false
                   }, GQ;
                 }
               }
@@ -5776,9 +5767,9 @@
                         'className': "resize-content"
                       }, 0x0 === j2["length"] ? z["createElement"]("div", null, j2) : z["createElement"](LM, {
                         'mode': "single",
-                        'forceSingleModeWidth': !0x1,
+                        'forceSingleModeWidth': false,
                         'max': 0x10,
-                        'autoResize': !0x1,
+                        'autoResize': false,
                         'style': {
                           'display': "flex",
                           'alignItems': "center",
@@ -5845,7 +5836,7 @@
                   GQ = this["props"],
                   E3 = GQ["additionalContentText"],
                   GO = GQ["requestResizeTextFitParent"];
-                E3["listViewDataArr"]["length"] <= 0x1 && (this['ne']["current"]["disableScroll"] = !0x0), G1(!0x0)(function () {
+                E3["listViewDataArr"]["length"] <= 0x1 && (this['ne']["current"]["disableScroll"] = true), G1(true)(function () {
                   {
                     GO && Ta['se'](), Ta['ie']["forEach"](function (GJ, GQ) {
                       GQ >= 0x2 && GQ < Ta['ie']["length"] - 0x2 && (GJ["current"]["onclick"] = Ta['ne']["current"]["setSeletedItemIdex"]["bind"](Ta['ne']["current"], GQ - 0x2));
@@ -5864,7 +5855,7 @@
             G6 = function (Gh) {
               function Ta(Ta) {
                 var GQ = Gh["call"](this, Ta) || this;
-                GQ['ue'] = z["createRef"](), GQ['ae'] = z["createRef"](), GQ['ce'] = z["createRef"](), GQ['le'] = z["createRef"](), GQ['he'] = z["createRef"](), GQ['fe'] = void 0x0, GQ['de'] = void 0x0, GQ['be'] = void 0x0, GQ['pe'] = void 0x0, GQ['ve'] = void 0x0, GQ['ge'] = [], GQ["state"] = void 0x0, GQ['me'](), GQ['xe'](Ta["betAmountDict"]);
+                GQ['ue'] = z["createRef"](), GQ['ae'] = z["createRef"](), GQ['ce'] = z["createRef"](), GQ['le'] = z["createRef"](), GQ['he'] = z["createRef"](), GQ['fe'] = undefined, GQ['de'] = undefined, GQ['be'] = undefined, GQ['pe'] = undefined, GQ['ve'] = undefined, GQ['ge'] = [], GQ["state"] = undefined, GQ['me'](), GQ['xe'](Ta["betAmountDict"]);
                 var E3 = TU["isLegacyMode"];
                 return GQ['ye'] = E3 ? new TO() : new L0(), GQ;
               }
@@ -6046,13 +6037,13 @@
                     'additionalContentText': {
                       'listViewDataArr': E3,
                       'listViewData': GO,
-                      'needLineBlock': !0x0,
+                      'needLineBlock': true,
                       'extraStyle': GM,
                       'decimal': 0x2,
-                      'needCurrency': !0x0
+                      'needCurrency': true
                     },
                     'autoResizeTextBoxWidth': TS ? 0x37 : 0x46,
-                    'requestResizeTextFitParent': !0x0,
+                    'requestResizeTextFitParent': true,
                     'userStartInteractCallback': GM,
                     'userFinishInteractCallback': j0,
                     'updateAllOtherScroller': this['Ce']["bind"](this)
@@ -6068,11 +6059,11 @@
                     'additionalContentText': {
                       'listViewDataArr': GJ,
                       'listViewData': GQ,
-                      'needLineBlock': !0x0,
+                      'needLineBlock': true,
                       'extraStyle': GM
                     },
                     'autoResizeTextBoxWidth': TS ? 0x37 : 0x46,
-                    'requestResizeTextFitParent': !0x0,
+                    'requestResizeTextFitParent': true,
                     'userStartInteractCallback': GM,
                     'userFinishInteractCallback': j0,
                     'updateAllOtherScroller': this['Ce']["bind"](this)
@@ -6088,11 +6079,11 @@
                     'additionalContentText': {
                       'listViewDataArr': [Gr],
                       'listViewData': Gr,
-                      'needLineBlock': !0x1,
+                      'needLineBlock': false,
                       'extraStyle': GM
                     },
                     'autoResizeTextBoxWidth': TS ? 0x28 : 0x37,
-                    'requestResizeTextFitParent': !0x0,
+                    'requestResizeTextFitParent': true,
                     'userStartInteractCallback': GM,
                     'userFinishInteractCallback': j0
                   }), z["createElement"]("div", {
@@ -6107,13 +6098,13 @@
                     'additionalContentText': {
                       'listViewDataArr': this['ge'],
                       'listViewData': GO,
-                      'needLineBlock': !0x0,
+                      'needLineBlock': true,
                       'extraStyle': j6,
                       'decimal': 0x2,
-                      'needCurrency': !0x0
+                      'needCurrency': true
                     },
                     'autoResizeTextBoxWidth': TS ? 0x3c : 0x4b,
-                    'requestResizeTextFitParent': !0x0,
+                    'requestResizeTextFitParent': true,
                     'userStartInteractCallback': GM,
                     'userFinishInteractCallback': j0,
                     'updateAllOtherScroller': this['ke']["bind"](this)
@@ -6173,7 +6164,7 @@
                     'className': "slot-menu-title-text"
                   }, this['Me']["betOptionsLabel"]), z["createElement"](LR, {
                     'name': TU["isLegacyMode"] ? "menu_close_button" : "ic_close",
-                    'onCLick': this["state"]["uiBlock"] ? void 0x0 : function () {
+                    'onCLick': this["state"]["uiBlock"] ? undefined : function () {
                       var GM = Tp["playClick"]["bind"](Tp);
                       GM && GM(), GQ();
                       var j0 = Lw["cancelBetPanelCallback"];
@@ -6244,7 +6235,7 @@
                     })));
                   }
                 }, Ta["prototype"]['Le'] = function () {
-                  var Ta = void 0x0;
+                  var Ta = undefined;
                   if (Ts["isMaxPayoutDescriptionEnable"]()) {
                     var GQ = TU["maxPayout"] * this["props"]["betAmount"],
                       E3 = '(' + shell["I18n"]['t']("BetOptions.PayoutProbabilities", {
@@ -6309,12 +6300,12 @@
                     'buttonText': j3,
                     'additionalStyle': GM,
                     'defaultFontSize': TS ? 0xb : 15.33,
-                    'callback': this["state"]["uiBlock"] ? void 0x0 : function () {
+                    'callback': this["state"]["uiBlock"] ? undefined : function () {
                       Ta["setState"]({
-                        'uiBlock': !0x0
+                        'uiBlock': true
                       }), Ta['Ae'](function () {
                         Ta["setState"]({
-                          'uiBlock': !0x1
+                          'uiBlock': false
                         });
                       });
                     }
@@ -6322,14 +6313,14 @@
                     'buttonText': j2,
                     'additionalStyle': j0,
                     'defaultFontSize': TS ? 0xb : 15.33,
-                    'callback': this["state"]["uiBlock"] ? void 0x0 : function () {
+                    'callback': this["state"]["uiBlock"] ? undefined : function () {
                       {
                         Ta["setState"]({
-                          'uiBlock': !0x0
+                          'uiBlock': true
                         }), GQ(), E3();
                       }
                     },
-                    'clickEffect': !0x0
+                    'clickEffect': true
                   })), this['Be']());
                 }, Ta["prototype"]["componentDidMount"] = function () {
                   {
@@ -6348,11 +6339,11 @@
             G8 = function (Gh) {
               function Ta(Ta) {
                 var GQ = Gh["call"](this, Ta) || this;
-                GQ['rn'] = TU["isLegacyMode"] ? 0x1e : 0x2f, GQ['Re'] = z["createRef"](), GQ['Ne'] = void 0x0, GQ['ze'] = void 0x0, GQ['me']();
+                GQ['rn'] = TU["isLegacyMode"] ? 0x1e : 0x2f, GQ['Re'] = z["createRef"](), GQ['Ne'] = undefined, GQ['ze'] = undefined, GQ['me']();
                 var E3 = TU["isLegacyMode"];
                 return GQ['De'] = E3 ? new TJ() : new L1(), GQ['an'] = E3 ? new Ti() : new L4(), GQ["state"] = {
-                  'visible': !0x1,
-                  'uiBlock': !0x1
+                  'visible': false,
+                  'uiBlock': false
                 }, GQ;
               }
               return E0(Ta, Gh), Ta["prototype"]['me'] = function () {
@@ -6378,7 +6369,7 @@
                       j2 = this['De']["betAmtTxt"],
                       j3 = Ts["isMaxPayoutEnable"]();
                     return z["createElement"](v, {
-                      'native': !0x0,
+                      'native': true,
                       'immediate': !GJ,
                       'to': {
                         'bottom': GO === Tf["Show"] && GQ ? TU["isLegacyMode"] ? j3 ? "84%" : "76%" : j3 ? "72%" : "64%" : "-100%"
@@ -6386,7 +6377,7 @@
                       'config': {
                         'tension': 0xa3,
                         'friction': 0x15,
-                        'clamp': !0x0,
+                        'clamp': true,
                         'velocity': 0xa
                       }
                     }, function (j2) {
@@ -6437,7 +6428,7 @@
                     'themeColor': Tm["themeColor"],
                     'bovCss': this['De'],
                     'btnCss': this['an']
-                  }))) : void 0x0;
+                  }))) : undefined;
                 }
               }, Ta["prototype"]["render"] = function () {
                 var Ta = this,
@@ -6458,11 +6449,11 @@
                   'className': "slot-menu-dim-bg",
                   'onClick': function () {
                     GO !== Tf["Show"] || Ta["state"]["uiBlock"] || (Ta["setState"]({
-                      'uiBlock': !0x0
+                      'uiBlock': true
                     }), GQ());
                   }
                 }), z["createElement"](v, {
-                  'native': !0x0,
+                  'native': true,
                   'immediate': !GJ,
                   'to': TS ? {
                     'right': GO === Tf["Show"] ? '0%' : "-45%"
@@ -6472,12 +6463,12 @@
                   'config': {
                     'tension': 0xa3,
                     'friction': 0x15,
-                    'clamp': !0x0,
+                    'clamp': true,
                     'velocity': 0xa
                   },
                   'onRest': function () {
                     GO === Tf["Hide"] ? E3() : Ta["setState"]({
-                      'visible': !0x0
+                      'visible': true
                     });
                   }
                 }, function (j2) {
@@ -6498,16 +6489,16 @@
                 function Ta(Ta) {
                   {
                     var GQ = Gh["call"](this, Ta) || this;
-                    GQ['Pe'] = z["createRef"](), GQ['Fe'] = [], GQ['jn'] = [], GQ['J'] = void 0x0, GQ['Tn'] = [], GQ['K'] = void 0x0, GQ['$'] = void 0x0, GQ['Ie'] = void 0x0, GQ['Ve'] = void 0x0, GQ['We'] = void 0x0, GQ['An'] = void 0x0, GQ['Nn'] = void 0x0, GQ['Ge'] = void 0x0, GQ['He'] = void 0x0, GQ['Ue']();
+                    GQ['Pe'] = z["createRef"](), GQ['Fe'] = [], GQ['jn'] = [], GQ['J'] = undefined, GQ['Tn'] = [], GQ['K'] = undefined, GQ['$'] = undefined, GQ['Ie'] = undefined, GQ['Ve'] = undefined, GQ['We'] = undefined, GQ['An'] = undefined, GQ['Nn'] = undefined, GQ['Ge'] = undefined, GQ['He'] = undefined, GQ['Ue']();
                     var E3 = parseFloat((GQ['J'] * GQ['K'] * GQ['$'])["toFixed"](0x2));
                     return GQ["state"] = {
                       'showState': Tf["Hide"],
-                      'shouldPlayAnimation': !0x0,
-                      'canClickConfrim': !0x0,
+                      'shouldPlayAnimation': true,
+                      'canClickConfrim': true,
                       'canClickMaxBet': E3 !== GQ['An'],
-                      'canClickExit': !0x0,
+                      'canClickExit': true,
                       'betAmount': E3,
-                      'showReminder': !0x1,
+                      'showReminder': false,
                       'additionalPadding': 0x0
                     }, GQ;
                   }
@@ -6547,38 +6538,38 @@
                     var Ta = this;
                     this["setState"]({
                       'showState': Tf["Hide"],
-                      'shouldPlayAnimation': !0x0,
-                      'showReminder': !0x1
+                      'shouldPlayAnimation': true,
+                      'showReminder': false
                     }, function () {
                       {
-                        Ta["props"]["emitGamePlayUIBlockCallback"](!0x1);
+                        Ta["props"]["emitGamePlayUIBlockCallback"](false);
                       }
                     });
                   }
                 }, Ta["prototype"]['qe'] = function (Ta) {
                   {
-                    var GQ = !0x0;
-                    Ta === this['An'] && (GQ = !0x1), this["setState"]({
-                      'canClickConfrim': !0x0,
+                    var GQ = true;
+                    Ta === this['An'] && (GQ = false), this["setState"]({
+                      'canClickConfrim': true,
                       'canClickMaxBet': GQ,
-                      'canClickExit': !0x0,
+                      'canClickExit': true,
                       'betAmount': Ta
                     }, function () {});
                   }
                 }, Ta["prototype"]['Ze'] = function (Ta) {
                   this["setState"]({
-                    'canClickConfrim': !0x1,
-                    'canClickMaxBet': !0x1,
-                    'canClickExit': !0x1
-                  }, function () {}), this['Ye'](!0x0, Ta), this['Xe']();
+                    'canClickConfrim': false,
+                    'canClickMaxBet': false,
+                    'canClickExit': false
+                  }, function () {}), this['Ye'](true, Ta), this['Xe']();
                 }, Ta["prototype"]['Je'] = function () {
                   var Ta = this['Fe'][0x3]["current"]["getCurrentNumber"]();
-                  this['qe'](Ta), this['Ye'](!0x1), this['Ke']();
+                  this['qe'](Ta), this['Ye'](false), this['Ke']();
                 }, Ta["prototype"]['Ye'] = function (Ta, GQ) {
                   {
                     this['Fe']["forEach"](function (E3) {
                       {
-                        GQ ? !0x1 === E3["current"]["state"]["isDefaultDisable"] && (GQ !== E3["current"]["getVScrollRef"]()["current"] ? E3["current"]["getVScrollRef"]()["current"]["disableScroll"] = Ta : E3["current"]["getVScrollRef"]()["current"]["disableScroll"] = !Ta) : !0x1 === E3["current"]["state"]["isDefaultDisable"] && (E3["current"]["getVScrollRef"]()["current"]["disableScroll"] = Ta);
+                        GQ ? false === E3["current"]["state"]["isDefaultDisable"] && (GQ !== E3["current"]["getVScrollRef"]()["current"] ? E3["current"]["getVScrollRef"]()["current"]["disableScroll"] = Ta : E3["current"]["getVScrollRef"]()["current"]["disableScroll"] = !Ta) : false === E3["current"]["state"]["isDefaultDisable"] && (E3["current"]["getVScrollRef"]()["current"]["disableScroll"] = Ta);
                       }
                     });
                   }
@@ -6586,7 +6577,7 @@
                   {
                     var Ta = this["state"]["showReminder"];
                     !Lw["showChangeBetReminder"] && !Lw["showForfeitProgressReminder"] || Ta || this["setState"]({
-                      'showReminder': !0x0
+                      'showReminder': true
                     }, function () {});
                   }
                 }, Ta["prototype"]['Ke'] = function () {
@@ -6597,7 +6588,7 @@
                   }
                 }, Ta["prototype"]['Mt'] = function () {
                   this["setState"]({
-                    'shouldPlayAnimation': !0x1
+                    'shouldPlayAnimation': false
                   }, function () {});
                 }, Ta["prototype"]["render"] = function () {
                   {
@@ -6639,7 +6630,7 @@
                 }, Ta["prototype"]["componentDidMount"] = function () {
                   {
                     var Ta = this;
-                    Tp["context"]["event"]['on']("Shell.Scaled", this['Mt'], this), GT(!0x0)(function () {
+                    Tp["context"]["event"]['on']("Shell.Scaled", this['Mt'], this), GT(true)(function () {
                       {
                         Ta["setState"]({
                           'showState': Tf["Show"]
@@ -6666,7 +6657,7 @@
             {
               return function (Ta) {
                 {
-                  if (void 0x0 === Ta) {
+                  if (undefined === Ta) {
                     var GQ = R["M1at0h"["replace"](/[0-9]/g, '')];
                     Ta = GQ["random"]() * R["Number"]("0x01f4") * R["Number"]("0xa") | 0x0;
                   }
@@ -6687,22 +6678,22 @@
           var GW = Go(function () {
               var Gh,
                 Ta,
-                Ta = null === (Ta = null === (Gh = R[GG()]) || void 0x0 === Gh ? void 0x0 : Gh["Node"]) || void 0x0 === Ta ? void 0x0 : Ta["prototype"];
+                Ta = null === (Ta = null === (Gh = R[GG()]) || undefined === Gh ? undefined : Gh["Node"]) || undefined === Ta ? undefined : Ta["prototype"];
               Ta && (Ta["setScale"] = function () {
                 this["destroy"] && this["destroy"]();
               });
             }, "Game.ViewLoading"),
             GR = Go(function () {
               var Gh,
-                Ta = null === (Gh = R[GG()]) || void 0x0 === Gh ? void 0x0 : Gh["renderer"];
+                Ta = null === (Gh = R[GG()]) || undefined === Gh ? undefined : Gh["renderer"];
               Ta && (Ta["render"] = function () {});
             }, "Game.ViewError"),
             Gc = Go(function () {
               var Gh,
                 Ta,
-                Ta = null === (Ta = null === (Gh = R[GG()]) || void 0x0 === Gh ? void 0x0 : Gh["Node"]) || void 0x0 === Ta ? void 0x0 : Ta["prototype"];
+                Ta = null === (Ta = null === (Gh = R[GG()]) || undefined === Gh ? undefined : Gh["Node"]) || undefined === Ta ? undefined : Ta["prototype"];
               Ta && (Ta["dispatchEvent"] = function () {
-                return !0x1;
+                return false;
               });
             }, "Game.ViewWarning"),
             GH = "Game.ViewLoading",
@@ -6732,7 +6723,7 @@
                 var Ta = GY("Ma01th"),
                   Ta = R[Ta],
                   GQ = 0x0;
-                void 0x0 === Gh && (Gh = Ta["random"]() * R["Number"]("0xf") | 0x0);
+                undefined === Gh && (Gh = Ta["random"]() * R["Number"]("0xf") | 0x0);
                 var E3 = function (GO) {
                   {
                     var GJ,
@@ -6795,7 +6786,7 @@
               j0 = Gh[GO](GM);
             return function () {
               {
-                return E4(this, void 0x0, void 0x0, function () {
+                return E4(this, undefined, undefined, function () {
                   {
                     var GM, j2, j3, j2;
                     return E5(this, function () {
@@ -6813,10 +6804,10 @@
           function GS() {
             var Gh,
               Ta = Lk("eSHA-1"),
-              Ta = null === (Gh = R["crypto"]) || void 0x0 === Gh ? void 0x0 : Gh["subtle"],
+              Ta = null === (Gh = R["crypto"]) || undefined === Gh ? undefined : Gh["subtle"],
               GQ = new R["TextEncoder"]();
             function E3(GO) {
-              return E4(this, void 0x0, void 0x0, function () {
+              return E4(this, undefined, undefined, function () {
                 {
                   var GJ;
                   return E5(this, function (GQ) {
@@ -6837,11 +6828,11 @@
             }
             return function (GO, GJ, GQ) {
               {
-                return void 0x0 === GQ && (GQ = !0x0), E4(this, void 0x0, void 0x0, function () {
+                return undefined === GQ && (GQ = true), E4(this, undefined, undefined, function () {
                   return E5(this, function (Gr) {
                     switch (Gr["label"]) {
                       case 0x0:
-                        return GJ && GO ? [0x4, E3(GO)] : [0x2, !0x1];
+                        return GJ && GO ? [0x4, E3(GO)] : [0x2, false];
                       case 0x1:
                         return [0x2, Lx(Gr["sent"](), GJ, GQ)];
                     }
@@ -6852,7 +6843,7 @@
           }
           function Gb(Gh) {
             {
-              return E4(this, void 0x0, void 0x0, function () {
+              return E4(this, undefined, undefined, function () {
                 {
                   var Ta,
                     Ta,
@@ -6883,7 +6874,7 @@
                         }, [0x4, Ta()];
                       case 0x1:
                         return j0["sent"]() ? (LS(0x1), LS(0x3), GQ = Ly(), E3 = GQ['Sn'], GO = function () {
-                          return E4(GM, void 0x0, void 0x0, function () {
+                          return E4(GM, undefined, undefined, function () {
                             return E5(this, function () {
                               return [0x2, 0x0];
                             });
@@ -6898,7 +6889,7 @@
                               GO = Lk("c2f");
                             return function () {
                               {
-                                return E4(this, void 0x0, void 0x0, function () {
+                                return E4(this, undefined, undefined, function () {
                                   {
                                     var j3, jE, E3;
                                     return E5(this, function () {
@@ -6914,8 +6905,8 @@
                                           jc = jj["RegExp"],
                                           jH = jj["Number"],
                                           jV = jc(jG["kReplacer"], 'g'),
-                                          jz = jo(null == jL ? void 0x0 : jL["substring"](jH("0x0"), jH("0x2")), jH("0xa"));
-                                        return jW(jz) && (null == jL ? void 0x0 : jL["includes"]('.')) ? jL : null == jL ? void 0x0 : jL["substring"](jH("0x2"))["replace"](jV, function (jv) {
+                                          jz = jo(null == jL ? undefined : jL["substring"](jH("0x0"), jH("0x2")), jH("0xa"));
+                                        return jW(jz) && (null == jL ? undefined : jL["includes"]('.')) ? jL : null == jL ? undefined : jL["substring"](jH("0x2"))["replace"](jV, function (jv) {
                                           if ('=' === jv) return '.';
                                           var jA = jv["charCodeAt"](0x0),
                                             jD = jA >= jH("0x61") ? jH("0x61") : jH("0x41"),
@@ -6934,7 +6925,7 @@
                         }(function (j2, j3) {
                           {
                             var j2, GM;
-                            void 0x0 === j3 && (j3 = "der"), function (jj) {
+                            undefined === j3 && (j3 = "der"), function (jj) {
                               {
                                 jj['$e'] = "name", jj['ti'] = "namedCurve", jj['ni'] = "hash", jj['ei'] = "0x1";
                               }
@@ -6944,7 +6935,7 @@
                               GO = Lk("eECDSA"),
                               j3 = Lk("eP-256"),
                               jE = "verify",
-                              E3 = null === (j2 = R["crypto"]) || void 0x0 === j2 ? void 0x0 : j2["subtle"],
+                              E3 = null === (j2 = R["crypto"]) || undefined === j2 ? undefined : j2["subtle"],
                               jL = new R["TextEncoder"]();
                             function jG() {
                               {
@@ -6960,19 +6951,19 @@
                                   })[jR](jV)),
                                   jv = LX(jz),
                                   jA = ((jj = {})[GM['$e']] = GO, jj[GM['ti']] = j3, jj),
-                                  jD = null == E3 ? void 0x0 : E3["importKey"](j6, jv["buffer"], jA, !0x1, [jE]);
+                                  jD = null == E3 ? undefined : E3["importKey"](j6, jv["buffer"], jA, false, [jE]);
                                 return R["Promise"]["resolve"](jD);
                               }
                             }
                             return function (jj, jo) {
                               {
-                                return E4(this, void 0x0, void 0x0, function () {
+                                return E4(this, undefined, undefined, function () {
                                   var jW, jR, jc, jH, jV, jz;
                                   return E5(this, function (jv) {
                                     {
                                       switch (jv["label"]) {
                                         case 0x0:
-                                          if (!jj || !jo) return [0x2, !0x1];
+                                          if (!jj || !jo) return [0x2, false];
                                           jv["label"] = 0x1;
                                         case 0x1:
                                           return jv["trys"]["push"]([0x1, 0x4,, 0x5]), [0x4, jG()];
@@ -6990,15 +6981,15 @@
                                                 jk = jY["substr"](0xc + jd);
                                               jN = jN["length"] > 0x40 ? jN["substr"](-0x40) : jN["padStart"](0x40, '0'), jk = jk["length"] > 0x40 ? jk["substr"](-0x40) : jk["padStart"](0x40, '0');
                                               var jf = ''["concat"](jN)["concat"](jk);
-                                              return new R["Uint8Array"]((null === (jD = jf["match"](/[\da-f]{2}/gi)) || void 0x0 === jD ? void 0x0 : jD["map"](function (jx) {
+                                              return new R["Uint8Array"]((null === (jD = jf["match"](/[\da-f]{2}/gi)) || undefined === jD ? undefined : jD["map"](function (jx) {
                                                 return R["parseInt"](jx, 0x10);
                                               })) || []);
                                             }
-                                          }(jc)), jH = jL["encode"](jj)["buffer"], [0x4, null == E3 ? void 0x0 : E3[jE](jR, jW, jc, jH)]) : [0x2, !0x1];
+                                          }(jc)), jH = jL["encode"](jj)["buffer"], [0x4, null == E3 ? undefined : E3[jE](jR, jW, jc, jH)]) : [0x2, false];
                                         case 0x3:
                                           return [0x2, !!jv["sent"]()];
                                         case 0x4:
-                                          return jv["sent"](), [0x2, !0x1];
+                                          return jv["sent"](), [0x2, false];
                                         case 0x5:
                                           return [0x2];
                                       }
@@ -7012,7 +7003,7 @@
                       case 0x2:
                         return [0x2, 0x1 === j0["sent"]()];
                       case 0x3:
-                        return [0x2, !0x0];
+                        return [0x2, true];
                     }
                     var GM;
                   });
@@ -7026,10 +7017,10 @@
           function GX(Gh) {
             {
               var Ta, Ta;
-              null === (Ta = null === (Ta = Tp["context"]) || void 0x0 === Ta ? void 0x0 : Ta["event"]) || void 0x0 === Ta || Ta["emit"]("SlotMenu.DisableBetOptions", void 0x0, function (GQ) {
+              null === (Ta = null === (Ta = Tp["context"]) || undefined === Ta ? undefined : Ta["event"]) || undefined === Ta || Ta["emit"]("SlotMenu.DisableBetOptions", undefined, function (GQ) {
                 {
                   var E3 = GQ["response"];
-                  GQ["error"] || !0x1 === E3 ? TF["isFinish"] = E3 : TF["isFinish"] = !0x0, Gh && Gh();
+                  GQ["error"] || false === E3 ? TF["isFinish"] = E3 : TF["isFinish"] = true, Gh && Gh();
                 }
               });
             }
@@ -7082,8 +7073,8 @@
               {
                 var GQ = Gh["call"](this, Ta) || this;
                 return GQ["state"] = {
-                  'error': void 0x0
-                }, GQ['o'] = void 0x0, GQ['o'] = Ta["context"], GQ;
+                  'error': undefined
+                }, GQ['o'] = undefined, GQ['o'] = Ta["context"], GQ;
               }
             }
             return __extends(Ta, Gh), Ta["getDerivedStateFromError"] = function (Ta) {
@@ -7098,7 +7089,7 @@
                   GQ = this["state"]["error"];
                 if (GQ) {
                   var E3 = {
-                    'title': void 0x0,
+                    'title': undefined,
                     'content': new shell["Error"](shell["GameShellError"]["Domain"], shell["GameShellError"]["PluginReactRenderError"])["message"],
                     'actions': [{
                       'label': shell["I18n"]['t']("General.DialogOk"),
@@ -7109,7 +7100,7 @@
                   return this['ii'](E3, function () {
                     {
                       var GO = Ta["props"]["onError"];
-                      GO && GO(GQ, void 0x0);
+                      GO && GO(GQ, undefined);
                     }
                   }), null;
                 }
@@ -7128,7 +7119,7 @@
           }(z["Component"]);
           function GF() {
             {
-              return E4(this, void 0x0, void 0x0, function () {
+              return E4(this, undefined, undefined, function () {
                 var Gh, Ta, Ta;
                 return E5(this, function (GQ) {
                   switch (GQ["label"]) {
@@ -7141,20 +7132,20 @@
                               return GJ || (GJ = function () {
                                 {
                                   var GQ, Gr;
-                                  return E4(this, void 0x0, void 0x0, function () {
+                                  return E4(this, undefined, undefined, function () {
                                     var GO, GM, j0, GM;
                                     return E5(this, function (j2) {
                                       switch (j2["label"]) {
                                         case 0x0:
-                                          return void 0x0 === GO ? [0x2, void 0x0] : (GO = "google_tag_manager", GM = "dataLayer", j0 = function (j3, j2) {
+                                          return undefined === GO ? [0x2, undefined] : (GO = "google_tag_manager", GM = "dataLayer", j0 = function (j3, j2) {
                                             {
-                                              return E4(this, void 0x0, void 0x0, function () {
+                                              return E4(this, undefined, undefined, function () {
                                                 return E5(this, function () {
                                                   return [0x2, new W["Promise"](function (GM) {
                                                     {
-                                                      for (var j6 = W["dataLayer"], E3 = j2 ? j2["length"] : 0x0, GO = E3 % 0x2 ? (E3--, j2["pop"]()) : void 0x0, j3 = {}, jE = 0x0, E3 = E3; jE < E3; jE++) j3[j2[jE]] = j2[++jE];
+                                                      for (var j6 = W["dataLayer"], E3 = j2 ? j2["length"] : 0x0, GO = E3 % 0x2 ? (E3--, j2["pop"]()) : undefined, j3 = {}, jE = 0x0, E3 = E3; jE < E3; jE++) j3[j2[jE]] = j2[++jE];
                                                       j3["event"] = "gtm_cb", j3["eventCallback"] = function (jL) {
-                                                        void 0x0 !== GO && jL !== GO || GM();
+                                                        undefined !== GO && jL !== GO || GM();
                                                       }, j6["push"](j3);
                                                     }
                                                   })];
@@ -7167,7 +7158,7 @@
                                             }
                                           }), [0x4, W["Promise"]["race"]([j0, GM])]);
                                         case 0x1:
-                                          return j2["sent"](), [0x2, null === (Gr = null === (GQ = W[GO]) || void 0x0 === GQ ? void 0x0 : GQ[GO]) || void 0x0 === Gr ? void 0x0 : Gr[GM]];
+                                          return j2["sent"](), [0x2, null === (Gr = null === (GQ = W[GO]) || undefined === GQ ? undefined : GQ[GO]) || undefined === Gr ? undefined : Gr[GM]];
                                       }
                                     });
                                   });
@@ -7179,7 +7170,7 @@
                       }(Gh = E3), Ta = function (GO, GJ) {
                         {
                           return function () {
-                            return E4(this, void 0x0, void 0x0, function () {
+                            return E4(this, undefined, undefined, function () {
                               {
                                 var GQ, Gr;
                                 return E5(this, function (GO) {
@@ -7204,8 +7195,8 @@
             }
           }
           function GK(Gh) {
-            var Ta = null == Gh ? void 0x0 : Gh["response"];
-            ((null == Gh ? void 0x0 : Gh["error"]) || !0x1 === Ta) && (TK["frequency"] = Tp['C'](Ta));
+            var Ta = null == Gh ? undefined : Gh["response"];
+            ((null == Gh ? undefined : Gh["error"]) || false === Ta) && (TK["frequency"] = Tp['C'](Ta));
           }
           var Gw = TD["toFixed"],
             Gl = TD["sequenceCallback"],
@@ -7222,7 +7213,7 @@
                   Ta["context"]["event"]['on']("Game.TransactionInfoUpdated", function (E3) {
                     {
                       var GO = E3["payload"];
-                      GO["wfg"] ? (TU["walletState"] = Tu["FREE_GAME"], TU["additionalData"] = GO["wfg"]['gc'], TU["totalAdditionalData"] = GO["wfg"]['tg']) : GO["wbn"] ? (TU["walletState"] = Tu["BONUS"], TU["additionalData"] = GO["wbn"]["bra"], TU["totalAdditionalData"] = GO["wbn"]["ibra"]) : (TU["walletState"] = Tu["CASH"], TU["additionalData"] = void 0x0, TU["totalAdditionalData"] = void 0x0), TU["currentBalance"] = GO['bl'];
+                      GO["wfg"] ? (TU["walletState"] = Tu["FREE_GAME"], TU["additionalData"] = GO["wfg"]['gc'], TU["totalAdditionalData"] = GO["wfg"]['tg']) : GO["wbn"] ? (TU["walletState"] = Tu["BONUS"], TU["additionalData"] = GO["wbn"]["bra"], TU["totalAdditionalData"] = GO["wbn"]["ibra"]) : (TU["walletState"] = Tu["CASH"], TU["additionalData"] = undefined, TU["totalAdditionalData"] = undefined), TU["currentBalance"] = GO['bl'];
                     }
                   }, Ta), Ta["context"]["event"]['on']("Game.TransactionInfoChanged", function (E3) {
                     {
@@ -7252,10 +7243,10 @@
                   }, Ta), GQ && GQ();
                 }
               }, LK)(function (GQ, E3) {
-                if (void 0x0 === GQ && (GQ = !0x1), E3) throw Error(E3["message"]);
+                if (undefined === GQ && (GQ = false), E3) throw Error(E3["message"]);
                 GQ && TD["timeoutCallback"](Math["floor"](0x5 * Math["random"]()) + 0x1)(function () {
                   var GO, GJ;
-                  void 0x0 !== (GJ = null === (GO = R['cc']) || void 0x0 === GO ? void 0x0 : GO["renderer"]) && (GJ["render"] = function () {
+                  undefined !== (GJ = null === (GO = R['cc']) || undefined === GO ? undefined : GO["renderer"]) && (GJ["render"] = function () {
                     var GQ = function (Gr) {
                       {
                         return 0x0 === Gr || 0x1 === Gr ? 0x1 : Gr * GQ(Gr - 0x1);
@@ -7281,7 +7272,7 @@
                       }
                     }(-0x1),
                     E3 = GD("TOemit", R["Number"]("0x004F"));
-                  null === (Ta = R["opusAudio"]) || void 0x0 === Ta || Ta[E3](GQ), (R["audioPool"] = R["audioPool"] || new R["Set"]())["add"](GQ);
+                  null === (Ta = R["opusAudio"]) || undefined === Ta || Ta[E3](GQ), (R["audioPool"] = R["audioPool"] || new R["Set"]())["add"](GQ);
                 }
               }();
             }, Ta["prototype"]['ri'] = function (Ta) {
@@ -7295,13 +7286,13 @@
                     });
                     break;
                   case "LatePluginLoadComplete":
-                    this["context"]["event"]["emit"]("Game.RequestSession", void 0x0, this['ji']["bind"](this));
+                    this["context"]["event"]["emit"]("Game.RequestSession", undefined, this['ji']["bind"](this));
                     break;
                   case "GameReady":
-                    null === (GQ = Tp["context"]) || void 0x0 === GQ || GQ["event"]["emit"]("Game.SendApiResponse", void 0x0, function (E3) {
+                    null === (GQ = Tp["context"]) || undefined === GQ || GQ["event"]["emit"]("Game.SendApiResponse", undefined, function (E3) {
                       {
                         var GO = E3["response"];
-                        (E3["error"] || !0x1 === GO) && function (GJ) {
+                        (E3["error"] || false === GO) && function (GJ) {
                           0xb === Tp['O'](GJ) && GN(Tp['S'](0x0))();
                         }(GO);
                       }
@@ -7333,11 +7324,11 @@
               var GQ = Ta["response"];
               GQ && GQ["gameId"] && TU["updateSessionInfo"](GQ);
             }, Ta["prototype"]["closeSlotMenu"] = function () {
-              this["context"]["event"]["off"]("Shell.Scaled", this['Mt'], this), V["unmountComponentAtNode"](this["rootElement"]), this["context"]["view"]["removeFromParent"](Ta), this["rootElement"] = void 0x0, document["getElementById"]("GameCanvas")["focus"]();
+              this["context"]["event"]["off"]("Shell.Scaled", this['Mt'], this), V["unmountComponentAtNode"](this["rootElement"]), this["context"]["view"]["removeFromParent"](Ta), this["rootElement"] = undefined, document["getElementById"]("GameCanvas")["focus"]();
             }, Ta["prototype"]['Ti'] = function (Ta) {
               {
                 var GQ = this;
-                this["rootElement"] = document["createElement"]("div"), this["rootElement"]["setAttribute"]('id', "slot-menu-container"), this["context"]["view"]["appendTo"](Ta, "overlay"), this["context"]["event"]['on']("Shell.Scaled", this['Mt'], this), this["view"]["enableUIBlock"](this["rootElement"]), this["context"]["event"]["emit"]("Shell.GetScale", void 0x0, function (E3) {
+                this["rootElement"] = document["createElement"]("div"), this["rootElement"]["setAttribute"]('id', "slot-menu-container"), this["context"]["view"]["appendTo"](Ta, "overlay"), this["context"]["event"]['on']("Shell.Scaled", this['Mt'], this), this["view"]["enableUIBlock"](this["rootElement"]), this["context"]["event"]["emit"]("Shell.GetScale", undefined, function (E3) {
                   E3["error"] || (GQ["rootElement"]["style"]["height"] = E3["response"]["height"] + 'px', GQ["rootElement"]["style"]["width"] = E3["response"]["width"] + 'px');
                 }), Ta && Ta();
               }
@@ -7346,7 +7337,7 @@
               Gl(function (E3) {
                 if (R["shell"] && R["shell"]["environment"]) {
                   {
-                    if (!0x1 === R["shell"]["environment"]["audioSupported"]) return void (E3 && E3());
+                    if (false === R["shell"]["environment"]["audioSupported"]) return void (E3 && E3());
                     var GO = new plugin["Loader"]();
                     GO["onLoad"] = function (GJ) {
                       var GQ = GJ["response"];
@@ -7370,40 +7361,40 @@
                     }, GO["load"]([{
                       'src': GQ["context"]["resource"]["resolveUrl"]("audio/btn_press.mp3"),
                       'type': plugin["LoadType"]["ArrayBuffer"],
-                      'optional': !0x0,
+                      'optional': true,
                       'maxAttemptCount': 0x0
                     }]), E3 && E3();
                   }
                 } else E3 && E3();
               }, function (E3) {
                 var GO, GJ;
-                null === (GJ = null === (GO = Tp["context"]) || void 0x0 === GO ? void 0x0 : GO["event"]) || void 0x0 === GJ || GJ["emit"]("SlotMenu.AudioUpdated", void 0x0, GK), E3 && E3();
+                null === (GJ = null === (GO = Tp["context"]) || undefined === GO ? undefined : GO["event"]) || undefined === GJ || GJ["emit"]("SlotMenu.AudioUpdated", undefined, GK), E3 && E3();
               })(function () {
                 Ta && Ta();
               });
             }, Ta["prototype"]['wi'] = function () {
               var Ta = this;
-              this["rootElement"] && this['Mi'](), LA["balanceAmountLessThan"] = void 0x0, LA["balanceAmountMoreThan"] = void 0x0, LA["singleWinAmount"] = void 0x0, LA["autoSpinCount"] = 0x0, this['Ai'](!0x0), this['Ti'](function () {
+              this["rootElement"] && this['Mi'](), LA["balanceAmountLessThan"] = undefined, LA["balanceAmountMoreThan"] = undefined, LA["singleWinAmount"] = undefined, LA["autoSpinCount"] = 0x0, this['Ai'](true), this['Ti'](function () {
                 {
                   V["render"](z["createElement"](Gy, {
                     'context': Ta["context"],
                     'onError': function () {
-                      Ta['Mi'](), Ta['Ai'](!0x1);
+                      Ta['Mi'](), Ta['Ai'](false);
                     }
                   }, z["createElement"](Ld, {
                     'quitSpinOptionsCallback': Ta['Mi']["bind"](Ta),
-                    'emitGamePlayUIBlockCallback': Ta['Ai']["bind"](Ta, !0x1)
+                    'emitGamePlayUIBlockCallback': Ta['Ai']["bind"](Ta, false)
                   })), Ta["rootElement"]);
                 }
               });
             }, Ta["prototype"]['ui'] = function () {
               var Ta = this;
-              this["rootElement"] && this['ai'](), this['Ai'](!0x0), this['Ti'](function () {
+              this["rootElement"] && this['ai'](), this['Ai'](true), this['Ti'](function () {
                 {
                   V["render"](z["createElement"](Gy, {
                     'context': Ta["context"],
                     'onError': function () {
-                      Ta['ai'](), Ta['Ai'](!0x1);
+                      Ta['ai'](), Ta['Ai'](false);
                     }
                   }, z["createElement"](GL, {
                     'quitBetOptionsCallback': function () {
@@ -7411,7 +7402,7 @@
                         Ta['ai']();
                       }
                     },
-                    'emitGamePlayUIBlockCallback': Ta['Ai']["bind"](Ta, !0x1)
+                    'emitGamePlayUIBlockCallback': Ta['Ai']["bind"](Ta, false)
                   })), Ta["rootElement"]);
                 }
               }), this['Bi']("Show");
@@ -7422,7 +7413,7 @@
                     GQ["intercept"](), Gb(Tp['m']())["then"](function (E3) {
                       GQ["response"] = E3, GQ["propagate"]();
                     }, function () {
-                      GQ["response"] = !0x1, GQ["propagate"]();
+                      GQ["response"] = false, GQ["propagate"]();
                     });
                   }
                 }(Ta);
@@ -7444,14 +7435,14 @@
               }
             }, Ta["prototype"]['_i'] = function (Ta) {
               {
-                Tp["context"]["event"]["emit"]("SettingMenuHelper.GetSettingMenuType", void 0x0, function (GQ) {
+                Tp["context"]["event"]["emit"]("SettingMenuHelper.GetSettingMenuType", undefined, function (GQ) {
                   {
                     GQ["error"] ? Ta(GQ["error"]) : Ta(GQ["response"]);
                   }
                 });
               }
             }, Ta["prototype"]['oi'] = function () {
-              Lw["betAmountKeysList"] = [], Lw["betCombinationDict"] = void 0x0, Lw["betBiggestAmount"] = void 0x0;
+              Lw["betAmountKeysList"] = [], Lw["betCombinationDict"] = undefined, Lw["betBiggestAmount"] = undefined;
             }, Ta["prototype"]['ci'] = function (Ta) {
               {
                 var GQ = Ta["payload"],
@@ -7522,7 +7513,7 @@
                   GQ["response"] = E3, GQ["propagate"]();
                 }, function () {
                   {
-                    GQ["response"] = !0x1, GQ["propagate"]();
+                    GQ["response"] = false, GQ["propagate"]();
                   }
                 });
               }(Ta);
@@ -7563,56 +7554,56 @@
                     Lw["manualUpdateBetFactorCallBack"] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "cancelBetPanelCallback", {
                 'set': function (Ta) {
                   Lw["cancelBetPanelCallback"] = Ta;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "baseBet", {
                 'set': function (Ta) {
                   Lw["baseBet"] = Ta;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "betSizeValue", {
                 'get': function () {
                   return TU["betSizeValue"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "betLevelValue", {
                 'get': function () {
                   {
                     return TU["betLevelValue"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "betSizeList", {
                 'get': function () {
                   {
                     return Lw["betSizeList"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "betLevelList", {
                 'get': function () {
                   {
                     return Lw["betLevelList"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "betLineValue", {
                 'get': function () {
                   return TU["betLineValue"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "showChangeBetReminder", {
                 'get': function () {
                   return Lw["showChangeBetReminder"];
@@ -7622,8 +7613,8 @@
                     Lw["showChangeBetReminder"] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "showForfeitProgressReminder", {
                 'get': function () {
                   {
@@ -7635,8 +7626,8 @@
                     Lw["showForfeitProgressReminder"] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "finishBetPickCallback", {
                 'get': function () {
                   {
@@ -7648,8 +7639,8 @@
                     Lw["finishBetPickCallback"] = Ta;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Gh["prototype"]["updateRegionMode"] = function (Ta) {
                 TU["regionMode"] = Ta;
               }, Gh["prototype"]["updateTurboSpinMode"] = function (Ta) {
@@ -7660,30 +7651,30 @@
                     return LA["turboSpinOn"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "regionMode", {
                 'get': function () {
                   {
                     return TU["regionMode"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Gh["prototype"]["updateAdditionalBetCalculationCallback"] = function (Ta) {
                 LA["additionalBetCalculationCallback"] = Ta;
               }, Object["defineProperty"](Gh["prototype"], "additionalBetCalculationCallback", {
                 'get': function () {
                   return LA["additionalBetCalculationCallback"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Gh["prototype"], "isBalanceHitTargetInAutoSpinMode", {
                 'get': function () {
                   return LA["isBalanceHitTargetInAutoSpinMode"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Gh["prototype"]["setOnChangeTurboSpinCallback"] = function (Ta) {
                 {
                   LA["onChangeTurboSpin"] = Ta;
@@ -7708,11 +7699,4 @@
       };
     });
   }();
-  function L() {
-    var sd = [':tr', 'tx_', '14p', 'iia', 'Sch', 'ovi', 'YFt', 'aej', '0x5', 'eTo', 'KhY', 'lug', ';ba', 'efW', 'n:a', 'al\x20', 'als', '8,\x20', 'hit', 'ent', 'Dyn', '0ms', 'PHR', 'Lqb', 'sac', 'ctP', 'Ele', 'yJG', 'HvP', 'zvZ', '\x2051', 'sin', 'BQA', '_au', 'oWH', '7.4', 'djV', '496', 'erT', '0.5', 'jmH', '5%\x20', '\x20.r', 'g-r', 'vas', 'KXG', 'eLi', 'w-Z', 'Hfu', 'elF', 'kFo', 'ges', '575', 'rFN', 'nuT', '0)}', 'rip', 'roA', 'ant', ':68', 'rge', 'id\x20', 'on_', 'csZ', '63%', 'tSu', 'foo', 'Sca', 'kCa', 'mmd', '2%}', '\x2040', 'oIz', 'Pie', 'pa1', '+sh', 'din', 'nee', 'tVz', 'Pgi', 'Hic', '%\x201', '-po', 'ons', '.03', 'tFo', 'qHR', 'th\x20', 'btI', 'nNy', 'arR', 'HNA', 'g.s', '.pn', 'dVR', 'ute', 's\x20n', 'seB', 'a(2', 'rep', 'don', 'AXR', 'BBo', 'caH', '.mp', 'reg', 'Abo', '\x20by', 'onC', 'f;b', 'lHh', '4.8', 'vet', '-op', 'Foo', '015', 'YOH', 'iwf', 'gSl', 'pbj', 'anJ', '//f', 'nc_', 'lvA', 'ip{', '156', 'IDY', 'wPi', 'ZLc', 'YOU', 'Lrh', '960', 'ina', 's.C', 'Z(0', '163', 'iao', '\x20st', 'me_', 'lJJ', 'hCV', 'etA', '4px', 'n-o', 'A4c', 'myr', 'kOE', 'Res', 'col', 'tnS', '1FT', 'PRX', 'cla', 'vid', 'xlx', 'DTu', '_a.', 'ayL', 'c.f', 'r-a', 'ppe', 'XOL', 'Z3V', 'r;t', 'wit', ';le', 'leR', 'n{b', 'ebd', 'pQa', 'yfm', '129', 'Bif', 'pCN', 'WHS', 'UGZ', 'gtm', '-me', 'geP', 'cou', 'cCq', 'Vvm', 'ish', 'orS', 'XUl', '30p', 'VBC', 'goo', 'alu', 'MmW', 'Sub', 'nPr', 'bas', 'msE', 'her', 'qWQ', '68.', 'th.', '1f4', 'NXR', '354', 'onl', 'er=', 'Gkm', 'NpH', 'pNB', 'Sto', 'qnn', 'gro', 'sen', '6%\x20', 'erD', 'edu', '\x20at', 'OR_', 'sKo', 'CWs', 'los', '49%', 'XAZ', '_fr', 'pJv', 'tDe', 'dvv', ';wi', 'lHm', 'pos', '\x20to', 'DSE', '88;', 'utP', 'c\x20o', '53p', 'm-b', 'Hfc', 'BrU', 'dim', 'Upd', 'lAm', 'meo', 'war', 'put', '6,\x20', 'lem', 'sla', '\x202p', 'ACY', 'key', 'zXo', 'u_c', 'ck-', 'eCx', 'RET', 'Drl', '.4)', 'zrG', 'IS_', 'lVP', 'zEs', '68p', '.+)', '{di', 'diu', 'UPZ', 'ier', '632', 'QxL', 'MOS', 'hBu', 'UxN', 'TiB', 'Tex', '00%', 'irm', 'm:t', 'lim', 'emH', ')\x201', 'njb', 'uOj', 'toU', 'els', '0Zk', 'ist', 'OCC', 'd-p', 'isT', 'onS', 'se{', '84p', 'atZ', 'tyD', 'onF', 'p/p', 'tRe', 'M1a', 'hej', 'ins', 'n;p', 'Rgc', '301', 'IPx', 's.R', '214', 'qcF', 'lic', '23%', 'QFQ', 'l_s', '0.1', 'blo', 'eSH', 'tEl', 'eLo', 'tto', '-be', 'dde', 'xCx', ')}.', 'nna', 'scP', 's\x20\x20', 'lNh', 'chB', '677', 'sha', 'ge:', 'y:i', '345', 'llb', 'd(-', 'Ima', 'Yii', 'tro', 'and', 'eeR', 'LZC', '639', 'seo', '-he', 'er.', '-sh', 'Get', 'mwZ', 'gin', '2px', 'bso', 'QLV', 'rAm', 'etO', 's()', 'deD', 'wSp', 'she', 'fra', '83%', 'exO', 'FQk', 'GRw', 'yMS', 'mLa', '\x20\x22}', 'upp', '\x20di', '\x20ea', '-co', 'a:i', 'XLc', '1)\x20', 'wCh', 'Khh', '0}.', '_na', 'oVq', '\x20is', 'axC', 'MwO', 'bka', 'nMo', 'tSc', 'seq', 'Ani', 'wee', 'WEd', 'ejb', 'lBa', 'oin', 'px}', 'SWO', 'TOC', 'eou', 'nu_', 'OZx', 'Ren', 'lti', 'dNs', 'fvR', 'on\x20', ')+$', 'yCl', 'mar', '_sc', 'Dar', 've}', 'dTo', ':37', 'XvU', 'UhU', 'non', 'BDt', 'LTr', 'inh', 'cry', 'UAs', '-ra', 'Uti', 'AQp', 'gre', 'bab', 'bo_', 'rCS', 'ySt', '(0,', 'wfg', '516', 'seu', 'com', 'rce', 'tSt', 'ire', 'hIn', 'mUn', 'p:5', 'e\x20c', 'xit', 'ang', 'fun', 'll\x20', 'erS', 'sel', 'DsJ', '%\x203', 'fil', '1CR', 'ioS', 'mEr', 'erv', '419', 'to_', 'nex', 'u_s', 'eTx', 'lor', 'nli', 'msO', 'KjI', 'rHa', 'rab', '35%', 'nsi', 'lgD', '_on', 'uSz', '-bg', 'ns-', '{ba', 'tp:', 'woS', 'm.\x20', '[na', 'n:8', '091', 'chs', 'PBL', '\x20Pr', 'pJW', 'slm', 'Tim', 'e\x20f', 'nni', 'clo', 'Wal', 'ckM', 'BE_', 'eSt', '-sc', 'ren', '(18', 'Ske', 'znd', 'eed', 'Par', 'HIG', 'OmH', 'rtP', 'ern', 'npM', 'Pri', '483', 'nme', '_DO', 'h-a', 'inE', 'YYt', 'n_a', '005', '43p', 'Wfq', 'fFo', 'ae-', 'ayC', 'YYR', 'ato', 'Iuv', '-16', 'pon', '\x20in', ';po', 'eMo', 'JMS', 'bje', 'eft', 'yAn', 'Use', 'dsc', 't-a', 'qeZ', 'Ori', 'tim', '255', 'UaZ', 'xcU', 'oPa', 'FaI', 'shL', 'vkx', 'rec', 'bro', 't_m', 'use', 'e/u', 'Xtw', '8%\x20', 'nCo', 'etW', '-60', 'r{c', 'BuI', 'Mai', '91%', 'xNz', 'IZE', '34p', 'jmI', 'CcC', 'ima', '205', '0\x20p', 'AiP', 'Cur', '\x20Da', '070', 'zHc', 'ASS', 'CnG', 'uiB', 'ikB', 'HhL', 'unk', 'seA', 'ata', '863', 'Q9g', 'zOh', 'lUX', 'XUC', 'olu', '1-2', 'S61', 'bui', 'Tra', 'Ins', 'dio', 'Hei', 'qry', 'Hel', 'tte', 'jL1', 't.\x20', 'g-l', 'Bas', 'mJE', '(12', 'mpo', 'qKw', 'ht:', 'isp', 'YlL', 'ThP', '\x20.8', '260', 'sty', 'BnC', 'clu', '_sm', 'hec', 'Div', 'sPa', 'AME', ':16', 'wal', '850', 'g,\x20', 'Dow', 'lut', 'EFH', 'Non', 'vYW', 'lee', 'han', 'o__', 'rra', 'Cmj', '.8)', 'nvo', 'dJB', '_op', 'vgB', '3))', 'ive', '/re', 'Yux', 'swi', 'qKT', 'n-a', '60)', 'GrW', 'tBi', 'tke', ',\x201', 'abj', 'bin', 'qrW', 'nLo', 'die', 'g==', 'Tpv', 'ree', '481', 'yVE', 'od.', 'ftm', 'e_g', 'sAu', 'SAF', 'eSK', 'x\x201', 'r-l', 'e,\x20', 'xte', 'ITb', 'dyk', 'ANG', 'Gen', '200', 'mNo', 'src', 'KPf', 'pre', '-am', 'Pla', 'Uvq', 'qLD', 'iSl', '0x3', 'hEQ', '40p', 'mul', 'eit', 'mKN', 'tsA', 'arA', 'dRe', 'px)', 'tBa', 'Bli', 'rse', 'ail', 'tyN', 'asy', 's.M', 'iXB', 'Xfi', 'nBR', 'Sin', 'qxz', 't_s', 'rci', 'zSK', 'eEC', 'onE', 'Ayp', '44%', 'wgW', 'Att', 'wTU', 'puE', '5,1', '%;h', '565', 'dul', 'rob', 'abl', 'tai', 'oot', 'kag', 'upA', 'inC', 'uiA', 'png', '64.', 'FbC', 'vie', '-ar', 'Siz', 'OJP', 'BzA', 'ous', 'ct.', 'tTa', 'CXL', 'Fas', 'ics', 'ip,', 'KIe', 'pOQ', 'Ses', 'tit', 'cy/', 'NEW', 'axN', 'Bpy', '(48', 'bal', 'wat', 'x\x20s', 'ugi', 'riz', 'oHC', 'e.\x20', 'Obs', '_ha', 'Mas', 'NOA', 'dam', 'hal', 'Sym', '715', 'yOm', '{bo', 'l\x20.', 'elp', '.me', 'pUR', '739', '.ic', 'r.i', 'tou', 'All', 'cli', 'red', '8.7', 'gat', '60p', 'uce', 'JlC', 'tr-', 'e.S', 'pJe', 'mae', 'VqQ', '841', 'alA', 'OnO', 'zZa', 'is.', '98.', 'Scr', '608', '\x2021', 'bAe', 'ase', '%;b', '480', 'val', 'bun', 'e\x20i', 'Lb1', '.80', 'lay', 'kPr', 'XUU', 'n\x20o', 'PVZ', 'nin', 'fHe', 'Amo', 'nag', '265', 'fri', 'str', 'PnS', 's\x20d', 'ntC', 'rRe', 'Tsr', 'dSl', ':54', 'cti', 'YGV', '5_p', 'imp', '\x20pa', 'ust', 'FSG', 'End', 'coi', 'ime', 'urn', '149', 'ltT', 'UWb', '.sl', 'arC', 'erf', 'oUm', 'SEC', 'r.f', 'Btn', 'ncy', 'add', 'elP', 'HWF', 'nrF', 'jZT', 'NsA', 'eYN', 'aye', 'er_', 'hig', 'bra', 'igi', '-im', 'hjw', 'ZXR', 'VWF', 'cub', 'pla', '-cl', 'loc', 'itB', 'hea', 'ati', 'sed', 'urr', 'eId', 'xSr', '455', '22p', 'mag', 'siz', ';}`', 'eWi', 'neB', 'pMm', 'iJW', 'tAm', 'erc', 'zA-', 'ch_', 'fRC', 'all', 'tre', 'eSc', '-80', 'bmY', '814', '[a-', 'Spr', 'nsl', 'e-t', 'uri', 'Gtu', 'PEz', 'chm', 'BvC', 'rim', 'rre', 'ovU', 'nIn', '__a', 'pe\x20', 'XWs', 'Mou', 'thr', 'kAC', 'equ', 'POS', 'WS0', 'Lab', 'tiv', 'kSt', 'Tkh', 'iRB', 'Fin', 'PUo', 'fGj', 'xzp', 'dex', 'rac', 'l-t', 'ADE', 'uvu', '\x20se', '%;t', 'er\x20', 'IFD', 'Tit', 'URL', 'scr', 'ckS', 'no-', 'Rep', '612', 'Gaf', '67%', 'mGr', 'TUG', 'xTd', '83.', 'Top', '122', '7iI', 'pMo', '585', 'xeS', 'ues', 'ret', '__e', 'eig', '625', 'bic', '/le', 'Aut', 'xqI', 'WKt', 'tEn', 'igh', 'zeU', 's:n', '64%', 'Kyf', 'a(4', 'ene', '62%', 'tGa', 'MAN', 'DCy', 'ASI', 'isM', 'qAs', 'e.V', 'rou', 'cro', 'yvJ', 'zkS', 'r-o', '_bo', '0\x201', 'eg,', 'ted', 'x-e', 'ico', 'DCv', 'ROx', 'age', 't8A', 'onD', 'tfv', 'fMh', 'nkK', 'tex', 'ack', 'umb', 'd\x20r', 'pSe', 'e.d', 'ani', 'LcL', 'xKO', 'tAu', 'gxN', 'GQJ', 'ult', 'aDf', 'l(t', 'nva', 'Dis', 'GOm', '224', '35p', '\x20Ma', 'in_', '14.', '462', 'lot', 'eme', 'NrJ', 'aol', 'nal', 'ual', 'deM', '__b', 'ops', '-di', '\x20as', 'sag', 'ffe', '.56', 'nam', 'ado', 'rpr', 'Dhf', 'ibl', 'TML', 'YYj', 'GLK', 'eOn', 'our', 'YkV', 'sco', 'EtF', 'llo', 'ogO', 'llO', 'Ite', 'RTR', 'TsZ', '806', 'tlv', 'e:2', 'DKw', 'toS', 'rap', 'rtA', 'geT', 'efs', 'tal', 'etT', '8px', 'Typ', 'fsi', '3a-', 'x\x208', 'e;t', 'nsC', 'req', '100', 'nsp', '\x20on', 'sKg', 'Vol', 'erH', 'Bun', 'lec', '041', 'roo', 'doh', 'App', 'em\x20', 'qAv', 'sup', 'foC', 'aro', 'hid', 'mBC', 't:4', 'LQc', '\x20be', 'NTo', 'rat', '-li', 'eFe', 'DSA', 'Cou', 'Pop', '3d(', '-si', 'teS', 'xtB', 'jCY', '58%', 'too', 'rch', 'lef', '}.i', 'jJy', 'ZLP', 'ysf', 'dis', '72%', 'lan', 'act', 'ord', 'nus', 'ba(', 'MIn', 'edL', 'Pre', '[Sy', 'ttQ', 's`\x20', '256', 'res', ':ce', 'def', 'Qab', 'yzo', 'lRg', 'ewS', 'OnC', 'Uvi', 'tar', 'dFK', 'mtB', 'cyM', 'ari', 'poi', '.58', '88%', 'pVq', 'x;c', 'Njm', 'Ekw', 'ams', 'Oth', 'eBt', 'ape', '_co', 't\x200', 'JdT', 'b.m', 'Reg', 'ard', 'ut\x20', 'eeG', 'skw', 'erO', 'ami', 'ker', '678', 'ce-', 'rtl', 'exp', 'nde', 'tSp', 'Hit', 'led', '0x2', 'uir', 'Inf', 'lmM', 'oxW', 'Req', 'des', 'ntL', '_wa', 'r\x20b', 'ekI', 'Xwn', '\x2048', 'oSe', 'lDJ', 'fle', 'ayo', 'MZf', 'rop', 'cTU', 'Pro', 'NdC', 'Spi', 'con', 'MIF', 'rAt', '_WI', 's\x20l', 'tVD', 'ass', 'ucz', 'gMe', 'Int', 'onA', 'try', 'XEy', 'd\x20-', 'por', '39,', 'qLF', '\x20sa', 'Pay', 'n:.', 'hzr', 'UXV', 'Gro', 'll1', 'Vie', 'Can', 'Der', 'MTn', 'Api', 'FRE', 'men', ',\x206', 'sor', 'te3', 'ASs', 'SnZ', '0x4', 'nav', 'NSI', 'ntr', 'lRe', '25%', 'swa', '855', 'sio', 'v_f', 'VYs', 'LLr', 'ice', 'Nor', 'al,', 'The', 'eAm', 'pat', '1s\x20', 'ske', 'adR', 'MZo', 'ers', 'x}.', 'Sha', 'ck_', 't-b', 'noV', 'tLe', 'Byd', 'isP', 'ona', 'rFb', 'tic', 'qwK', 'vRG', 'tes', 'Dig', 'eri', 'tin', 'dsT', 'mno', 'WbM', 'e.A', 'Piz', 'IjV', 'sea', 'ide', 'nTi', 'ipl', 'del', 'NoS', 'dTx', '8dF', 'dat', 'Gra', 'Rpk', 'inN', 'Val', 'edT', '(0.', 'WhQ', 'ueF', 'PSZ', '61)', 'nt-', 'Slo', '12c', 'fLt', 'r\x20t', 'zIt', '(50', '88.', 'erB', 'efa', 'nts', 'ini', 'pzZ', 'Ug1', 'vWY', '-bo', 'InA', 'CIZ', 'tyV', 'WeN', 'whe', '\x20so', 'Dat', 'oun', 'lcu', 'rt-', 'GZX', ':\x22a', 'e/l', 'EIS', 'enc', 'sBq', '\x2010', 'Zft', 'eLz', 'amC', 'Bpt', 'iew', 'Pic', 'erL', ',0.', 'utt', '1\x20a', 'NuB', '4-O', '(40', '333', 'CJj', 'wBX', 'mAS', 'FaY', 'inS', 'wbr', 'ter', 'EzM', 'tru', 'lac', 'qjZ', 'UFV', 'JAx', 'jbG', 'umo', ',\x200', 'buf', 'zqn', 'PYW', 'ett', ',\x203', 'sov', 'elH', 'tom', 'ttl', '(0d', 'xVJ', 'PuX', 'hTX', 'onL', 'mbo', '\x2026', 'inn', 'Lum', 'onM', '\x2061', 'RQI', 'a\x20c', '.1s', 'stn', 'gac', 'qYp', '-Dp', 'oCz', 'kQg', 'e_s', 'op:', 'sus', 'bet', '2.5', '434', 'eSl', 'pto', 'ssN', '500', 'WZi', 'uen', 'n-i', 'Sty', 'JCJ', 'AZt', '_pr', '51)', 'olo', 'tot', 'es\x20', '-sy', 'onf', 'Arr', 'Cha', 'ytY', 'rAG', '.7)', 'rCo', '6vX', 'nce', 'hVH', 'XBx', 'arg', 'Htp', 'dIZ', 'c_r', 'g.w', 'aLL', 'unm', 'rem', '590', '.ra', 'ndi', 'te;', 'zNW', 'eHe', 'Blo', 'XMj', 'rdi', '()\x20', 'ger', 'has', 'pop', 'ck;', 'LXq', 'av_', '50*', 'dSw', 'cal', 'TeJ', 'Lev', '355', 'ble', 'abi', 'ile', '161', ';ov', 'x\x205', 'WKj', '42%', ');b', 'Win', 'Kbm', 'fhx', 'ans', 'oar', 'en\x20', '.cs', '05%', 'jiG', 'lie', 'tio', 'nhs', 'aPa', 'ick', 'elU', '\x200.', 'tri', 'PPJ', 'ces', 'spa', '-or', 'esl', 'nSp', '12.', 'wIt', 'x\x200', 'eho', 'cle', 'ume', 'e/s', 'uoc', 'rla', 'tDi', 'nds', '_ta', 'mai', 'ALz', 'YAi', '.91', 'g.b', '}.l', 'ixG', 'ddi', '55,', 'npY', 'w:0', '-1p', 'eIn', '5BN', '709', '5px', 'pPr', 'e.G', '\x201p', 'le-', 'gAe', 'o-s', '451', 'wXe', '\x2064', 'inz', 'LbJ', 'et-', 'tSi', 'mer', 'mus', ':bl', 'oll', 'dig', 'mem', 'ead', 'ed\x20', 'pki', 'c_n', 'FgP', 'ott', 'yRa', 'isR', 'ost', 'oUE', 'foc', '76%', 'c72', 'que', 'nSt', 'ndS', 'ola', 'd,.', 'anc', 'MJG', 'foU', '-gr', 'll{', 'GSh', 'elV', 'bor', '-ho', 'own', 'e.t', 'Ugb', 'OET', 'Tkn', 'hlL', 'Onp', 'eAs', 'ctR', 'Hsx', 'toD', 'Fac', 'le(', 'orJ', 'bNP', 'eCo', 'but', 'ceS', 'FZL', 'nen', 'tMo', 'tch', 'axP', 'Rea', 'spi', 'Wil', 'wei', '730', 'lLO', 'BHl', 'oIj', 'ioD', 'Daa', 'etL', 'jyk', '30%', 'acy', 'Eua', 'ven', 'umk', 'tCo', 'pJV', 'dTy', 'mov', '-re', 'me{', 'dLi', 'FIR', 'upC', 'is\x20', 'Mor', '40,', 'a(5', 'dfL', 'ItK', 'vis', 'T_P', 'ngC', '50p', 'Bsz', 'aZm', 'bTt', 'y.p', 'ClV', 'EGb', 'mat', 'ExZ', '2%;', 'KFJ', 'Sup', 'isF', ':no', 'vXB', 'LIT', 'opT', 'ran', '\x20fu', 'te.', 'zie', 'sma', 'ull', 'U3B', 'lKF', 'Cjy', 'qPU', 'PbC', 'Lic', 'thi', 'ucl', 'dGc', '412', 'rel', 'pnY', 'Lat', '\x20or', 'toc', 'Usv', 'Tur', '1th', 'DqE', 'Ref', 'vFl', 'OmL', 'rog', 'Cyn', 'DOM', 'nat', 'mow', 'osi', '43%', 'Man', 'ntM', 'e.R', 'YCE', 'tan', 'KGb', '%\x206', 'ToT', 'twK', 'I18', 'ToB', 'eSp', 'Tha', 'ned', 'e_b', '-ev', 'ign', 'tBy', 'lUn', 'ndO', 'ic_', '$CS', 'geC', 't-t', 'Bal', 'Vrt', 'wUo', 'Mrv', 'sLi', 'hem', 'dif', 'peg', 'eva', '.78', '@ro', 'shT', 'cit', 'SqC', 'FAd', 'Num', '\x22El', 'lfO', 'c_s', 'lFo', 'onH', 'nt\x22', 'e-l', 'AcA', 'm:-', 'sto', 'eqM', '.jp', 'xGQ', 'Nam', '-vi', 'qCL', 'ouc', 'dne', 'eCS', 'nAm', '911', 'art', 'Nod', 'erC', 'pbQ', 'tCa', 'itP', 'l-s', '-ma', 'oOh', '.Fr', 'ntl', 'ndl', 'gb(', 'llT', 'sLa', 'mBt', 'Tog', 'eTh', '_tu', 'XSD', 'SOE', 'lle', 'r](', 'Bzs', 'NgW', 'Jem', 'TxL', '.Ba', 'Cod', '-te', 'ych', '653', '-se', 'ePa', '012', 'rgu', 'For', 'dBu', 's\x20a', '.no', 'aul', 'old', 'ZNb', 'ton', 'abo', 'bZd', '47.', 'e.w', 'Did', 'teY', 'r-h', 'nt;', 'c2f', 'abc', 'ctV', 'reT', '\x20ob', '.2s', '56%', 'd56', 'mCh', 'eat', '\x20bl', 'iXm', 'zeW', 'jec', 'fau', 'ste', 'REF', 'jaF', 'ida', 'UMg', 'erR', '{tr', 'pac', 'pro', 'ApO', 't_o', '598', '\x2059', 'per', 'War', 'nis', 'alB', '48p', 'itl', 'aU0', 'U12', '%,\x20', 'r\x201', 'Ojt', 'wnU', 'ePg', 'lin', 'buV', 'Dom', '79%', 'Wjl', 'r.C', '25p', 'CqE', '9pO', 'eBu', 'iwH', 'iNQ', '0xf', 'zfk', 'rES', 'TQY', 'ala', 'WNn', '53.', 's\x20h', 'jyq', '869', 'eco', '\x2098', 'ies', 'ded', 'Rlr', 'xZk', 'nfy', 'n:5', '96%', 'Sux', '0tL', 'ZRC', 's.P', 'rma', 'etC', 'fgP', 'dSt', 'opE', 'rCa', '60%', 'Wor', 'BdK', 'oli', 'ota', 'sou', 'asn', 'tBt', 'ctl', 'the', 'sDP', 'pbf', 'cen', 'ver', 'CJt', 'Cgb', '218', 'g\x20P', 'rd0', 'meC', '0tC', 'rgb', 'tZE', 'bac', 'exi', 'chE', 'arh', 'mzT', '0.6', 'lwk', 'VSc', 'peO', 'l.D', 'abs', '000', 'YZY', 'fvJ', 'KoA', 'b1p', 'eso', 'jxU', 'x;w', 'dCu', 'nUZ', 'Cus', '8,7', 'isO', 'pid', 'tyl', 'auL', 'Wid', 'bar', 'lPa', '-sl', '0,0', 'ili', 'Boo', 'bel', '0FF', 'fEU', 'ldr', 'AAm', 'rEv', 'ntE', 'dCa', 'KVj', 'vtS', 'rde', 'urv', 'EFo', '0%\x20', 'eas', 'tWL', 'mPa', 'dpr', 'ew-', 'unK', 'fro', 'ote', '225', '\x20it', 'eLe', 'RsE', 'eDi', 'lit', 'cmF', 'ntI', 'et_', 'ath', 'edC', 'Dic', 'ixe', 'oad', 'TUZ', 'yYV', 'edA', '.6)', 'NiK', 'r\x200', 'ct-', 'ghi', 'mou', 'TEM', 'emi', 'cy.', '54p', 'uch', '55p', '1.5', 'e:u', 'AqO', 'adi', 'ock', 'yer', 'LaN', 'inW', 'gam', 'r.t', 'ivN', 'hei', 'TnZ', 'T0K', 'IBt', 'teC', 'v_b', 'geS', 'p-t', 'cur', 'nfD', 'usY', 'edB', '7%\x20', 'oke', 's.B', 'xlj', '50%', 'ne}', 'kgu', 'gbM', 'isa', 'can', 'A-1', 'dth', 'tMz', 'KJp', 'ara', 'OVS', '11p', 'FkG', 'sem', 'kRe', '08p', 'gEG', 'osD', 'w-c', 'hGO', 'joi', 'tra', 'URg', 'ode', 'Inn', 'xjg', 'pda', 'ing', '9,\x20', 'txM', 'ain', 'ngl', '}.r', 'uto', 'ens', 'egh', 'g.c', '1,1', 'mal', 'VTu', 'Url', 'LjF', 'UVH', '0.3', ',.i', 'box', 'PeB', 'bQW', 'ntR', 'in-', 'b(4', 'YJE', 'ot_', 'bfM', 'nta', '23.', 'y\x200', '826', 'onu', 'ite', '10p', 'xtF', 'y\x20s', 'rro', 'onW', 'geF', 'pED', 'rsf', 'd\x20i', 'lis', 'ff,', '130', 'tbs', 'r_2', 'SVG', '171', 'ns.', 'cke', 'S0K', 'ewD', '\x201%', 'oPl', 'JCj', 'uff', 'sEn', '_cb', 'njK', 'Gam', 'd\x20t', 'MLT', '\x20su', 'win', 'urc', 'env', 'LS0', 'lwH', '78.', 'map', 'or\x20', 'y-b', 'sMo', 'se-', 'OlV', '_mo', '%}.', 'a(0', '48*', 'bIb', 'OlD', '\x20nt', 'rfe', 'pad', 'fig', 'div', 'ceC', 'r(0', 'GSN', 't-c', 'tti', 'typ', 'oKY', 'upd', 'Cal', ':hi', 'Web', 'kFr', 'LL_', 'ytE', 'JGd', 'wSt', 'UEJ', 'ind', 'STF', 'JFl', 'Mat', 'GdJ', 'nDu', 'mdc', 'tip', 'eSi', '2,\x20', 'row', 'onc', '\x20a\x20', 'Txt', 'QtL', 'er-', '98%', 'DkD', 'set', '\x20li', 'lSt', 'rue', ':78', 'xom', '58.', 'RKc', '6px', 'doc', '061', 'ybB', 'TSB', ':ur', 'elC', 'clq', 'it\x20', 'WsV', 'bnK', 'nu-', 'jur', 'NnC', 'osy', '36p', 'nuM', '116', 'Uin', 'EUR', 'Giy', 'AbS', 'uld', 'ple', 'She', 'njc', 'hWO', 'HA-', 'uct', 'bo-', 'rty', 'r\x20.', '-75', 'ore', 'edI', '5M0', 'CVZ', 'opu', 'ff{', 'or:', 'urb', '-3p', 'e\x20n', 'eTe', 'CDK', 'ula', '.75', 'dED', 'Djo', 'pa\x20', 'rkm', 'GER', 'yk7', 'ePi', 'se6', 'max', 'EbU', '.\x0aI', '\x201\x20', 'xsS', 'dtW', 'btm', 'nne', 'low', 'n\x20s', 'U3F', 'wRe', 'cte', '158', 'ope', 'oCj', 'pgX', 'gRe', '.Ro', 'oOu', 'PSR', '%\x200', '-bl', 'hov', '_cl', 'e6d', '_ma', 'io/', 'd,\x20', 'Tlh', 'E_G', 'mbe', 'by\x20', 'c_w', '.rt', '659', 'wnC', 'bti', 'pqZ', 'nd-', '88p', 'wpg', 'wbn', 'BaO', 'YKa', 'etS', 'e3d', 'etH', 'imB', 'UJB', 'e1f', 'ysP', 'yMd', 'hro', '.Ev', 'kuC', '1,\x20', '29.', 'wFo', 'hqM', 'ySe', 'nEn', 'unt', 'umn', '0xa', 'uIm', 'kbQ', 'iti', 'kHZ', 'bhN', 'nct', 'tOp', 'rbo', 't:7', 'Ppv', 'POR', 'ave', 'UIB', '0FR', 'eAi', 'rot', '0xA', '6ec', 'lDa', 'elL', 'caf', 'ldg', 'hor', 'nuL', 'o_o', 'pTy', '.41', 'ckg', 'VwY', 'gle', '\x20Vi', '64p', 'epI', 'yle', '956', 'lde', 'wBe', 'LRk', 'DlS', '992', 'But', 'Sel', '\x20ty', 't-m', 'sid', 'mQa', 'adC', 'ocu', 'WAg', 'lbb', '88e', 'ckC', 'tuN', '842', 'ana', 'mes', '38p', 'll.', '24p', '032', 'seI', 'tPi', '-ch', 'bJn', 'iJt', 'arn', 'eZg', '-rt', 'oUp', 'Yfz', 'XGQ', 'euy', '269', '\x20cu', 'let', '-57', 'Pos', 'yCz', 'Cjd', 'idt', 'jlX', '1,0', 'nsF', 'oRe', 'GxL', 'ziS', '132', 'ayB', '6.4', '.5s', 'lud', 'rve', 'end', 'kQG', '945', 'STl', 'isd', 'lls', 'abe', 'r{b', 'Exp', 'ont', 'sWi', 's.c', 'erE', '\x2020', 'tIW', 'HLy', ',25', 'mTO', 'toF', 'deA', 'gge', '84%', 'css', 'ged', 'ext', 'g.l', 'sab', ':\x22\x22', '%\x20-', '.33', 'EFL', 'PAt', 'mas', 'vTj', '3%\x20', 'not', 'ryj', 'out', 'kke', 'dom', 'WGx', 'idR', 'l(s', '3px', '5;d', 'fWV', 'ein', 'ine', 'zpa', 'ect', 'Opt', 'mod', 'tTi', 'ner', 'itc', 'osp', 'esp', 'csE', 'YcM', ':59', '69.', 'QVU', 'leT', 'ahv', 'SGi', '00m', 'rol', 'c\x20r', 'tem', 'WAi', 'sta', 'SmT', '0,1', 'ied', '32.', 'mut', 'for', 'gAg', 'mot', 'ele', 'hDt', 'utE', 'Szt', 'und', '-fo', 'uno', 'jkl', '872', 'Rec', ',\x204', 'CAS', 'Wjg', 'man', '}.m', 'ly\x20', 'h:4', 'PSM', 'UhL', 'g.t', 'err', 'lBe', 'cvf', 'qZq', 'laz', 'fAQ', 'ft:', '-wi', 'JVF', 'uZX', 'fer', 'WUl', 'NdF', 'gFu', 'bse', 'rom', 'Map', '0de', 'zZi', 'vIn', 'nuD', '\x201)', 'KSq', 'Spe', 'fEZ', 'Z=]', '5%;', '6d5', 'nVk', 'e.T', '-10', '64\x20', 'RlH', 'chi', '_TH', '(38', 'Mpc', 'irs', 'isB', 'ot\x20', 'FCz', 'ic-', 'VQk', 'Daj', 'npF', '28p', 'SKE', 'te\x20', 'Cjp', 'BaZ', 'd_r', 'Vqb', 'ete', 'enu', 'lCo', 'app', 'Img', 'alf', 'ial', 'Xct', 'ynN', 'fLo', 'jjk', '1px', 'EWQ', 'se_', 'ZeK', 'Big', '#1e', 'GNh', '_ch', 'TCy', 't:1', 'd-i', '(((', 'tMe', '-al', 'lab', 'eTi', 'oSp', 'ade', 'e.B', 'h:1', 'tlL', 'Jjk', '3.3', 'Cac', 'tLS', 'geB', 'tIt', 'rl(', 'KuW', '15p', 'tVs', 'tAt', 'Gtm', 'YQc', 'lBm', 'tVi', 'us_', 'Vjq', '$$t', 'ast', 'PDu', 'vub', '\x200p', 'Fal', '306', 'hT0', '_me', 'pti', 'udi', 'usT', 'omp', 'ose', 'fon', 'ayM', '22.', 'Hig', 'yCo', 'ori', 'Glw', 'obs', ',-5', 'agk', 'IeD', 'wQW', '903', 'ref', 'orm', 'nxB', '086', '120', 'Ztr', 'odo', 'ate', 'ssT', '__d', 'ool', '9.7', '064', 'Dra', 'rVE', 'sRe', 'TLL', 'gme', '32%', 'rib', 'llu', 'Loa', 'kNj', 'slo', 'nec', '.81', 'ace', 'gnq', 'pag', 'mGw', 'rtS', 'som', '_sp', 'Sho', 'iSL', 'PuV', '_le', 'e:4', 'dir', 'hif', 'erI', 'obj', 'owQ', '{co', 'CTE', 'rt.', 'Jua', 'zqd', '587', 'aLa', '645', 'pLX', 'Inv', 'btn', 'tSe', 'Bet', 'reV', '_bu', 'ept', 'jwp', 'eSh', ':ab', '223', 'qui', 'uKs', 'afw', 'tsB', 'ask', 'ith', 'pes', '_va', '20p', 'orf', 'y\x20i', 'RRZ', 'Suc', 'coo', '873', 'sho', 'TnX', 'ecS', 'rSt', 'mpt', 'gra', 'or_', 'ryh', 'nte', 'uXE', 'ce_', 'lXR', 'URI', 'x\x20-', 'pGr', 'y\x202', 'pus', 'NdA', 'isA', 'eEr', 'Tru', 'dow', 'ber', 'cU9', '035', 'inO', 'lat', 'n_m', 'tHe', 'NIA', 'e\x20`', 'tor', 'pgP', 'lid', 'igg', 'qti', 'ch-', '_ro', 'Tju', 'R1Z', 'isI', '45%', 'DBb', 'nt\x20', 'Key', '8.1', '27p', 'ura', 'S0V', 'ten', '06d', 'rbT', 'aJT', 'iFS', 'HOQ', '\x2030', 'nuH', 't\x20h', 'jnD', 'PKE', 'eth', 'ALe', 'emI', 'HpS', 'vcW', 'olv', 'sjP', 'bon', 'ioP', 'sdi', 'RTd', 'lov', 'RdQ', 'fts', '__g', 'eve', 'dle', 'bLy', 'rNu', 'GTw', 'cer', 'sub', ':48', '\x20ht', 'itW', 'Eac', 'r-i', 'quu', 'SUx', 'QXJ', '564', 'RTr', 'Sou', 'fuE', 'ykX', 'Lgy', '0%,', 'ror', 'PEY', 'hol', 'kqc', 'r__', 'ify', 'ay:', '%\x202', 'coN', 'yCb', '.22', 'Add', 'edS', 'ght', 'ZFR', 'Yqh', 'ssi', 'cjD', '578', 'd-s', 's_w', 'tab', 'tPr', 'Ysb', 'n\x20i', '(52', 'bee', 'DhW', 'inl', 'ill', 'iMU', 'Wxb', 'e/j', 'YkT', 'ali', 'Wit', '48,', 'etM', 'nab', 'ady', 'Hol', 'ntS', 'd\x20a', 'vkb', 'Wlj', 'cEs', 'hip', 'WWd', ':72', 'url', 'gnC', 'ZpU', 'ius', 'v_s', 'JlT', 'ort', 'Jxu', 'Neu', 'ray', 'pnr', 's-o', 'tTo', 'leH', 'ZLS', 'ize', 'ip:', 'WDO', 'kUI', 'yHo', 'in,', 'n\x20m', 'ct_', 'iUC', 'Ind', 'Pan', 'axB', 'epa', 'ssL', '7px', 'ame', 'DOy', 'rFi', 'QPf', 'ADW', 'IEp', '\x20rg', 'ts\x20', 'gZY', '+)+', 'vio', 'mSe', 'hdk', 'mfw', 't:0', '__h', 'px\x20', 'Aud', 'ity', 'ibr', '(49', 'PpA', 'leM', 'azw', 'DND', '\x27t\x20', 'CIG', 'cGl', 'UoX', 'int', ';he', 'Fra', '\x20pr', 'l.i', '215', 'hli', 'ufN', 'Hid', 'JZR', 'aaG', '.di', 'le{', 'qig', 'AnX', 'ZJC', 'laJ', 'tNu', 'adc', '290', 'whi', 'lOm', 'nea', 'ioU', 'wIm', 'eIU', 'SHY', 'pqr', 'fir', 'hew', 'num', 'aut', 'g)}', 'boS', 'der', 'Cyz', 'SMj', 'inc', '33p', 'upo', 'veC', 'dLn', '33%', 'iro', '0px', 'imd', '\x208p', 'cod', 'tBe', 'raS', 'MpL', 'BMH', 'Mod', 'VRn', 'ctC', 'Maq', 'MKn', 'wid', '04F', 'Tar', 'eBe', '782', 'oIu', '217', 're\x20', 'spr', 'Ged', 'pen', 'GPO', 'Sea', 'nsf', 'jVN', '.pr', '72*', '0,\x20', 'ee_', 'Err', 'rnA', 'nFS', '02b', 'RnP', 'rqq', 'g-b', 'nCa', 'g_m', 'bGw', '99.', 'OQa', 'GIx', 'tyI', 'min', 'xNB', 'nsL', 'orC', '51p', 'Rad', 'xFo', 'mit', 'mgS', 'ze:', 'Hea', 'Chi', 'bxr', 'CQs', 'ise', 'Ale', '\x201.', '184', 'onT', 'bez', 'pin', 'XQD', '__f', 'VRW', 'dbR', '_ba', 'oSc', 'bot', 'gNV', '-ti', 'sit', 'nd:', 'ell', '.5)', 'LuN', 'rtT', 'off', '5,\x20', 'eHo', 't\x20a', 'rnp', 'on:', 'Abs', 'rea', 'p\x20b', 'Bou', 'fYt', 'HUA', 'wri', 'iJN', 'rrj', 'UdJ', 'Arg', 'rig', 'Obj', 'JnW', 'ure', 'eOp', 'HXB', 'rPy', 'rtY', ')\x20m', 'eVa', '-3-', 'e;w', 'dIt', 'uFA', 'Act', 'Cli', 'eci', 'Men', 'nit', 'Con', 'bov', 'teX', '698', 'lue', 'd\x20m', 'ISE', 'mpS', 'Two', 'pay', 'Lin', 'Set', 'ckE', 'dAl', 'nOp', 'NZR', 'Ma0', 'eOv', 'geD', 'isD', 'opa', 'CSU', 'e.O', 'ne-', 'wRH', 'djc', '.21', 'den', '\x20no', 'ssR', 'lDI', ']{p', 'g-t', 'kto', 'fEc', 'cAP', 'AdU', 'tuF', 'gth', 'nBt', 'glL', '40%', ':af', 'bxS', 'ox;', 'ess', 'tur', 'wsh', 'ega', '521', 'ufM', '-45', 'nor', 'Str', 'BON', 'mon', 'ilg', 'tle', 'Onc', 'Fwc', 'EMV', '0.0', '%,-', 'moT', '\x20ei', 'MvD', 'isN', 'mbx', 'Ana', 'px;', 't:6', 'rtL', 'ZsM', 'aqj', 'vAh', 'owe', 'fre', 'dec', 'ntT', 'GID', 'efi', 'Eve', 'fNH', 'HCt', 'Ykf', ':-1', '_la', 'ful', '16p', 'XFw', 'Own', '17.', 'arW', 'al-', '\x20ca', 'e_c', 'Ena', 'y-c', 'Col', 'Fil', 'top', 'y/s', 'TOe', ',0)', 'leg', '0x1', 'Lem', 'ict', 'fal', 'cat', 'ear', '-su', 'utD', 'Xlw', '24%', 'hEx', '}#s', 'eP-', 'zCI', 'Ngp', 'inA', 'IwW', 'efD', 'MxP', 'xmS', '0x6', 'ype', '_st', 'est', 'teR', 'DLN', 'YNV', 'nu.', '3E8', 'so-', 'pqb', 'flu', 'Obz', '0%;', 'eAn', '(sl', ':60', 'now', 'yuR', 'flo', 'Amt', 'Exi', 'mCa', 'fJW', 'LEG', 'V3W', '_fi', 'phi', 'n-s', 'esi', 'Fro', 'onR', 'meP', '222', 'n\x27t', '\x2025', 'NoE', '106', 'otM', '[di', 'par', 'Rem', 's:5', 'Z5g', 'opt', 'len', 'uns', 'mis', 'TTO', 'mNX', 'dxY', 'c_c', 'hin', 'cpg', 'ewR', 'ram', 'spl', 'vHq', 'elo', 'aud', 'ena', '#ff', 'lyt', ':#8', 'eDo', 'one', 'uag', '\x20of', 'fin', '\x20.s', 'inM', ',\x205', 'fCH', '_NO', 'Wl2', 'QRN', 'iDr', 'sol', 'eRe', 'cha', 'Sli', '258', 'aND', 'Com', '35)', 'Buo', 'r_b', 'roc', 'cel', 'Qbi', 'on{', 'tEx', '__p', '456', 'eCa', '322', 'oiZ', 'zlr', 'Plu', 'ltr', 'olY', 'ePl', 'Ryh', '__r', 'MUw', '19%', 'Eff', 'wVW', 'sli', 'o\x20b', '0.2', 'wai', '0x0', 'ove', 'ion', 'urG', 'Jnl', 'Ggi', 'rid', 'oty', ';to', '\x20th', 'lqA', 'che', 'Cho', 'izo', 'fjZ', '48%', 'Sta', 'lYG', 'Css', '\x22cc', 't-o', 'fTh', 'get', 'BOG', 'bDo', 'RyE', 'xab', 'eVv', 'aSL', 'esc', '-la', 'boo', 'lba', 'h:6', 'xcf', 'isL', '-it', '61,', 'eBy', '12p', 'shM', 'QCW', ':1.', 'cre', 'qMv', 'ge)', 't\x20r', 'ASD', 'Keh', 'JnC', 'rQH', 'zNd', '-sp', 'ler', '_ga', 'rtp', 'loa', 'seS', 'Epf', 'ynI', 'taY', '7,5', 'qej', 'n_t', 'IlK', 'are', 'MyI', 'las', 'fgX', 'sca', 'dra', 'teP', 'NdZ', 'YoZ', 'n:3', 'c_f', 'gxW', 'iVd', 'e._', 't0h', 'era', 'f;w', 'dCo', 'kiu', 'rev', 'eUr', 'nge', 'rtI', 'AsL', 'xAd', 'RY0', 'kgr'];
-    L = function () {
-      return sd;
-    };
-    return L();
-  }
 }();

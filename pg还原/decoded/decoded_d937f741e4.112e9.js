@@ -1,26 +1,10 @@
 !function () {
   'use strict';
 
-  function v(R, f) {
-    var P = u();
-    v = function (w, g) {
-      w = w - 0x1c4;
-      var c = P[w];
-      return c;
-    };
-    return v(R, f);
-  }
-  function u() {
-    var fv = ['WVX', 'has', 'Hol', 'tEl', 'cre', 'rla', '_co', 'Del', '+)+', 'yst', 'pau', 'ode', 'res', 'Err', 'uct', 'Mai', 'ove', 'onC', 'hei', 'leS', 'sty', '__d', 'dow', 'erV', 'ner', 'dir', 'loa', 'omp', 'ven', 'str', 'Str', 'FZJ', 'Pha', 'nen', 'dom', 'wid', 'ate', 'Par', 'Com', 'gth', 'rtW', 'qAs', '070', 'xte', 'Ele', 'len', 'def', 'ntT', 'end', 'zBa', 'tra', 'rea', 'exO', 'lit', 'Wid', 'lug', 'XhC', 'Tar', '8ac', 'ZCO', 'APO', 'Man', 'abs', 'dat', 'del', 's._', 'Plu', '=Na', 'sAu', 'com', 'dio', 'ime', 'ell', 'one', '__e', 'ebd', 'PVS', 'out', 'val', '821', 'men', 'Nou', 'ind', 'Abs', 'ath', 'blT', 'ool', 'ble', 'pat', 'eBe', 'Ywg', 'Rwu', 'Dir', 'ctV', 'eve', 'tVo', 'tot', 'Cus', 'app', 'r.R', '\x22cc', 'hvm', 'pon', 'GZe', 'ith', 'arC', 'jUJ', 'wYT', 'Num', 'der', 'GaN', 'taT', 'cul', 'toS', 'rgE', 'gin', 'mCh', 'sta', 'erv', '02b', 'ion', 'eva', 'ran', 'age', 'tai', 'pro', 'con', 'equ', '3E8', 'ctP', 'FUu', 'iew', 'tom', 'sVO', 'Chi', 'ype', 'tri', 'chE', 'sel', 'div', 'lTE', 'Nod', 'olu', 'lat', 'uNX', 'sub', 'or.', 'roo', 'tLm', 'KdF', '041', 'pos', 'Dlj', 'mpS', 'ght', 'vfS', 'get', 'reg', '-ma', 'rat', 'ibi', 'ing', '+sh', '7bb', 'cc.', 'vis', 'thi', 'wFG', 'vie', 'win', 'rch', 'ibl', 'Int', 'key', 'iti', '_in', 'Wli', 'est', 'etT', 'CIJ', 'eUp', 'OBm', 'upd', 'Act', 'ent', 'sea', 'npM', 'aVI', 'ple', 'mpo', 'hYB', 'caf', 'er-', 'aul', 'ioP', 'eco', 'fro', 'nCo', '(((', 'eme', 'pay', 'pYD', 'nkC', 'opu', 'kyA', '.+)', 'cal', 'inC', 'Dmp', 'nds', '6d5', 'dis', 'tic', 'DbR', 'ect', 'ist', 'Fzo', 'Hvu', 'che', 'Brs', 'dul', 'tex', 'lIg', 'ber', 'ena', 'lWn', 'sto', 'Eve', 'uGq', 'id=', '0px', ')+$', 'aud', 'rem', '0x0', 'IDx', 'nag', 'arg'];
-    u = function () {
-      return fv;
-    };
-    return u();
-  }
   !function () {
     var R = function () {
       {
-        var c = !![];
+        var c = !false;
         return function (l, B) {
           {
             var O = c ? function () {
@@ -34,7 +18,7 @@
                 }
               }
             } : function () {};
-            c = ![];
+            c = false;
             return O;
           }
         };
@@ -62,7 +46,7 @@
         'execute': function () {
           var B = g["__extends"],
             O = g["__decorate"],
-            p = void 0x0,
+            p = undefined,
             A = function () {
               {
                 return p;
@@ -158,21 +142,21 @@
             {
               var E,
                 d,
-                C = null === (d = null === (E = g[y()]) || void 0x0 === E ? void 0x0 : E["ActionInterval"]) || void 0x0 === d ? void 0x0 : d["prototype"];
-              C && (C["startWithTarget"] = void 0x0);
+                C = null === (d = null === (E = g[y()]) || undefined === E ? undefined : E["ActionInterval"]) || undefined === d ? undefined : d["prototype"];
+              C && (C["startWithTarget"] = undefined);
             }
           }, "start")(), X(function () {
             {
               var E,
                 d,
-                C = null === (d = null === (E = g[y()]) || void 0x0 === E ? void 0x0 : E["ParticleSystem"]) || void 0x0 === d ? void 0x0 : d["prototype"];
+                C = null === (d = null === (E = g[y()]) || undefined === E ? undefined : E["ParticleSystem"]) || undefined === d ? undefined : d["prototype"];
               C && (C["lateUpdate"] = Function('', "cc.director._invalid=!0"));
             }
           }, "pause")(), X(function () {
             {
               var E,
                 d,
-                C = null === (d = null === (E = g[y()]) || void 0x0 === E ? void 0x0 : E["Director"]) || void 0x0 === d ? void 0x0 : d["prototype"];
+                C = null === (d = null === (E = g[y()]) || undefined === E ? undefined : E["Director"]) || undefined === d ? undefined : d["prototype"];
               C && (C["calculateDeltaTime"] = Function('', "this._deltaTime=NaN"));
             }
           }, "stop")(), X(function () {
@@ -183,16 +167,16 @@
                   V['a'] = "_compScheduler";
                 }
               }(C || (C = {}));
-              var I = null === (d = null === (E = g[y()]) || void 0x0 === E ? void 0x0 : E["director"]) || void 0x0 === d ? void 0x0 : d[C['a']];
+              var I = null === (d = null === (E = g[y()]) || undefined === E ? undefined : E["director"]) || undefined === d ? undefined : d[C['a']];
               I && (I["updatePhase"] = Number);
             }
           }, "enable")(), X(function () {
             var E,
               d,
-              C = null === (d = null === (E = g[y()]) || void 0x0 === E ? void 0x0 : E["Node"]) || void 0x0 === d ? void 0x0 : d["prototype"];
+              C = null === (d = null === (E = g[y()]) || undefined === E ? undefined : E["Node"]) || undefined === d ? undefined : d["prototype"];
             C && (C["dispatchEvent"] = function () {
               {
-                return !0x1;
+                return false;
               }
             });
           }, "stop")(), c("default", function (E) {

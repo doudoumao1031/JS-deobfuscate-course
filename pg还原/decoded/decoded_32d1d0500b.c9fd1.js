@@ -1,26 +1,10 @@
 !function () {
   'use strict';
 
-  function x() {
-    var N7 = ['ver', 'exO', 'nWi', 'aut', 'YpG', 'Com', 'cyC', 'eCe', 'mpo', 'OR_', 'x;m', 'bun', 'Cac', 'ati', 'omC', 'isG', 'Ypz', '_LO', '6ec', 'men', 'GAM', 'rep', 'OUz', 'eva', 'n:a', '__t', 'opu', ':10', 'arg', 'ctC', 'EMK', 'uAc', 'iUj', '-ov', 'EiS', 'CbM', 'nme', 'col', '#ff', 'src', 't-s', 'aRA', 'ot\x20', 'Err', 'VZW', 'f;w', 'er{', 'bb7', 'mai', 'TbT', 'dth', 'ny\x20', 'ugi', 'dBy', 'Sin', 'fun', 'r}#', 'deS', 'n\x20n', 'Pre', 'QqU', ':el', 'Sta', 'cax', 'lut', 'emy', '4px', 'olv', 't\x20p', 'eIn', 'lon', 'wXi', 'dow', 'zRg', 'con', 'BSX', 'XHR', 'opl', 's:f', 'nds', 'd\x20s', 'Sha', 'ace', 'nsi', 'inG', 'wVq', 'E_S', 'vie', 'toC', 'PLK', 'Cli', 'Qro', 'in.', 'rib', 'lig', 'our', 'mar', 'vks', 'yiW', 'fic', 'TVM', 'orS', 'esp', 'ory', 'siz', '{fl', '00%', 'low', 'one', 'dNX', 'kpw', '-ap', 'spa', 'Scr', 'onI', 'ink', 't:1', 'loa', 'jOi', 'uio', 'ft{', 'hei', 'DGG', 'Ori', 'qAs', 'kna', 'cti', 'fie', 'QSJ', 'ran', 'gjh', 'Awh', 'inM', 'Att', 'hqR', 'XeH', 'uth', 'sli', 'Ipp', 'dRe', 'r>d', 'tus', 'VAT', 'YlB', 'llb', 'in-', 'n:t', 'thW', 'urn', 'how', 'SES', 'lit', 'TRI', 'aul', 'Typ', '\x20Lo', 'VNj', ')+$', 'ism', '\x20Me', 'ay-', '__d', 'ex-', 'UWK', 'aQW', 'Ide', 'uJA', 'h:1', 'app', 'PVO', 'ndl', 'olu', 'tnF', 'aBZ', 'MXI', 'ler', 'She', 'poe', 'YDb', 'cac', 'Hwf', 'tot', 'ing', 'eUr', 'iSu', 'oke', 'mPa', 'ain', 'edi', 'elo', 'dir', 'len', 'Lef', 'orm', 'xt-', 'et(', 'nQd', 'def', 'off', 'cle', 'ntT', 'dVG', 'ovi', 'etT', 'eri', 'edu', 'thi', 'd;b', 'wra', 'oPa', 'FyO', 'lex', 'unl', 'wKG', 'th:', 'eaw', 'emi', 'set', 'FLx', 'eme', 'Pha', 'css', 'kyO', 'oth', '02b', 'ust', 'arC', 'e\x20d', 'Hin', 'ion', 'tTo', 'ine', 'eSp', 'zsV', '1px', 'er\x20', 'url', 'gsS', 'dlq', 'Dig', 'Ani', '.+)', 'rOO', 'POS', 'obi', 'rag', 'per', 'BbU', 'xnz', '\x20Ga', 'top', 'oti', 'api', 'ify', 'tLo', 'JBv', 'aud', 'dvd', 'ft:', 'uiO', 'sFe', 'Usv', 'OnS', 'Ele', '_SE', 'eXD', 'str', '%;p', 'TDw', 'Num', 'UOh', 'ONj', 'npM', '/ge', 'f;h', 'ope', 'isI', 'Des', 'oad', 'sel', 'TOU', 'Ite', 'Mai', 'lay', 'bet', 'fot', 'Eve', 'Bun', 'GLg', 'n-f', 'lba', 'mat', 'ymb', 'SVS', 'Chi', 'ide', 'Wof', 'duL', '}#l', 'isp', 'Log', 'gam', 'toc', 'com', 'ool', 'nav', 'e:1', 'h;a', 'cyS', 'XGE', 'ody', ';ov', 'ZkH', 'teX', 'div', 'pdu', 'iEX', 'His', 'Res', 'AKB', 'tid', 'pti', 'nts', 'res', 'iew', 'FaY', 'y:f', 'eou', 'bod', 'ebL', 'le{', 'mot', '041', 'iro', '0x0', 'omR', 'JLt', 'ifr', 'isR', 'und', 'ade', 'lip', 'r;w', 'qto', 'NbI', 'r\x20o', 'ifi', 'ont', 'tri', 'nsf', '/se', 'lIC', 'sen', 'JFC', 'nkn', 'p:0', 'nta', 'del', 'ken', 'vro', 'B_L', 'ign', 'Sqm', 'rat', 'vh;', 'nea', 'win', 'bFF', 'EDQ', 'Zev', 'ser', 'IFR', ':ce', 'OnL', 'inC', 'kKr', 'iop', 'Ope', 'abl', 'Own', 'AoQ', 'all', 'ght', 'ION', '{ba', 'AME', ';wh', 'NOR', 'ht}', 'eBu', '.pl', 'out', 'rig', 'aRV', 'n;t', 'geu', 'nte', 'ctV', 'LVz', 'n.l', '(((', 'qTS', 'arA', 'g\x20a', 'utu', 'Sus', 'eAp', 'acc', 'iga', 'Uti', 'UWJ', 'req', 'me{', 'yAp', 'rev', 'otk', 'ft}', 'est', '18p', 'rot', 'che', 'llC', 'fyW', 'EAO', 'erf', '-en', 'mod', 'ngl', '\x20To', 'Ass', 'eft', '\x20fo', 'bdo', 'OBO', 'omp', 'sto', 'Lea', 'sho', 'sol', 'nt-', 'fhH', 's.p', 'OPE', 'Nam', 'Str', 'ell', 'NON', 'SDD', 'BnO', '_co', '00p', 'JBM', 'Hei', 'Ssy', 'n-i', 'sea', 'or.', 'occ', 'and', 'rla', 'RBc', 'xvP', 'etc', '\x20no', '-sp', 'cur', 'ina', '\x22cc', 'wxf', 'ATM', 'gZe', 'N_L', 'orC', 'kfO', 'sys', 'ena', 'mCh', 'gn-', 'x;t', 'wid', '-al', 'vis', 'uPD', 'ess', 'dit', 'ibi', 'eig', 'FPk', 'igh', 'een', 'nTo', 'log', 'oco', 'BMF', 'cc.', 'r-m', 'isM', 'OGI', 'orT', 'ype', 'nSe', 'raw', 'qVs', 'tio', 'que', 'ctP', 'LaU', 'Lum', 'lg_', 'in\x20', 'MgW', 'Cal', ':hi', 'SkN', 'env', 'e;t', '992', 'onC', 'act', 'OnD', 'r\x20s', 'VFD', ';fo', 'oin', 'mhM', 'nEd', 'EWf', 'eEn', 'Pos', 'rgi', '\x20Op', 'snn', 'AQW', 'ITH', 'ers', 'nSt', 'ssi', 'hSj', 'VqU', 'WEB', 'Yjh', 'tBy', 'tai', 'Act', '\x20se', 'PPk', 'vwj', 'mUI', 'rOu', 'rom', 'tCa', 'tra', '\x20to', 'Plu', 'org', 'ePa', 'iAs', 'lic', 'osi', 'Url', 'pqu', 'ind', 'gcv', '\x20th', 'pac', 'Sim', 'I18', 'tFr', 'bQR', 'pen', 'ode', 'zoV', 'Aut', 'tro', '\x20be', 'xJE', 'MEN', 'tex', 'HQk', 'esM', 'Sca', 'roo', '+sh', 'ize', 'e:\x20', 'vMN', 'sdn', 'pon', 'jso', 'ute', 'row', 'nen', 'onP', 'ato', 'tZG', 'bso', 'eKM', 'shG', 'red', 'add', 'lug', 'sxC', 'in:', 'ow:', 'LIC', 'xte', 'mis', 'sdi', 'eth', 'r\x20g', 'eco', 'kCa', 'hUj', 'tho', 'onD', '0%;', 'ove', 'ite', 'bin', 'cre', 'nce', 'tuf', 'rro', 'chM', 'MNV', 'onL', 'is.', '-le', ';ma', ':11', 'ple', 'cal', '00;', 'p;w', 'Dat', 'ded', 'Abs', 'eTi', 'wgV', 'ayC', 'eId', 'pus', 'age', '-mi', 'reg', 'N_W', 'ApY', 'eAs', ':0;', 'wat', 'RwC', 'uct', '0px', 'TEu', 'x-c', 'AxF', 'dde', 'get', 'nic', 'hid', 'PRI', 'RAT', 'tom', 'onE', 'ret', '__a', 'dUk', 'rov', 'dio', 'orJ', 'nHD', 'Fro', 'pid', 'bau', 'nUr', 'den', 'end', 'omD', 'eDz', 'n-r', 'ara', 'btt', 'abo', 'ele', '.\x20P', 'JWt', 'Man', 'eat', 'sGs', 'Eac', 'ddl', 'yZm', 'xbc', 'bje', 'w:1', 'ms:', 'uen', 'CDm', 'unf', 'pla', 'toS', 'der', 'rou', 'zat', 'rMI', 'inH', 'Sty', 'key', 'bfO', 'tfo', 'dle', 'rzg', 'era', 'rfl', 'sta', ':\x20U', 'inL', 'se\x20', 'XQO', 'ete', '__e', 'uri', 'fon', 'x}#', 'ani', 'fle', 'blu', 'enc', 'Elj', '%}#', '_WE', 'Ver', 'oju', 'mQr', 'GIN', 'igu', 'n-b', 'ist', 'Two', 'PUB', 'n{b', 'Nod', 'raA', 'or:', 'ame', 'ent', 'wPa', 'RKm', 'eSe', 'ryL', ';po', 'rch', 'fyG', 'tem', 'ber', 'inD', 'dCa', 'oej', 'teg', 'FhO', 'Auy', 'jCL', 't:5', 'ses', 'orP', 'KJy', 'rSe', 'MAR', 'Pro', 'onO', 'erT', 'nag', 'BaW', 'rem', 'JSe', 'WyA', 'SIO', 'ntL', '-he', 'op:', 'ire', 'Cus', '.3s', 'vDW', '\x20is', 'atu', 'ath', 'din', 'ime', 'lac', '(di', 'cat', 'mRU', '#lo', 'oNe', '070', 'ini', 'ZGB', 'll.', 'rif', 'erS', 'own', 'wEB', 'inS', 'JTL', 'Sto', 'ogi', 'fer', '-ri', 'lRg', 'sit', 'px;', 'ENi', 'onc', 'dom', 'ioP', 'has', '100', 'YER', 'teY', 'nd-', 'idt', 'inR', 'is\x20', 'Id\x20', '+)+', 'mpS', 'sse', 'sub', '-co', 'tEl', '_ma', 'obs', 'Key', 'VQV', 'lor', 'ble', 'des', 'wnC', 'on\x20', 'ctN', 'i/a', 'FBc', 'rti', 'ues', 'onf', 'use', 'Dis', 'PYh', 'eBy', 'loc', 'ufg', 'zPX', 'rel', 'ht:', 'sor', 'Ina', 'RZU', 'nCo', 'op\x20', 'ise', 'eve', ';to', 'sio', 'err', 'moj', 'pay', 'YmR', 'ale', 'ach', 'tCo', 'heD', 'eAR', 'fra', 'MAL', 'tTa', 'orG', '3E8', '\x20ve', 'EtS', 'nda', 'Nbo', 'eCa', 'gn:', 'Sho', 'hea', 'sEQ', 'YGR', 'oUd', 'ice', 'ct]', 'gro', 'lNm', 'heT', 'hen', '755', 'Fzt', 'iss', 'HQr', 'pro', 'sAu', 'ceC', 'me\x20', ':le', '3d9', 'not', 'tan', 'bac', '12c', 'f;l', 'XeX', 'x-g', 'web', 'ali', 'ren', 'erC', '/lo', 'qID', 'seq', 'cCH', ':1;', 'GrJ', 'Hba', 'ect', 'Get', 'fro', 'ner', 'tim', 'Aeg', 'for', 'OnV', ':14', 'Dom', 'ctO', 'par', 'RNA', 'IMB', 'aWE', 'cRp', 'Web', ':no', 'tic', 'SZV', 'teP', 'ene', 'tor', 'wPj', 'pub', 'Loc', '\x20pr', 'iWZ', 'ata', 'upd', 'sty', 'bor', 'HDZ', '8px', 'PLA', 'on/', 'lea', 'eas', 'tNo', 'OEc', '\x20do', 'gle', 'ack', 'ica', 'Sch', 'dEv', 'iv{', 'fyO', 'ext', 'inU', 'dul', 'r{l', 'pGy', 'dis', 'Ses', 'zYG', 'roy', 'cod', 'dBu', 'yer', ':ab', 'rea', 'Ser', 'erv', 'gth', 'BFv', 'eSi', ';te', 'Pla', 'ons', '\x20li', '/v1', 'ial', 'nti', 'SSI', 'Iaz', ':#0', 'ate', 'NcK', 'ocr', 'hXp', 'gin', 'Gam', 't\x20O', 'pcd', 'gqC', 'iUr', 'rGa', 'ocd', 'jVk', 'sis', 'v2/', 'ckg', '[ob', 'SGf', 'led', 'Env', 'kYu', 'ESS', 'spl', 'meC', 'emM', 'Cam', 'idd', '-wi', 'jec', 'Wid', 'ive'];
-    x = function () {
-      return N7;
-    };
-    return x();
-  }
-  function S(T, b) {
-    var W = x();
-    S = function (I, N) {
-      I = I - 0xf0;
-      var v = W[I];
-      return v;
-    };
-    return S(T, b);
-  }
   !function () {
     var T = function () {
       {
-        var v = !![];
+        var v = !false;
         return function (r, V) {
           {
             var n = v ? function () {
@@ -34,7 +18,7 @@
                 }
               }
             } : function () {};
-            v = ![];
+            v = false;
             return n;
           }
         };
@@ -133,7 +117,7 @@
                     {
                       sessionStorage = sessionStorage || function (T0) {
                         {
-                          var T0 = void 0x0;
+                          var T0 = undefined;
                           if (H(T0) && T0["hasOwnProperty"]("err") && T0["hasOwnProperty"]('dt')) {
                             {
                               var TY = T0["err"];
@@ -177,7 +161,7 @@
               {
                 function Tv() {
                   {
-                    this["lg_e"] = new q(new p(), new G("json")), this["lg_n"] = void 0x0, this["lg_o"] = void 0x0;
+                    this["lg_e"] = new q(new p(), new G("json")), this["lg_n"] = undefined, this["lg_o"] = undefined;
                   }
                 }
                 return Tv["prototype"]["setDomain"] = function (sessionStorage) {
@@ -202,7 +186,7 @@
                       sessionStorage = this["lg_s"](sessionStorage);
                     sessionStorage = J(J({}, sessionStorage), {
                       'gi': sessionStorage["gameId"],
-                      'os': sessionStorage["operatorPlayerSession"] ? encodeURIComponent(sessionStorage["operatorPlayerSession"]) : void 0x0,
+                      'os': sessionStorage["operatorPlayerSession"] ? encodeURIComponent(sessionStorage["operatorPlayerSession"]) : undefined,
                       'otk': sessionStorage["operatorToken"]
                     }), this["lg_r"]("web-api/auth/session/v2/verifyOperatorPlayerSession", sessionStorage, sessionStorage);
                   }
@@ -235,7 +219,7 @@
                 }, Tv["prototype"]["lg_s"] = function (sessionStorage) {
                   {
                     return {
-                      'cp': sessionStorage["operatorParam"] ? encodeURIComponent(sessionStorage["operatorParam"]) : void 0x0,
+                      'cp': sessionStorage["operatorParam"] ? encodeURIComponent(sessionStorage["operatorParam"]) : undefined,
                       'btt': sessionStorage["betType"],
                       'vc': sessionStorage["cacheType"],
                       'pf': this["lg_o"],
@@ -363,7 +347,7 @@
                   }
                 }, Tv["prototype"]["clearAllCache"] = function () {
                   {
-                    this["lg_u"]["setItem"]("cache", void 0x0);
+                    this["lg_u"]["setItem"]("cache", undefined);
                   }
                 }, Tv;
               }
@@ -372,7 +356,7 @@
               {
                 function Tv(sessionStorage) {
                   {
-                    if (this["lg_l"] = void 0x0, this["lg_f"] = void 0x0, this["lg_d"] = void 0x0, this["lg_g"] = void 0x0, this["lg_v"] = void 0x0, this["lg_b"] = void 0x0, this["lg_m"] = void 0x0, this["lg_p"] = void 0x0, this["lg_L"] = void 0x0, this["lg_S"] = void 0x0, this["lg_O"] = void 0x0, this["lg_w"] = void 0x0, this["lg_y"] = void 0x0, this["lg_k"] = void 0x0, this["lg_x"] = void 0x0, this["lg_A"] = void 0x0, this["lg_j"] = void 0x0, this["lg_T"] = void 0x0, this["lg_E"] = void 0x0, this["lg_P"] = void 0x0, this["lg_V"] = void 0x0, this["lg_C"] = void 0x0, this["lg_N"] = void 0x0, this["lg_I"] = void 0x0, sessionStorage && sessionStorage['dt']) {
+                    if (this["lg_l"] = undefined, this["lg_f"] = undefined, this["lg_d"] = undefined, this["lg_g"] = undefined, this["lg_v"] = undefined, this["lg_b"] = undefined, this["lg_m"] = undefined, this["lg_p"] = undefined, this["lg_L"] = undefined, this["lg_S"] = undefined, this["lg_O"] = undefined, this["lg_w"] = undefined, this["lg_y"] = undefined, this["lg_k"] = undefined, this["lg_x"] = undefined, this["lg_A"] = undefined, this["lg_j"] = undefined, this["lg_T"] = undefined, this["lg_E"] = undefined, this["lg_P"] = undefined, this["lg_V"] = undefined, this["lg_C"] = undefined, this["lg_N"] = undefined, this["lg_I"] = undefined, sessionStorage && sessionStorage['dt']) {
                       {
                         var sessionStorage = sessionStorage['dt'];
                         this["lg_b"] = sessionStorage["pcd"], this["lg_m"] = sessionStorage['tk'], this["lg_p"] = sessionStorage['st'], this["lg_l"] = sessionStorage, this["lg_f"] = sessionStorage['oj'], this["lg_d"] = sessionStorage["opl"], this["lg_g"] = sessionStorage["pid"], this["lg_v"] = sessionStorage["sdn"], this["lg_L"] = sessionStorage["geu"], this["lg_S"] = sessionStorage["bau"], this["lg_O"] = sessionStorage['cc'], this["lg_w"] = sessionStorage['cs'], this["lg_y"] = sessionStorage["nkn"], this["lg_k"] = sessionStorage['gm'], this["lg_x"] = sessionStorage["ufg"], this["lg_A"] = sessionStorage['rt'], this["lg_j"] = sessionStorage["uiogc"], this["lg_T"] = sessionStorage['ec'], this["lg_E"] = sessionStorage["ocr"], this["lg_P"] = sessionStorage["ocdr"], this["lg_V"] = sessionStorage["occ"], this["lg_C"] = sessionStorage["gcv"], this["lg_N"] = sessionStorage["ioph"], this["lg_I"] = sessionStorage["eatk"];
@@ -386,192 +370,192 @@
                       return this["lg_l"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "operatorJurisdiction", {
                   'get': function () {
                     {
                       return this["lg_f"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "operatorPromotionLink", {
                   'get': function () {
                     {
                       return this["lg_d"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "playerId", {
                   'get': function () {
                     {
                       return this["lg_g"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "gameApiSubdomain", {
                   'get': function () {
                     {
                       return this["lg_v"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "playerName", {
                   'get': function () {
                     {
                       return this["lg_b"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "sessionToken", {
                   'get': function () {
                     {
                       return this["lg_m"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "sessionStatus", {
                   'get': function () {
                     {
                       return this["lg_p"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "gameEngineUrl", {
                   'get': function () {
                     {
                       return this["lg_L"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "betHistoryApiUrl", {
                   'get': function () {
                     {
                       return this["lg_S"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "currencyCode", {
                   'get': function () {
                     {
                       return this["lg_O"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "currencySymbol", {
                   'get': function () {
                     {
                       return this["lg_w"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "nickname", {
                   'get': function () {
                     {
                       return this["lg_y"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "gamesMaintanence", {
                   'get': function () {
                     {
                       return this["lg_k"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "unfinishGamesFeature", {
                   'get': function () {
                     {
                       return this["lg_x"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "reminderTime", {
                   'get': function () {
                     {
                       return this["lg_A"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "uiOperatorGameComponents", {
                   'get': function () {
                     {
                       return this["lg_j"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "elementCategory", {
                   'get': function () {
                     {
                       return this["lg_T"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "operatorCustomResponse", {
                   'get': function () {
                     {
                       return this["lg_E"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "operatorCustomDisplayResponse", {
                   'get': function () {
                     {
                       return this["lg_P"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "operatorCustomConfiguration", {
                   'get': function () {
                     {
                       return this["lg_V"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "gameCertificateVersion", {
                   'get': function () {
                     {
                       return this["lg_C"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "operatorPromotionId", {
                   'get': function () {
                     {
                       return this["lg_N"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Tv["prototype"], "extraAssetTableKey", {
                   'get': function () {
                     {
                       return this["lg_I"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Tv;
               }
             }();
@@ -593,7 +577,7 @@
                 function sessionStorage() {
                   {
                     var sessionStorage = null !== Tv && Tv["apply"](this, arguments) || this;
-                    return sessionStorage["lg_G"] = void 0x0, sessionStorage["lg_u"] = void 0x0, sessionStorage;
+                    return sessionStorage["lg_G"] = undefined, sessionStorage["lg_u"] = undefined, sessionStorage;
                   }
                 }
                 return F(sessionStorage, Tv), sessionStorage["prototype"]["onCreate"] = function () {
@@ -631,9 +615,9 @@
                         {
                           sessionStorage["push"](T7[Ta]);
                         }
-                      }), sessionStorage["sort"]()["reverse"]()), T0 = !0x1, T0 = function (Ta) {
+                      }), sessionStorage["sort"]()["reverse"]()), T0 = false, T0 = function (Ta) {
                         {
-                          T0 || (T0 = !0x0, Ta["push"](sessionStorage["lg__"]["bind"](sessionStorage)));
+                          T0 || (T0 = true, Ta["push"](sessionStorage["lg__"]["bind"](sessionStorage)));
                         }
                       }, T0 = 0x0; T0 < sessionStorage["length"]; T0++) {
                       {
@@ -660,11 +644,11 @@
                         for (var sessionStorage = [], sessionStorage = 0x0; sessionStorage < arguments["length"]; sessionStorage++) sessionStorage[sessionStorage] = arguments[sessionStorage];
                         return 0x1 === sessionStorage["length"] && sessionStorage[0x0] instanceof Array && (sessionStorage = sessionStorage[0x0]["slice"]()), function (sessionStorage) {
                           {
-                            var T0 = !0x1,
-                              T0 = void 0x0,
+                            var T0 = false,
+                              T0 = undefined,
                               T0 = function () {
                                 {
-                                  T0 || (T0 = !0x0, "function" == typeof T0 && T0());
+                                  T0 || (T0 = true, "function" == typeof T0 && T0());
                                 }
                               },
                               TY = 0x0,
@@ -693,7 +677,7 @@
                           sessionStorage = sessionStorage["operatorPlayerSession"],
                           sessionStorage = sessionStorage["res"],
                           sessionStorage = new TT(sessionStorage),
-                          T0 = void 0x0 === sessionStorage["uiOperatorGameComponents"]['vc'] ? T3["NONE"] : sessionStorage["uiOperatorGameComponents"]['vc'],
+                          T0 = undefined === sessionStorage["uiOperatorGameComponents"]['vc'] ? T3["NONE"] : sessionStorage["uiOperatorGameComponents"]['vc'],
                           T0 = sessionStorage["sessionToken"];
                         var T0 = {};
                         T0["cacheType"] = T0;
@@ -715,7 +699,7 @@
                       {
                         var sessionStorage = sessionStorage["payload"],
                           T0 = sessionStorage["err"];
-                        T0 && !T1(T0) ? (sessionStorage["lg_H"](), sessionStorage && sessionStorage(void 0x0, sessionStorage)) : sessionStorage && sessionStorage(!0x0, sessionStorage);
+                        T0 && !T1(T0) ? (sessionStorage["lg_H"](), sessionStorage && sessionStorage(undefined, sessionStorage)) : sessionStorage && sessionStorage(true, sessionStorage);
                       }
                     }, this), this["context"]["event"]["emit"]("Login.VerifyWebLoginSession", sessionStorage);
                   }
@@ -725,20 +709,20 @@
                       sessionStorage = this,
                       sessionStorage = (sessionStorage = this["lg_G"], JSON["parse"](JSON["stringify"](sessionStorage))),
                       T0 = this["lg_u"]["getCacheData"]();
-                    if (sessionStorage["cacheType"] = T0 && void 0x0 !== T0["cacheType"] ? T0["cacheType"] : T3["NONE"], this["lg_X"]()) sessionStorage["playerSession"] = T0["gsSession"], this["context"]["event"]["once"]("Login.OnVerifyGameSession", function (Ta) {
+                    if (sessionStorage["cacheType"] = T0 && undefined !== T0["cacheType"] ? T0["cacheType"] : T3["NONE"], this["lg_X"]()) sessionStorage["playerSession"] = T0["gsSession"], this["context"]["event"]["once"]("Login.OnVerifyGameSession", function (Ta) {
                       {
                         var Ta = Ta["payload"],
                           TC = Ta["err"];
-                        TC && !T1(TC) ? (sessionStorage["lg_H"](), sessionStorage && sessionStorage(void 0x0, Ta)) : sessionStorage && sessionStorage(!0x0, Ta);
+                        TC && !T1(TC) ? (sessionStorage["lg_H"](), sessionStorage && sessionStorage(undefined, Ta)) : sessionStorage && sessionStorage(true, Ta);
                       }
-                    }, this), this["context"]["event"]["emit"]("Login.VerifyGameSession", sessionStorage);else if (this["lg_H"](), sessionStorage && sessionStorage["err"]) sessionStorage && sessionStorage(void 0x0, sessionStorage);else {
+                    }, this), this["context"]["event"]["emit"]("Login.VerifyGameSession", sessionStorage);else if (this["lg_H"](), sessionStorage && sessionStorage["err"]) sessionStorage && sessionStorage(undefined, sessionStorage);else {
                       {
                         var T0 = shell["ClientError"],
                           T0 = new (0x0, shell["Error"])(T0["Domain"], T0["AuthenticationError"]);
                         var TY = {};
                         TY["err"] = T0;
-                        TY["res"] = void 0x0;
-                        sessionStorage && sessionStorage(void 0x0, TY);
+                        TY["res"] = undefined;
+                        sessionStorage && sessionStorage(undefined, TY);
                       }
                     }
                   }
@@ -750,16 +734,16 @@
                       {
                         var TY = T0["payload"],
                           Ta = TY["err"];
-                        Ta && !T1(Ta) ? (sessionStorage["lg_H"](), sessionStorage && sessionStorage(void 0x0, TY)) : sessionStorage && sessionStorage(!0x0, TY);
+                        Ta && !T1(Ta) ? (sessionStorage["lg_H"](), sessionStorage && sessionStorage(undefined, TY)) : sessionStorage && sessionStorage(true, TY);
                       }
-                    }, this), this["context"]["event"]["emit"]("Login.VerifyGameSession", sessionStorage);else if (sessionStorage && sessionStorage["err"]) sessionStorage && sessionStorage(void 0x0, sessionStorage);else {
+                    }, this), this["context"]["event"]["emit"]("Login.VerifyGameSession", sessionStorage);else if (sessionStorage && sessionStorage["err"]) sessionStorage && sessionStorage(undefined, sessionStorage);else {
                       {
                         var sessionStorage = shell["ClientError"],
                           T0 = new (0x0, shell["Error"])(sessionStorage["Domain"], sessionStorage["AuthenticationError"]);
                         var T0 = {};
                         T0["err"] = T0;
-                        T0["res"] = void 0x0;
-                        sessionStorage && sessionStorage(void 0x0, T0);
+                        T0["res"] = undefined;
+                        sessionStorage && sessionStorage(undefined, T0);
                       }
                     }
                   }
@@ -771,16 +755,16 @@
                       {
                         var TY = T0["payload"],
                           Ta = TY["err"];
-                        Ta && !T1(Ta) ? (sessionStorage["lg_H"](), sessionStorage && sessionStorage(void 0x0, TY)) : sessionStorage && sessionStorage(!0x0, TY);
+                        Ta && !T1(Ta) ? (sessionStorage["lg_H"](), sessionStorage && sessionStorage(undefined, TY)) : sessionStorage && sessionStorage(true, TY);
                       }
-                    }, this), this["context"]["event"]["emit"]("Login.VerifyOperatorSession", sessionStorage);else if (sessionStorage && sessionStorage["err"]) sessionStorage && sessionStorage(void 0x0, sessionStorage);else {
+                    }, this), this["context"]["event"]["emit"]("Login.VerifyOperatorSession", sessionStorage);else if (sessionStorage && sessionStorage["err"]) sessionStorage && sessionStorage(undefined, sessionStorage);else {
                       {
                         var sessionStorage = shell["ClientError"],
                           T0 = new (0x0, shell["Error"])(sessionStorage["Domain"], sessionStorage["AuthenticationError"]);
                         var T0 = {};
                         T0["err"] = T0;
-                        T0["res"] = void 0x0;
-                        sessionStorage && sessionStorage(void 0x0, T0);
+                        T0["res"] = undefined;
+                        sessionStorage && sessionStorage(undefined, T0);
                       }
                     }
                   }
@@ -794,7 +778,7 @@
                         if (sessionStorage) return sessionStorage["operatorPlayerSession"] === sessionStorage;
                       }
                     }
-                    return !0x1;
+                    return false;
                   }
                 }, sessionStorage["prototype"]["lg_H"] = function () {
                   {
@@ -857,7 +841,7 @@
                 }, sessionStorage["prototype"]["lg_oi"] = function () {
                   {
                     var sessionStorage = this;
-                    this["context"]["event"]["emit"]("Shell.GetScale", void 0x0, function (sessionStorage) {
+                    this["context"]["event"]["emit"]("Shell.GetScale", undefined, function (sessionStorage) {
                       {
                         !sessionStorage["error"] && sessionStorage["lg_ni"](sessionStorage);
                       }
@@ -865,11 +849,11 @@
                   }
                 }, sessionStorage["prototype"]["lg_si"] = function () {
                   {
-                    this["context"]["event"]['on']("Shell.Scaled", this["lg_ni"], this), this["lg_J"]["addEventListener"]("transitionend", this["lg_ri"]["bind"](this), !0x0);
+                    this["context"]["event"]['on']("Shell.Scaled", this["lg_ni"], this), this["lg_J"]["addEventListener"]("transitionend", this["lg_ri"]["bind"](this), true);
                   }
                 }, sessionStorage["prototype"]["lg_hi"] = function () {
                   {
-                    this["context"]["event"]["off"]("Shell.Scaled", this["lg_ni"], this), this["lg_J"]["removeEventListener"]("transitionend", this["lg_ri"]["bind"](this), !0x0);
+                    this["context"]["event"]["off"]("Shell.Scaled", this["lg_ni"], this), this["lg_J"]["removeEventListener"]("transitionend", this["lg_ri"]["bind"](this), true);
                   }
                 }, sessionStorage["prototype"]["lg_z"] = function (sessionStorage) {
                   {
@@ -878,7 +862,7 @@
                   }
                 }, sessionStorage["prototype"]["lg_ui"] = function () {
                   {
-                    this["lg_hi"](), this["view"]["removeFromParent"](sessionStorage), this["rootElement"] = void 0x0, this["lg_J"] = void 0x0, this["lg_Q"] = void 0x0, this["lg_K"] = void 0x0, this["lg_ei"] = void 0x0;
+                    this["lg_hi"](), this["view"]["removeFromParent"](sessionStorage), this["rootElement"] = undefined, this["lg_J"] = undefined, this["lg_Q"] = undefined, this["lg_K"] = undefined, this["lg_ei"] = undefined;
                   }
                 }, sessionStorage["prototype"]["lg_ri"] = function () {
                   {
@@ -941,27 +925,27 @@
                   sessionStorage['a'] = "enabled";
                 }
               }(sessionStorage || (sessionStorage = {}));
-              var sessionStorage = null === (sessionStorage = null === (Tv = N[TS()]) || void 0x0 === Tv ? void 0x0 : Tv["Camera"]) || void 0x0 === sessionStorage ? void 0x0 : sessionStorage["main"];
-              sessionStorage && (sessionStorage[sessionStorage['a']] = !0x1);
+              var sessionStorage = null === (sessionStorage = null === (Tv = N[TS()]) || undefined === Tv ? undefined : Tv["Camera"]) || undefined === sessionStorage ? undefined : sessionStorage["main"];
+              sessionStorage && (sessionStorage[sessionStorage['a']] = false);
             }
           }, "disable")(), TN(function () {
             {
               var Tv,
                 sessionStorage,
-                sessionStorage = null === (sessionStorage = null === (Tv = N[TS()]) || void 0x0 === Tv ? void 0x0 : Tv["Component"]) || void 0x0 === sessionStorage ? void 0x0 : sessionStorage["prototype"];
+                sessionStorage = null === (sessionStorage = null === (Tv = N[TS()]) || undefined === Tv ? undefined : Tv["Component"]) || undefined === sessionStorage ? undefined : sessionStorage["prototype"];
               sessionStorage && (sessionStorage[TW['a']] = Function('', "cc.director.reset()"));
             }
           }, "stop")(), TN(function () {
             {
               var Tv,
                 sessionStorage,
-                sessionStorage = null === (sessionStorage = null === (Tv = N[TS()]) || void 0x0 === Tv ? void 0x0 : Tv["Animation"]) || void 0x0 === sessionStorage ? void 0x0 : sessionStorage["prototype"];
+                sessionStorage = null === (sessionStorage = null === (Tv = N[TS()]) || undefined === Tv ? undefined : Tv["Animation"]) || undefined === sessionStorage ? undefined : sessionStorage["prototype"];
               sessionStorage && (sessionStorage["play"] = Function('', "this.play()"));
             }
           }, "enable")(), TN(function () {
             {
               var Tv,
-                sessionStorage = null === (Tv = N[TS()]) || void 0x0 === Tv ? void 0x0 : Tv["director"];
+                sessionStorage = null === (Tv = N[TS()]) || undefined === Tv ? undefined : Tv["director"];
               sessionStorage && (sessionStorage["getActionManager"] = Function('', "return this._manager"));
             }
           }, "disable")(), TN(function () {
@@ -972,7 +956,7 @@
                   sessionStorage['a'] = "_compScheduler";
                 }
               }(sessionStorage || (sessionStorage = {}));
-              var sessionStorage = null === (sessionStorage = null === (Tv = N[TS()]) || void 0x0 === Tv ? void 0x0 : Tv["director"]) || void 0x0 === sessionStorage ? void 0x0 : sessionStorage[sessionStorage['a']];
+              var sessionStorage = null === (sessionStorage = null === (Tv = N[TS()]) || undefined === Tv ? undefined : Tv["director"]) || undefined === sessionStorage ? undefined : sessionStorage[sessionStorage['a']];
               sessionStorage && (sessionStorage["updatePhase"] = Number);
             }
           }, "enable")(), v("default", function (Tv) {
@@ -992,8 +976,8 @@
             }, sessionStorage["prototype"]["verifyGameSession"] = function (sessionStorage) {
               var sessionStorage = this,
                 sessionStorage = sessionStorage["payload"];
-              if (void 0x0 === sessionStorage["gameId"]) throw Error("Login: Game Id is not provided for game session verification.");
-              if (void 0x0 === sessionStorage["operatorToken"]) throw Error("Login: Operator Token is not provided");
+              if (undefined === sessionStorage["gameId"]) throw Error("Login: Game Id is not provided for game session verification.");
+              if (undefined === sessionStorage["operatorToken"]) throw Error("Login: Operator Token is not provided");
               T0["verifyGameSession"](sessionStorage, function (sessionStorage, sessionStorage) {
                 var T0 = {};
                 T0["err"] = sessionStorage;
@@ -1003,8 +987,8 @@
             }, sessionStorage["prototype"]["verifyOperatorSession"] = function (sessionStorage) {
               var sessionStorage = this,
                 sessionStorage = sessionStorage["payload"];
-              if (void 0x0 === sessionStorage["gameId"]) throw Error("Login: Game Id is not provided for operator session verification.");
-              if (void 0x0 === sessionStorage["operatorToken"]) throw Error("Login: Operator token is not provided");
+              if (undefined === sessionStorage["gameId"]) throw Error("Login: Game Id is not provided for operator session verification.");
+              if (undefined === sessionStorage["operatorToken"]) throw Error("Login: Operator token is not provided");
               T0["verifyOperatorGameSession"](sessionStorage, function (sessionStorage, sessionStorage) {
                 var T0 = {};
                 T0["err"] = sessionStorage;
@@ -1015,8 +999,8 @@
               var sessionStorage,
                 sessionStorage = this,
                 sessionStorage = sessionStorage["payload"];
-              if (void 0x0 === sessionStorage["gameId"]) throw Error("Login: Game Id is not provided for operator session verification.");
-              if (void 0x0 === sessionStorage["operatorToken"]) throw Error("Login: Operator token is not provided");
+              if (undefined === sessionStorage["gameId"]) throw Error("Login: Game Id is not provided for operator session verification.");
+              if (undefined === sessionStorage["operatorToken"]) throw Error("Login: Operator token is not provided");
               T0["queryLoginUrl"](sessionStorage, function (T0, T0) {
                 if (T0) sessionStorage["context"]["event"]["emit"]("Login.OnVerifyWebLoginSession", {
                   'err': T0,
@@ -1026,11 +1010,11 @@
                     Ta = T0['dt']["url"];
                   var Ta = {};
                   Ta["loginUrl"] = Ta;
-                  sessionStorage["playerSession"] = TY, sessionStorage = !0x0, sessionStorage["context"]["event"]["once"]("Login.OnShow", T0, sessionStorage), sessionStorage["context"]["event"]["once"]("Login.Dismiss", sessionStorage, sessionStorage), sessionStorage["context"]["event"]["emit"]("Login.Show", Ta);
+                  sessionStorage["playerSession"] = TY, sessionStorage = true, sessionStorage["context"]["event"]["once"]("Login.OnShow", T0, sessionStorage), sessionStorage["context"]["event"]["once"]("Login.Dismiss", sessionStorage, sessionStorage), sessionStorage["context"]["event"]["emit"]("Login.Show", Ta);
                 }
               });
               var sessionStorage = function () {
-                  sessionStorage = !0x1;
+                  sessionStorage = false;
                 },
                 T0 = function () {
                   var T0 = function () {
@@ -1038,7 +1022,7 @@
                       TY = shell["ClientError"],
                       Ta = {
                         'err': new T0(TY["Domain"], TY["AuthenticationError"]),
-                        'res': void 0x0
+                        'res': undefined
                       };
                     sessionStorage["context"]["event"]["emit"]("Login.OnVerifyWebLoginSession", Ta);
                   };

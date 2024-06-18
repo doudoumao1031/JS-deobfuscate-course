@@ -1,26 +1,10 @@
 !function () {
   'use strict';
 
-  function U() {
-    var BT = ['STl', 'n-t', '+)+', 'Pql', 'ula', 'arC', '-11', 'meL', '.Ne', 'Mar', 'xIE', 'ogO', 'Sea', 'REP', '4px', 'n\x27t', 'etW', 'epe', 'lfr', 'Out', '\x20\x20w', 'nIn', 'kee', 'ORK', 'OR_', 'h\x20c', 'VyS', 'LS0', '8,\x20', 'ZwW', 'cwI', 'sjm', 'kUS', 'nt:', 'hew', 'tWi', 'pps', 'e1f', 'bje', 'pda', 'sIA', 'BuY', 'UUi', ':\x201', 'MQW', 'Ref', 'nct', '-cu', 'ack', 'dRY', 'awa', 'tor', 'WyE', 'ctR', 'ull', 'hNw', 'Use', 'ume', 'edT', 'Grh', 'stn', '\x20&:', 'bun', 'qAs', '-ou', 'Spa', 'tHe', 'fal', '\x20li', 'le_', 'Jso', '\x202.', 'FIR', 'pHj', 'cjU', '[ob', 'alu', 'REF', 'ZLS', '_ic', 'zaX', 't0h', '5CY', 'YwD', 'ain', '50%', 'o;\x0a', 'Tvr', 'UIO', 'bor', 'ser', 'ngM', '20p', 'Uxk', 'Not', '0tL', '7);', 'wWP', 'Sli', '\x20lo', 'Sta', 'olv', '$CS', 'teY', 'que', '\x0a\x0a\x20', 'Roo', 'new', '5gw', 'MjW', 'e.H', 'nab', 'dra', 'tat', '_NO', 'foU', '0_C', 'm.\x20', 'eeM', 'erM', 'ale', 'tPr', '-fa', 'dtY', 'in:', 'rdM', 'Mat', 'the', 'SEC', 'hUX', 't-a', 'dul', 'KDZ', 'par', 'e-o', '6ec', 'doc', 'e.S', 'hnx', 'rid', 'KgX', 'ibi', 'Lat', 'src', 'tog', 'ici', '96)', 'rra', 'n\x20i', 'WUl', 'dDa', 'ect', '1th', 'nAm', 'Agu', ')+$', 'ntR', 'FeH', 'mhr', 'om-', 'top', 'erH', 'Oek', '120', 'aoG', '7,\x20', 'lid', 'iHl', 'YTD', 'tp:', 'Inv', 'Mou', 'row', 'th.', 'faP', 'fbP', '.Ca', 'mor', 'rea', '\x20\x22\x22', 'rel', 'anc', 'ear', 'n}.', 'Han', 'blo', 'tur', 'tAl', 'c_c', 'sta', 'zqy', '.5;', 'rSc', 'SGv', 'usW', 'w{b', 'eAp', 'WMU', 'alW', 'fUi', 'Can', 'fll', 'eat', 's:\x20', 'ers', 'tEx', 'eva', 'non', 'JZN', ':\x206', 'TOf', 'HCL', 'r-r', 'yys', 'px;', 'eii', ':-4', 'Gdp', 'tWL', 'sup', 'll-', ',\x202', 'urr', 'hsh', 'bqP', 'led', 'LHx', 'ox-', 'sha', 'sor', 'px}', 'inn', 'odG', 'isp', 'tPg', 'n-d', '0.5', 'nEC', 'NoO', 'Pos', 'lug', 'btt', 'set', '070', '_ar', 'd_d', 'low', 'equ', 'XeK', 'yed', '_bo', 'JJT', 'nt\x20', 'Cou', 'alt', 'SkI', 'cul', 'AsB', 'goo', '\x20lt', 'XHm', 'erc', 'mca', '\x27t\x20', 'gHe', '.6;', 'Par', '6px', '\x20to', '16p', 'a(7', 'caf', 'Ntj', ':\x0a\x20', 'AQM', 'fer', '-to', 'ded', '\x205p', 'emi', 'las', ';ba', 'Eve', 'wtA', 'TcD', 'id\x20', 'fdd', 'ged', ':\x204', 'to\x20', 'OMG', '1bK', 'rCo', 'EiU', 'Arr', '_DO', 'ba(', 'ePa', 'gci', 'sol', 'Col', 'UTo', 'LDq', 'uGE', 'tfg', 'cNd', 'tWq', 'fgI', '-2p', 'erv', 'ton', 'eyj', 'deM', 'o__', 'rad', 'hem', 'req', 'cha', 'poi', 'Cas', 'LLE', 'nCl', 'S0K', 'sty', 'vcX', '\x20\x20l', 'CcH', 'a(0', 'Gde', '5M0', 'erI', 'Res', 'abo', 'XHR', 'Wal', 'ar\x20', 'on:', 'isM', 'mLV', '-in', 'ddi', 'ref', 'dDi', 'Lis', 'aBW', 'fun', 'ceb', 'vey', 'XKa', 'eLo', '\x20\x20d', 'Sty', 'FGC', 'jrq', 'leD', 'xrl', 'PEm', 'er-', 'ang', '-al', 'din', 'xt-', 'owW', 'eoP', 'Get', 'dat', 'ove', 'azc', 'ZXR', 'oUp', 'uxB', 'TUZ', 'enu', 'bet', '\x20tr', 'EKc', '0,\x20', ',\x200', 'All', 'loc', 'enf', 'eho', 'pri', 'Xnp', 'her', 'TML', 'eSi', '\x20ba', 'aus', 'Vex', 'Ele', 'wit', 'rcx', '\x20ca', 'uKo', 'bac', 'Sha', 'rd0', 'aGm', 'on-', 'ozK', 'urv', 'io\x20', 'zbX', 'xqm', 'bai', 'vXJ', 'KEF', 'EPR', 'oXR', 'rol', '.Pr', 'tid', 'Itp', 'dCa', 'SUn', 'bon', 'ars', '\x20sa', 'x;\x20', 'aTq', '\x20th', 'GOK', '&:e', '.+)', 'oce', 'a(4', 'ida', 'tLi', '000', 'lle', 'r-b', 'nte', '\x20at', '\x200p', '\x20fl', 't:\x20', 'qEO', 't\x200', 'fai', 'oPa', 'nli', 'obs', 'Xic', '_sc', 'Cla', 'GhH', ')\x201', '6d5', 'Att', 'eCl', 'BHk', 'nBq', 'Own', ':\x20o', '\x20wa', 'nej', 'lic', '5,0', 'pre', 'V3W', 'May', 'pJR', 'def', '\x20fo', 'TiB', '.In', 'alc', 'otE', 'rRK', '48,', 'zun', 'oni', 'tjg', 'e;\x0a', 'IkK', 'pli', 'tDa', 'gdy', 'zPd', 'gYI', 'efi', 'eTh', 'ldN', 'plu', 'wVW', 'red', 'kRe', ',60', 'ree', '\x20\x20t', 'FRs', 'eOu', 'g\x20<', '__a', '0xA', '\x20no', 'tIn', ':af', 'Fra', 'umb', '-OL', '\x200.', 'IyM', 'qnu', '2,0', '-ha', 'Api', 'MJo', 'vie', 'neF', 'tTa', '0\x200', 'tCh', 'Yes', 'edN', 't\x20f', 'ZcY', 'bar', '.05', 'DUJ', 'RRZ', 'RnP', 'YVS', 'dig', 'Pop', 'tit', 'lIn', '\x2048', 'YRv', 'onF', 'dth', 'tGp', 'aUu', 'rro', 'Mor', 'vjU', 'sbm', 'eYX', 'teP', 'spr', 'ksB', 'Bmj', 'pad', 'fRs', 'Cph', 'wai', '171', 'tus', 'wbp', 'oAm', '\x2011', 'Tit', 'qlz', 'p-t', 'jsw', 'Wop', 'etT', ';wi', 'Hur', 'gin', 'e/j', 'Spr', 'BLx', 'EWT', 'wat', 'sag', 'dFL', 'ULE', 'jAl', 'bwI', 'API', 't.\x20', 'OuM', 'tie', 'ThR', 'ly:', 'oWi', 'bwf', 'jau', 'Cal', 'ctF', '-13', 'iro', 'dBu', 'lum', '0x4', 'BOR', 'Kze', 'htY', 'ebd', 't/x', 'qqJ', 'MQU', 'War', 'tRe', 'r-h', 'mTo', 'ntL', 'lTv', 'kUI', 'ame', 'zhh', 'etA', 'ara', 'dWa', 'dDO', 'CcU', 'sto', 'EXd', '_im', 'U3B', 'onM', 'zIn', 'gid', 'ft:', 'otb', 'uPi', 'kgr', 'ver', 'uff', 'Uti', 'epq', 'ele', '.5p', 'FKU', 's-o', 'aoJ', 'Gen', 'zA-', 'eas', 'saE', 'tTI', 'nme', 'iaT', 'IeD', 'Ofw', 'd\x20m', 'HXn', 'rcs', 'er:', 'eWa', 'qPI', ',0,', 'R1Z', 'wlc', 'mar', 'sAu', '-ra', 'rop', '\x20\x20p', 'eCX', 'KUk', 'DQH', 'edW', 'cEN', 'mOl', 'srq', 'now', 'hBN', 'ene', 'tAt', 'edu', 'pki', 'ces', 'rne', 'ogR', 'mpo', 'log', 'YwF', '}\x0a\x20', 'OGB', 'dUX', '64\x20', 'but', 'Qfg', 'Pdh', 'MLD', 'sea', 'diq', 'ade', 'SUV', 'adi', 'byp', 'ype', 'cZO', '059', 'RY0', 'Rem', '\x0a\x20\x20', 'TLL', 'DPC', 'onU', '}\x0a\x0a', 'uiA', '72*', 'seF', 'MOD', 'ons', 'ema', 'ft;', '17p', 'ope', 'ept', 'mow', 'VEC', 'exO', '\x2010', 'foe', 'et-', 'xte', 'HMG', 'Lnb', 'BBp', '_wa', 'eEx', 'dVo', 'vas', 'des', 'dEv', 'WNu', 'idt', '\x20\x27\x27', 'rt.', 'ges', 'r\x20b', '480', 'ide', 'JpO', 'znw', ':hi', 'off', 'Chi', 'ous', 'ill', '&:d', 't.C', 'yIQ', '\x20\x27p', 'sel', 'ple', '\x20\x20.', 'AeI', 'USn', 'ent', 'Dis', 'wLo', 'and', 'k\x20m', 'px\x20', 'Boo', 'ukq', 'win', 'NYZ', 'I18', '-9p', '\x20su', 'sli', 'edE', 'e.W', 'dIU', 'jGg', '\x20se', 'oWH', 'igh', 'ceC', 'ugi', 'eLi', '5,2', 'KxH', 'hvD', 'ex;', 'atk', 'olu', 'olo', '/>.', 'imi', 'joi', '17,', 'pto', 'ut\x20', 'str', 'toS', 'toD', 'Fdi', 'RxY', 'adC', 'ond', 'cKl', 't.B', 'ioA', 'lig', 'taY', '(-1', 'MAQ', 'e.R', 'Rec', 'KFD', 'GAM', 'mJn', 'neG', 'usR', 't_m', 'alC', 'HIj', 'Mis', 'NRa', ',1)', 'wor', 'pa\x20', 'qui', 'dTi', 'dis', 'len', 'PfZ', '-it', 'YMc', 'TxM', 'FCo', 'nve', 'Suc', 'Off', 'arR', 'aej', 'IS_', 'II=', '\x20co', 'Rch', 'isH', 'try', 'osi', 'se-', 'Dsk', 'put', 'gCo', 'd\x20{', 'fau', 'onD', ':\x20s', 'tWr', 'jzF', '\x20*\x20', 'ari', 'pla', 'gQy', '-ZM', 'GEN', 'Cus', 'eKI', 'erS', 'AxZ', 'dmi', 'Ft3', 'rla', 'Key', 'tio', '-wi', 'GTo', 'our', 'ine', 'fgi', 'jXl', 'SnZ', 'tMo', '-15', 'Rca', 'mn;', '(0,', 'Ma0', 'se6', 'img', '\x20di', 'OKx', 'erE', '-12', '\x20-9', 'had', 'isd', 'tSt', 'ace', 'al.', 'und', 'Yzt', 'e-d', 'oin', '//f', 'sed', 'Wid', 'inl', 'adb', 'OHD', 'cee', 'map', 'Klq', 'llH', 'pon', 'ot\x20', 'e.L', 'it\x20', 'dic', 'ble', 'FIU', 'Top', 'ibr', 'etL', 'inc', 'Ori', '-2-', 'tou', 'OUN', 'tCo', 'zZi', 'bot', 'Sel', 'how', '10p', 'tTo', 'ist', 'bVK', 'yle', 'onn', 'Der', 'EEN', 'ASS', 'A-1', 'TTb', 'aut', 'ico', 'ZRa', '.Hi', 'nne', 'apn', 'd-r', 'mid', '-fl', 'Acc', 'ein', 'YWq', 'Pla', 'for', '\x204p', 'nuJ', '960', 's\x20\x20', 'own', 't;\x0a', 'orC', 'cit', 'nt-', 'ems', 'mkS', 'xaA', '14p', 'age', ':\x20f', 'TOe', 'erT', '%;\x0a', 'mjG', 'ew\x20', 'g.H', 'p:\x20', 'pau', 'MLx', 'Two', 'LL_', '-pl', 'ST_', 'kKn', 'teT', 'VdU', 'geF', 'dex', 'tn\x20', 'Dia', 'dIo', 'FLj', 'ERA', 'teX', 'mUP', '3px', 'eak', '}.w', 'der', 'ite', 'ps:', 'bas', '360', '49,', 'l.R', 'HqS', 'opT', 'a(2', 'nsi', 'can', 'ht:', 'IfN', 'Xau', 'meV', 'pro', 'em\x20', 'dsJ', 'VmA', 'zwm', 'ecS', 'tcc', 'cen', '[na', 'EAJ', 'dDr', '26p', 'Wra', 'nds', 'get', 'tCa', '06d', ':\x200', 'ct-', 'rgi', 'rl\x20', 'eSp', 'e\x20:', 'eTy', 'VHJ', 'enc', 'gba', ');\x0a', 'x\x204', 'nCF', 'XpR', 'ile', 'ee_', 'VRd', 'tia', 'nRa', '\x20-1', 'Aut', '_ac', 'te\x20', 'ZNs', '-si', 'eBu', 'ske', 'e\x20`', 'g\x20k', 'peg', 'SzV', 'mPa', 'Wl2', 'ck;', 'e\x20c', 'lat', '0x5', 'whi', 'ayt', 'm:\x20', 'e\x20{', ',iV', 'Yts', 'obj', '\x20br', 'LET', 'tin', 'TTT', 'in-', 'tex', 'mil', 'dom', 'WDo', 'efs', '1CR', 'v_a', 'm,\x0a', 'XYw', 'RlU', 'NjO', 'era', 'ssW', 'bol', 'e/p', 'nUU', 'Rol', 'yuq', 'pen', '132', 'Inn', 'oYS', 'int', 'vQK', 'meN', 'Z3V', 'tLS', 'eP-', 'Min', 'hLa', 'Tr-', 'eou', 'dde', 'omo', '\x20}\x0a', 'tri', 'HVw', 'not', 'rma', '0px', '-wr', 'e64', 'clu', 'cel', 'r\x20{', 'asn', 'ura', '/ui', 'Yze', 'lit', ':\x20-', 'YWi', '\x20te', '00%', 'g);', 'eze', '\x201\x20', 'inC', 'cte', 'Nod', 'etr', 'aci', 'nCo', 'oPZ', 'buf', 'YRi', 'sin', 'dXA', 'eAm', 'ima', 'EWi', 'ANS', 'Btn', 'Eze', '\x20on', 'ogi', 'U3F', 'mpx', 'veT', 'ed\x20', 'jvc', 'a:i', 'huS', 'uAL', '\x20\x20o', 'pIN', '2s;', 'ueF', 'Mod', 'or\x20', 'Img', 'Cac', ',\x201', 'RHD', 'nen', 'JoZ', '\x20le', 'YoN', '1f4', 'Vkv', 'HxC', '[a-', 'et.', '_WA', 'war', 'y;\x0a', '119', 'Sup', 'UFV', 'edI', 'mal', '\x20in', 'RY_', 'ic_', 'mEr', 'ZgA', 'a-u', 'BE_', 'FhI', 'pag', 'ato', 'lLi', 'omS', 'ckE', 'iti', 'DSA', '37f', 'piJ', 'wbH', 'inb', 'mWW', '\x20wi', 'dSc', 'ler', 'aQn', 'rVE', '1);', 'szA', '.Co', '(25', 'hSt', 'e:\x20', 'jey', 'pAb', ':\x20a', 'ppe', 'XWC', 'JEK', '95%', 'inp', 'iry', ',52', 'c\x20o', '\x200\x20', 'lie', '0.3', 'gat', 'd-i', '0x2', '58%', 'e.F', '__e', 'bXt', 'Bun', 'ool', 'ilT', 'UhE', 'eRe', '42p', 'oSw', 'DpG', 'aHF', 'QqT', '85p', 'Whq', 'edS', '.5%', 'eDe', '\x2044', 'Ack', ':\x20n', 'Upd', 'x-d', '.jp', 'itl', 'isI', 'sLb', 'tle', 'pac', 'PAl', 'JWb', 'x;\x0a', 'e\x20i', '\x20by', 'use', 'e-b', 'ng;', 't:4', 'tqQ', 'qRf', 'nus', 'zht', 'bdo', 'aip', 'UdJ', '_TH', 'WWy', 'ts:', 'T0K', 'a1Q', 'zMS', 'e\x20n', 'icC', '#te', '60,', 'Obj', 'kPf', 'm-o', 'Cep', 'qbz', 'l.D', 'it;', 'eCo', 'Dig', 'rHe', '\x20po', 'PDN', 'npM', 'DHR', '\x20bu', 'rfg', 'eSh', '\x20fi', 'bee', ':21', 'deB', 'lud', '\x20cs', '3);', 'xpi', 'ahv', 'ueB', 'She', 'Rig', 'eIc', 'cli', 'Jwi', 'lUn', 'ehL', 't-w', 'OYL', 'rue', 'ntT', 'UhL', 'uSy', 'tl\x20', 'onT', 'trf', 'bal', 'faI', 'wIm', 'QQR', 'ned', 'sym', '-gr', '-co', 'OAd', 'eop', 'xNk', 'sEx', 'AZn', 'g.S', '.15', 'lef', 'qjY', 'qgL', 'AIx', 'tiv', 'amt', 'erB', '5,1', 'exp', 'vrs', '\x20\x20r', 'dNL', 'Uin', '\x20bo', 'dCo', 'AAA', 'agg', 'dRl', 'ibl', 'uct', 'Sho', 'GVF', 'et\x20', 'eEn', 'nVC', 'rCV', 'Emp', 'scO', '\x20Da', 'cDL', 'erR', 'bel', 'ay:', 'hed', ';\x0a\x20', 'DEp', 'ost', 'Cgg', '-\x202', 'e.T', '\x20\x20a', '&:a', 'eId', 'ch;', '.Sw', 'mer', 'te;', 'AA1', 'ass', 'bec', 'one', 'teg', 'ini', 'wrB', 'rat', 'pvu', '5px', 'zhd', 'add', 'ten', '\x20da', 'Ana', 'diu', 'tra', 'lyt', 'leX', '8);', 'KSF', '005', 'ren', 'wid', '12p', 'st.', 'mtC', 'AxD', 'ngl', 'rWa', 'geD', 'rgb', 'itc', 'be\x20', 'usI', 'nin', 'ses', 's-c', '183', 'adj', '-8p', 'NyF', 'erl', 'QGl', 'Lef', 'oll', 'com', '269', 'Dom', 'toc', 'RZZ', 'fcs', 'znr', 'pGX', 'QMe', 'eYO', 'mat', 'ayC', 'Qic', 'qUT', 'jwD', '\x20ht', 'XBx', 'eIn', '9px', 'pIn', 'Int', 'iES', 'us\x20', 'rtl', 'Toa', ':\x20h', '-dr', 'zfH', 'dOt', 'cke', 'me.', 'Ins', 'Bou', '.Wa', 'SCR', 'ge:', 'xGh', 'ck-', 'Swa', '42%', 'FOA', 'wWa', 'teC', 'cas', 'fon', 'iIy', 'e_g', 'JXr', 'LSN', '\x20ov', '\x208p', 'tSc', 'meR', 'nce', 'bra', 'Pro', 'n-c', '0.0', 'bin', 'etI', 'Ojd', ':\x209', 'OmX', 'chE', 'alo', 'xMx', 'oLa', 'd\x20u', 'r\x20.', 'eEC', 'nHa', 'rse', 'Nei', 'jlQ', 'eHe', '4,1', 'Nex', '(((', 'Cli', 'om:', 'mCh', 'oun', 'ge\x20', 'pRu', 'ess', 'dio', 'ew{', 'rd;', '-bl', 'meS', 'Yli', 'cer', 'etE', 'dal', 'thi', 'tsB', 'tiw', 'owc', 'fig', 'ues', 'ore', 'x\x20-', 'Plu', 'iBC', '__p', 'jTD', 's`\x20', 'tyl', '\x200;', '02b', 'NyM', '0xf', 'GwL', 'eCa', '\x2049', 'itD', 'Yoe', 'fCj', 'pDO', 'Err', 'QFu', '.wa', 'us:', 'wri', 'oke', 'daj', 'sac', 'x;w', 'Fil', 'Neu', 'rm:', '/Ge', 'lac', '0x1', 'IZE', 'n:\x20', 'tCl', '0\x20r', '-ov', 'gMn', 'Dzd', 'rCl', 'BsS', 'qrU', 'lBo', 'ict', 'mou', 'RAH', 'dMo', 'rde', 'Afn', '\x20al', 'eed', 'ran', 'awL', '\x2050', 'nit', 'ing', 'MLf', 'ze:', 'ont', 'jkD', 'hid', 'ick', 'nfo', '.2;', 'a\x20c', 'MkO', 's\x20d', 'ht;', 'WpB', 'rfl', 'ell', 'ut;', 'QLY', 'Rpj', 'iSu', '\x20un', 'RVz', 'ctV', 'nsl', 'Ryd', 'Jav', 'Loa', 't_n', 'EJT', 'gIt', 'nFS', 'jec', 'Hly', 'M1a', 'ger', 'oRD', 'YuF', 'Sec', 'dow', 'Vmk', 'gge', 'Num', 'oOw', 'onC', 's()', 'ckg', 'tfp', '\x2052', 'ncJ', 'LUa', 'AFL', 'ewT', 'KlX', 'jxk', 'bid', 'UHz', '12c', 'agw', 'Ug1', 'ulI', 'upd', 'tem', 'eso', '7px', 'r-d', 'oli', 'IOD', 'les', 'ner', 'per', 'g_o', ')\x206', 'ust', '\x20Vi', 'UXV', 'col', 'cre', 'onc', 'OuV', '9g,', '48%', 'ins', 'Paj', 'eEr', 'ixp', '\x20ma', 'dRe', 'AQb', 'Net', '\x2060', 'Ggo', 'no-', 'SAk', 'ePD', 'x-s', 'e\x20f', 'wfg', '.8)', 'IIb', 'UXj', 'stP', 'fmX', 'zXA', 'sMo', 'tEn', 'to;', 'any', '__g', 'le-', 'ioL', '500', 'vMl', 'eAs', 'idl', 'XLC', 'nsa', 'spl', 't-s', 'zlE', 'g==', 'qGy', 'JmE', ';\x0a\x0a', 'gra', 'htt', 'eMi', 'eNa', 'Mes', 'PrZ', 'ntE', ';ov', 'QGT', 'kPk', 'sec', 'loW', 'nor', '9pO', 'TUY', 'tSK', '\x20\x20b', 'd\x20i', 'se{', 'Ful', 'DTh', 'ndl', 'EAA', ',25', '\x20be', 'sMU', 'Xib', '0\x203', '-7p', 'hen', 'JMS', '2px', 'Blo', 'CcO', 'cU9', 'iew', 'tDe', 'PPD', 'wbn', 'ify', 'GBp', 'ck\x20', 'urc', 'art', '0,0', 'e.t', 'ice', '\x22cc', 'URL', '3aA', 'Jbp', 'uto', 'Ani', 'chB', 'CWx', 'rFo', 'cal', 'jL1', 'asN', 'ion', 'zMs', '\x2024', 'ldr', 'CAT', 'EN_', 'isA', 'th:', 'reD', '\x2014', 'uZQ', ',48', 'mit', 'qgS', 'us_', 'et_', 'sWi', 'mod', 'UPL', 'r:\x20', 'kAB', 'MNo', 'mag', 'PeB', 'lWF', 'aKJ', 'QVU', 'sen', 'qTd', 'Mqx', 'NoP', 'vjq', 'MXU', 'Mai', 'btn', 'exc', 'IKM', 'mxl', 'VAj', 'y:\x20', '\x20ei', ',41', 'OSS', 'AIA', 'Ima', '-he', 'URF', 'imp', 'opu', 'orT', 'eig', '43p', '\x20au', '-6p', '\x20ab', 'PGo', 'out', 'mKs', 'er.', 'qcq', 'ule', 'xis', 'In6', 'mfo', 'coi', 'Htt', '-po', '8px', '-bo', 'geB', 'Xqq', 'TjV', 'yFC', '\x20op', 'tar', 'sit', 'pat', '22p', 'YnU', '0FR', 'uic', 'l-h', ',\x206', 'vAa', 'lOv', 'teO', 'ht\x20', '.pn', 'FDr', 'le:', 'onL', 'etD', 'GZX', 'Hea', ':\x20\x20', 'mis', ';he', 'VFV', 'gCa', 'mFr', '0x3', 'scr', 'ams', 't-p', 'omp', 'tic', '\x2040', 'abe', '13p', 'urs', 'd\x20k', '-87', 'eDo', 'EGO', ',50', 'sms', 'iUq', 'mia', 'ena', 'vAT', 'Fro', 'eRo', '\x20or', 'sub', 'VfL', 'nFr', 'abs', 'TBI', 'nfi', '\x20so', '30p', 'Rel', '1.1', 'nOn', 't.F', 'dMC', 'css', 'lw7', 'inu', 'qhT', 'dne', 'lis', 'Jxy', 't/>', 'DkA', 'riz', 'tot', 'n;\x0a', '0\x205', 'blu', 'ani', 'lan', 'jPK', 'QjU', 'h:4', '\x2012', 'tab', 'doh', 'umu', 'qRy', 'ltr', 'xpe', '0xa', 'erC', 'xCY', 'bYq', 'v2/', 'Pvr', 'YOU', 'ATx', 'DeI', '100', 'NT_', 'AOP', 'cdp', 'ase', 'YAA', 'Url', 'Bet', 'tBy', 'HA-', '87%', 'e.G', '0%;', '4s\x20', 'onA', 'aU0', 'VFk', 'WS0', 'opa', 'b.m', ':\x203', 'eGa', 'x\x20s', 'BrU', 'Tim', 't{b', 'a(1', 'fzq', ';di', 'arr', 'hXO', 'qzY', 'ar-', '\x20{\x0a', 'or-', 'EzM', 'orc', '-ev', 'seP', 't\x20c', 'Tra', 'inw', 'QKo', 'Des', 'fin', 'Cur', 'pra', 'yin', 'ise', 'bso', 've;', 's\x20a', 'rfD', 'url', 'lin', 'siz', 'ign', 'iPj', 'll.', 'has', 'ali', 'ox;', 'Did', 'ius', 'EUA', 'FqH', 'gNa', 'AZA', 'b1p', 'Jwt', 'qiC', 'pJe', 'ive', 'meT', 'nBt', 't.R', '117', 'New', 'oA8', '35p', 'FZL', 'Rea', 'VoY', 'roo', 'adR', 'acq', 'boo', '&:h', 'eUg', 'Ubx', 'uOL', 'stO', 'nts', 'uIi', '0;\x0a', 'nam', 'cti', 'EKv', 'ola', 'ute', '48*', 'xTW', 'UPV', '\x20\x20}', 'UIB', 'wkd', '_fr', 'isc', 'rot', 'yWA', 'meO', 'bic', 'sRo', 'alG', 'c2f', '45%', 'A4c', 'ap:', 'Nam', 'lay', 'c_w', 'tan', 'erf', 'bca', 'fra', 'juk', 'DEQ', 'car', 'DZC', 'gam', 'JYJ', 'fle', 'TEM', '\x20rg', 'e.B', 'ikq', 'ans', 'Hel', '\x201;', '0\x201', 'Wil', 'lrD', '5;\x0a', 'LzI', 'AVq', 'ire', 'ORT', 'meC', 'PxJ', 'lYe', 'teW', 'CuR', 'OkR', '-sc', 'Lb1', 'con', 'g\x20P', 'dSt', 'cus', 'JGF', 'Hou', 'ott', 'uld', 'on{', '\x20he', 'EVE', 'iJb', 'IuM', 'del', 'Iwi', 'e-h', 'fGH', 'wnC', 'ry\x20', '\x20wh', 'pus', 'mZe', 'Inu', 'Seq', 'ueG', '4;\x0a', ':\x20i', '.cs', 'Hhs', 'esc', '\x20fa', 'NO_', 'meW', 'gvE', 'WER', 'OoK', 'qnK', 'btm', 'Con', 'ock', 'oad', 'tTi', 'Z=]', 'max', 'ofm', 'rig', 'pMo', 'min', '\x20\x20\x0a', '\x20fu', 'aLx', 't.P', 'Ddg', '\x20pa', 'loa', 'stA', 'Une', '85%', 'ota', 'tip', '\x20Pr', 'ne-', 'ctl', 'Val', 'Inf', 'kag', 'rge', '3.5', 'seu', 'Fre', 'e/u', 'eVh', 'cuq', 'seI', '.3)', 'ege', 'mwi', 'onl', 'Bac', 'Cha', 'oWC', '(48', 'g.U', 'FFj', 'cSV', '\x20);', 'gro', 'oLH', '041', '+sh', 'mai', 'Reg', '52%', 'Shf', 'Mcd', 'RET', 'NvC', 'Ntr', 'x;h', 'bef', 'hDe', '256', ':\x20b', 'lob', 'rem', '3-4', '2,1', 'UIE', 'AAC', '45,', 'cry', 'usE', 'ixW', 'kTo', 'jEH', 'tok', 'ckO', 'fte', 'le\x20', 'Mon', 'etN', 'che', 'ord', 'g-b', '\x200,', 'ind', 'aud', 'nd\x20', 'sbr', 'vBc', 'ieb', 'wal', 'wSe', 'rna', '(\x0a\x20', 'T_P', ':30', 'T_F', 'vaS', ':\x20r', 'qwO', 'Pcj', 'cle', 'tCu', 'xMi', 'at:', 'xKW', 'eID', 'hec', 'ate', 'elo', 'ng:', 'ae-', ':40', 'UTa', '0.1', 'wUX', 'KYY', 'num', 'Sin', 'ynm', 'eTw', 'ePl', '30%', '\x20\x20f', 'fDD', 'ori', 'ey\x20', 'Bon', 'rtD', 'EtF', 'YwN', 'ng-', 'er;', 'AGb', ',33', 'WNo', 'SgD', 'le(', 'ati', 'BMo', '5BN', 'ulc', 'tai', 'rsi', 'ela', '-we', 'nHe', 'afT', 'CTE', 'reg', '_WI', 'meo', 'wKL', 'imS', 'tWa', 'nsf', 'y\x20i', 'bph', 'ewW', 'lHa', 'vic', 'e\x20p', 'nav', 'oVZ', 'MWy', 'MIn', 'lXR', 'nde', '.Ch', 'HEH', '0x6', '-y:', '.Di', 'ScC', 'onR', ':\x20p', 'dGa', 'ngC', '\x20ra', 'ngT', 'isa', 'wVv', 'll\x20', 'pas', 'ESz', 'EFU', 'ata', 'Rat', 'e_c', 'ewB', 'wxp', 'VwY', 'meI', 'izi', 's-i', 'ObY', 'meB', 'pAt', 'een', 'Tem', 'wPP', 'e.V', 'Sca', 'OnC', 'qWX', 'kit', '_LI', 'rib', 'inf', 'CxP', '__d', 'eri', 'FLN', 'isN', 'rpr', 'rgn', '(10', 'slH', 'wyb', 'lut', 'et/', 'cxT', '03p', 'onE', 'Aru', 'YLI', 'eqd', 'nge', 'deD', '\x20as', 'hWa', 'Set', 'Fei', 'dKO', 'QuT', 'ax-', 'ber', 'tbb', 'Fad', 'LwE', 'ouc', 'arg', 'QDv', 'ty:', 'jMU', 'key', 'FjE', 'Glp', 'EmI', 'vJt', ':-1', 'Gam', 'Wor', 'tSi', 'rep', 'yCl', 'act', 'r-i', 'tcX', 'Brd', 'oNK', 'ioP', 'dle', 'PyZ', '\x20\x20\x20', 'ZeO', 'fre', 'dTy', 'MAA', 'e{b', 'eEv', 'dir', 'r;\x0a', 'kPr', 'isE', '255', 'jYA', '{\x0a\x20', 'Pyz', 'ted', 'tul', 'c72', 'End', '\x20\x20z', 'er\x20', ':\x20c', 'Sla', 'Taa', 'ops', 'pir', 'n-s', '__m', 'tEl', '&.c', 'Abs', 'edC', 'let', 'yfr', 's\x20e', 'WAL', 'owQ', 'seq', 'nEq', 'ash', 'yGa', 'fix', 'aul', 'Loc', 'Exp', 'rts', 'DCo', 'Qih', 'div', 'UgA', ',40', 'lem', 'Aud', 'zWa', 'BbE', 'cgi', 'onI', 'onu', 'sWa', 'ex-', 'YuM', 'pLe', 'val', 'lue', 'gth', 'sEl', 'uce', 'lcf', 'cjt', 'kmy', 's_w', 'fil', 'env', 'yWT', 'Lim', 'IyZ', 'h:\x20', 'Hei', 'ANI', 'gxW', 'gpi', 'Wqy', 't-f', 'lab', 'IQS', 'wTK', 'pkS', 'TEC', 'han', 'eme', 'Tlh', '-ty', 'kGC', 'Low', 'gOX', 'rom', 'Str', 'JxC', 'lex', '(33', 'Typ', 'mot', 'itW', 'cat', 'JKP', '\x20re', 'iuw', 'eGg', '\x20\x20-', '\x20<d', 'pay', 'ffs', '.75', 'Yrh', 'nod', 'Jpo', 'zAe', 'unk', '140', 'eUr', 'meA', 'IyD', '{ba', 'ity', 'mul', 'ow:', 'teG', '(ui', 'ami', 'QCk', 'ial', 'esp', 'tto', 'll1', '_na', 'mpO', '-x:', 'ant', '\x20\x20m', '_ov', 'djV', 'AXR', 'OnS', 'yCd', 'eck', 'es\x20', 'Blg', 'nSi', 'IAh', 'ter', 'WtI', 'eve', 'Vqa', 'orm', 'vhm', 'CNd', 'd\x20r', 'vIY', 'UMg', 'pes', 'WhL', 'tyD', '\x20sc', 'UGZ', 'k7Y', 'den', 'deA', 'arn', 'nhR', 'eOf', 'fWu', 'oCo', 'oFq', 'm-s', 'spa', 'tnC', 'Jem', 'lor', '\x20hi', 'Dcw', 'whe', 'vbz', 'Ser', 'w0K', 'onH', '\x20\x20c', '0%,', 'ode', 'Bot', 'rip', 'rJH', 'sfo', 'ght', 'vTH', 'res', 'Web', 'SLI', 'k;\x0a', 'hdr', 'qGo', 'hil', 'eco', 'cs-', 'EsD', 'men', 'sca', 'nYy', 'uag', 'nTy', '\x2046', 'cod', 'ndi', ',0.', '\x20ce', 'Jwu', 'ty\x20', 'PjR', 'inh', 'ne;', 'byN', 'lTh', 'PFQ', ',\x205', 'YvS', 'ex:', 'los', 'g\x20v', 'rou', 'lDI', 'hPq', 'nvC', 'BqI', 'nSt', '/re', '.7)', '04F', 'clo', 'ct]', 'app', '\x22\x20w', 'iza', 'nKe', 'ard', '0);', 'ToC', 'ffe', 'or:', '1;\x0a', 'ERR', 'BMV', 'hT0', '1px', 'Wju', '50*', 'r-c', 'Agx', 'c_b', 'FHk', 'e.U', 'n\x20m', 'vZr', '0Zk', 'eRa', '2)\x20', 'wTy', 'Bal', 'imu', 'x\x200', 'nLo', 'amo', 'KsQ', 'tom', 'ewF', '\x201p', 'end', '.Vi', '3E8', '\x20st', 'Txt', 'r-e', 'krp', 'lDf', 'chi', 'kEr', 'Sch', 'cHi', 'ng\x20', 'hea', 'rnu', 'yLS', 'gn:', 'ror', 'onS', 'ePr', 'ven', 'llb', 'YnM', 'onB', 'ct:', 'azJ', 'Ses', 'eSH', 'all', 'd-c', 'FKP', 'Jra', 'iOY', 'Dat', 'owO', 'poS', 'Ngp', 'flG', 'WcF', 't\x20O', 'Ret', 'ssi', 'S0V', '(40', 'jEe', 'goI', 'eTi', 'nta', 'Aif', 'URI', 'rev', 'tfo', '0x0', 'AAB', '992', '-ic', 'edD', 'JWD', '\x20z-', '-3p', '()\x20', 'SKb', 'ctP', 'mPt', 'nva', '40p', 'Ieq', '),\x20', 'CuN', 'web', 'sem', '-ch', '\x20a\x20', 'rrS', 'dur', 'ief', '0tC', 'e.\x20', '47p', 'isR', 'd-p', 'mes', 'Vvj', 'Com', 'eVa', '1FT', '0FF', 'eSc', 'U12', 't:1', 'Bar', 'Ale', 'dOf', '\x20Ma', 'rag', 'l;\x0a', ':\x205', 'lba', 'ta\x20', 'vis', 'ECY', 'uen', ':10', 'ath', 'abl', 'xtT', 'rHH', '0,4', 'bqd', 'd\x20-', 'sio', 'r-s', 'oEY', 'VXv', 'sdv', 'Udk', 't8A', 'n-i', 'cur', '0,5', 'ize', 'kQg', 'oxE', '61U', 's-s', 'ort', 'STI', 's.c', 'AmM', 'YpD', 'ext', 'err', 'sYo', 'est', 'she', 'tru', 'tAn', 'sh\x20', 'Eac', 'por', 'NGC', 's\x20n', '5%;', 'etC', 'epa', 'kxs', 'BrI', 'Vie', 'unt', '.Sh', '55,', '0%\x20', 'Ini', 'pTy', 'en\x20', 'wtH', 'znB', 'MmY', 'dIm', '-wo', 'rch', 'vHG', 'Eak', 'meE', 'kwD', 'ult', 'Tex', 'cro', 'Wit', 'te.', 'pos', 'lFU', 'Scr', 'hei', 'POS', 'mCo', 'oiO', 'qdd', 't:3', 'Kyl', 'op:', 's\x20h', 'ime', 'Al2', 'ake', '\x20&.', 't/G', 'ceU', 'ail', 'Max', 'kCa', 'fro', 'tim', 'cdw', 'efa', 'ark', 'nd-', '\x20nt', 'unm', 'dec', 'n:-', 'g:\x20', '\x20.c', 'dMR', 'ctW', 'VpF', 'lmM', 'pPr', '\x20\x20h', 'wIn', 'sho', 'gVi', 'ked', 'SZR', 'gle', 'lAH', 'tVi'];
-    U = function () {
-      return BT;
-    };
-    return U();
-  }
-  function h(V, t) {
-    var a = U();
-    h = function (H, s) {
-      H = H - 0x130;
-      var o = a[H];
-      return o;
-    };
-    return h(V, t);
-  }
   !function () {
     var V = function () {
       {
-        var w = !![];
+        var w = !false;
         return function (u, z) {
           {
             var r = w ? function () {
@@ -32,7 +16,7 @@
                 }
               }
             } : function () {};
-            w = ![];
+            w = false;
             return r;
           }
         };
@@ -134,7 +118,7 @@
                     {
                       Hj = Hj || function (HA) {
                         {
-                          var HX = void 0x0;
+                          var HX = undefined;
                           if (V8(HA) && HA["hasOwnProperty"]("err") && HA["hasOwnProperty"]('dt')) {
                             {
                               var Hj = HA["err"];
@@ -160,7 +144,7 @@
           var VV = function () {
               function Hf() {
                 {
-                  this['u'] = void 0x0, this['h'] = void 0x0, this['v'] = new v();
+                  this['u'] = undefined, this['h'] = undefined, this['v'] = new v();
                 }
               }
               return Hf["prototype"]["setAPIUrls"] = function (V8, Hj) {
@@ -218,8 +202,8 @@
                   'set': function (V8) {
                     this['C'] = V8;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "googleAnalyticCurrentScreen", {
                   'get': function () {
                     return this['B'];
@@ -227,16 +211,16 @@
                   'set': function (V8) {
                     this['B'] = V8;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "isRTL", {
                   'get': function () {
                     {
                       return shell["isRTLLanguage"] && shell["isRTLLanguage"]();
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Hf;
               }
             }())();
@@ -250,7 +234,7 @@
               {
                 function Hf() {
                   {
-                    this['W'] = !0x1, this['S'] = !0x1, this['G'] = !0x1, this['O'] = !0x1;
+                    this['W'] = false, this['S'] = false, this['G'] = false, this['O'] = false;
                   }
                 }
                 return Object["defineProperty"](Hf["prototype"], "data", {
@@ -259,8 +243,8 @@
                       this['F'] = V8["tbb"], this['T'] = V8["rfgc"], this['N'] = V8["tfgb"], this['_'] = V8['ch'], this['W'] = V8["iebe"], this['S'] = V8["iefge"], this['G'] = V8["inbe"], this['O'] = V8["infge"], this['A'] = V8['p'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "walletType", {
                   'get': function () {
                     return this['L'];
@@ -270,72 +254,72 @@
                       this['L'] = V8;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "bonusWalletAmt", {
                   'get': function () {
                     {
                       return this['F'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "freeGameRemaining", {
                   'get': function () {
                     {
                       return this['T'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "freeGameAmt", {
                   'get': function () {
                     return this['N'];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "cashDetailInfo", {
                   'get': function () {
                     {
                       return this['_'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "isExpiredBonusExist", {
                   'get': function () {
                     return this['W'];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "isExpiredFreeGameExist", {
                   'get': function () {
                     {
                       return this['S'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "isNewBonusExist", {
                   'get': function () {
                     return this['G'];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "isNewFreeGameExist", {
                   'get': function () {
                     {
                       return this['O'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "tournamentInfo", {
                   'get': function () {
                     return this['A'];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Hf;
               }
             }())(),
@@ -353,8 +337,8 @@
                       this['D'] = V8;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "transactionInfo", {
                   'get': function () {
                     {
@@ -366,8 +350,8 @@
                       this['R'] = V8;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "gameID", {
                   'get': function () {
                     {
@@ -379,8 +363,8 @@
                       this['j'] = V8;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "status", {
                   'get': function () {
                     return this['M'];
@@ -390,8 +374,8 @@
                       this['M'] = V8;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "gameNameObj", {
                   'get': function () {
                     return this['U'];
@@ -399,8 +383,8 @@
                   'set': function (V8) {
                     this['U'] = V8;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "gameIconUrl", {
                   'get': function () {
                     return this['P'];
@@ -408,8 +392,8 @@
                   'set': function (V8) {
                     this['P'] = V8;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "gameThemeColor", {
                   'get': function () {
                     return this['I'];
@@ -417,8 +401,8 @@
                   'set': function (V8) {
                     this['I'] = V8;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Hf;
               }
             }())();
@@ -783,69 +767,69 @@
                     return this['J'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "bonusID", {
                 'get': function () {
                   return this['X'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "bonusWalletName", {
                 'get': function () {
                   {
                     return this['Y'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "gameIDs", {
                 'get': function () {
                   {
                     return this['q'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "balanceAmount", {
                 'get': function () {
                   {
                     return !this['K'] && (this['K'] = 0x0), this['K'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "initialBonusRatioAmount", {
                 'get': function () {
                   {
                     return !this['$'] && (this['$'] = 0x0), this['$'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "maximumConversionAmount", {
                 'get': function () {
                   {
                     return !this['nn'] && (this['nn'] = 0x0), this['nn'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "bonusRatioAmount", {
                 'get': function () {
                   {
                     return !this['tn'] && (this['tn'] = 0x0), this['tn'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "expiredDate", {
                 'get': function () {
                   var V8 = new Date(this['en']);
                   return V8["getFullYear"]() + '/' + Vz(V8["getMonth"]() + 0x1) + '/' + Vz(V8["getDate"]());
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "status", {
                 'get': function () {
                   {
@@ -855,68 +839,68 @@
                 'set': function (V8) {
                   this['M'] = V8;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "createdDate", {
                 'get': function () {
                   {
                     return this['rn'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "conversionAmount", {
                 'get': function () {
                   return !this['an'] && (this['an'] = 0x0), this['an'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "lockedGameID", {
                 'get': function () {
                   {
                     return this['ln'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "rollOverMode", {
                 'get': function () {
                   {
                     return this['sn'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "keySelection", {
                 'get': function () {
                   {
                     return this['un'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "convertedGameID", {
                 'get': function () {
                   return this['cn'];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "balanceID", {
                 'get': function () {
                   {
                     return this['hn'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "beforeConversionAmount", {
                 'get': function () {
                   {
                     return !this['fn'] && (this['fn'] = 0x0), this['fn'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "expiredTime", {
                 'get': function () {
                   {
@@ -924,16 +908,16 @@
                     return Vz(V8["getHours"]()) + ':' + Vz(V8["getMinutes"]()) + ':' + Vz(V8["getSeconds"]());
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](Hf["prototype"], "isHideDiscard", {
                 'get': function () {
                   {
                     return this['dn'];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Hf;
             }();
           function ty(Hf) {
@@ -957,12 +941,12 @@
                 }
               } else Hj = {};
               return Object["defineProperty"](Hj, "__esModule", {
-                'value': !0x0
+                'value': true
               }), Object["keys"](Hf)["forEach"](function (Va) {
                 {
                   var HS = Object["getOwnPropertyDescriptor"](Hf, Va);
                   Object["defineProperty"](Hj, Va, HS["get"] ? HS : {
-                    'enumerable': !0x0,
+                    'enumerable': true,
                     'get': function () {
                       {
                         return Hf[Va];
@@ -973,7 +957,7 @@
               }), Hj;
             }
           }
-          void 0x0 !== s || void 0x0 !== o || "undefined" != typeof global && global;
+          undefined !== s || undefined !== o || "undefined" != typeof global && global;
           var tE,
             tM,
             tq,
@@ -1058,7 +1042,7 @@
           }(0x0, (Hf, V8, Hj, HL) => (() => {
             var Va = {
                 0x63: HA => {
-                  if (void 0x0 === Hf) {
+                  if (undefined === Hf) {
                     {
                       var HX = Error("Cannot find module 'prop-types'");
                       throw HX["code"] = "MODULE_NOT_FOUND", HX;
@@ -1086,7 +1070,7 @@
             function Hj(HA) {
               {
                 var HX = HS[HA];
-                if (void 0x0 !== HX) return HX["exports"];
+                if (undefined !== HX) return HX["exports"];
                 var Hj = HS[HA] = {
                   'exports': {}
                 };
@@ -1103,7 +1087,7 @@
             }, Hj['d'] = (HA, HX) => {
               {
                 for (var Hj in HX) Hj['o'](HX, Hj) && !Hj['o'](HA, Hj) && Object["defineProperty"](HA, Hj, {
-                  'enumerable': !0x0,
+                  'enumerable': true,
                   'get': HX[Hj]
                 });
               }
@@ -1111,7 +1095,7 @@
               "undefined" != typeof Symbol && Symbol["toStringTag"] && Object["defineProperty"](HA, Symbol["toStringTag"], {
                 'value': "Module"
               }), Object["defineProperty"](HA, "__esModule", {
-                'value': !0x0
+                'value': true
               });
             };
             var Hc = {};
@@ -1165,7 +1149,7 @@
               }
               function s2(sh) {
                 {
-                  if (void 0x0 === sh) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
+                  if (undefined === sh) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
                   return sh;
                 }
               }
@@ -1180,9 +1164,9 @@
                 {
                   return sH in sh ? Object["defineProperty"](sh, sH, {
                     'value': ss,
-                    'enumerable': !0x0,
-                    'configurable': !0x0,
-                    'writable': !0x0
+                    'enumerable': true,
+                    'configurable': true,
+                    'writable': true
                   }) : sh[sH] = ss, sh;
                 }
               }
@@ -1228,8 +1212,8 @@
                       sx["prototype"] = Object["create"](sC && sC["prototype"], {
                         'constructor': {
                           'value': sx,
-                          'writable': !0x0,
-                          'configurable': !0x0
+                          'writable': true,
+                          'configurable': true
                         }
                       }), sC && s1(sx, sC);
                     }
@@ -1238,14 +1222,14 @@
                     ss,
                     sw,
                     su = (ss = sz, sw = function () {
-                      if ("undefined" == typeof Reflect || !Reflect["construct"]) return !0x1;
-                      if (Reflect["construct"]["sham"]) return !0x1;
-                      if ("function" == typeof Proxy) return !0x0;
+                      if ("undefined" == typeof Reflect || !Reflect["construct"]) return false;
+                      if (Reflect["construct"]["sham"]) return false;
+                      if ("function" == typeof Proxy) return true;
                       try {
-                        return Date["prototype"]["toString"]["call"](Reflect["construct"](Date, [], function () {})), !0x0;
+                        return Date["prototype"]["toString"]["call"](Reflect["construct"](Date, [], function () {})), true;
                       } catch (sx) {
                         {
-                          return !0x1;
+                          return false;
                         }
                       }
                     }(), function () {
@@ -1297,7 +1281,7 @@
                         sC["updateScrollPosition"](sy);
                       }
                     }), s4(s2(sC), "isMouseEventOnCustomScrollbar", function (sW) {
-                      if (!sC["customScrollbarRef"]["current"]) return !0x1;
+                      if (!sC["customScrollbarRef"]["current"]) return false;
                       var sv = HT()["findDOMNode"](s2(sC))["getBoundingClientRect"](),
                         sy = sC["customScrollbarRef"]["current"]["getBoundingClientRect"](),
                         sE = sC["props"]["rtl"] ? {
@@ -1353,17 +1337,17 @@
                     }), s4(s2(sC), "onMouseDown", function (sW) {
                       {
                         sC["hasScroll"] && sC["isMouseEventOnScrollHandle"](sW) && (sC["startDragHandlePos"] = sC["getScrollHandleStyle"]()["top"], sC["startDragMousePos"] = sW["pageY"], sC["setState"]({
-                          'onDrag': !0x0
+                          'onDrag': true
                         }), document["addEventListener"]("mousemove", sC["onHandleDrag"], {
-                          'passive': !0x1
+                          'passive': false
                         }), document["addEventListener"]("mouseup", sC["onHandleDragEnd"], {
-                          'passive': !0x1
+                          'passive': false
                         }));
                       }
                     }), s4(s2(sC), "onTouchStart", function () {
                       {
                         sC["setState"]({
-                          'onDrag': !0x0
+                          'onDrag': true
                         });
                       }
                     }), s4(s2(sC), "onHandleDrag", function (sW) {
@@ -1377,11 +1361,11 @@
                     }), s4(s2(sC), "onHandleDragEnd", function (sW) {
                       {
                         sC["setState"]({
-                          'onDrag': !0x1
+                          'onDrag': false
                         }), sW["preventDefault"](), document["removeEventListener"]("mousemove", sC["onHandleDrag"], {
-                          'passive': !0x1
+                          'passive': false
                         }), document["removeEventListener"]("mouseup", sC["onHandleDragEnd"], {
-                          'passive': !0x1
+                          'passive': false
                         });
                       }
                     }), s4(s2(sC), "blockOuterScroll", function (sW) {
@@ -1437,7 +1421,7 @@
                       }
                     }), sC["scrollbarYWidth"] = 0x0, sC["state"] = {
                       'scrollPos': 0x0,
-                      'onDrag': !0x1
+                      'onDrag': false
                     }, sC["hideScrollThumb"] = function () {
                       var sW;
                       function sv() {
@@ -1450,7 +1434,7 @@
                           sv(), sW = setTimeout(function () {
                             {
                               sC["setState"]({
-                                'onDrag': !0x1
+                                'onDrag': false
                               });
                             }
                           }, 0x1f4);
@@ -1463,8 +1447,8 @@
                     'key': "componentDidMount",
                     'value': function () {
                       {
-                        void 0x0 !== this["props"]["scrollTo"] ? this["updateScrollPosition"](this["props"]["scrollTo"]) : this["forceUpdate"](), this["innerContainerRef"]["current"] && this["innerContainerRef"]["current"]["addEventListener"]("wheel", this["blockOuterScroll"], {
-                          'passive': !0x1
+                        undefined !== this["props"]["scrollTo"] ? this["updateScrollPosition"](this["props"]["scrollTo"]) : this["forceUpdate"](), this["innerContainerRef"]["current"] && this["innerContainerRef"]["current"]["addEventListener"]("wheel", this["blockOuterScroll"], {
+                          'passive': false
                         });
                       }
                     }
@@ -1477,16 +1461,16 @@
                         sE = sC["scrollPos"] >= sW - sv;
                       this["contentHeight"] = sy["scrollHeight"], this["scrollbarYWidth"] = sy["offsetWidth"] - sy["clientWidth"], this["visibleHeight"] = sy["clientHeight"], this["scrollRatio"] = this["contentHeight"] ? this["visibleHeight"] / this["contentHeight"] : 0x1, this["toggleScrollIfNeeded"]();
                       var sM = this["state"] === sC;
-                      (this["props"]["freezePosition"] || sx["freezePosition"]) && this["adjustFreezePosition"](sx), void 0x0 !== this["props"]["scrollTo"] && this["props"]["scrollTo"] !== sx["scrollTo"] ? this["updateScrollPosition"](this["props"]["scrollTo"]) : this["props"]["keepAtBottom"] && sM && sE && this["updateScrollPosition"](this["contentHeight"] - this["visibleHeight"]);
+                      (this["props"]["freezePosition"] || sx["freezePosition"]) && this["adjustFreezePosition"](sx), undefined !== this["props"]["scrollTo"] && this["props"]["scrollTo"] !== sx["scrollTo"] ? this["updateScrollPosition"](this["props"]["scrollTo"]) : this["props"]["keepAtBottom"] && sM && sE && this["updateScrollPosition"](this["contentHeight"] - this["visibleHeight"]);
                     }
                   }, {
                     'key': "componentWillUnmount",
                     'value': function () {
                       {
                         this["hideScrollThumb"]["cancel"](), document["removeEventListener"]("mousemove", this["onHandleDrag"], {
-                          'passive': !0x1
+                          'passive': false
                         }), document["removeEventListener"]("mouseup", this["onHandleDragEnd"], {
-                          'passive': !0x1
+                          'passive': false
                         }), this["innerContainerRef"]["current"] && this["innerContainerRef"]["current"]["removeEventListener"]("wheel", this["blockOuterScroll"]);
                       }
                     }
@@ -1538,7 +1522,7 @@
                       for (var sW = 0x0; sW < sC["length"]; sW++) {
                         {
                           var sv = sC[sW];
-                          sv["enumerable"] = sv["enumerable"] || !0x1, sv["configurable"] = !0x0, "value" in sv && (sv["writable"] = !0x0), Object["defineProperty"](sx, sv["key"], sv);
+                          sv["enumerable"] = sv["enumerable"] || false, sv["configurable"] = true, "value" in sv && (sv["writable"] = true), Object["defineProperty"](sx, sv["key"], sv);
                         }
                       }
                     }
@@ -1753,13 +1737,13 @@
               function V8(Hj) {
                 {
                   var HL = Hf["call"](this, Hj) || this;
-                  return HL['mn'] = [], HL['gn'] = !0x1, HL['bn'] = 0x1, HL['vn'] = [], HL['xn'] = !0x1, HL['wn'] = !0x1, HL['Cn'] = function (Va, HS) {
+                  return HL['mn'] = [], HL['gn'] = false, HL['bn'] = 0x1, HL['vn'] = [], HL['xn'] = false, HL['wn'] = false, HL['Cn'] = function (Va, HS) {
                     document["getElementById"]("selectWalletBtn "["concat"](HS["toString"]()))["blur"](), Hj["onSelectWalletClick"](Va, HS);
                   }, HL['yn'] = function (Va, HS) {
                     for (var Hj = document["getElementsByClassName"]("btnStyle"), Hc = 0x0, HA = Hj["length"]; Hc < HA; Hc++) Hj[Hc]["blur"]();
                     Hj["onDiscardOfferClick"](Va, HS);
                   }, HL["state"] = {
-                    'scrollFreeze': !0x1
+                    'scrollFreeze': false
                   }, HL;
                 }
               }
@@ -1775,7 +1759,7 @@
                   Vq["context"]["event"]["off"]("Shell.Scaled", this['kn'], this), document["removeEventListener"]("keydown", this['Gn']);
                 }
               }, V8["prototype"]["shouldComponentUpdate"] = function (Hj) {
-                return this["props"]["show"] === Hj["show"] && (this['xn'] = this["props"]["data"] === Hj["data"], !0x0);
+                return this["props"]["show"] === Hj["show"] && (this['xn'] = this["props"]["data"] === Hj["data"], true);
               }, V8["prototype"]["render"] = function () {
                 return z["createElement"](aF, {
                   'id': "bwfgContainer",
@@ -1828,7 +1812,7 @@
                 var Hj = VR["status"];
                 if (!this["props"]["error"] && this["props"]["data"] && this["props"]["data"]['dt']['r']) for (var HL = 0x0, Va = this["props"]["data"]['dt']['r']["length"]; HL < Va; HL++) if (0x6 === this["props"]["data"]['dt']['r'][HL]['s'] && VR["transactionInfo"]['wk'] === this["props"]["data"]['dt']['r'][HL]['k']) {
                   {
-                    this['gn'] = !0x0;
+                    this['gn'] = true;
                     break;
                   }
                 }
@@ -1852,7 +1836,7 @@
                   }, Uz['t']("General.DialogRetry"))));
                   if (this["props"]["data"]) {
                     {
-                      this['gn'] = !0x1, this['vn'] = [];
+                      this['gn'] = false, this['vn'] = [];
                       var HL = parseFloat(document["getElementById"]("wallet-container")["style"]["height"]),
                         Va = this["props"]["data"]['dt'],
                         HS = JSON["parse"](JSON["stringify"](Va['r'])),
@@ -1941,10 +1925,10 @@
                                 var H1 = HT["target"];
                                 Hj['On'] > 0x1 && H1["clientHeight"] + H1["scrollTop"] === H1["scrollHeight"] && (Hj['On']--, Hj['bn']++, Hj["props"]["onLoadMoreRequestApi"](Hj['bn'], function () {
                                   Hj["setState"]({
-                                    'scrollFreeze': !0x1
+                                    'scrollFreeze': false
                                   });
-                                }), Hj['wn'] = !0x0, Hj["setState"]({
-                                  'scrollFreeze': !0x0
+                                }), Hj['wn'] = true, Hj["setState"]({
+                                  'scrollFreeze': true
                                 }));
                               }
                             },
@@ -1982,7 +1966,7 @@
                         'rollOverBalContent': null,
                         'withdrawLimitContent': null,
                         'rollOverModeContent': this['Tn'](HL, HS, Hj, Hj),
-                        'discardOfferBtnContent': this['Nn'](Hj, !0x0),
+                        'discardOfferBtnContent': this['Nn'](Hj, true),
                         'selectWalletBtnContent': this['_n'](HS, HL, Va)
                       };
                     case 0x6:
@@ -2000,7 +1984,7 @@
                         'rollOverBalContent': null,
                         'withdrawLimitContent': this['An'](HX),
                         'rollOverModeContent': this['Tn'](HL, HS, Hj, Hj),
-                        'discardOfferBtnContent': this['Nn'](Hj, !0x1),
+                        'discardOfferBtnContent': this['Nn'](Hj, false),
                         'selectWalletBtnContent': this['Ln'](Hj, HL)
                       };
                     case 0x1:
@@ -2013,7 +1997,7 @@
                         }, ''["concat"](Uz['t']("BonusWallet.BonusRatioLabel"), '\x20')["concat"](Hp))),
                         'withdrawLimitContent': this['An'](HX),
                         'rollOverModeContent': 0x2 === Hj ? this['In'](HL, Hj, Va) : this['Tn'](HL, HS, Hj, Hj),
-                        'discardOfferBtnContent': this['Nn'](Hj, !0x1),
+                        'discardOfferBtnContent': this['Nn'](Hj, false),
                         'selectWalletBtnContent': HS === HT['wk'] || 0x2 === Hj && !HS ? this['_n'](HS, HL, Va) : this['Dn'](Hj, HL)
                       };
                     default:
@@ -2022,7 +2006,7 @@
                         'rollOverBalContent': null,
                         'withdrawLimitContent': this['An'](HX),
                         'rollOverModeContent': 0x2 === Hj ? this['In'](HL, Hj, Va) : this['Tn'](HL, HS, Hj, Hj),
-                        'discardOfferBtnContent': this['Nn'](Hj, !0x1),
+                        'discardOfferBtnContent': this['Nn'](Hj, false),
                         'selectWalletBtnContent': HS === HT['wk'] || 0x2 === Hj && !HS ? this['_n'](HS, HL, Va) : this['Dn'](Hj, HL)
                       };
                   }
@@ -2097,7 +2081,7 @@
                     'value': "cash",
                     'name': Hj["toString"](),
                     'defaultChecked': 0x1 === HS || Va && HL === Va[0x1],
-                    'disabled': !0x0
+                    'disabled': true
                   }), z["createElement"](UV, {
                     'id': "cash check mark "["concat"](Hj["toString"]()),
                     'orientation': shell["environment"]["getOrientationMode"]()
@@ -2114,7 +2098,7 @@
                     'value': "bonus",
                     'name': Hj["toString"](),
                     'defaultChecked': 0x0 === HS || Va && HL === Va[0x0],
-                    'disabled': !0x0
+                    'disabled': true
                   }), z["createElement"](UV, {
                     'id': "bonus check mark "["concat"](Hj["toString"]()),
                     'orientation': shell["environment"]["getOrientationMode"]()
@@ -2129,7 +2113,7 @@
                 {
                   return 0x2 !== Hj["status"] && Hj["isHideDiscard"] ? null : z["createElement"](ac, {
                     'className': "btnStyle",
-                    'disabled': !0x0
+                    'disabled': true
                   }, z["createElement"](U3, null, Uz['t']("BonusWallet.DiscardWallet")));
                 }
               }, V8["prototype"]['Nn'] = function (Hj, HL) {
@@ -2153,7 +2137,7 @@
                     'id': "selectWalletBtn "["concat"](HL["toString"]()),
                     'className': "btnStyle",
                     'key': Va,
-                    'disabled': !0x0,
+                    'disabled': true,
                     'themeColor': "rgba("["concat"](Hc['r'], ',\x20')["concat"](Hc['g'], ',\x20')["concat"](Hc['b'], ',\x20')["concat"](Hc['a'] / 0xff * 0.2, ')')
                   }, z["createElement"](U3, null, HS));
                 }
@@ -2188,7 +2172,7 @@
                   if (Hj['wk'] === Va || !Va) {
                     {
                       var HA = document["getElementById"]("selectWalletBtn "["concat"](Hj["toString"]()));
-                      if (0x2 === HS && !Va) return HA["children"][0x0]["innerHTML"] = Uz['t']("BonusWallet.SelectWallet"), HA["disabled"] = !0x1, HA["onclick"] = this['Cn']["bind"](this, HL, Hj), void (HA["style"]["backgroundColor"] = Hc);
+                      if (0x2 === HS && !Va) return HA["children"][0x0]["innerHTML"] = Uz['t']("BonusWallet.SelectWallet"), HA["disabled"] = false, HA["onclick"] = this['Cn']["bind"](this, HL, Hj), void (HA["style"]["backgroundColor"] = Hc);
                       var HX = document["getElementById"]("cash "["concat"](Hj["toString"]())),
                         Hj = HX["defaultChecked"] ? HX["checked"] ? Uz['t']("BonusWallet.WalletInuse") : Uz['t']("BonusWallet.SwapMode") : HX["checked"] ? Uz['t']("BonusWallet.SwapMode") : Uz['t']("BonusWallet.WalletInuse"),
                         HT = shell["uiAppearance"]['v']("game.theme_color");
@@ -2207,7 +2191,7 @@
                   Va = document["getElementById"]("bonus check mark "["concat"](Hj["toString"]()));
                 HL["style"]["display"] = "none", Va["style"]["display"] = "block";
               }, V8["prototype"]['Fn'] = function () {
-                return this['wn'] ? (this['wn'] = !0x1, '') : this['On'] > 0x1 ? Uz['t']("BonusWallet.LoadMoreData") : Uz['t']("BonusWallet.AllRecordDisplayed");
+                return this['wn'] ? (this['wn'] = false, '') : this['On'] > 0x1 ? Uz['t']("BonusWallet.LoadMoreData") : Uz['t']("BonusWallet.AllRecordDisplayed");
               }, V8;
             }(z["Component"]),
             UC = function () {
@@ -2223,64 +2207,64 @@
                       return this['J'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "freeGameID", {
                   'get': function () {
                     return this['En'];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "freeGameName", {
                   'get': function () {
                     {
                       return this['Un'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "gameIDs", {
                   'get': function () {
                     return this['q'];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "gameCount", {
                   'get': function () {
                     {
                       return this['Pn'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "totalGame", {
                   'get': function () {
                     {
                       return this['Vn'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "balanceAmount", {
                   'get': function () {
                     return !this['K'] && (this['K'] = 0x0), this['K'];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "multiplier", {
                   'get': function () {
                     return this['Hn'];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "coinSize", {
                   'get': function () {
                     {
                       return this['Zn'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "expiredDate", {
                   'get': function () {
                     {
@@ -2288,83 +2272,83 @@
                       return V8["getFullYear"]() + '/' + Vz(V8["getMonth"]() + 0x1) + '/' + Vz(V8["getDate"]());
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "status", {
                   'get': function () {
                     {
                       return this['M'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "conversionType", {
                   'get': function () {
                     return this['Jn'];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "maximumConversionAmount", {
                   'get': function () {
                     {
                       return !this['nn'] && (this['nn'] = 0x0), this['nn'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "conversionAmount", {
                   'get': function () {
                     {
                       return !this['an'] && (this['an'] = 0x0), this['an'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "conversionKey", {
                   'get': function () {
                     {
                       return this['Xn'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "lockedGameID", {
                   'get': function () {
                     {
                       return this['ln'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "convertedID", {
                   'get': function () {
                     {
                       return this['Yn'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "balanceID", {
                   'get': function () {
                     {
                       return this['hn'];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "expiredTime", {
                   'get': function () {
                     var V8 = new Date(this['en']);
                     return Vz(V8["getHours"]()) + ':' + Vz(V8["getMinutes"]()) + ':' + Vz(V8["getSeconds"]());
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](Hf["prototype"], "isHideDiscard", {
                   'get': function () {
                     return this['dn'];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Hf;
               }
             }(),
@@ -2375,13 +2359,13 @@
                 function V8(Hj) {
                   {
                     var HL = Hf["call"](this, Hj) || this;
-                    return HL['mn'] = [], HL['gn'] = !0x1, HL['bn'] = 0x1, HL['qn'] = [], HL['xn'] = !0x1, HL['wn'] = !0x1, HL['yn'] = function (Va, HS) {
+                    return HL['mn'] = [], HL['gn'] = false, HL['bn'] = 0x1, HL['qn'] = [], HL['xn'] = false, HL['wn'] = false, HL['yn'] = function (Va, HS) {
                       {
                         for (var Hj = document["getElementsByClassName"]("btnStyle"), Hc = 0x0, HA = Hj["length"]; Hc < HA; Hc++) Hj[Hc]["blur"]();
                         Hj["onDiscardOfferClick"](Va, HS);
                       }
                     }, HL["state"] = {
-                      'scrollFreeze': !0x1
+                      'scrollFreeze': false
                     }, HL;
                   }
                 }
@@ -2396,7 +2380,7 @@
                   Vq["context"]["event"]["off"]("Shell.Scaled", this['kn'], this), document["removeEventListener"]("keydown", this['Gn']);
                 }, V8["prototype"]["shouldComponentUpdate"] = function (Hj) {
                   {
-                    return this["props"]["show"] === Hj["show"] && (this['xn'] = this["props"]["data"] === Hj["data"], !0x0);
+                    return this["props"]["show"] === Hj["show"] && (this['xn'] = this["props"]["data"] === Hj["data"], true);
                   }
                 }, V8["prototype"]["render"] = function () {
                   return z["createElement"](aF, {
@@ -2438,7 +2422,7 @@
                   var Hj = VR["status"];
                   if (!this["props"]["error"] && this["props"]["data"] && this["props"]["data"]['dt']['r']) for (var HL = 0x0, Va = this["props"]["data"]['dt']['r']["length"]; HL < Va; HL++) if (0x6 === this["props"]["data"]['dt']['r'][HL]['s'] && VR["transactionInfo"]['wk'] === this["props"]["data"]['dt']['r'][HL]['k']) {
                     {
-                      this['gn'] = !0x0;
+                      this['gn'] = true;
                       break;
                     }
                   }
@@ -2461,7 +2445,7 @@
                   }, Uv['t']("General.DialogRetry"))));
                   if (this["props"]["data"]) {
                     {
-                      this['gn'] = !0x1, this['qn'] = [];
+                      this['gn'] = false, this['qn'] = [];
                       var HL = parseFloat(document["getElementById"]("wallet-container")["style"]["height"]),
                         Va = this["props"]["data"]['dt'],
                         HS = JSON["parse"](JSON["stringify"](Va['r'])),
@@ -2548,11 +2532,11 @@
                                 Hj['On'] > 0x1 && H1["clientHeight"] + H1["scrollTop"] === H1["scrollHeight"] && (Hj['On']--, Hj['bn']++, Hj["props"]["onLoadMoreRequestApi"](Hj['bn'], function () {
                                   {
                                     Hj["setState"]({
-                                      'scrollFreeze': !0x1
+                                      'scrollFreeze': false
                                     });
                                   }
-                                }), Hj['wn'] = !0x0, Hj["setState"]({
-                                  'scrollFreeze': !0x0
+                                }), Hj['wn'] = true, Hj["setState"]({
+                                  'scrollFreeze': true
                                 }));
                               }
                             },
@@ -2584,8 +2568,8 @@
                         'remainingInfo': Uv['t']("FreeGame.Expired"),
                         'totalWonContent': null,
                         'withdrawLimitContent': null,
-                        'discardOfferBtnContent': this['Nn'](Hj, !0x0),
-                        'selectFreeGameBtnContent': this['Kn'](!0x1, Hc === HA)
+                        'discardOfferBtnContent': this['Nn'](Hj, true),
+                        'selectFreeGameBtnContent': this['Kn'](false, Hc === HA)
                       };
                     case 0x6:
                       return {
@@ -2593,7 +2577,7 @@
                         'totalWonContent': null,
                         'withdrawLimitContent': null,
                         'discardOfferBtnContent': this['zn'](Hj),
-                        'selectFreeGameBtnContent': this['Kn'](!0x1, Hc === HA)
+                        'selectFreeGameBtnContent': this['Kn'](false, Hc === HA)
                       };
                     case 0x7:
                       return {
@@ -2604,7 +2588,7 @@
                         }),
                         'totalWonContent': null,
                         'withdrawLimitContent': this['An'](Hj),
-                        'discardOfferBtnContent': this['Nn'](Hj, !0x1),
+                        'discardOfferBtnContent': this['Nn'](Hj, false),
                         'selectFreeGameBtnContent': this['$n'](Hj, HL)
                       };
                     case 0x1:
@@ -2621,8 +2605,8 @@
                           'amount': HT
                         }))),
                         'withdrawLimitContent': this['An'](Hj),
-                        'discardOfferBtnContent': this['Nn'](Hj, !0x1),
-                        'selectFreeGameBtnContent': Hj['wk'] === HX ? this['Kn'](!0x0) : this['nt'](Hj, HL)
+                        'discardOfferBtnContent': this['Nn'](Hj, false),
+                        'selectFreeGameBtnContent': Hj['wk'] === HX ? this['Kn'](true) : this['nt'](Hj, HL)
                       };
                     default:
                       return {
@@ -2631,8 +2615,8 @@
                         }),
                         'totalWonContent': null,
                         'withdrawLimitContent': this['An'](Hj),
-                        'discardOfferBtnContent': this['Nn'](Hj, !0x1),
-                        'selectFreeGameBtnContent': Hj['wk'] === HX ? this['Kn'](!0x0) : this['nt'](Hj, HL)
+                        'discardOfferBtnContent': this['Nn'](Hj, false),
+                        'selectFreeGameBtnContent': Hj['wk'] === HX ? this['Kn'](true) : this['nt'](Hj, HL)
                       };
                   }
                 }, V8["prototype"]['An'] = function (Hj) {
@@ -2648,7 +2632,7 @@
                   {
                     return 0x2 !== Hj["status"] && Hj["isHideDiscard"] ? null : z["createElement"](ac, {
                       'className': "btnStyle",
-                      'disabled': !0x0
+                      'disabled': true
                     }, z["createElement"](U3, null, Uv['t']("FreeGame.DiscardGame")));
                   }
                 }, V8["prototype"]['Nn'] = function (Hj, HL) {
@@ -2662,7 +2646,7 @@
                       HS = shell["uiAppearance"]['v']("game.theme_color");
                     return z["createElement"](aX, {
                       'className': "btnStyle",
-                      'disabled': !0x0,
+                      'disabled': true,
                       'themeColor': "rgba("["concat"](HS['r'], ',\x20')["concat"](HS['g'], ',\x20')["concat"](HS['b'], ',\x20')["concat"](HS['a'] / 0xff * 0.2, ')')
                     }, z["createElement"](U3, null, Va));
                   }
@@ -2696,7 +2680,7 @@
                   }));
                 }, V8["prototype"]['Fn'] = function () {
                   {
-                    return this['wn'] ? (this['wn'] = !0x1, '') : this['On'] > 0x1 ? Uv['t']("FreeGame.LoadMoreData") : Uv['t']("FreeGame.AllRecordDisplayed");
+                    return this['wn'] ? (this['wn'] = false, '') : this['On'] > 0x1 ? Uv['t']("FreeGame.LoadMoreData") : Uv['t']("FreeGame.AllRecordDisplayed");
                   }
                 }, V8;
               }
@@ -2776,8 +2760,8 @@
                           }
                         }
                         if ("date" === V8["nodeName"]) return this['it'](!this['et'](V8), "Cannot parse \"\" as Date."), new Date(V8["childNodes"][0x0]["nodeValue"]);
-                        if ("true" === V8["nodeName"]) return !0x0;
-                        if ("false" === V8["nodeName"]) return !0x1;
+                        if ("true" === V8["nodeName"]) return true;
+                        if ("false" === V8["nodeName"]) return false;
                       }
                     }
                   }
@@ -2786,12 +2770,12 @@
             }(),
             UG = new Uq();
           function UF(Hf, V8, Hj) {
-            return void 0x0 === V8 && (V8 = {
+            return undefined === V8 && (V8 = {
               'x': 0x0,
               'y': 0x0,
               'width': 0x0,
               'height': 0x0,
-              'isRotate': !0x1
+              'isRotate': false
             }), new Promise(function (HL, Va) {
               {
                 var HS = new plugin["Loader"]();
@@ -2843,10 +2827,10 @@
                   var Va = [];
                   HL["forEach"](function (HS) {
                     Va["push"](HS);
-                  }), V8 && V8(Va, void 0x0);
+                  }), V8 && V8(Va, undefined);
                 }
               })["catch"](function (HL) {
-                V8 && V8(void 0x0, HL);
+                V8 && V8(undefined, HL);
               });
             }
           }
@@ -2864,7 +2848,7 @@
                 Hj = V8["resource"]["resolveUrl"](HS);
               return new Promise(function (HT, H1) {
                 {
-                  return __awaiter(Va, void 0x0, void 0x0, function () {
+                  return __awaiter(Va, undefined, undefined, function () {
                     var Hp;
                     return __generator(this, function (Hl) {
                       {
@@ -2903,7 +2887,7 @@
             }
           }
           function UD(Hf, V8, Hj) {
-            return __awaiter(this, void 0x0, void 0x0, function () {
+            return __awaiter(this, undefined, undefined, function () {
               {
                 var HL, Va;
                 return __generator(this, function (HS) {
@@ -2923,11 +2907,11 @@
                           'tint': Hf["tint"]
                         }, V8, Hj)] : [0x3, 0x6];
                       case 0x4:
-                        return Va = HS["sent"](), [0x4, UJ(HL, V8, Va, !0x0, Hj)];
+                        return Va = HS["sent"](), [0x4, UJ(HL, V8, Va, true, Hj)];
                       case 0x5:
                         return HL = HS["sent"](), [0x3, 0x8];
                       case 0x6:
-                        return [0x4, UJ(HL, V8, Hf["imageFile"], !0x1, Hj)];
+                        return [0x4, UJ(HL, V8, Hf["imageFile"], false, Hj)];
                       case 0x7:
                         HL = HS["sent"](), HS["label"] = 0x8;
                       case 0x8:
@@ -2940,7 +2924,7 @@
           }
           function UJ(Hf, V8, Hj, HL, Va) {
             {
-              return void 0x0 === HL && (HL = !0x1), new Promise(function (HS, Hj) {
+              return undefined === HL && (HL = false), new Promise(function (HS, Hj) {
                 HL ? (Hf = Hf["replace"](/url\((.*?)\)/g, function () {
                   return "url(" + Hj + ')';
                 }), HS(Hf)) : UI(V8["resource"]["resolveUrl"](Hj), Va)["then"](function (Hc) {
@@ -2961,7 +2945,7 @@
                 HS = HL && new HL(Va["Domain"], Va["GameLoadResourceError"]);
               return new Promise(function (Hj, Hc) {
                 {
-                  return __awaiter(Hj, void 0x0, void 0x0, function () {
+                  return __awaiter(Hj, undefined, undefined, function () {
                     {
                       var HA;
                       return __generator(this, function (HX) {
@@ -3110,10 +3094,10 @@
                         var Hj = HS[0x0]["frames"],
                           Hc = [];
                         HL["textureList"]["forEach"](function (HA) {
-                          if (void 0x0 === Hj[HA]) throw Error("texture :" + HA + " not found in " + HL["plistPath"]);
+                          if (undefined === Hj[HA]) throw Error("texture :" + HA + " not found in " + HL["plistPath"]);
                           var HX = Hj[HA]["textureRect"],
                             Hj = Hj[HA]["textureRotated"];
-                          if (void 0x0 !== HX) {
+                          if (undefined !== HX) {
                             var HT = HX["match"](/\d+/g);
                             if (HT) {
                               {
@@ -3136,10 +3120,10 @@
                             {
                               HX["push"](Hj);
                             }
-                          }), V8 && V8(HX, void 0x0);
+                          }), V8 && V8(HX, undefined);
                         })["catch"](function (HA) {
                           {
-                            V8 && V8(void 0x0, HA);
+                            V8 && V8(undefined, HA);
                           }
                         });
                       }
@@ -3208,8 +3192,8 @@
             }),
             Um = ty(UL);
           Object["defineProperty"](UM, "__esModule", {
-            'value': !0x0
-          }), UM["Img"] = void 0x0;
+            'value': true
+          }), UM["Img"] = undefined;
           var US = __importDefault(z),
             Um = Um,
             Uc = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII=",
@@ -3218,7 +3202,7 @@
                 function V8(Hj) {
                   {
                     var HL = Hf["call"](this, Hj) || this;
-                    return HL['ot'] = !0x0, HL["state"] = {
+                    return HL['ot'] = true, HL["state"] = {
                       'url': Uc,
                       'status': "loading"
                     }, HL;
@@ -3259,7 +3243,7 @@
                   this['lt']();
                 }, V8["prototype"]["componentWillUnmount"] = function () {
                   {
-                    this['ot'] = !0x1;
+                    this['ot'] = false;
                   }
                 }, V8["prototype"]['st'] = function (Hj) {
                   "loaded" === this["state"]["status"] && URL["revokeObjectURL"](this["state"]["url"]), this["props"]["onLoad"] && this["props"]["onLoad"](Hj, "loaded");
@@ -3302,11 +3286,11 @@
           }), function (Hf) {
             {
               Object["defineProperty"](Hf, "__esModule", {
-                'value': !0x0
-              }), Hf["Img"] = void 0x0;
+                'value': true
+              }), Hf["Img"] = undefined;
               var V8 = UM;
               Object["defineProperty"](Hf, "Img", {
-                'enumerable': !0x0,
+                'enumerable': true,
                 'get': function () {
                   {
                     return V8["Img"];
@@ -3695,7 +3679,7 @@
           });
           function hj(Hf, V8) {
             {
-              void 0x0 === V8 && (V8 = 0x0), Vq["context"]["event"]["emit"]("Toast.Show", {
+              undefined === V8 && (V8 = 0x0), Vq["context"]["event"]["emit"]("Toast.Show", {
                 'toastStyle': "Message",
                 'message': Hf,
                 'duration': V8,
@@ -3822,9 +3806,9 @@
                       }
                     }, HL['Ct'] = HL['xt']["bind"](HL, 0x2), HL['yt'] = HL['xt']["bind"](HL, 0x4), HL['kt'] = HL['Bt']["bind"](HL), HL['Wt'] = HL['St']["bind"](HL), HL["state"] = {
                       'viewType': Hj["initViewType"],
-                      'error': void 0x0,
-                      'data': void 0x0,
-                      'show': !0x0
+                      'error': undefined,
+                      'data': undefined,
+                      'show': true
                     }, HL['Gt'] = document["getElementById"]("wallet-container"), HL['Ot'] = HL["state"]["viewType"], HL;
                   }
                 }
@@ -3880,7 +3864,7 @@
                   }
                 }, V8["prototype"]["componentDidUpdate"] = function () {
                   {
-                    this['Ot'] = this["state"]["viewType"], this['_t'] && this['_t'](), this['_t'] = void 0x0;
+                    this['Ot'] = this["state"]["viewType"], this['_t'] && this['_t'](), this['_t'] = undefined;
                   }
                 }, V8["prototype"]["render"] = function () {
                   {
@@ -3956,17 +3940,17 @@
                       'viewType': 0x1,
                       'onClick': function () {
                         HL["emit"]("Loading.Hide"), Hj["setState"]({
-                          'show': !0x1
+                          'show': false
                         });
                       }
                     }), z["createElement"](M, {
-                      'native': !0x0,
+                      'native': true,
                       'from': Va["animFrom"],
                       'to': Va["animTo"],
                       'config': {
                         'tension': 0xa3,
                         'friction': 0x15,
-                        'clamp': !0x0,
+                        'clamp': true,
                         'velocity': 0xa
                       },
                       'onStart': this['kt'],
@@ -3979,8 +3963,8 @@
                           'orientation': shell["environment"]["getOrientationMode"]()
                         }, z["createElement"](tW, {
                           'onCloseButtonClick': function () {
-                            Hj['Rt'] && Hj['Rt'](), Hj['Rt'] = void 0x0, Hj['jt'] && Hj['jt'](), Hj['jt'] = void 0x0, Hj['Mt'] && Hj['Mt'](), Hj['Mt'] = void 0x0, Hj["setState"]({
-                              'show': !0x1
+                            Hj['Rt'] && Hj['Rt'](), Hj['Rt'] = undefined, Hj['jt'] && Hj['jt'](), Hj['jt'] = undefined, Hj['Mt'] && Hj['Mt'](), Hj['Mt'] = undefined, Hj["setState"]({
+                              'show': false
                             });
                           },
                           'onCashWalletClick': function (Hc) {
@@ -3990,12 +3974,12 @@
                               'content_message': hg['t']("WalletHelper.ChangeWalletDesc"),
                               'actions': [{
                                 'title': hg['t']("WalletHelper.Cancel"),
-                                'handler': void 0x0
+                                'handler': undefined
                               }, {
                                 'title': hg['t']("WalletHelper.Confirm"),
                                 'handler': function () {
                                   {
-                                    Hj["props"]["changeWorld"](Hc), VR["status"] = void 0x0;
+                                    Hj["props"]["changeWorld"](Hc), VR["status"] = undefined;
                                   }
                                 }
                               }]
@@ -4004,8 +3988,8 @@
                           'onBonusWalletClick': function () {
                             Hj["setState"]({
                               'viewType': 0x2,
-                              'error': void 0x0,
-                              'data': void 0x0
+                              'error': undefined,
+                              'data': undefined
                             }), hp(HS)(function () {
                               {
                                 Hj['Tt'](0x1, Hj['Ct']);
@@ -4015,8 +3999,8 @@
                           'onFreeGameClick': function () {
                             Hj["setState"]({
                               'viewType': 0x4,
-                              'error': void 0x0,
-                              'data': void 0x0
+                              'error': undefined,
+                              'data': undefined
                             }), hp(HS)(function () {
                               {
                                 Hj['Nt'](0x1, Hj['yt']);
@@ -4044,17 +4028,17 @@
                       'viewType': 0x2,
                       'onClick': function () {
                         HL["emit"]("Loading.Hide"), Hj["setState"]({
-                          'show': !0x1
+                          'show': false
                         });
                       }
                     }), z["createElement"](M, {
-                      'native': !0x0,
+                      'native': true,
                       'from': Va["animFrom"],
                       'to': Va["animTo"],
                       'config': {
                         'tension': 0xa3,
                         'friction': 0x15,
-                        'clamp': !0x0,
+                        'clamp': true,
                         'velocity': 0xa
                       },
                       'reset': this["state"]["viewType"] !== this['Ot'],
@@ -4069,13 +4053,13 @@
                           'view': '2'
                         }, z["createElement"](Ux, {
                           'onCloseButtonClick': function () {
-                            Hj['jt'] && Hj['jt'](), Hj['jt'] = void 0x0, Hj["setState"]({
-                              'show': !0x1
+                            Hj['jt'] && Hj['jt'](), Hj['jt'] = undefined, Hj["setState"]({
+                              'show': false
                             });
                           },
                           'onBackCashWalletClick': function () {
                             {
-                              Hj["props"]["changeWorld"](H1), VR["status"] = void 0x0;
+                              Hj["props"]["changeWorld"](H1), VR["status"] = undefined;
                             }
                           },
                           'onSelectWalletClick': function (Hj, Hc) {
@@ -4096,14 +4080,14 @@
                                   }
                                   Hj["props"]["changeWorld"](H1);
                                 }
-                              } else Hj["props"]["showLockedDialog"](!0x0, HX, !0x0);
+                              } else Hj["props"]["showLockedDialog"](true, HX, true);
                             }
                           },
                           'onDiscardOfferClick': function (Hj, Hc) {
                             {
                               var HA = Hj["bonusWalletName"],
                                 HX = Hj["balanceID"];
-                              Hj['Ut'](!0x0, Hc, HA, function () {
+                              Hj['Ut'](true, Hc, HA, function () {
                                 var Hj, HT;
                                 Hj = function (H1) {
                                   {
@@ -4120,7 +4104,7 @@
                                             }
                                           }
                                         }
-                                        Hp = Hl, Hj['xt'](0x2, void 0x0, Hp);
+                                        Hp = Hl, Hj['xt'](0x2, undefined, Hp);
                                       }
                                     }
                                   }
@@ -4154,13 +4138,13 @@
                     var Hj = this,
                       HL = hT(0x3, this["state"]["show"]);
                     return z["createElement"](M, {
-                      'native': !0x0,
+                      'native': true,
                       'from': HL["animFrom"],
                       'to': HL["animTo"],
                       'config': {
                         'tension': 0xa3,
                         'friction': 0x15,
-                        'clamp': !0x0,
+                        'clamp': true,
                         'velocity': 0xa
                       },
                       'onStart': this['kt'],
@@ -4175,7 +4159,7 @@
                         }, z["createElement"](hR, {
                           'onContinueClick': function () {
                             Hj["setState"]({
-                              'show': !0x1
+                              'show': false
                             });
                           },
                           'onMorePromotionClick': Hj['Ht']["bind"](Hj, function () {
@@ -4185,7 +4169,7 @@
                           }),
                           'onLaterClick': function () {
                             {
-                              Hj["props"]["changeWorld"](H1), VR["status"] = void 0x0;
+                              Hj["props"]["changeWorld"](H1), VR["status"] = undefined;
                             }
                           },
                           'data': Hj["props"]["initModel"],
@@ -4204,18 +4188,18 @@
                       'onClick': function () {
                         {
                           HL["emit"]("Loading.Hide"), Hj["setState"]({
-                            'show': !0x1
+                            'show': false
                           });
                         }
                       }
                     }), z["createElement"](M, {
-                      'native': !0x0,
+                      'native': true,
                       'from': Va["animFrom"],
                       'to': Va["animTo"],
                       'config': {
                         'tension': 0xa3,
                         'friction': 0x15,
-                        'clamp': !0x0,
+                        'clamp': true,
                         'velocity': 0xa
                       },
                       'reset': this["state"]["viewType"] !== this['Ot'],
@@ -4231,14 +4215,14 @@
                         }, z["createElement"](Uy, {
                           'onCloseButtonClick': function () {
                             {
-                              Hj['Mt'] && Hj['Mt'](), Hj['Mt'] = void 0x0, Hj["setState"]({
-                                'show': !0x1
+                              Hj['Mt'] && Hj['Mt'](), Hj['Mt'] = undefined, Hj["setState"]({
+                                'show': false
                               });
                             }
                           },
                           'onBackCashWalletClick': function () {
                             {
-                              Hj["props"]["changeWorld"](H1), VR["status"] = void 0x0;
+                              Hj["props"]["changeWorld"](H1), VR["status"] = undefined;
                             }
                           },
                           'onSelectFreeGameClick': function (Hj) {
@@ -4246,13 +4230,13 @@
                               var Hc = Hj["status"],
                                 HA = Hj["lockedGameID"],
                                 HX = Hj["key"];
-                              0x7 !== Hc ? Hj["props"]["changeWorld"](HX) : Hj["props"]["showLockedDialog"](!0x1, HA, !0x0);
+                              0x7 !== Hc ? Hj["props"]["changeWorld"](HX) : Hj["props"]["showLockedDialog"](false, HA, true);
                             }
                           },
                           'onDiscardOfferClick': function (Hj, Hc) {
                             var HA = Hj["freeGameName"],
                               HX = Hj["balanceID"];
-                            Hj['Ut'](!0x1, Hc, HA, function () {
+                            Hj['Ut'](false, Hc, HA, function () {
                               {
                                 var Hj, HT;
                                 Hj = function (H1) {
@@ -4268,7 +4252,7 @@
                                             }
                                           }
                                         }
-                                        Hp = Hl, Hj['xt'](0x4, void 0x0, Hp);
+                                        Hp = Hl, Hj['xt'](0x4, undefined, Hp);
                                       }
                                     }
                                   }
@@ -4307,13 +4291,13 @@
                   var Hj = this,
                     HL = hT(0x5, this["state"]["show"]);
                   return z["createElement"](M, {
-                    'native': !0x0,
+                    'native': true,
                     'from': HL["animFrom"],
                     'to': HL["animTo"],
                     'config': {
                       'tension': 0xa3,
                       'friction': 0x15,
-                      'clamp': !0x0,
+                      'clamp': true,
                       'velocity': 0xa
                     },
                     'onStart': this['kt'],
@@ -4328,7 +4312,7 @@
                       }, z["createElement"](hI, {
                         'onContinueClick': function () {
                           Hj["setState"]({
-                            'show': !0x1
+                            'show': false
                           });
                         },
                         'onSwitchBonusWalletClick': function () {
@@ -4340,7 +4324,7 @@
                           Hj['Nt'](0x1, Hj['yt']);
                         }),
                         'onLaterClick': function () {
-                          Hj["props"]["changeWorld"](H1), VR["status"] = void 0x0;
+                          Hj["props"]["changeWorld"](H1), VR["status"] = undefined;
                         },
                         'data': Hj["props"]["initModel"],
                         'show': Hj["state"]["show"]
@@ -4352,13 +4336,13 @@
                     var Hj = this,
                       HL = hT(0x5, this["state"]["show"]);
                     return z["createElement"](M, {
-                      'native': !0x0,
+                      'native': true,
                       'from': HL["animFrom"],
                       'to': HL["animTo"],
                       'config': {
                         'tension': 0xa3,
                         'friction': 0x15,
-                        'clamp': !0x0,
+                        'clamp': true,
                         'velocity': 0xa
                       },
                       'onStart': this['kt'],
@@ -4374,7 +4358,7 @@
                           'onContinueClick': function () {
                             {
                               Hj["setState"]({
-                                'show': !0x1
+                                'show': false
                               });
                             }
                           },
@@ -4426,7 +4410,7 @@
                   }
                 }, V8["prototype"]['xt'] = function (Hj, HL, Va) {
                   var HS;
-                  0x1 !== Hj && 0x2 !== Hj && 0x4 !== Hj || Vq["context"]["event"]["emit"]("Loading.Hide"), HL && (HS = HL["uicode"], hP["sendEvent"](hP["CATEGORY_GAME"], hP["EVENT_ERROR_REPORT"], void 0x0, "Wallet data get failed", HS), HL["code"] === shell["NetworkError"]["HttpAbortError"]) || (this["setState"]({
+                  0x1 !== Hj && 0x2 !== Hj && 0x4 !== Hj || Vq["context"]["event"]["emit"]("Loading.Hide"), HL && (HS = HL["uicode"], hP["sendEvent"](hP["CATEGORY_GAME"], hP["EVENT_ERROR_REPORT"], undefined, "Wallet data get failed", HS), HL["code"] === shell["NetworkError"]["HttpAbortError"]) || (this["setState"]({
                     'viewType': Hj,
                     'error': HL,
                     'data': Va
@@ -4438,8 +4422,8 @@
                     'context': "Maybe because internet connection lost."
                   }), this["setState"]({
                     'viewType': Hj,
-                    'error': void 0x0,
-                    'data': void 0x0
+                    'error': undefined,
+                    'data': undefined
                   }), hp(function (HS) {
                     var Hj = Vq["context"]["event"],
                       Hc = Va['Gt']["style"],
@@ -4491,8 +4475,8 @@
                         var HS = parseFloat(HL['Gt']["style"]["height"]);
                         Vq["context"]["event"]["emit"]("Loading.Show", {
                           'label': hg['t']("General.ResourceLoadingMessage"),
-                          'enableBackground': !0x0,
-                          'isFullBackground': !0x0,
+                          'enableBackground': true,
+                          'isFullBackground': true,
                           'y': 0.5 * HS,
                           'opacity': 0x1,
                           'inAnimate': "Fade",
@@ -4519,7 +4503,7 @@
                       'content_message': HL ? Hj : hg['t'](''["concat"](HA, ".DiscardMessage")),
                       'actions': [{
                         'title': hg['t'](''["concat"](HA, ".DialogCancel")),
-                        'handler': void 0x0
+                        'handler': undefined
                       }, {
                         'title': hg['t'](''["concat"](HA, ".Discard")),
                         'handler': function () {
@@ -4528,8 +4512,8 @@
                               var H1 = parseFloat(Hj['Gt']["style"]["height"]);
                               Hc["emit"]("Loading.Show", {
                                 'label': hg['t']("General.ResourceLoadingMessage"),
-                                'enableBackground': !0x0,
-                                'isFullBackground': !0x0,
+                                'enableBackground': true,
+                                'isFullBackground': true,
                                 'y': 0.5 * H1,
                                 'opacity': 0.8,
                                 'inAnimate': "Fade",
@@ -4550,7 +4534,7 @@
                     !this["state"]["show"] && this["props"]["dismissRootElementUI"]();
                   }
                 }, V8["prototype"]['St'] = function () {
-                  !this["state"]["show"] && this["props"]["quitToGame"](!0x0);
+                  !this["state"]["show"] && this["props"]["quitToGame"](true);
                 }, V8;
               }
             }(z["Component"]),
@@ -4559,8 +4543,8 @@
                 function V8(Hj) {
                   var HL = Hf["call"](this, Hj) || this;
                   return HL["state"] = {
-                    'error': void 0x0
-                  }, HL['C'] = void 0x0, HL['C'] = Hj["context"], HL;
+                    'error': undefined
+                  }, HL['C'] = undefined, HL['C'] = Hj["context"], HL;
                 }
                 return __extends(V8, Hf), V8["getDerivedStateFromError"] = function (Hj) {
                   {
@@ -4574,7 +4558,7 @@
                   if (HL) {
                     {
                       var Va = {
-                        'title': void 0x0,
+                        'title': undefined,
                         'content': new shell["Error"](shell["GameShellError"]["Domain"], shell["GameShellError"]["PluginReactRenderError"])["message"],
                         'actions': [{
                           'label': shell["I18n"]['t']("General.DialogOk"),
@@ -4585,7 +4569,7 @@
                       return this['Xt'](Va, function () {
                         {
                           var HS = Hj["props"]["onError"];
-                          HS && HS(HL, void 0x0);
+                          HS && HS(HL, undefined);
                         }
                       }), null;
                     }
@@ -4651,8 +4635,8 @@
             {
               var Hf, V8, Hj;
               (Hj || (Hj = {}))['a'] = "_actionOneTwo";
-              var HL = null === (Hf = o[H5()]) || void 0x0 === Hf ? void 0x0 : Hf["Spawn"],
-                Va = null === (V8 = o[H5()]) || void 0x0 === V8 ? void 0x0 : V8["Sequence"];
+              var HL = null === (Hf = o[H5()]) || undefined === Hf ? undefined : Hf["Spawn"],
+                Va = null === (V8 = o[H5()]) || undefined === V8 ? undefined : V8["Sequence"];
               HL && Va && (HL[Hj['a']] = Va[Hj['a']] = function () {
                 {
                   if (arguments["length"]) return null;
@@ -4663,20 +4647,20 @@
             {
               var Hf,
                 V8,
-                Hj = null === (V8 = null === (Hf = o["shell"]) || void 0x0 === Hf ? void 0x0 : Hf["WebAudio"]) || void 0x0 === V8 ? void 0x0 : V8["prototype"];
+                Hj = null === (V8 = null === (Hf = o["shell"]) || undefined === Hf ? undefined : Hf["WebAudio"]) || undefined === V8 ? undefined : V8["prototype"];
               Hj && (Hj["play"] = function () {
                 {
                   var HL,
                     Va,
-                    HS = null === (Va = null === (HL = o[H5()]) || void 0x0 === HL ? void 0x0 : HL["Animation"]) || void 0x0 === Va ? void 0x0 : Va["prototype"];
+                    HS = null === (Va = null === (HL = o[H5()]) || undefined === HL ? undefined : HL["Animation"]) || undefined === Va ? undefined : Va["prototype"];
                   HS && (HS["play"] = null);
                 }
               });
             }
           }, "start")(), H7(function () {
             var Hf, V8, Hj;
-            if (null === (Hf = o["shell"]) || void 0x0 === Hf ? void 0x0 : Hf["uiAppearance"]) {
-              var HL = null === (Hj = null === (V8 = o[H5()]) || void 0x0 === V8 ? void 0x0 : V8["Scheduler"]) || void 0x0 === Hj ? void 0x0 : Hj["prototype"];
+            if (null === (Hf = o["shell"]) || undefined === Hf ? undefined : Hf["uiAppearance"]) {
+              var HL = null === (Hj = null === (V8 = o[H5()]) || undefined === V8 ? undefined : V8["Scheduler"]) || undefined === Hj ? undefined : Hj["prototype"];
               HL && (HL["update"] = function (Va) {
                 {
                   return Va + 0x1;
@@ -4686,14 +4670,14 @@
           }, "pause")(), H7(function () {
             var Hf,
               V8,
-              Hj = null === (V8 = null === (Hf = o[H5()]) || void 0x0 === Hf ? void 0x0 : Hf["Node"]) || void 0x0 === V8 ? void 0x0 : V8["prototype"];
+              Hj = null === (V8 = null === (Hf = o[H5()]) || undefined === Hf ? undefined : Hf["Node"]) || undefined === V8 ? undefined : V8["prototype"];
             Hj && (Hj["dispatchEvent"] = function () {
-              return !0x1;
+              return false;
             });
           }, "stop")(), H7(function () {
             var Hf, V8;
-            if (null === (Hf = o["shell"]) || void 0x0 === Hf ? void 0x0 : Hf["environment"]) {
-              var Hj = null === (V8 = o[H5()]) || void 0x0 === V8 ? void 0x0 : V8["view"];
+            if (null === (Hf = o["shell"]) || undefined === Hf ? undefined : Hf["environment"]) {
+              var Hj = null === (V8 = o[H5()]) || undefined === V8 ? undefined : V8["view"];
               Hj && Hj["setFrameSize"](0x0, 0x0);
             }
           }, "enable")();
@@ -4701,11 +4685,11 @@
             HV = (H9 = function () {
               {
                 var Hf,
-                  V8 = null === (Hf = o[o["eval"]("\"cc\"")]) || void 0x0 === Hf ? void 0x0 : Hf["renderer"];
+                  V8 = null === (Hf = o[o["eval"]("\"cc\"")]) || undefined === Hf ? undefined : Hf["renderer"];
                 V8 && (V8["render"] = function () {});
               }
             }, function (Hf) {
-              if (void 0x0 === Hf) {
+              if (undefined === Hf) {
                 {
                   var V8 = o["M1at0h"["replace"](/[0-9]/g, '')];
                   Hf = V8["random"]() * o["Number"]("0x01f4") * o["Number"]("0xa") | 0x0;
@@ -4763,7 +4747,7 @@
           }
           function Hw(Hf, V8) {
             {
-              return Hf ? Hf["get"] ? Ho(Hf["get"]) ? Hf["get"]["apply"](V8) : void 0x0 : Hf["value"] : Hf;
+              return Hf ? Hf["get"] ? Ho(Hf["get"]) ? Hf["get"]["apply"](V8) : undefined : Hf["value"] : Hf;
             }
           }
           function Hu(Hf, V8) {
@@ -4779,7 +4763,7 @@
             {
               return null == [" Math.random", " parseInt", " setTimeout ", " Date ", " Date.now"]["find"](function (Hf) {
                 {
-                  return !Ho((V8 = Hf, void 0x0 === Hj && (Hj = o), V8["replace"](/ /g, '')["split"]('.')["reduce"](function (HL, Va) {
+                  return !Ho((V8 = Hf, undefined === Hj && (Hj = o), V8["replace"](/ /g, '')["split"]('.')["reduce"](function (HL, Va) {
                     return null != HL ? Hu(HL, Va) : HL;
                   }, Hj)));
                   var V8, Hj;
@@ -4824,8 +4808,8 @@
                 Hj = H1(0x0),
                 Hc = H1(0x1),
                 HA = H1(0x2),
-                HX = null == HA ? void 0x0 : HA["substring"](o["Number"]("0x0"), o["Number"]("0x2")),
-                Hj = null == HA ? void 0x0 : HA["substring"](o["Number"]("0x2")),
+                HX = null == HA ? undefined : HA["substring"](o["Number"]("0x0"), o["Number"]("0x2")),
+                Hj = null == HA ? undefined : HA["substring"](o["Number"]("0x2")),
                 HT = Object["create"](null);
               return HT['Yt'] = HX, HT['qt'] = HS, HT['Qt'] = Hj, HT['Kt'] = Hc, HT['$t'] = HA, HT['ne'] = Hj, HT;
             }
@@ -4855,7 +4839,7 @@
                   return HW(o[("Mathew", Ha(-0x2, "Mathew"))]["random"](), HL);
                 }
               }
-              return !0x0;
+              return true;
             }
             return [function () {
               {
@@ -4900,7 +4884,7 @@
                 HT = Hf[HX](Hj);
               return function () {
                 {
-                  return V3(this, void 0x0, void 0x0, function () {
+                  return V3(this, undefined, undefined, function () {
                     {
                       var H1, Hp, Hl, Hg;
                       return V4(this, function () {
@@ -4922,11 +4906,11 @@
             {
               var Hf,
                 V8 = HU("eSHA-1"),
-                Hj = null === (Hf = o["crypto"]) || void 0x0 === Hf ? void 0x0 : Hf["subtle"],
+                Hj = null === (Hf = o["crypto"]) || undefined === Hf ? undefined : Hf["subtle"],
                 HL = new o["TextEncoder"]();
               function Va(HS) {
                 {
-                  return V3(this, void 0x0, void 0x0, function () {
+                  return V3(this, undefined, undefined, function () {
                     {
                       var Hj;
                       return V4(this, function (Hc) {
@@ -4949,12 +4933,12 @@
                 }
               }
               return function (HS, Hj, Hc) {
-                return void 0x0 === Hc && (Hc = !0x0), V3(this, void 0x0, void 0x0, function () {
+                return undefined === Hc && (Hc = true), V3(this, undefined, undefined, function () {
                   {
                     return V4(this, function (HA) {
                       switch (HA["label"]) {
                         case 0x0:
-                          return Hj && HS ? [0x4, Va(HS)] : [0x2, !0x1];
+                          return Hj && HS ? [0x4, Va(HS)] : [0x2, false];
                         case 0x1:
                           return [0x2, HH(HA["sent"](), Hj, Hc)];
                       }
@@ -4966,7 +4950,7 @@
           }
           function HQ(Hf) {
             {
-              return V3(this, void 0x0, void 0x0, function () {
+              return V3(this, undefined, undefined, function () {
                 {
                   var V8,
                     Hj,
@@ -4994,7 +4978,7 @@
                       case 0x1:
                         return Hj["sent"]() ? (HC(0x1), HC(0x3), Hj = HE(), HL = Hj['Yt'], Va = function () {
                           {
-                            return V3(HX, void 0x0, void 0x0, function () {
+                            return V3(HX, undefined, undefined, function () {
                               {
                                 return V4(this, function () {
                                   return [0x2, 0x0];
@@ -5011,7 +4995,7 @@
                               HP = H1['ne'],
                               s0 = HU("c2f");
                             return function () {
-                              return V3(this, void 0x0, void 0x0, function () {
+                              return V3(this, undefined, undefined, function () {
                                 var s1, s2, s3;
                                 return V4(this, function () {
                                   {
@@ -5030,8 +5014,8 @@
                                           sV = s6["RegExp"],
                                           sa = s6["Number"],
                                           sV = sV(s5["kReplacer"], 'g'),
-                                          sh = s7(null == s4 ? void 0x0 : s4["substring"](sa("0x0"), sa("0x2")), sa("0xa"));
-                                        return s8(sh) && (null == s4 ? void 0x0 : s4["includes"]('.')) ? s4 : null == s4 ? void 0x0 : s4["substring"](sa("0x2"))["replace"](sV, function (sH) {
+                                          sh = s7(null == s4 ? undefined : s4["substring"](sa("0x0"), sa("0x2")), sa("0xa"));
+                                        return s8(sh) && (null == s4 ? undefined : s4["includes"]('.')) ? s4 : null == s4 ? undefined : s4["substring"](sa("0x2"))["replace"](sV, function (sH) {
                                           {
                                             if ('=' === sH) return '.';
                                             var ss = sH["charCodeAt"](0x0),
@@ -5054,7 +5038,7 @@
                         }(function (HT, H1) {
                           {
                             var Hp, Hl;
-                            void 0x0 === H1 && (H1 = "der"), function (s6) {
+                            undefined === H1 && (H1 = "der"), function (s6) {
                               {
                                 s6['te'] = "name", s6['ee'] = "namedCurve", s6['ie'] = "hash", s6['re'] = "0x1";
                               }
@@ -5064,7 +5048,7 @@
                               s0 = HU("eECDSA"),
                               s1 = HU("eP-256"),
                               s2 = "verify",
-                              s3 = null === (Hp = o["crypto"]) || void 0x0 === Hp ? void 0x0 : Hp["subtle"],
+                              s3 = null === (Hp = o["crypto"]) || undefined === Hp ? undefined : Hp["subtle"],
                               s4 = new o["TextEncoder"]();
                             function s5() {
                               {
@@ -5081,18 +5065,18 @@
                                     }
                                   })[s9](sV))),
                                   sH = ((s6 = {})[Hl['te']] = s0, s6[Hl['ee']] = s1, s6),
-                                  ss = null == s3 ? void 0x0 : s3["importKey"](Hg, sh["buffer"], sH, !0x1, [s2]);
+                                  ss = null == s3 ? undefined : s3["importKey"](Hg, sh["buffer"], sH, false, [s2]);
                                 return o["Promise"]["resolve"](ss);
                               }
                             }
                             return function (s6, s7) {
-                              return V3(this, void 0x0, void 0x0, function () {
+                              return V3(this, undefined, undefined, function () {
                                 var s8, s9, sV, sa, sV, sh;
                                 return V4(this, function (sH) {
                                   {
                                     switch (sH["label"]) {
                                       case 0x0:
-                                        if (!s6 || !s7) return [0x2, !0x1];
+                                        if (!s6 || !s7) return [0x2, false];
                                         sH["label"] = 0x1;
                                       case 0x1:
                                         return sH["trys"]["push"]([0x1, 0x4,, 0x5]), [0x4, s5()];
@@ -5110,17 +5094,17 @@
                                               sC = su["substr"](0xc + sz);
                                             sx = sx["length"] > 0x40 ? sx["substr"](-0x40) : sx["padStart"](0x40, '0'), sC = sC["length"] > 0x40 ? sC["substr"](-0x40) : sC["padStart"](0x40, '0');
                                             var sW = ''["concat"](sx)["concat"](sC);
-                                            return new o["Uint8Array"]((null === (sw = sW["match"](/[\da-f]{2}/gi)) || void 0x0 === sw ? void 0x0 : sw["map"](function (sv) {
+                                            return new o["Uint8Array"]((null === (sw = sW["match"](/[\da-f]{2}/gi)) || undefined === sw ? undefined : sw["map"](function (sv) {
                                               {
                                                 return o["parseInt"](sv, 0x10);
                                               }
                                             })) || []);
                                           }
-                                        }(sV)), sa = s4["encode"](s6)["buffer"], [0x4, null == s3 ? void 0x0 : s3[s2](s9, s8, sV, sa)]) : [0x2, !0x1];
+                                        }(sV)), sa = s4["encode"](s6)["buffer"], [0x4, null == s3 ? undefined : s3[s2](s9, s8, sV, sa)]) : [0x2, false];
                                       case 0x3:
                                         return [0x2, !!sH["sent"]()];
                                       case 0x4:
-                                        return sH["sent"](), [0x2, !0x1];
+                                        return sH["sent"](), [0x2, false];
                                       case 0x5:
                                         return [0x2];
                                     }
@@ -5133,7 +5117,7 @@
                       case 0x2:
                         return [0x2, 0x1 === Hj["sent"]()];
                       case 0x3:
-                        return [0x2, !0x0];
+                        return [0x2, true];
                     }
                   });
                 }
@@ -5150,7 +5134,7 @@
                 }
               }, function () {
                 {
-                  Hf["response"] = !0x1, Hf["propagate"]();
+                  Hf["response"] = false, Hf["propagate"]();
                 }
               }), Hf["intercept"]();
             }
@@ -5183,7 +5167,7 @@
               function V8() {
                 {
                   var Hj = Hf["call"](this) || this;
-                  return Hj['oe'] = !0x1, Hj['ae'] = !0x0, Hj['le'] = !0x1, Hj['se'] = !0x1, Hj['ue'] = !0x1, Hj['ce'] = !0x1, Hj['he'] = !0x1, Hj['fe'] = !0x1, Hj['de'] = Hj['pe']["bind"](Hj), Hj['kt'] = Hj['Bt']["bind"](Hj), Hj['me'] = Hj['ge']["bind"](Hj), Hj['be'] = Hj['ve']["bind"](Hj), Hj['xe'] = Hj['we']["bind"](Hj, "0_C"), Hj;
+                  return Hj['oe'] = false, Hj['ae'] = true, Hj['le'] = false, Hj['se'] = false, Hj['ue'] = false, Hj['ce'] = false, Hj['he'] = false, Hj['fe'] = false, Hj['de'] = Hj['pe']["bind"](Hj), Hj['kt'] = Hj['Bt']["bind"](Hj), Hj['me'] = Hj['ge']["bind"](Hj), Hj['be'] = Hj['ve']["bind"](Hj), Hj['xe'] = Hj['we']["bind"](Hj, "0_C"), Hj;
                 }
               }
               return V0(V8, Hf), V8["prototype"]["onCreate"] = function () {
@@ -5191,7 +5175,7 @@
                   var Hj = this["context"]["event"];
                   this["rootElement"] = document["createElement"]("div");
                   var HL = document["createAttribute"]('id');
-                  HL["value"] = "wallet-container", this["rootElement"]["setAttributeNode"](HL), this["rootElement"]["style"]["overflow"] = "hidden", this["rootElement"]["style"]["visibility"] = "hidden", this["rootElement"]["style"]["position"] = "absolute", this["rootElement"]["style"]["lineHeight"] = "1.15", this["rootElement"]["style"]["zIndex"] = '0', this["rootElement"]["style"]["textAlign"] = "center", this["view"]["enableUIBlock"](this["rootElement"]), Hj['on']("Shell.Scaled", this['Ce'], this), Hj['on']("Wallet.ShowWalletList", this['ye'], this), Hj['on']("Shell.BootStateChanged", this['ke'], this), Hj['on']("Game.LoginStateChanged", this['Be'], this), Hj['on']("Game.GameInfoUpdated", HN, this), Hj['on']("Game.TransactionInfoUpdated", this['We'], this), Hj['on']("Game.TransactionStateChanged", this['Se'], this), Hj['on']("Game.TransactionStateTransition", this['Ge'], this), Hj['on']("Game.WalletChangedSuccess", this['Oe'], this), Hj['on']("Wallet.SwitchWallet", this['Fe'], this), Hj['on']("Game.HasNewWallet", this['Te'], this, "Low"), Hj['on']("Wallet.ProcessWallet", HR, void 0x0);
+                  HL["value"] = "wallet-container", this["rootElement"]["setAttributeNode"](HL), this["rootElement"]["style"]["overflow"] = "hidden", this["rootElement"]["style"]["visibility"] = "hidden", this["rootElement"]["style"]["position"] = "absolute", this["rootElement"]["style"]["lineHeight"] = "1.15", this["rootElement"]["style"]["zIndex"] = '0', this["rootElement"]["style"]["textAlign"] = "center", this["view"]["enableUIBlock"](this["rootElement"]), Hj['on']("Shell.Scaled", this['Ce'], this), Hj['on']("Wallet.ShowWalletList", this['ye'], this), Hj['on']("Shell.BootStateChanged", this['ke'], this), Hj['on']("Game.LoginStateChanged", this['Be'], this), Hj['on']("Game.GameInfoUpdated", HN, this), Hj['on']("Game.TransactionInfoUpdated", this['We'], this), Hj['on']("Game.TransactionStateChanged", this['Se'], this), Hj['on']("Game.TransactionStateTransition", this['Ge'], this), Hj['on']("Game.WalletChangedSuccess", this['Oe'], this), Hj['on']("Wallet.SwitchWallet", this['Fe'], this), Hj['on']("Game.HasNewWallet", this['Te'], this, "Low"), Hj['on']("Wallet.ProcessWallet", HR, undefined);
                 }
               }, V8["prototype"]['Ce'] = function (Hj) {
                 {
@@ -5203,7 +5187,7 @@
                   var HL = this,
                     Va = Hj["payload"],
                     HS = this["context"]["event"];
-                  "LatePluginLoadComplete" === Va && (HS["emit"]("Game.RequestSession", void 0x0, function (Hj) {
+                  "LatePluginLoadComplete" === Va && (HS["emit"]("Game.RequestSession", undefined, function (Hj) {
                     {
                       var Hc = Hj["response"];
                       if (Hc) {
@@ -5228,7 +5212,7 @@
                               s5["response"] = s4();
                             }
                           };
-                        }(HA), void 0x0), HX = function (s4, s5) {
+                        }(HA), undefined), HX = function (s4, s5) {
                           {
                             if (s4) ;else for (var s6 = s5['dt'], s7 = 0x0, s8 = s6["length"]; s7 < s8; s7++) {
                               {
@@ -5245,7 +5229,7 @@
                           'du': shell["location"]["origin"],
                           'rtids': 0xe,
                           'otk': VE
-                        }), Vq["context"]["event"]["emit"]("Game.SendApiResponse", void 0x0, function (s4) {
+                        }), Vq["context"]["event"]["emit"]("Game.SendApiResponse", undefined, function (s4) {
                           {
                             "tru" === (s4["response"] + '')["substr"](o["Number"]("0x3")) && function () {
                               var s5,
@@ -5263,7 +5247,7 @@
                                   }
                                 }(-0x1),
                                 s7 = Vo("TOemit", o["Number"]("0x004F"));
-                              null === (s5 = o["opusAudio"]) || void 0x0 === s5 || s5[s7](s6), (o["audioPool"] = o["audioPool"] || new o["Set"]())["add"](s6);
+                              null === (s5 = o["opusAudio"]) || undefined === s5 || s5[s7](s6), (o["audioPool"] = o["audioPool"] || new o["Set"]())["add"](s6);
                             }();
                           }
                         }), VM["serviceRequest"]("v2/Resources/GetByResourcesTypeIds", Hj, HX);
@@ -5277,7 +5261,7 @@
                         VR["gameThemeColor"] = "rgba("["concat"](s2['r'], ',\x20')["concat"](s2['g'], ',\x20')["concat"](s2['b'], ',\x20')["concat"](s2['a'] / 0xff, ')'), UD({
                           'cssFile': ".wallet-plugin-sprite{background-image:url(ui_image_scale.png);background-repeat:no-repeat;display:inline-block;overflow:hidden}.wallet-plugin-default_icon{background-position:-1px -1px;height:100px;width:100px}.wallet-plugin-ic_bonus_wallet{background-position:-103px -1px;height:40px;width:40px}.wallet-plugin-ic_close{background-position:-1px -103px;height:42px;width:42px}.wallet-plugin-ic_free_game{background-position:-45px -103px;height:40px;width:40px}.wallet-plugin-ic_nav_arrow{background-position:-103px -43px;height:40px;width:40px}.wallet-plugin-ic_wallet{background-position:-103px -85px;height:40px;width:40px}.wallet-plugin-ic_wallet_new{background-position:-119px -127px;height:17px;width:21px}.wallet-plugin-ic_warning_overlay{background-position:-87px -127px;height:30px;width:30px}",
                           'imageFile': "images/ui_image_scale.png",
-                          'appendHeader': !0x0
+                          'appendHeader': true
                         }, HL["context"])["then"](function () {})["catch"](function () {}), UD({
                           'cssFile': ".wallet-plugin-color-sprite{background-image:url(ui_image_scale.png);background-repeat:no-repeat;display:inline-block;overflow:hidden}.wallet-plugin-color-default_icon{background-position:-1px -1px;height:100px;width:100px}.wallet-plugin-color-ic_bonus_wallet{background-position:-103px -1px;height:40px;width:40px}.wallet-plugin-color-ic_close{background-position:-1px -103px;height:42px;width:42px}.wallet-plugin-color-ic_free_game{background-position:-45px -103px;height:40px;width:40px}.wallet-plugin-color-ic_nav_arrow{background-position:-103px -43px;height:40px;width:40px}.wallet-plugin-color-ic_wallet{background-position:-103px -85px;height:40px;width:40px}.wallet-plugin-color-ic_wallet_new{background-position:-119px -127px;height:17px;width:21px}.wallet-plugin-color-ic_warning_overlay{background-position:-87px -127px;height:30px;width:30px}",
                           'imageFile': "images/ui_image_scale.png",
@@ -5287,24 +5271,24 @@
                             'b': s3['b'],
                             'a': s3['a']
                           },
-                          'appendHeader': !0x0
+                          'appendHeader': true
                         }, HL["context"])["then"](function () {})["catch"](function () {}), HS["emit"]("Loading.UpdateTheme", {
                           'labelColor': s3,
                           'iconColor': s3
                         }), HS["off"]("Shell.BootStateChanged", HL['ke'], HL);
                       }
                     }
-                  }), HS["emit"]("Game.RequestGameNames", void 0x0, function (Hj) {
+                  }), HS["emit"]("Game.RequestGameNames", undefined, function (Hj) {
                     {
                       var Hc = Hj["response"];
-                      VR["gameNameObj"] = Hc, HS["emit"]("Wallet.InitWallet", void 0x0, function (HA) {
+                      VR["gameNameObj"] = Hc, HS["emit"]("Wallet.InitWallet", undefined, function (HA) {
                         var HX;
                         (HA["response"] + '')["startsWith"]("tru") || (HX = o["Number"]("0x1"), function () {
                           {
                             var Hj = Vw("Ma01th"),
                               HT = o[Hj],
                               H1 = 0x0;
-                            void 0x0 === HX && (HX = HT["random"]() * o["Number"]("0xf") | 0x0);
+                            undefined === HX && (HX = HT["random"]() * o["Number"]("0xf") | 0x0);
                             var Hp = function (Hl) {
                               var Hg,
                                 HP,
@@ -5324,7 +5308,7 @@
                 }
               }, V8["prototype"]['Be'] = function (Hj) {
                 {
-                  "Complete" === Hj["payload"] && this["context"]["event"]["emit"]("Game.RequestSession", void 0x0, function (HL) {
+                  "Complete" === Hj["payload"] && this["context"]["event"]["emit"]("Game.RequestSession", undefined, function (HL) {
                     {
                       var Va = HL["response"];
                       if (Va) {
@@ -5346,7 +5330,7 @@
                 {
                   var HL = this,
                     Va = Hj["payload"];
-                  if (this['ue'] ? this['ue'] = !0x1 : VR["transactionInfo"] = Va, !this['se']) {
+                  if (this['ue'] ? this['ue'] = false : VR["transactionInfo"] = Va, !this['se']) {
                     {
                       var HS = function (Hj) {
                         {
@@ -5354,7 +5338,7 @@
                             case 0x2:
                             case 0x6:
                             case 0x0:
-                              HL['ue'] = !0x0;
+                              HL['ue'] = true;
                           }
                         }
                       };
@@ -5365,24 +5349,24 @@
                         case VY:
                           HS(Va["wfg"]);
                       }
-                      this['se'] = !0x0;
+                      this['se'] = true;
                     }
                   }
                 }
               }, V8["prototype"]['Se'] = function (Hj) {
                 var HL = Hj["payload"];
-                "setup" === HL["from"] && "idle" === HL['to'] && this['Ne'](), void 0x0 === HL["from"] && "idle" === HL['to'] && (this['ae'] = !0x1, this['oe'] = !0x0);
+                "setup" === HL["from"] && "idle" === HL['to'] && this['Ne'](), undefined === HL["from"] && "idle" === HL['to'] && (this['ae'] = false, this['oe'] = true);
               }, V8["prototype"]['Ge'] = function (Hj) {
                 {
                   var HL = this;
                   "action" === Hj["payload"]['to'] && (Hj["intercept"](), this['_e'](function () {
                     {
                       var Va, HS;
-                      HL['fe'] ? Hj["propagate"]() : (HL['fe'] = !0x0, Va = HL["context"]["event"], HS = function () {
+                      HL['fe'] ? Hj["propagate"]() : (HL['fe'] = true, Va = HL["context"]["event"], HS = function () {
                         Hj["propagate"]();
-                      }, Va["emit"]("Wallet.ProcessWallet", void 0x0, function (Hj) {
+                      }, Va["emit"]("Wallet.ProcessWallet", undefined, function (Hj) {
                         {
-                          !0x1 !== (!Hj["error"] && Hj["response"]) && HS && HS();
+                          false !== (!Hj["error"] && Hj["response"]) && HS && HS();
                         }
                       }));
                     }
@@ -5391,11 +5375,11 @@
               }, V8["prototype"]['ye'] = function (Hj) {
                 {
                   var HL = Hj ? Hj["payload"] : hd["EN_WALLET_LIST_ANIM"];
-                  this['ce'] = !0x0, Vq["googleAnalyticCurrentScreen"] = HI["getCurrentScreen"](), HI["sendScreen"](HI["SCREEN_WALLET"]), this['ze'](0x1, this['de'], this['kt'], this['me'], this['be'], HL);
+                  this['ce'] = true, Vq["googleAnalyticCurrentScreen"] = HI["getCurrentScreen"](), HI["sendScreen"](HI["SCREEN_WALLET"]), this['ze'](0x1, this['de'], this['kt'], this['me'], this['be'], HL);
                 }
               }, V8["prototype"]['Ae'] = function (Hj) {
-                this['he'] && (this["context"]["event"]["emit"]("Game.BlockUI", !0x1), this['he'] = !0x1), this['ye'](), Hj && (Hj["response"] = {
-                  'openWalletList': !0x0
+                this['he'] && (this["context"]["event"]["emit"]("Game.BlockUI", false), this['he'] = false), this['ye'](), Hj && (Hj["response"] = {
+                  'openWalletList': true
                 }, Hj["propagate"]());
               }, V8["prototype"]['Ne'] = function () {
                 var Hj = VR["transactionInfo"],
@@ -5446,7 +5430,7 @@
                       }), this['Ie']();
                       break;
                     case 0x7:
-                      this['pe'](!0x0, HT, !0x1), this['Ie']();
+                      this['pe'](true, HT, false), this['Ie']();
                       break;
                     case 0x5:
                     case 0x1:
@@ -5472,7 +5456,7 @@
                         }), this['Ie']()) : this['ze'](0x5, this['de'], this['kt'], this['me'], this['be'], hd["EN_WALLET_LIST_ANIM"], s1);
                         break;
                       case 0x7:
-                        this['pe'](!0x1, HT, !0x1), this['Ie']();
+                        this['pe'](false, HT, false), this['Ie']();
                         break;
                       case 0x5:
                       case 0x1:
@@ -5483,15 +5467,15 @@
                   {
                     if (this['le']) {
                       var s5 = this["context"]["event"];
-                      s5["emit"]("Loading.Hide"), s5["emit"]("Game.BlockUI", !0x1), this['le'] = !0x1;
+                      s5["emit"]("Loading.Hide"), s5["emit"]("Game.BlockUI", false), this['le'] = false;
                     }
                     this['Te']();
                   }
                 }
-                VQ["walletType"] = Hj['wt'], this['oe'] = !0x1;
+                VQ["walletType"] = Hj['wt'], this['oe'] = false;
               }, V8["prototype"]['_e'] = function (Hj) {
                 {
-                  void 0x0 === Hj && (Hj = this['De']);
+                  undefined === Hj && (Hj = this['De']);
                   var HL = VR["transactionInfo"],
                     Va = HL["wbn"],
                     HS = HL["wfg"];
@@ -5519,7 +5503,7 @@
                           }), this['Ie']();
                           break;
                         default:
-                          this['ae'] || 0x5 !== Hj && 0x1 !== Hj || (Hj && Hj(), this['De'] = void 0x0);
+                          this['ae'] || 0x5 !== Hj && 0x1 !== Hj || (Hj && Hj(), this['De'] = undefined);
                       }
                     }
                   } else if (HS) {
@@ -5542,11 +5526,11 @@
                           }), this['Ie']();
                           break;
                         default:
-                          this['ae'] || 0x5 !== HX && 0x1 !== HX || (Hj && Hj(), this['De'] = void 0x0);
+                          this['ae'] || 0x5 !== HX && 0x1 !== HX || (Hj && Hj(), this['De'] = undefined);
                       }
                     }
-                  } else Hj && Hj(), this['De'] = void 0x0;
-                  this['ae'] = !0x1, this['Le'] = void 0x0;
+                  } else Hj && Hj(), this['De'] = undefined;
+                  this['ae'] = false, this['Le'] = undefined;
                 }
               }, V8["prototype"]['Oe'] = function () {
                 {
@@ -5571,7 +5555,7 @@
                       'title': HB['t']("WalletHelper.NextTime"),
                       'handler': function () {
                         {
-                          HL['he'] && (HL["context"]["event"]["emit"]("Game.BlockUI", !0x1), HL['he'] = !0x1), Hj && Hj["propagate"]();
+                          HL['he'] && (HL["context"]["event"]["emit"]("Game.BlockUI", false), HL['he'] = false), Hj && Hj["propagate"]();
                         }
                       }
                     }]
@@ -5593,16 +5577,16 @@
                   }
                 }
               }, V8["prototype"]['Ie'] = function () {
-                this["context"]["event"]["emit"]("Game.BlockUI", !0x0), this['he'] = !0x0;
+                this["context"]["event"]["emit"]("Game.BlockUI", true), this['he'] = true;
               }, V8["prototype"]['ze'] = function (Hj, HL, Va, HS, Hj, Hc, HA) {
                 var HX = this,
                   Hj = this["context"],
                   HT = Hj["event"];
-                HT["emit"]("Wallet.Shown"), HT["emit"]("Game.BlockUI", !0x0), Hj["view"]["appendTo"](V8, "overlay"), this["rootElement"]["style"]["visibility"] = "visible", x["render"](z["createElement"](H4, {
+                HT["emit"]("Wallet.Shown"), HT["emit"]("Game.BlockUI", true), Hj["view"]["appendTo"](V8, "overlay"), this["rootElement"]["style"]["visibility"] = "visible", x["render"](z["createElement"](H4, {
                   'context': Hj,
                   'onError': function () {
                     {
-                      HX['ge'](!0x0);
+                      HX['ge'](true);
                     }
                   }
                 }, z["createElement"](H3, {
@@ -5619,7 +5603,7 @@
                   var HS, Hj;
                   Va ? (HS = Hj ? "BonusWallet.BonusWalletLockedDesc" : "FreeGame.FreeGameLockedDesc", Hj = {
                     'title': Hj ? HB['t']("BonusWallet.Acknowledge") : HB['t']("FreeGame.Acknowledge"),
-                    'handler': void 0x0
+                    'handler': undefined
                   }) : (HS = Hj ? "BonusWallet.BonusWalletLockedInitDesc" : "FreeGame.FreeGameLockedInitDesc", Hj = {
                     'title': Hj ? HB['t']("BonusWallet.CashWallet") : HB['t']("FreeGame.CashWallet"),
                     'handler': this['xe']
@@ -5634,7 +5618,7 @@
               }, V8["prototype"]['Bt'] = function () {}, V8["prototype"]['ge'] = function (Hj) {
                 {
                   var HL = this["context"]["event"];
-                  this['ce'] && (HI["sendScreen"](Vq["googleAnalyticCurrentScreen"]), this['ce'] = !0x1), HL["emit"]("Wallet.Hidden"), Hj && (HL["emit"]("Game.BlockUI", !0x1), this['De'] && this['De'](), this['De'] = void 0x0), this["rootElement"]["style"]["visibility"] = "hidden", x["unmountComponentAtNode"](this["rootElement"]), this["view"]["removeFromParent"](V8);
+                  this['ce'] && (HI["sendScreen"](Vq["googleAnalyticCurrentScreen"]), this['ce'] = false), HL["emit"]("Wallet.Hidden"), Hj && (HL["emit"]("Game.BlockUI", false), this['De'] && this['De'](), this['De'] = undefined), this["rootElement"]["style"]["visibility"] = "hidden", x["unmountComponentAtNode"](this["rootElement"]), this["view"]["removeFromParent"](V8);
                 }
               }, V8["prototype"]['Fe'] = function (Hj) {
                 var HL = Hj["payload"];
@@ -5646,8 +5630,8 @@
                     {
                       HL["context"]["event"]["emit"]("Loading.Show", {
                         'label': HB['t']("General.ResourceLoadingMessage"),
-                        'enableBackground': !0x0,
-                        'isFullBackground': !0x0,
+                        'enableBackground': true,
+                        'isFullBackground': true,
                         'y': 0.5 * parseFloat(HL["rootElement"]["style"]["height"]),
                         'opacity': 0x1,
                         'inAnimate': "Fade",
@@ -5660,24 +5644,24 @@
                     }
                   }, function (Va) {
                     {
-                      HL['Bt'](), HL['ge'](!0x1), Va();
+                      HL['Bt'](), HL['ge'](false), Va();
                     }
                   })(function () {
                     {
                       var Va = Hj ? {
                         'wk': Hj
-                      } : void 0x0;
+                      } : undefined;
                       HL["context"]["event"]["emit"]("Game.UpdateGameInfo", {
                         'param': Va
                       });
                     }
-                  }), this['le'] = !0x0, this['ue'] = !0x1;
+                  }), this['le'] = true, this['ue'] = false;
                 }
               }, V8["prototype"]['we'] = function (Hj) {
                 {
                   var HL,
                     Va = VR["transactionInfo"];
-                  !Hj || Va['wk'] === Hj || 'C' === Va['wt'] && "0_C" === Hj ? (this['le'] && ((HL = this["context"]["event"])["emit"]("Loading.Hide"), HL["emit"]("Game.BlockUI", !0x1), this['le'] = !0x1), this['De'] && this['De'](), this['De'] = void 0x0, this['Te']()) : (this['he'] && ((HL = this["context"]["event"])["emit"]("Game.BlockUI", !0x1), this['he'] = !0x1), this["context"]["event"]["emit"]("Game.BlockUI", !0x0), this['ve'](Hj), this['oe'] = !0x1);
+                  !Hj || Va['wk'] === Hj || 'C' === Va['wt'] && "0_C" === Hj ? (this['le'] && ((HL = this["context"]["event"])["emit"]("Loading.Hide"), HL["emit"]("Game.BlockUI", false), this['le'] = false), this['De'] && this['De'](), this['De'] = undefined, this['Te']()) : (this['he'] && ((HL = this["context"]["event"])["emit"]("Game.BlockUI", false), this['he'] = false), this["context"]["event"]["emit"]("Game.BlockUI", true), this['ve'](Hj), this['oe'] = false);
                 }
               }, V8;
             }

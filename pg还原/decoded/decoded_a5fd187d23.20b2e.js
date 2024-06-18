@@ -1,26 +1,10 @@
 !function () {
   'use strict';
 
-  function n() {
-    var fY = ['nGG', 'DGp', 'JgW', 'Fai', 'ppe', 'SWx', 'tlb', 'gsc', 'elV', 'UME', 'tPo', 'dTZ', 'mag', 'lSe', 'jNz', 'alo', 'zdu', 'Dis', 'nds', 'riT', '\x2050', ':\x203', 'tom', 'YHA', 'MEN', 'ann', 'zRE', '_re', '(25', 'lBV', 'ity', 'FIT', 'nt-', 'Sto', 'nSt', 'nat', 'wlA', 'Ma0', 'ok\x20', 'ceQ', 'on:', 'add', '.4p', '4z2', 'Eff', 'wGa', 'tQH', 'nXS', 'ec-', 'ker', 'Ite', 'qdw', 'onU', 'TiV', 'eSh', 'ESS', 'OKO', 'uld', 'arR', 'teM', 'rbi', 'etM', 'imp', 'leI', ')\x20i', ',\x201', 'ckO', 'isM', 'sub', 'nco', 'Red', 'UII', 'eNa', 'wCW', 'rrM', 'Def', 'nHW', 'scr', 'OKW', 'tam', 'zIg', 'VJC', 'E_G', 'wdh', 'Zdo', 'itM', 'l.E', 'NSI', 'gRi', 'hem', 'sku', 'lin', 'c\x20o', 'isB', 'hol', 'iew', 'sdi', 'Aqd', 'onA', 'ayC', 'AmX', 'yKE', '\x20do', 'd-c', 'xWi', 'onF', 'LET', 'UOr', 'Eng', 'YiO', 'Col', 'Pos', 'raW', 'ZXx', 'MxR', 'pri', 'wkA', 'Hpz', 'Hor', 'yNe', 'elO', '\x20ab', 'uiA', 'qDO', 'ath', 'Ian', 'red', 'kTi', 'eHe', 'AUc', 'bl_', 'cte', 'tTi', 'OKl', 'tan', 'e.D', 't-s', 'DvL', 'tMa', 'ail', 'lle', 'px,', '4)\x20', 'abs', 'alB', 'abo', 'PRO', 'FKX', 'ych', '_TI', 'ses', 'dgk', 'geB', 'toL', 'cha', 'in-', '\x20\x20p', 'Hou', 'isR', '50,', 'eNu', 'xRm', '\x201p', 'ay-', 'map', 'bPd', 'px\x20', 'Tra', 'Ani', 'll1', 'KET', '3E8', 'BuT', 'LfO', 'esN', 't/m', 'Typ', 'nva', 'mTx', 'inC', 'alG', 'tBu', 'iHU', 'thj', 'meI', 'TIT', 'emp', 'rqE', 'ark', 'SES', 'con', 'xaj', 'pFo', 'chH', 'cQR', 'css', 'leY', 'TPH', '__e', 'rkH', 'bAw', '2/s', 'ppr', 'geS', 'vne', 'ikI', 'LUb', 'WKQ', 'pPr', 'DsD', '_ma', '24)', 'ode', 'xCR', '\x20pr', 'sXv', '\x200)', 'ned', 'tDi', 'FJp', 'Nxv', 'tLo', '+sh', 'TRA', 'ePf', 'cDg', 'tWi', 'opa', 'eAf', 'WAT', 'onf', 'rId', 'roo', 'iYY', 't\x200', 'mXc', 'NFw', 'nsp', '(8p', 'dsc', 'arg', 'dsb', 'TLL', 'Err', 'WlV', 'c72', 'VBO', 'vkT', 'cat', 'TsQ', 'fHW', '0.7', 'iga', '0x3', 'g.H', 'onR', 'you', '20p', 'bqJ', 'vCS', 'nLo', 'EYu', 'ble', '-bt', 'ERA', 'GFK', 'e.G', 'UCB', 'num', 'aDy', 'olv', 'T_G', 'RIG', 'hgi', 'lCo', 'ib.', 'pte', 'geF', '_lo', 'ist', 'NT_', 'dth', 'hew', 'ceT', 'ebl', 'PAU', 'htB', 'Occ', '02b', 'inh', 'nne', 'tRo', 'omp', 'sis', 'ten', 'geD', 'foc', '.jp', 'WCI', 'Dem', 'rgb', 'toS', 'gio', 'ndl', 'nt\x20', '\x20mo', 'deK', 'fam', 'Url', 'TUG', 'GkJ', 'Man', 'Htt', '250', 'lea', 'hen', 're\x20', 'LAN', 'zvM', 'NeX', 'rwl', 'aWy', '.65', '(65', 'yAP', '5px', 'UPp', 'ayN', 'kjU', 'XHR', 'tEn', 'e\x20i', 'iQO', '.2s', 'roy', 'sty', 'pWO', 'apt', 'nPa', 'm\x20i', 'rip', 'wat', 'orA', 'IME', 'aks', 'Aud', '-0.', '-vi', 'ack', 'eel', 'ngC', 'Vyi', 'dde', 'XGO', 'err', 'dCl', 'kiA', 'Unk', 'bpo', 'PWD', 'UNI', 'VXf', 'r-c', 'Lkm', 'iti', 'Sjn', 'lth', 'gRe', 'rid', 'GSC', 'tPa', 'sZE', 'ba5', 'Lin', 'HZO', 'vxp', 't-p', 'yCo', '(9.', '__d', 'EGO', 'sAu', 'ER_', 'qbr', '(10', 'CLA', 'eIn', 'enc', 'NEC', 'loc', 'but', 'elR', '.28', 'ePl', 'mQC', 'leM', 'eVa', 'mof', 'ydg', 'caf', 'T_A', 'dir', 'kdT', 'SOC', 'EoO', 'joi', 'iWE', 'upd', 'nea', 'Off', 'han', 'CAR', 'Ful', 'p-c', 'cla', 'QVE', 'Ska', 'Tot', 'tai', 'yXs', 'chm', 'CHI', 'BVF', 'teg', 'ioS', 'Wid', 'Spa', 'eSL', 'lTi', 'nEx', 'sit', 'mmo', 'n:\x20', 'ayE', 'fig', 'deM', 'em\x20', 'kJE', 'Zzq', '-fa', 'cXs', 'nkq', 'qgO', 'PAR', 'fps', 'joo', 'Dia', 'tUp', 'is\x20', 'Bot', 'upF', '1\x20n', 'it\x20', 'OCC', 'eRu', 'nDK', 'R:\x20', 'ocd', 'oSp', 'nLi', 'lic', 'mZm', 'tId', 'tit', 'igh', 'tsm', 'xRn', 'tAu', 'cUa', '12.', 'YTH', 'IYT', 'pNc', '[ob', 'Pwq', 'mLD', 'His', 'Par', 'eBZ', 'gra', '/so', 'Bro', 'xCc', 'dyn', 'nVC', 'tri', 'EED', 'aus', 'EST', 'Hmi', 'eDi', 'GLO', 'Idl', 'YCo', 'fo/', '-to', 'NET', 'DTK', 'ape', 'rtR', 'row', 'TML', '_DO', 'Fit', 'inA', 'let', 'ptu', 'Kxd', '\x20\x20c', 'hot', 'NEW', 'Inf', 'yqr', 'meH', 'nEv', 'TGG', 'fil', '0.5', 'sVu', 'inu', 'AiY', 'Mpu', 'idH', 'CeF', 'FKY', 'r-b', 'qmd', 'erv', 'eCo', 'tSo', 'vxC', 'led', 'VZx', 'eUk', 'pIr', 'vic', 'NVS', '\x20bu', 'SRT', 'ZUu', '\x20du', 'lUn', 'ged', 'CSS', 'val', '\x20pa', 'src', 'ogL', 'kEr', 'Med', 'NQL', 'ay:', 'WAL', 'sep', 'whi', 'ISI', 'uTy', 'RoR', 'Cri', 'yBu', 'ryM', 'tle', 'Pht', 'nSY', '.ti', 'jlg', 'rdC', 'gge', 'alA', 'iro', 'KCj', 'Uqp', 'nch', '\x20\x20w', 'adi', 'ion', 'tar', 'ler', 'aAK', 'bfa', 'wRc', 'cle', '-25', 'Hck', 'eqI', 'uQM', 'yTa', 'adA', 'pdS', 'ith', 'omC', 'WBI', 'tSt', 'equ', 'ZPg', 'deU', 'ibi', 'tip', 'uuO', '\x20so', 'pRr', 'BlI', 'qnJ', 'nPr', 'mal', '00p', 'seT', 'aft', ':\x20w', 'gXj', 'GiH', 'VlW', 'las', 'TBF', 'Toa', 'usG', 'etP', 'kgG', 'ct-', 'uJd', 'ErF', 'gec', 'orR', 'qFc', 'Sug', 'olo', 'dCA', 'sse', 'ge\x20', 'Com', 'FPS', 'Kus', '-bg', 'idt', 'nLI', 'pos', 'eSu', 'WRs', 'l-r', '\x20nu', 'nNe', 'ato', 'eso', 'te\x20', '.\x20S', 'JNn', 'ret', 'rDu', 'ign', 'ow:', '0x4', '\x20In', 'DNz', 'ter', 'Sym', 'pSe', 'ana', 'CEN', '1f4', '-sh', 'Gen', 'CnQ', 'Bet', '85;', 'd-b', 'TIC', 'gek', 'Men', 'Log', 'uay', 'TIM', 'Soc', 'UkY', 'exe', 'sUp', 'net', 'eqi', 'Zyf', 'btr', 'inM', 'cPT', 'buf', '.15', 'tID', 'adc', 'or.', '25p', 'x;\x20', 'rwo', 'ruo', 'fit', 'erZ', 'cie', 'ven', 'lfQ', 'lut', 'n\x20s', 'XjB', 'leT', 'iqe', 'key', 'NvN', 'ct]', 'utl', 'ntP', 'eve', 'SE_', 'tbb', '_id', '1px', 'BUu', 'Fre', 'Ind', '\x20go', 'e.F', 'eFa', 'aNu', 'bab', 'eTw', 'not', 'Eid', 'neM', 'OOt', 'TDH', 'ive', 'ePa', 'aud', 'zOA', 'fkY', 'm-b', '\x20::', 'Gju', '_PA', 'ntF', 'tEv', 'iOw', 'thR', 'sin', 'Ins', 'rev', 'che', 'tCu', 'meS', 'top', 'axN', 'sCu', 'atk', 'JOI', 'UtT', 'tCo', '\x20po', 'Avk', 'xwf', 'yTr', 'o\x20:', 'eNo', 'Ass', 'inS', 'yJl', 'squ', 'lit', 'ify', 'stE', '-re', 'iSI', 'tIn', 'msd', 'Qdj', 'DZg', 'DRE', 'sWi', 'Kii', 'sco', 'riz', 'din', 'eGa', 'ert', 'tTo', 'YjH', 'NOW', 'Jkp', 'uou', 'oPw', '_FO', 'lav', 'PIR', 'New', 'gSk', 'Tti', 'hsj', 'Mod', 'VgN', '-le', 'bRp', 'itH', 'mit', 'e_e', 'rZU', 'Sty', 'gNa', 'rin', 'imw', 'ymb', 'eta', 'erT', 'she', 'PEN', 'Jtz', 'tog', 'fKl', 'oyr', 'lud', 'Reg', 'OTE', 'alt', 'tCh', '\x20nt', 'chk', 'Csh', 'in_', 'mPa', 'MRw', 'SWE', 'DEN', 'ete', 'Cyt', 'Can', '552', 'ckR', 'fle', 'olR', 'Wjh', 'qGj', '-ic', 'msu', 'Tim', 'uit', 'EUR', 'etR', 'nab', 'mSt', 'poi', 'epp', 'Rei', 'v52', 'qdU', 'SYN', 'jhJ', '-se', 'iJT', 'TIN', 'aFq', 'ryA', 'SJg', 'But', 'IkT', 'mWy', 't\x20s', 'emo', 'sFe', 'LuB', 'XSK', 'kDm', 'eAR', 'yzi', 'er.', 'R3N', 'Hzq', 'Two', 'por', 'oun', 'zUj', 'cMo', 'Pqe', 'men', 'def', 'Row', 'WSC', 'olu', 'alC', 'mxl', '\x20on', 'isi', 'yHe', 'eLi', 'Str', 'Ret', 'ddI', 'eCe', 'yer', 'ost', 'ty:', 'isF', '-wr', 'eMa', 'ayR', 'POS', 'Ele', 'pGa', 'onE', 'nLe', 'min', 'std', 'HWR', '\x20tr', 'uri', 'Roy', 'ntC', 'ZFF', 'vfp', 'RTZ', 'e.T', 'eEn', '\x20\x20o', 'new', 'wiZ', 'FNA', 'Get', 'has', 'Add', 'dio', 'ire', 'MQT', 'BqF', 'Hum', 'elC', 'Nma', 'UHr', 'gLe', 'fDK', '\x20fl', 'rem', 'sol', 'XSB', 'rte', '\x20Sa', 'unc', 'iop', 'ams', 'l\x20:', 'inF', 'KfZ', 'LTp', 'fro', 'den', 'cur', 'OFI', 'ree', 'inn', 'CVi', 'rse', 'gam', 'gb(', 'ceU', 'hoQ', 'pro', 'dEy', 'ogC', 'GRn', 'Lev', 'log', 'eou', 'hZr', 'er\x20', 'cal', 'ver', 'hit', 'idd', 'eci', 'NKL', 'tEf', 'sQR', 'ejt', 'io\x20', 'ach', 'get', 'PMF', 'ngF', 'nSe', 'Eac', 'cen', 'N_N', '0.9', '\x20fa', 'poB', 'ntS', 'bKZ', 'eik', '65,', 'al-', 'nVI', 'VER', 'wCu', 'adR', 'inv', 'tTu', 'cut', 'rHe', 'orH', 'QUE', 'meR', 'eSp', 'onu', 'esm', 'Wit', 'tsn', 'M1a', 'npM', 'ins', 'jkt', 'mZP', '_on', 'wIm', '\x2014', 'ain', 'zIn', 'ora', 'shB', 'kBu', 'Tit', 'iUr', 'VAw', 'zwe', 'lqr', 'rds', 'l.M', 'QBi', 'ZqG', '755', '-st', '{\x20\x20', 'MhE', 'kUI', 'bac', 'SHA', 'TER', 'Xsa', 'SWw', 'RES', 'lig', 'er:', 'E_N', 'LBe', 'isc', 'InU', 'wWL', 'the', 'pPR', 'hBq', 'typ', '\x20id', 'orF', 'll.', 'dFe', 'ume', 'ata', 'pke', 'ttr', 'how', 'tDa', 'Act', 'dab', 'MJN', 'gNc', 'StE', 'ay.', 'hEx', 'SJl', 'te;', 'WZG', 'bpq', 'sIx', 'zTS', 'Bal', 'e\x20a', '\x20to', 'p-b', 'lgB', 'gjQ', 'pon', 'Bmf', '0.0', 'fDA', 'ce-', '\x20re', 'tTa', 'meo', 'qlw', 'blb', 'CAS', 'pOO', '\x200.', 'N_S', 'BAL', 'hig', 'rPr', 'Juh', 'ASf', 'edC', 'xdP', '12c', 'eXb', 'kRe', 'lUR', 'hCg', 'nav', 'T_E', 'OnS', 'nd!', 'itC', 'fea', 'LEG', 'cus', 'ZIn', '+)+', 'ber', 'lGj', 'foU', 'rPL', 'HHM', 'Nex', 'boo', 'RVy', 'kCa', 'zSk', 'dne', 'FQI', 'rre', 'rSp', 'inR', 'rAg', 'xtC', ';\x20\x20', 'moz', 'ACC', 'non', 'ine', 'gXD', 'Min', 'rac', 'XAK', 'nRi', 'HLX', 'al.', '1.5', 'Ded', 'fec', 'ces', 'opR', 'lac', 'hnp', 'lan', 'aSo', 'GsL', 'ntL', 'evi', 'GHz', 'two', 'dia', 'uzB', 'QWG', 'VFw', 'Ijt', 'DON', 'nKN', 'bet', 'fNJ', 'ntB', 'age', 'vBg', 'unk', 'jec', 'ped', 'bin', 'cap', 'x-s', 'vas', '28p', 'onD', 'isD', 'wbn', 'Scr', '-pa', 'KdM', 'wra', 'axW', 'Tri', 'n\x20c', 'irc', 'ted', 'pen', 'ZHx', 'HSg', 'AyS', 'dyv', 'igu', 'e\x20n', 'hWo', 'eco', 'nTi', 'rri', 'VIV', 'ioP', 'Gte', '-38', 'nhg', 'cyS', '-ti', 'OAh', 'rIe', 'EsX', '_ha', 'ZCX', 'ntD', 'Drz', 'ium', 'nra', 'NtM', '(6p', 'Zuh', 'xAP', 'SVi', 'fal', 'yHa', 'RRE', 'cbu', 'inf', 'jvQ', 'Pka', 'ntR', '\x20di', 'ct\x20', 'noC', 'Ali', 't_m', 'ecA', 'EXm', '-cs', 'xky', 'DER', '7px', 'des', 'ndD', 'sta', '.5s', 'ew-', 'nEr', 'MmP', 'ute', 'oSt', 'nTu', 'vHX', 'JFW', '.\x20C', 't.M', 's\x20i', 'SPI', '00%', 'TkL', 'usC', 'YEN', 'url', 'pIJ', 'dex', 'spi', 'teY', 'sIY', 'AOZ', 'g-w', 'Eve', 'aul', 'deb', 'er-', ']\x20E', 'ico', 'Sta', 'o\x20t', 'ceA', 'ove', 'nce', 'e-b', 'mVv', 'gth', 'hod', '1th', 'onl', 'PIL', '\x20li', 'pho', 'onL', '-ri', 'QtB', 'US_', 'op-', 'uhD', '0xa', 'IFi', 'RL\x20', 'dmr', 'x:\x20', 'GER', 'ory', 'id\x20', 'uio', 'Env', 'Key', 'VWm', 'ND_', 'Emm', 'wfg', 'xAQ', '0.2', 'LnC', 's\x20s', 'IPD', 's\x201', '\x22cc', 'CgA', 'ect', 'cGz', 'Rel', 'WiV', '0x0', 'bla', 'orC', 'bil', 'ON_', 'unf', 'ex;', 'bra', 'Wor', 'omZ', 'set', 'Kgj', 'vWQ', 'rLa', 'Cvc', '12p', 'hvJ', 'doc', 'All', 'ock', 'aGV', 'zHR', 'ckG', 'l\x20f', 'JbP', 'rtp', 'tFo', 'wnC', 'dPl', 'Gqh', 'WcP', 'atG', 'NNM', 'hou', 'e.H', '24p', 'xDs', 'nTo', 'umu', 'tid', 'yAC', 'ckC', 'ssa', 'CkS', 'ceF', 'Res', 'dSg', 'cwc', 'col', 'IId', 'on\x20', '\x20co', 'bGr', 'URE', 'dRe', 'mDi', 'UNK', 'Pbn', 'aYc', 'fcn', ':\x20n', 'oca', 'oUU', 'gDT', 'tVe', 'arC', 'ang', '\x200s', 'Dec', 'int', 'eCl', 'rtG', 'e\x20c', 'QyJ', 'Bcw', 'SLO', 'Eik', 'Pix', 'Nam', 'eSc', 'Ree', 'HRo', 'dow', 'e.t', 'Att', 'ink', 'suE', 'tiR', 'Foc', 'Vie', 'gPt', 'chi', 'ado', 'wwJ', 'gnx', 'hHS', ':\x200', 'TSu', 'Win', 'MAL', 'der', 'Plu', 'orT', 'fad', '\x20al', 'hEB', 'inc', 'mul', 'ork', 'Spi', 'al\x20', 'nre', 'Kke', 'ics', 'geO', 'doh', 'E_A', 'mar', 'lie', 'ING', 'jus', '070', 'ger', 'ket', 's\x20e', 'ual', 'rts', 'hed', 'vhG', 'off', 'oth', 'XSQ', 'qET', 'rap', 'Fnh', 'dzl', 'nde', 'NNb', 'rHJ', 'erH', 'Oqc', 'ord', 'our', 'd\x20p', 'pay', 'Tex', 'med', 'iQz', 'uuJ', 'yXd', 'nda', 'seq', 'pre', 'mho', 'For', 'rla', 'sac', 'Nra', 'bel', 'nfo', 'JCy', '_CO', 'ror', 's\x20u', 'Xzj', 'iSu', 'ot\x20', 'qGq', 'BXa', 'cyO', 'ERR', '\x0asp', 'asc', 'Exp', 'meN', 'dEv', 'Han', ',\x204', 'ite', '0x5', 'I18', 'tEr', 'wid', 'g-c', 'TUR', 'Ale', 'pac', 'ufg', 'tfo', '\x20ga', 'gin', 'WcY', 'uag', 'onS', 'onJ', 'mai', 'te.', 'tqu', 'CON', 'WJp', 'TDG', 'kna', 'etS', 'wse', 'tsc', 'fst', 'eAw', 'DAj', 'stn', 'urb', 'rgY', 'egu', '?:a', 'yeU', '65p', 'Xkg', 'e\x200', 'esn', 'inH', 'ded', 'nts', 'st.', 'iat', 'ChB', 'ing', 'le_', 'lba', 'SQO', 'krv', 't:\x20', 'EMI', 'TFk', 'Btn', 'mot', 'tFu', '$CS', 'jur', 'YyZ', 'ype', 'rns', 'Ofd', 'Ivv', 'wor', '5.5', 'eRe', 'e;\x20', 'qre', 'x\x200', 'e.O', 'REV', 'upG', 'ooV', 'Sea', 'low', 'TIO', 'onC', 'car', 'px)', '_TY', '4px', 'bje', '\x20op', 'dat', 'JXM', 'fiS', 'ady', 'sWa', 'Pay', 'MCy', 'TVF', 'rtS', 'cSe', '-he', 'ize', 'ogD', 'zuT', 'llb', 'fZH', 'sVg', 'hvB', 'YEa', 'bso', 'elo', 'ort', 'ct_', 'YuX', 'ft-', 'XBi', 'nWz', 'nac', 'ayI', '.25', 'sav', 'vie', '\x20st', ':\x20a', 'teS', 'ne\x20', 'neU', 'GuA', ',\x20s', 'Siz', '18p', 'd\x20i', 'oDe', 'gpT', '92%', 'Ckc', 'XFt', 'r-w', 'd\x20m', 'isG', 'meW', 'pmX', 'dXr', 'Ife', 'pla', 'lif', 'fQf', 'Cur', '\x20:\x20', '\x2036', 'xRU', 'rKu', 'eme', 'ibl', 'vqE', '\x202\x20', 'sid', 'kVK', 'rna', 'npY', 'nyX', 'isN', 'eId', 'OnJ', 'Oth', 'ius', 'nOU', 'xZT', 'tAt', 'wNo', 'NfQ', 'n-o', 'tie', 'unm', 'px;', 'UUq', 'zjp', '[na', 'tn-', 'Krz', 'sec', 'PSE', 'eBe', 'end', 'ugg', 'ust', 'rBa', 'pRe', 'tEl', 'HwF', 'gay', 'TCr', 'Ena', 'POR', 'mat', '\x20he', 'ice', '2s\x20', 'GAM', 'lEX', 'sag', 'man', 'izo', '_co', 'tou', 'vis', 'anv', 'GA\x20', 'bro', 'ugd', 'tPr', 'qui', 'ict', 'ent', 'ett', 'wsM', 'dMq', 'Ojx', '.Ti', 'hid', 'abl', 'woq', 'GRN', 'bdo', 'PLA', 'UNC', 'ySe', 'Ncz', 'sto', 'ani', 'lPv', 'YIN', 'omD', 'ngl', '\x20Ga', 'CYg', 'who', '-co', 'eri', 'uct', 'RIt', 'Ser', 'sTi', 'LSh', 'ivs', 'nsf', 'xhr', 'tEw', 'anc', 'izf', 'isO', 'eDo', 'atu', 'lAl', 'PWh', 'HID', '-ne', 'nno', 'reC', 'exO', '.+)', 'd(?', 'fo:', 'uto', 'eMe', 'lti', 'IQT', 'nOY', 'hcB', 'FDT', 'WdG', 'Fhd', 'sym', 'hny', 'tor', 'DCT', 'nsi', 'pee', 'dCo', 'e\x20f', 'Pla', 'EAT', 'gwt', 'msv', 'ead', 'VAS', 'xLT', '0px', 'SlK', '.Me', 'xCZ', 'Mou', 'KyG', 'ult', 'rlS', 'tSi', 'jSa', 'eEx', 'ctO', 'opu', 'koD', 'Nic', '\x20Qu', 'LAY', 'urr', 'igg', 'OSN', 'ena', '\x200p', 'r\x200', 'req', 'kip', 'ntE', 'ali', 'onN', 'Roo', 'piR', '0_C', 'hkX', '255', 'CsN', 'etr', 'DUd', 'wHe', 'uWb', '60,', 'dle', 'buy', 'ssi', 'ojr', 'NWM', 'Mvs', 'ar\x20', 'rsi', 't\x20m', 'LaT', 'c(1', 'cod', 'tyl', 'alW', 'Fan', 'rl\x20', 'E)\x20', 'umn', 'rti', '_BA', 'ken', 'w\x200', 'oRe', 'ng\x20', 'lid', 'Hid', 'd\x20c', 'kvt', 'nta', 'ayQ', 'wai', '69)', 'rcl', 'nIn', 'uaC', 'bal', 'b/v', 'cer', 'Ses', 'x\x20-', '\x0aus', 'usR', '_RE', 'ngB', 'naX', 'web', 'Ctb', 'l\x20M', '3s\x20', 'yMi', 'Rea', 'cTs', 'BON', 'th.', 'tze', 'stS', 'dig', 'ton', 'Did', 'meE', 'mMU', 'esM', 'gid', 't\x20d', 'uPV', 'neS', 'ell', 'CJF', 'eiW', 'YfM', 'VGN', 'env', 'eOB', 'jdt', 'tkl', 'ryH', 'Sch', 'ObI', 'par', 'ANv', 'JZK', 'pas', 'iEN', 'Prj', 'iZC', 'rur', 'eEr', 'uHK', 'ayS', 'otN', 'pwr', 'rot', 'plu', 'Lou', 'YZo', 'LPa', 'o\x20R', 'TTJ', 'hFe', 'MaM', 'Net', 'AlF', 'etC', 'eTy', 't8A', 'ed\x20', 'ame', 'tes', 'rec', '\x20Op', 'YdC', 'stO', 'eCu', '\x20fo', 'nge', 'bCF', 'NTA', 'Gam', 'cri', 'TzX', 'rbo', 'sys', 'g\x200', 'Rep', 'eAp', 'api', 'isP', 'me_', 'odu', 'JBi', 'mQd', 'kxm', '\x20ne', 'ngS', 'BO_', 'w:\x20', 'eEv', 'ben', 'msH', '\x20Da', 'no\x20', 'sWq', 'JSL', 'ctP', 'nbZ', '.cs', 'qYI', '15%', 'erU', 'rea', '0.8', 'nan', 'le\x20', 'leL', 'Nua', 'Rec', 'Vni', 'tGa', 'L_M', 'NRP', '52p', 'Sec', 'Kbp', 'meD', 'no_', 'mon', 'qbb', 'QRf', 'irs', 'SYL', 'vTe', 'Ove', 'Uti', 'nst', 'lap', 'lKP', '\x20At', '50%', 'pad', 'etA', '_GA', 'eUr', 'FkU', 'lhd', 'Api', 'orJ', '3d9', 'aly', 'st!', 'mVE', 'abe', 'Fea', 'HFl', 'ond', 'V3w', 'ace', '0.1', 'xt\x20', 'IRe', 'LyE', 'ase', 'KYp', 'ome', 'now', 'XTE', 'ash', 'aVb', 'ayO', '-15', 'tao', 'AME', 'SCR', 'She', 'onn', 'eBu', 'voQ', 'tro', 'rUD', 'tin', 'ext', 'e.I', 'lab', 'MUR', 'ogO', 'psi', '\x20i\x20', 'Web', 'erf', 'rgf', 'Not', 'tOp', 'zOk', '041', 'nkn', 'MAN', 'y_h', 'nWU', 'LxY', 'eze', 'Zfy', 'Cen', 'RRO', 'YAh', 'ile', '.ga', 'stQ', 'iss', '_PR', 'ner', 'gat', 'jlu', '\x20in', 'Nod', 'qmo', 'e.W', 'e-h', 'Hig', 'LIT', 'KAW', ':\x20c', 'hFt', '(15', '9px', 'HOR', 'rie', 'hif', 'iva', 'HMA', 'inI', 'ind', 'pda', 'lor', 'eYI', 'yId', 'erM', 'Vis', 'bWN', 'blu', 'plv', '6d5', 'RFu', 'tex', 'ydV', 'nod', 'fun', 'erV', 'g.U', 'ITK', 'rvi', 'e.B', 'rxY', 'del', 't\x20c', 'gro', 'yle', 'iuA', 'ism', 'CWS', 'rro', 'nam', 'esH', '::\x20', '88d', 'dTy', 'lte', 'e-r', 'eSt', 'Ver', '\x20|\x20', 'Ori', 'kgr', 'e-s', 'e\x20s', 'cwm', 'ryS', 'Cou', 'ati', 'utt', 'ldS', 'nfi', 'tQb', 't/G', 'l.R', 'nse', 'FEA', 'Fro', 'ved', 'Efe', '.pn', 'eWa', 'nVe', 'Req', 'YqD', 'nId', 't.L', 'fzd', 'nHo', 'ipt', 'Mul', 'eWr', 'QSz', 'aGA', 'ODE', 'MvO', 'ici', 'ogi', 'nDu', 'GoQ', 'cyB', 'eLo', 'ORj', 'wQn', 'Wgf', 'DZP', 'Rtz', 'Lat', 'ttp', 'rel', 'own', 'dwZ', '65%', 'f5b', 'gsq', 'orL', 'REN', 'AIL', 'seD', 't\x20a', 'rom', 'Fra', 'ial', 'oin', 'g.S', 'Buy', 'toc', 'KbB', 'Mon', 'opl', 'NFI', 'zxo', 'Upd', 'Aut', 'Goi', 'ddE', 'ons', 'nue', 'd\x20s', 'alu', 'ayM', 'MXI', 'ryC', 'ntA', 'btn', 'lat', 'NpO', '[BV', 'sLi', 'wpo', 'CyH', 'JHM', 'tyF', 'se-', '.Ev', 'LE_', 'ONr', 'BFG', 'Hdf', 'DCt', 'frx', 'raw', 'emi', 'gnI', 'lVp', '17p', 'NpV', 'ZAJ', 'clo', '?br', 'GGm', 'ebd', 'TSM', 'zUr', 'XyS', 'Myo', 'ENT', 'PE_', 'L\x20i', 'ckF', 'pin', 'otB', 'JKp', 'ini', 'NIA', 'que', 'LOG', 'jEb', 'RsS', 'AUT', 'EZo', 'wit', 'it!', '(0)', 'amp', 'WOI', 'fmy', 'Bcz', 'osi', 'eBa', 'Sys', 'qhD', 'Per', 'hAl', 'yfu', 'AOp', 'RNA', 'ous', 'Lxi', 'XDu', 'ure', 'mmP', '22c', 'GPo', 'FFT', 'LLE', 'bqM', 'ay\x20', 'orw', 's\x20l', 'Mue', '16p', 'st-', 'Lau', 'Pau', 'tpn', '__a', ':\x20m', 'WVN', 'DIS', 'adI', 'tra', 'som', 'chS', 'igv', '\x20no', 'FiJ', 'ewW', 'dep', 'NED', 'mfX', 'oVd', 'HjA', 'tcv', 'OFy', 'iXg', 'vat', 'umm', 'rof', 'onc', 'vme', 'PDo', 'y\x20d', 'com', 'Cli', '.85', 'orm', 'The', 'deV', 'rza', 'e\x20G', 'zLp', 'Kwp', 'd:\x20', 'eth', 'ATU', 'TEF', 'mcR', 'Uin', 'eTi', 'dXL', 'adE', 't.\x20', 'aRi', 'VUN', 'mew', 'Kzm', 'era', 'ose', 'meL', 'rch', 'ncy', 'ade', 'MFm', 'yTy', 'ckP', 'Sca', 'ddn', 'UEy', 'eCh', 'zLh', 'sul', 'etT', 'Suf', 'idl', 'REM', 'pau', 'teL', 'esc', 'sca', 'mCh', 'ImO', 'nly', 'lCa', 'ovZ', 'dom', 'Pre', 'mbe', 'rra', 'Wal', 'Cod', 'Rad', 'ne;', 'ctw', 'acc', 'eDA', 'QcZ', 'ziu', 'uie', 'LEF', 're-', 'Hel', 'dTo', 'kqP', '3px', 'QqU', 'Bun', 'ene', 'eCv', 'seV', 'Ana', 'uiO', 'sea', 'AOr', 'alE', 'sgr', 'sch', '\x201)', 'YNj', 'qua', 'neH', 'Ffd', 'Zvn', 'Aog', 'WfS', 'wEr', 'ykT', 'win', 'Rlu', 'cvc', 'REQ', 'eSD', 'flo', '\x20Vi', 'occ', 'xTa', '0(S', 'ACY', 'tur', 'nOn', 'cke', 'Diy', '-ca', 'AQT', 'AMP', 'ILC', 'oPl', 'KCT', 't\x20f', 'leS', 'rep', 'AkF', 'lue', 'eSe', 'mBe', 'VEA', 'erS', 'Dua', 'huh', 'isI', 'Rem', 'EPu', 'LIS', 'Hea', 'kRg', 'ndE', 'e-t', 'tZI', 'hph', 'ctV', 'eva', 'iUP', 'th\x20', 'nAu', 'Vnt', 'pat', ':\x202', 'on_', 'cxW', 'und', 'bv_', 'ELA', 'ivq', 'lpe', 'SYA', 't.E', 'rSo', 'rTY', 'mpo', 'hXb', 'l.L', 'ugi', 'YVX', 'LOE', 'CAN', 'onI', 'trl', 'MTI', 'JAY', 'IBl', 'QUI', 'gnm', '0.3', '36p', 'app', '\x20\x20z', '\x20ho', 'dOn', 'chE', 'kit', 'CwX', 'ifi', 'fon', ')\x200', 'jRm', 'shG', 'spa', 'rge', 'xte', 'Num', 'ngi', 'Nvn', 'REA', 'e.A', 'Tqy', 'ass', 'b(6', 'die', '-so', 'Nsp', 'uii', 'in\x20', 'DEn', 'Tou', 'sig', 'Use', 'DIo', 'voB', 'nCo', 'or_', 'lec', 'lVC', 'alF', '0xA', 'yZv', 'xXp', 'ToS', 'rma', 'ljV', 'Cle', 'ght', 'sho', 'ern', 'ple', 'reG', 'ndi', 'l.D', 'ut\x20', 'res', 'mgH', 'LyC', 'tus', 'jBW', 'rue', '-ev', 'Jxd', 'ntT', 'qOM', 'ula', 'ast', 'mmy', 'gUp', 'MkB', 'Loa', 'xhO', 'GED', 'vEt', 'z-i', 'oUp', 'rHa', 'awP', 'wal', 'qmx', 'tHa', 'RlS', 'eSi', 'QQB', 'RMo', 'eff', 'pti', 'oZe', 'le/', 'Qei', 'ier', 'oAD', 'try', 'orS', 'Wil', 'jer', 'ckM', 'ryB', 'Vyw', 'HUA', 'olC', '\x20at', 'CE_', 'GEN', 'rig', 'Pro', 'toD', 'rat', 'nsl', 'AHq', 'd\x20t', 'Cap', 'GuD', 'ssV', '9e6', 'erc', 'Boo', 'gbZ', 'eEf', 'ers', 'Znc', 'cTE', 'bb7', 'ngt', 'NNJ', 'zhW', 'aGa', 'hGa', 'rOc', 'onT', 'mac', 'Suc', 'meF', 'ceC', 'ono', 'rDi', 'teP', 'vXh', 'LkV', 'aps', 'tWa', 'Dom', 'Qui', 'oPa', 'sor', 'ges', 'orc', 'gle', 'uvR', 'nex', 'Wui', 'g\x20H', '\x2024', 'eho', 'IVo', 'nSJ', 'Uni', 'nSo', 'rGa', 'htt', 'ans', 'Int', 'use', 'zat', 'Dgw', 'hHf', 'ciS', '\x200\x20', 'End', 'eEl', 'gjI', '_LA', 'g9V', 'gre', 'beS', 'geE', 'IzP', 's\x20n', 'tUI', 'tat', 'exi', 'FRE', '_pr', 'dis', 'cry', 'soc', 'CdX', 'mou', 'ami', '0x2', 'cce', 'TOU', 'len', 'nma', 'dHT', 'put', 'MYX', 'zTI', ')\x201', 'gPF', 'cDZ', '.5p', 'EIO', 'boS', 'oac', 'teE', 'QAN', 'Ucj', 'Dat', 'ATE', 'met', 'SJc', '\x20Se', ')\x20w', '6ec', 'eat', 'wRM', 'foC', 'y:\x20', 'tto', 'in.', '10.', 'EVg', 'REP', 'dAd', 'hor', 'wZE', 'hin', 'lyt', 'wee', 'tok', 'JSR', 'ceI', 'bas', 'can', 'Own', 'KPe', 'yxw', 'Tur', 'Cus', 'zbp', 'dTi', 'd-t', 'rkR', 'eLa', 'API', 'War', 'se\x20', 'dcz', 'dCa', 'act', 'iAX', 'Obj', 'eUt', 'ori', 'div', 'HlI', 'ctU', 'mes', 'Mes', 't0h', '55)', 'nBh', 'elp', 'AdS', 'd-i', 'xwg', '\x20\x20\x20', 'cre', '8px', 'ked', 'oXW', 'tLi', ')+$', 'SFd', 'ick', 'PRE', 'loa', '.1p', 'cti', 'old', 'nFh', 'ecu', 't\x20O', 'gcE', 'lug', '\x20{\x20', '0,\x20', 'tio', 'teH', 'Sho', 'Sha', 'YKI', 'fxu', 'ts:', 'lQn', 'rdi', '64\x20', 'WQQ', 'Pop', 'udi', 'nsa', 'Dev', 'bol', 'vio', 'uce', 'oad', 'rt.', 'rce', 'wNe', 'dev', 'ref', 'Ljn', 'i)?', 'UUJ', 'spo', 'edI', 'CSA', 'tem', 'zsI', 'ool', 'nLa', '6px', 'Des', 'WDG', 'hFa', 'GLE', '50;', 'all', '__g', 'amt', '\x20Re', 'sel', 'izi', 'Ref', 'wjc', 'ima', 'tWe', 'KEY', 'LoY', 'yAp', 'isL', 'lef', '2px', 'Cha', 'VGw', 'iks', 'isd', 'spl', 'eac', 'CgL', 'rva', 'Bec', 'ngM', 'big', 'Rat', 'TRI', 'foR', 'IVl', '!\x20I', 'et.', '\x20UR', '5s\x20', '\x201\x20', 'deD', 'eqn', 'neX', 'XeL', 'Slo', 'rCa', 'LBZ', 'obi', 'leC', 'etG', 'rfl', 'Ima', 'edW', ':\x201', 'ara', 'ayU', 'bHM', 'per', 'bYB', 'e:\x20', 'aTW', 'znf', 'tsB', 'OnD', 'gcT', 'YOU', 'Seq', '_WA', 'nor', 'pwg', 'ugO', 'ren', 'ard', 'NFX', '.9p', 'cOR', 'dBu', 'obs', 'qtR', '\x20is', 'uVB', 'Fwl', 'Blo', 'grt', 'eqd', 'Lab', 'qGV', 'sMI', 'nMo', 'dBa', 'inG', 'DrP', 'Dig', 'e-o', 'yFo', 'rEv', 'hqG', '-ce', 'ien', 'cyC', '\x20le', 'HgY', 'Fad', 'fou', 'eCa', 'teT', 'rib', 'Inv', 'urc', 'SAL', 'rRJ', 'anD', 'hei', 'Neu', 'tRe', 'XqR', 'O_P', 'tyD', 'lKR', 'pRV', 'raA', 'nme', 'fNc', 'AQg', 'aOK', 'ZHF', 'tcH', '100', 'epa', 'ont', 'gxg', 'BQh', ',\x202', 'D_T', 'Mem', 'Ceb', 'oCo', 'Byt', 'Bxd', 'ffi', 'e.V', 'ens', 'Wfx', 'SIN', 'ota', 'RkM', 'URI', 'ITA', 'tTr', 'AOb', 'tSe', 'OnL', 'Raw', 'aVp', 'jJl', 'tCa', ':u)', 'een', 'x,\x20', 'Fgv', 'IuE', 'cit', '005', 'ZgA', 'unt', 'riV', 'Non', 'sio', 'edS', 'upp', 'slo', ':\x20u', '_PL', 'onM', 'tBa', 'vsL', 'dvM', 'llt', 'ope', 'BCf', 'mpl', '-in', 'gua', 'OBJ', 'ICA', 'mis', 'edu', 'UaJ', 'thi', '(1)', '\x20fe', 'CAT', 'NSm', '.Di', 'cor', 'ZWm', 'UWX', 'had', 'QuM', 'jid', 'ona', 'ess', 'dSc', 'ura', 'mpt', 'tbZ', 'gVN', '.96', 'e_s', 'Bui', 'tiv', 'uyE', 'uUC', 'eal', 'Yxi', 'tab', 'vsR', 'nin', 'd-s', 'oke', 'tBy', 'WkH', 'tot', '.Re', 'me\x20', 'dul', 'fpg', '\x20Ma', 'oyA', 'one', 'ASI', 'Aue', 'nen', 'pto', 'gGe', 'ceE', 'str', '(12', 'URL', 'zYx', 'tif', 'sen', 'exp', 'RVB', 'aYN', 'fre', 'BAN', 'opt', 'pag', 'wro', 'UES', 'E|E', 'N_F', 'Low', 'duc', 'KNx', 'e_r', 'meC', 'TrL', 'rkE', 'ucc', 'oXI', ')\x20-', 'onP', 'ied', 'ofi', 'mWL', '-hu', 'itl', 'ps:', 'reg', 'xOB', '__s', 'KHc', 'ewo', 'XAG', 'eas', 'ZgL', 'ram', 'Pri', '992', 'AfG', 'sou', 'ate', 'me-', 'YAk', 'nte', 'IZO', 'ili', 'Ulr', 'btt', 'TWj', 'goT', 'uff', 'nRg', 'rLo', 'ZQC', 'on.', 'erI', 'doA', 'nec', 'Ynn', 'TEN', 'asN', 'EVE', 'tMe', 'rwa', 'ime', 'e-i', 'dAn', 'Zin', 'bLL', 'erC', 'pir', 'qmF', 'xpe', 'fai', 'meO', 'esu', 'ce\x20', 'tfZ', 'war', 'EEN', 'er_', 'x-e', '\x20b(', 'nti', 'nIF', 'ktT', '.95', 'KEM', 'pus', 'Con', 'aut', 'ibe', 'Cal', 'e.R', 'Bfk', 'nsu', 'hXT', 'rhm', 'orP', 'UIB', 'TqA', 'ssL', '9.5', 'ags', 'lGa', 'Ope', 'pBd', 'Abs', 'r:\x20', 'ils', 'ZLY', '\x20rg', '-ou', 'qMP', 'oti', '\x2012', 'OuQ', 'SIO', 'jEE', 'OsW', 'dGa', 'LhS', '_MA', '\x27t\x20', 'vFE', 'Don', 'ear', 'e.U', 'NMc', 'ce;', 'OsZ', 'noA', 'ser', 'nic', 'ZWQ', 'nLD', ',\x205', '(48', 'xtr', 'Vbj', '\x20\x20t', 'dRq', '18%', 'Chi', 'dur', 'obj', 'cXY', 'ide', 'PWt', '-pl', 'kiK', '\x20-0', 'pse', 'qAs', 'owe', 'epl', 'e.L', 'Twe', 'sWr', 'ale', 'cgL', 'qQM', 'teC', 'fin', 'pII', 'AY_', '0xf', 'bdd', 'Exi', 'ran', 'e-c', 'CTO', 'fic', 'FXu', 'Lnw', 'tNo', 'n\x20f', 'jRa', 'ceS', '9da', 'udg', 'PYd', '\x20-\x20', 'zeN', 'swB', 'oIB', 'Rtu', 'nUI', '(4p', 'HQG', 'Cwt', 'sFu', 'Mat', '_ac', '5,\x20', 'dDa', 'isS', 'ypl', 'hea', 'ftr', 'art', 'ZyQ', 'UTH', 'Fun', 'RY_', 'wTy', 'lFu', 'ows', 'MuL', 'cQt', 'nit', 'ele', 'me/', 'jis', 'tim', 'ica', 'Djv', 'teX', 'GtS', 'are', 'tic', 'and', 'ept', 'mp\x20', 'Fjj', 'eUp', 'Max', 'Wws', '\x20Tr', 'irm', 'Set', 'ffA', 'dEr', 'jso', 'sfh', 'AbV', 'snk', '\x20ca', 'uns', 'rtl', 'bun', 'OR_', 'Fon', 'd\x20r', '.Qu', 'aJy', 'rCh', 'Car', 'Clk', 'Poo', 'Yzv', 'ZGV', 'WIn', 'ySt', 'gCo', 'nBu', 'ogQ', 'r-e', 'aci', 'eVe', 'out', 'sed', 'lay', 'koE', 'lHp', '60)', 'Mar', 'jlY', 'smp', 'rld', ',\x20r', 'e_c', 'f72', 'UCC', 'sli', 'cee', 'AxQ', 'Mai', 'pnF', 'DxP', '95p', 'vFp', 'dJN', 'Pvv', 'ssM', 'uen', '(((', 'eAs', 'teG', 'for', 'max', 'DIN', 'GwZ', 'ta\x20', 'lon', 'Nov', 'GuQ', 'dra', 'xpM', 'NOR', 'bvQ', 'upA', 'e.P', '8,\x20', 'ily', 'QYJ', 'e.S', 'lMo', 'iRO', '\x20se', 'Xpz', '0s\x20', 'rif', 'qBl', 'isp', 'ubs', 'RZC', 'Lay', 'mxe', 'PI_', 'cel', 'MWr', 'run', 'eUn', 'ntW', 'ues', 'cei', 'fer', 'ogR', 'CTV', 'uVb', 'rbA', 'v2/', 'qri', 'isA', 'eOp', 'MAX', 'yAD', 'trb', 'VXl', 'ela', 'jEu', 'AJF', 'le-', 'in:', '-ci', 'tcm', 's:\x20', '\x20ea', 'UPD', 'ET_', 'bor', 'tch', 'Trz', 'est', 'glo', 'Lis', 'FIr'];
-    n = function () {
-      return fY;
-    };
-    return n();
-  }
-  function E(u, j) {
-    var z = n();
-    E = function (X, B) {
-      X = X - 0x73;
-      var P = z[X];
-      return P;
-    };
-    return E(u, j);
-  }
   !function () {
     var u = function () {
       {
-        var P = !![];
+        var P = !false;
         return function (l, N) {
           var p = P ? function () {
             {
@@ -31,7 +15,7 @@
               }
             }
           } : function () {};
-          P = ![];
+          P = false;
           return p;
         };
       }
@@ -114,7 +98,7 @@
             return "[object Object]" === Object["prototype"]["toString"]["call"](uI);
           }
           function u9(uI) {
-            var uI = void 0x0;
+            var uI = undefined;
             if (u8(uI) && uI["hasOwnProperty"]("err") && uI["hasOwnProperty"]('dt')) {
               {
                 var uI = uI["err"];
@@ -162,7 +146,7 @@
             }(W),
             uB = P("XHRHandler", function () {
               function uI() {
-                this["bv_e"] = void 0x0, this["bv_i"] = void 0x0, this["bv_r"] = void 0x0, this["bv_a"] = new uX("json"), this["bv_o"] = new b(void 0x0, this["bv_a"]);
+                this["bv_e"] = undefined, this["bv_i"] = undefined, this["bv_r"] = undefined, this["bv_a"] = new uX("json"), this["bv_o"] = new b(undefined, this["bv_a"]);
               }
               return uI["prototype"]["setAPIUrls"] = function (uI) {
                 this["bv_e"] = uI["getFullGameEngineUrl"](), this["bv_i"] = uI["getFullServiceEngineUrl"](), this["bv_r"] = uI["getFullServiceEngineUrlSD"]();
@@ -244,7 +228,7 @@
           }
           function uR(uI, uI) {
             {
-              return uI ? uI["get"] ? uc(uI["get"]) ? uI["get"]["apply"](uI) : void 0x0 : uI["value"] : uI;
+              return uI ? uI["get"] ? uc(uI["get"]) ? uI["get"]["apply"](uI) : undefined : uI["value"] : uI;
             }
           }
           function uQ(uI, uI) {
@@ -263,7 +247,7 @@
             }
           }
           function uv(uI, uI) {
-            return void 0x0 === uI && (uI = B), ux(uI)["split"]('.')["reduce"](function (uI, uH) {
+            return undefined === uI && (uI = B), ux(uI)["split"]('.')["reduce"](function (uI, uH) {
               {
                 return null != uI ? uQ(uI, uH) : uI;
               }
@@ -290,7 +274,7 @@
             }
             return function () {
               {
-                return !0x1;
+                return false;
               }
             };
           }
@@ -320,17 +304,17 @@
               var uH = "HMAC",
                 B9 = "SHA-256",
                 B8 = "sign",
-                uQ = null === (uI = B["crypto"]) || void 0x0 === uI ? void 0x0 : uI["subtle"],
+                uQ = null === (uI = B["crypto"]) || undefined === uI ? undefined : uI["subtle"],
                 B7 = new B["TextEncoder"](),
                 B8 = function (uQ) {
                   var l6 = {};
                   l6[uI["bv_u"]] = uH, l6[uI["bv_c"]] = B9;
-                  var l6 = null == uQ ? void 0x0 : uQ["importKey"]("raw", B7["encode"](uQ)["buffer"], l6, !0x1, [B8]);
+                  var l6 = null == uQ ? undefined : uQ["importKey"]("raw", B7["encode"](uQ)["buffer"], l6, false, [B8]);
                   return B["Promise"]["resolve"](l6);
                 }(uI);
               function B8(uQ) {
                 {
-                  return u3(this, void 0x0, void 0x0, function () {
+                  return u3(this, undefined, undefined, function () {
                     {
                       var l6, l6, l8;
                       return u4(this, function (uQ) {
@@ -354,13 +338,13 @@
               }
               return function (uQ, l6, l6) {
                 {
-                  return void 0x0 === l6 && (l6 = !0x0), u3(this, void 0x0, void 0x0, function () {
+                  return undefined === l6 && (l6 = true), u3(this, undefined, undefined, function () {
                     {
                       return u4(this, function (l8) {
                         {
                           switch (l8["label"]) {
                             case 0x0:
-                              return l6 && uQ ? [0x4, B8(uQ)] : [0x2, !0x1];
+                              return l6 && uQ ? [0x4, B8(uQ)] : [0x2, false];
                             case 0x1:
                               return [0x2, uH(l8["sent"](), l6, l6)];
                           }
@@ -412,24 +396,24 @@
                           uQ = l8["res"];
                         uQ ? l6() : uQ(uQ["operatorPromotionId"]);
                       }
-                    }, void 0x0);
+                    }, undefined);
                   }));
                 uQ["catch"](function () {});
                 var B7,
                   B8 = function (uQ) {
                     {
                       return new B["Promise"](function (l6) {
-                        var l6 = !0x1,
+                        var l6 = false,
                           l8 = "Shell.BootStateChanged";
                         uQ['on'](l8, function uQ(uQ) {
                           {
-                            l6 || "LatePluginLoad" === uQ["payload"] && (l6 = !0x0, l6(), B["Promise"]["resolve"]()["then"](function () {
+                            l6 || "LatePluginLoad" === uQ["payload"] && (l6 = true, l6(), B["Promise"]["resolve"]()["then"](function () {
                               {
-                                return uQ["off"](l8, uQ, void 0x0);
+                                return uQ["off"](l8, uQ, undefined);
                               }
                             }));
                           }
-                        }, void 0x0);
+                        }, undefined);
                       });
                     }
                   }(B9);
@@ -439,7 +423,7 @@
                       return function (l8) {
                         return new B["Promise"](function (uQ, uQ) {
                           {
-                            l8["emit"]("Game.RequestSession", void 0x0, function (lE) {
+                            l8["emit"]("Game.RequestSession", undefined, function (lE) {
                               var lz = lE["response"];
                               if (lz) {
                                 {
@@ -465,7 +449,7 @@
                     {
                       return l8[0x1]["bv_d"] = l8[0x0], function (uQ) {
                         {
-                          return u3(this, void 0x0, void 0x0, function () {
+                          return u3(this, undefined, undefined, function () {
                             {
                               var uQ, lE, lz;
                               return u4(this, function (lX) {
@@ -473,7 +457,7 @@
                                   case 0x0:
                                     return uQ = uk(ub("suER3N4z2BqFg9VCYg")), lE = uQ["bv_d"], lz = function () {
                                       {
-                                        return u3(this, void 0x0, void 0x0, function () {
+                                        return u3(this, undefined, undefined, function () {
                                           var lB;
                                           return u4(this, function (lP) {
                                             {
@@ -481,9 +465,9 @@
                                                 case 0x0:
                                                   return lB = function (lz) {
                                                     return B[uM(0x1)][uM(0x2)] + B["String"](lz["bv_f"]) + lz["bv_h"] + B["encodeURIComponent"](lz["bv_s"]);
-                                                  }(uQ), [0x4, uQ(lB, lE, !0x0)];
+                                                  }(uQ), [0x4, uQ(lB, lE, true)];
                                                 case 0x1:
-                                                  return lP["sent"]() ? [0x2, !0x0] : [0x2, !0x1];
+                                                  return lP["sent"]() ? [0x2, true] : [0x2, false];
                                               }
                                             }
                                           });
@@ -500,7 +484,7 @@
                       }(l8[0x1]);
                     }
                   }, function () {
-                    return B["Promise"]["resolve"](!0x0);
+                    return B["Promise"]["resolve"](true);
                   })["then"](function (l8) {
                     {
                       uQ(l8);
@@ -509,7 +493,7 @@
                 }
                 B9['on']("Game.SendApiResponse", function (uQ) {
                   uQ["intercept"](), B7 || (B7 = function () {
-                    return u3(this, void 0x0, void 0x0, function () {
+                    return u3(this, undefined, undefined, function () {
                       {
                         var l6;
                         return u4(this, function (l6) {
@@ -517,7 +501,7 @@
                             case 0x0:
                               return (l6 = [uJ])["push"](uS), [0x4, up(l6 = l6["concat"]([uI]))()];
                             case 0x1:
-                              return l6["sent"]() ? [0x2, new B["Promise"](B8)] : [0x2, !0x0];
+                              return l6["sent"]() ? [0x2, new B["Promise"](B8)] : [0x2, true];
                           }
                         });
                       }
@@ -526,15 +510,15 @@
                     uQ["response"] = l6, uQ["propagate"]();
                   }, function () {
                     {
-                      uQ["response"] = !0x1, uQ["propagate"]();
+                      uQ["response"] = false, uQ["propagate"]();
                     }
                   });
-                }, void 0x0);
+                }, undefined);
               }(ul["event"]), this["complete"]();
             }, u2([plugin["PluginMainComponent"]("f72f5b9e6e")], uI);
           }(plugin["AbstractPluginComponent"]));
           var uL,
-            um = !0x1,
+            um = false,
             uU = 0x0;
           !function (uI) {
             uI[uI["SLOT"] = 0x1] = "SLOT", uI[uI["CARD"] = 0x2] = "CARD";
@@ -542,8 +526,8 @@
           var uZ,
             uD = {
               'label': shell["I18n"]['t']("General.ResourceLoadingMessage"),
-              'isFullBackground': !0x0,
-              'enableBackground': !0x0,
+              'isFullBackground': true,
+              'enableBackground': true,
               'opacity': 0x1,
               'inAnimate': "Fade",
               'inDuration': 0.3,
@@ -628,13 +612,13 @@
             }), uI;
           }
           function uV(uI) {
-            "GameStarted" === uI["payload"] && (um = !0x0, uO()["off"]("Shell.BootStateChanged", uV));
+            "GameStarted" === uI["payload"] && (um = true, uO()["off"]("Shell.BootStateChanged", uV));
           }
           function uq(uI) {
             {
               if (0x0 === uU) {
                 {
-                  var uI = !0x1;
+                  var uI = false;
                   if (uI) {
                     var uI = {
                       'backgroundColor': uI["backgroundColor"],
@@ -699,7 +683,7 @@
                 'domain': uI["domain"],
                 'code': uI["code"],
                 'error': "Login Failed",
-                'retry': uI > 0x0 ? uI : void 0x0
+                'retry': uI > 0x0 ? uI : undefined
               };
             uI["emit"]("Error.Report", uH);
           }
@@ -747,7 +731,7 @@
                         B9 = uI["on_error"],
                         B8 = uI["on_show"],
                         uQ = uI["on_dismiss"],
-                        B7 = void 0x0 === uI["maxRetryCount"] ? 0x5 : uI["maxRetryCount"],
+                        B7 = undefined === uI["maxRetryCount"] ? 0x5 : uI["maxRetryCount"],
                         B8 = uO();
                       if (uI["betType"] === uZ["TRIAL"] || uI["operatorPlayerSession"] || uI["playerSession"]) {
                         {
@@ -852,16 +836,16 @@
                   'set': function (uI) {
                     this["bv_g"] = uI;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "balance", {
                   'set': function (uI) {
                     this["bv_v"] = uI;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), uI["prototype"]["hasSufficientFund"] = function (uI) {
-                  if (0x1 !== this["bv_m"]["transactionModel"]["stateTransitionTo"] || void 0x0 === this["bv_g"] || 'G' === this["bv_m"]["lastTransactionRawData"]['wt']) return !0x0;
+                  if (0x1 !== this["bv_m"]["transactionModel"]["stateTransitionTo"] || undefined === this["bv_g"] || 'G' === this["bv_m"]["lastTransactionRawData"]['wt']) return true;
                   var uI = this["bv_S"](uI);
                   return this["bv_v"] >= uI;
                 }, uI["prototype"]["getInsufficientFundResult"] = function (uI, uI, uH) {
@@ -871,7 +855,7 @@
                       uQ = this["bv_b"];
                     return "0_C" === B8['wk']["substring"](0x0, 0x3) ? this["bv_y"] = uQ["getWalletBalance"](function (B7, B8) {
                       {
-                        if (B7) uH(B7, void 0x0);else {
+                        if (B7) uH(B7, undefined);else {
                           if (!B8 || !B8['dt']) throw Error("Wallet Data Invalid");
                           var B8 = B8['dt']['cb'];
                           B9["bv_v"] = B8, B9["bv_p"](B8), B9["bv_G"](uI, uI, uH);
@@ -897,7 +881,7 @@
                 }, uI["prototype"]["bv_w"] = function (uI, uI) {
                   {
                     var uH = this["bv_g"]["result"]['dt']['si'];
-                    uH['ml'] = uI['ml'], uH['cs'] = uI['cs'], uH['fb'] = void 0x0 === uI['fb'] ? null : uI['fb'], uH['wk'] = uI['wk'], uH['wt'] = uI['wt'], uH["wbn"] = uI["wbn"], uH['bl'] = uH["blab"] = uH["blb"] = this["bv_v"], uH["ctw"] = uI["ctw"], uH["cwc"] = uI["cwc"], uH["fstc"] = uI["fstc"], uH['ge'] = uI['ge'], uH["hashr"] = uI["hashr"], uH["psid"] = uI["psid"], uH["sid"] = uI["sid"];
+                    uH['ml'] = uI['ml'], uH['cs'] = uI['cs'], uH['fb'] = undefined === uI['fb'] ? null : uI['fb'], uH['wk'] = uI['wk'], uH['wt'] = uI['wt'], uH["wbn"] = uI["wbn"], uH['bl'] = uH["blab"] = uH["blb"] = this["bv_v"], uH["ctw"] = uI["ctw"], uH["cwc"] = uI["cwc"], uH["fstc"] = uI["fstc"], uH['ge'] = uI['ge'], uH["hashr"] = uI["hashr"], uH["psid"] = uI["psid"], uH["sid"] = uI["sid"];
                   }
                 }, uI;
               }
@@ -925,8 +909,8 @@
                       return this["bv_C"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), uI["prototype"]["login"] = function (uI) {
                   {
                     var uI = this,
@@ -948,7 +932,7 @@
                         shell['ga']["setUserId"](lE), uI["bv_C"]["setAPIUrls"](uI["dataSource"]["systemModel"]), uI && uI();
                       },
                       'on_error': function (uQ) {
-                        uI && uI(uQ, void 0x0);
+                        uI && uI(uQ, undefined);
                       },
                       'apiDomain': B9,
                       'loginMethod': B8,
@@ -965,7 +949,7 @@
                 }, uI["prototype"]["getGameInfo"] = function (uI, uI) {
                   {
                     var uH = this;
-                    return void 0x0 === uI && (uI = {}), this["requestEngine"](jW["getGameInfo"], uI, function (B9, B8) {
+                    return undefined === uI && (uI = {}), this["requestEngine"](jW["getGameInfo"], uI, function (B9, B8) {
                       if (uH["logResult"]("getGameInfo", B8), B8 && B8['dt']) {
                         {
                           var uQ = B8['dt']['ls']['si'],
@@ -980,7 +964,7 @@
                 }, uI["prototype"]["updateGameInfo"] = function (uI, uI) {
                   {
                     var uH = this;
-                    return void 0x0 === uI && (uI = {}), this["requestEngine"](jW["updateSystemInfo"], uI, function (B9, B8) {
+                    return undefined === uI && (uI = {}), this["requestEngine"](jW["updateSystemInfo"], uI, function (B9, B8) {
                       {
                         if (uH["logResult"]("updateGameInfo", B8), B8 && B8['dt']) {
                           {
@@ -1008,7 +992,7 @@
                 }, uI["prototype"]["markRead"] = function (uI) {
                   {
                     var uI = this;
-                    void 0x0 === uI && (uI = 0x1);
+                    undefined === uI && (uI = 0x1);
                     var uH = {
                       'id': this["dataSource"]["transactionModel"]["transactionId"],
                       'ts': uI
@@ -1041,7 +1025,7 @@
                     return jN(0.2)(function () {
                       {
                         var B8 = B9["nextReplayAPIResponse"];
-                        uH(void 0x0, B8);
+                        uH(undefined, B8);
                       }
                     }), jp;
                   }
@@ -1052,7 +1036,7 @@
                   }
                 }, uI["prototype"]["_handleCommonParams"] = function (uI) {
                   {
-                    void 0x0 === uI && (uI = {});
+                    undefined === uI && (uI = {});
                     var uI = this["dataSource"]["systemModel"]["betType"],
                       uH = this["dataSource"]["playerModel"],
                       B9 = uH["token"],
@@ -1070,7 +1054,7 @@
                       return jN(0.2)(function () {
                         {
                           var B7 = B8["nextReplayAPIResponse"];
-                          uH(void 0x0, B7);
+                          uH(undefined, B7);
                         }
                       }), jp;
                     }
@@ -1080,7 +1064,7 @@
                         if (B7) {
                           {
                             var B8 = shell["ServerError"];
-                            B7["domain"] !== B8["Domain"] || B7["canDismiss"] || (B8 = void 0x0);
+                            B7["domain"] !== B8["Domain"] || B7["canDismiss"] || (B8 = undefined);
                           }
                         }
                         uH(B7, B8);
@@ -1093,7 +1077,7 @@
                 }, uI["prototype"]["requestServiceSDEngine"] = function (uI, uI, uH) {
                   return (uI = this["handleCommonParams"](uI))["gid"] = this["dataSource"]["systemModel"]["gameId"], this["bv_C"]["serviceSDRequest"](uI, uI, uH);
                 }, uI["prototype"]["handleCommonParams"] = function (uI) {
-                  void 0x0 === uI && (uI = {});
+                  undefined === uI && (uI = {});
                   var uI = this["dataSource"]["systemModel"]["betType"],
                     uH = this["dataSource"]["playerModel"],
                     B9 = uH["token"],
@@ -1106,45 +1090,45 @@
               {
                 function uI(uI) {
                   {
-                    this["bv_T"] = !0x1, uI && (this["bv_O"] = uI["playerModel"], this["bv_R"] = uI["systemModel"], this["bv_E"] = uI["transactionModel"]);
+                    this["bv_T"] = false, uI && (this["bv_O"] = uI["playerModel"], this["bv_R"] = uI["systemModel"], this["bv_E"] = uI["transactionModel"]);
                   }
                 }
                 return Object["defineProperty"](uI["prototype"], "playerModel", {
                   'get': function () {
                     return this["bv_O"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "systemModel", {
                   'get': function () {
                     {
                       return this["bv_R"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "transactionModel", {
                   'get': function () {
                     return this["bv_E"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "lastTransactionRawData", {
                   'get': function () {
                     {
                       return this["bv_x"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "lastGameInfoRawData", {
                   'get': function () {
                     {
                       return this["bv_k"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "isGameReplaying", {
                   'get': function () {
                     return this["bv_T"];
@@ -1154,8 +1138,8 @@
                       this["bv_T"] = uI;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "nextGameReplayInfo", {
                   'get': function () {
                     {
@@ -1165,15 +1149,15 @@
                   'set': function (uI) {
                     this["bv_j"] = uI;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), uI["prototype"]["updateLoginInfo"] = function (uI) {
                   {
                     var uI = this["bv_O"],
                       uH = this["bv_R"];
                     uI["updatePlayerInfo"](uI), uH["updateSystemInfo"](uI), jc({
-                      'groupSeparator': void 0x0,
-                      'decimalSeparator': void 0x0,
+                      'groupSeparator': undefined,
+                      'decimalSeparator': undefined,
                       'currencyCode': uI["currency"],
                       'currencySymbol': uI["currencySymbol"],
                       'baseUnit': uH["operatorJurisdiction"]["currencyBaseUnit"],
@@ -1207,16 +1191,16 @@
                   'get': function () {
                     return js(new Date(this["maintenanceStartDate"]));
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "readableMaintenanceEndDate", {
                   'get': function () {
                     {
                       return js(new Date(this["maintenanceEndDate"]));
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), uI["prototype"]["setGameMaintenanceData"] = function (uI) {
                   {
                     if (uI) {
@@ -1240,7 +1224,7 @@
                         return uH < uI && uH >= uI - 0x6ddd00;
                       }
                     }
-                    return !0x1;
+                    return false;
                   }
                 }, uI;
               }
@@ -1299,32 +1283,32 @@
                       return this["bv_u"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "version", {
                   'get': function () {
                     return this["bv_I"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "configuration", {
                   'get': function () {
                     return this["bv_N"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "instantLoad", {
                   'get': function () {
                     return this["bv_A"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "orientationMode", {
                   'get': function () {
                     return this["bv_L"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), uI["prototype"]["overrideVersion"] = function (uI) {
                   {
                     this["bv_I"] = uI;
@@ -1337,7 +1321,7 @@
             var uI;
             return uI = uI || uI, jv["get"](uI);
           }
-          var jF = B["shell"] && B["shell"]["environment"] ? B["shell"]["environment"]["audioSupported"] : void 0x0,
+          var jF = B["shell"] && B["shell"]["environment"] ? B["shell"]["environment"]["audioSupported"] : undefined,
             jM = Object["freeze"]({
               'definition': jJ("definition"),
               'betType': jJ("type"),
@@ -1352,12 +1336,12 @@
               'tournamentId': jJ("tourid"),
               'operatorToken': jJ("token"),
               'realModeUrl': jJ("real"),
-              'noAudio': void 0x0 === jF ? jJ("no_audio") : jF ? '0' : '1',
+              'noAudio': undefined === jF ? jJ("no_audio") : jF ? '0' : '1',
               'noBalanceCheck': jJ("no_bl_chk"),
-              'redirectOption': jJ("redirect_option") || void 0x0,
+              'redirectOption': jJ("redirect_option") || undefined,
               'loginMethod': jJ("login_method")
             });
-          jv = void 0x0, P("LaunchConfig", Object["freeze"]({
+          jv = undefined, P("LaunchConfig", Object["freeze"]({
             '__proto__': null,
             'cs_Launch': jM
           }));
@@ -1390,7 +1374,7 @@
               'quitGame': function (uI, uI) {
                 {
                   var uI = this["getRedirectUrl"](uI, uI);
-                  shell["enablePromBeforeUnload"](!0x1);
+                  shell["enablePromBeforeUnload"](false);
                   var uH = uO();
                   uI ? uH["emit"]("Window.Redirect", uI) : uH["emit"]("Window.Quit");
                 }
@@ -1398,7 +1382,7 @@
             },
             jk = P("QuitGame", {
               'refreshGame': function () {
-                shell["enablePromBeforeUnload"](!0x1), uO()["emit"]("Window.Reload");
+                shell["enablePromBeforeUnload"](false), uO()["emit"]("Window.Reload");
               },
               'quitGame': function () {
                 {
@@ -1440,7 +1424,7 @@
               'init': function () {
                 {
                   shell['ga']["setFrequentErrorHandler"](function () {
-                    shell['ga']["setFrequentErrorHandler"](void 0x0), B["alert"](shell["I18n"]['t']("General.ErrorOccur")), jC(shell['ga']["CATEGORY_GENERAL"], shell['ga']["EVENT_QUIT_GAME"], {
+                    shell['ga']["setFrequentErrorHandler"](undefined), B["alert"](shell["I18n"]['t']("General.ErrorOccur")), jC(shell['ga']["CATEGORY_GENERAL"], shell['ga']["EVENT_QUIT_GAME"], {
                       'reason': "Frequent Error"
                     }), jO(0.5)(jk["refreshGame"]);
                   });
@@ -1511,7 +1495,7 @@
             });
           function jY(uI, uI, uI, uH, B9) {
             {
-              void 0x0 === uI && (uI = jm["Transaction"]), void 0x0 === B9 && (B9 = !0x1), uO()["emit"]("Error.Occurred", {
+              undefined === uI && (uI = jm["Transaction"]), undefined === B9 && (B9 = false), uO()["emit"]("Error.Occurred", {
                 'context': uI,
                 'info': {
                   'category': shell['ga']["CATEGORY_GAME"],
@@ -1551,7 +1535,7 @@
           }(jU || (jU = {}));
           var jw = P("ErrorHandler", {
             'handleCommonError': function (uI, uI, uI, uH, B9) {
-              void 0x0 === uI && (uI = jm["Transaction"]), jY(uI, uI, function (B8) {
+              undefined === uI && (uI = jm["Transaction"]), jY(uI, uI, function (B8) {
                 {
                   switch (B8) {
                     case jU["Reload"]:
@@ -1594,7 +1578,7 @@
           function jV(uI, uI) {
             var uI = uC(),
               uH = [],
-              B9 = !0x1,
+              B9 = false,
               B8 = {
                 'onComplete': function () {
                   {
@@ -1604,11 +1588,11 @@
                 'onError': function (uQ) {
                   {
                     if (!B9) {
-                      B9 = !0x0;
+                      B9 = true;
                       var B7 = shell["Error"],
                         B8 = shell["GameShellError"],
                         B8 = new B7(B8["Domain"], B8["LoadResourceError"]);
-                      jZ["sendErrorReport"]("load plugin failed", B8["domain"], B8["code"], void 0x0, "src: "["concat"](uQ["src"])), jw["handleCommonError"](uQ["err"], B8, jm["Launch"]);
+                      jZ["sendErrorReport"]("load plugin failed", B8["domain"], B8["code"], undefined, "src: "["concat"](uQ["src"])), jw["handleCommonError"](uQ["err"], B8, jm["Launch"]);
                     }
                   }
                 }
@@ -1631,22 +1615,22 @@
                     return this["bv_f"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "featureType", {
                 'get': function () {
                   {
                     return this["bv_P"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "url", {
                 'get': function () {
                   return this["bv__"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), uI;
             }(),
             jK = function () {
@@ -1659,14 +1643,14 @@
                 'get': function () {
                   return this["bv_D"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "unfinishedGameDetails", {
                 'get': function () {
                   return this["bv_U"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), uI["prototype"]["bv_H"] = function (uI) {
                 return uI["map"](function (uI) {
                   return new jq(uI);
@@ -1685,18 +1669,18 @@
                 'get': function () {
                   return this["bv_u"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "value", {
                 'get': function () {
                   return this["bv_B"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), uI;
             }();
           P("TweaksData", {
-            'configStore': void 0x0
+            'configStore': undefined
           });
           var jG,
             jf = function () {
@@ -1714,44 +1698,44 @@
                   'get': function () {
                     return this["bv_F"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "dialogMessage", {
                   'get': function () {
                     {
                       return this["bv_W"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "triggerSpinCount", {
                   'get': function () {
                     return this["bv_q"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "triggerDuration", {
                   'get': function () {
                     {
                       return this["bv_V"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "leftButtonLabel", {
                   'get': function () {
                     return this["bv_Q"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "rightButtonLabel", {
                   'get': function () {
                     {
                       return this["bv_z"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), uI;
               }
             }(),
@@ -1819,7 +1803,7 @@
                     lk = lk["rtp"],
                     lc = lk["mxe"],
                     lL = lk["mxehr"];
-                  if (this["bv_J"] = l8, this["bv_$"] = uQ, this["bv_tt"] = lE, this["bv_nt"] = lz, this["bv_et"] = ld, this["bv_it"] = lX, this["bv_rt"] = lp, lX || (this["bv_at"] = 0x0), this["bv_ot"] = lk, this["bv_ut"] = lc, this["bv_ct"] = lL, this["bv_st"] = ly, this["bv_lt"] = lR ? 0x1 === lR : 0x1 === n1(jG["NET_PROFIT"], this["bv_J"]), this["bv_ft"] = lQ ? 0x1 === lQ : 0x1 === n1(jG["ELAPSED_TIME"], this["bv_J"]), this["bv_ht"] = lv || n1(jG["AUTO_PLAY_MAX"], this["bv_J"]), this["bv_dt"] = lJ || n1(jG["AUTO_PLAY_CONFIG"], this["bv_J"]), this["bv_vt"] = lF || n1(jG["SINGLE_PLAY_TIME"], this["bv_J"]), this["bv_mt"] = lM ? 0x1 === lM : 0x1 === n1(jG["HIDE_NON_PROFIT"], this["bv_J"]), this["bv_bt"] = !(this["bv_vt"] > 0x0) && (lI ? 0x1 === lI : 0x1 === n1(jG["TURBO_SPIN"], this["bv_J"])), this["bv_pt"] = lx ? 0x1 === lx : 0x1 === n1(jG["MAX_PAYOUT"], this["bv_J"]), this["bv_gt"] = jQ(this["bv_J"]), this["bv_St"] = lB ? jg[lB] : void 0x0, this["bv_yt"] = lP, this["bv_Gt"] = lz, this["bv_wt"] = lW, this["bv_Ct"] = lb, this["bv_Tt"] = lH, this["bv_Ot"] = lS, this["bv_Rt"] = lc, this["bv_Et"] = ls, this["bv_xt"] = lT, this["bv_kt"] = l6, this["bv_jt"] = l6, B7 && (this["bv_Y"] = (uI = [], B7["forEach"](function (lD) {
+                  if (this["bv_J"] = l8, this["bv_$"] = uQ, this["bv_tt"] = lE, this["bv_nt"] = lz, this["bv_et"] = ld, this["bv_it"] = lX, this["bv_rt"] = lp, lX || (this["bv_at"] = 0x0), this["bv_ot"] = lk, this["bv_ut"] = lc, this["bv_ct"] = lL, this["bv_st"] = ly, this["bv_lt"] = lR ? 0x1 === lR : 0x1 === n1(jG["NET_PROFIT"], this["bv_J"]), this["bv_ft"] = lQ ? 0x1 === lQ : 0x1 === n1(jG["ELAPSED_TIME"], this["bv_J"]), this["bv_ht"] = lv || n1(jG["AUTO_PLAY_MAX"], this["bv_J"]), this["bv_dt"] = lJ || n1(jG["AUTO_PLAY_CONFIG"], this["bv_J"]), this["bv_vt"] = lF || n1(jG["SINGLE_PLAY_TIME"], this["bv_J"]), this["bv_mt"] = lM ? 0x1 === lM : 0x1 === n1(jG["HIDE_NON_PROFIT"], this["bv_J"]), this["bv_bt"] = !(this["bv_vt"] > 0x0) && (lI ? 0x1 === lI : 0x1 === n1(jG["TURBO_SPIN"], this["bv_J"])), this["bv_pt"] = lx ? 0x1 === lx : 0x1 === n1(jG["MAX_PAYOUT"], this["bv_J"]), this["bv_gt"] = jQ(this["bv_J"]), this["bv_St"] = lB ? jg[lB] : undefined, this["bv_yt"] = lP, this["bv_Gt"] = lz, this["bv_wt"] = lW, this["bv_Ct"] = lb, this["bv_Tt"] = lH, this["bv_Ot"] = lS, this["bv_Rt"] = lc, this["bv_Et"] = ls, this["bv_xt"] = lT, this["bv_kt"] = l6, this["bv_jt"] = l6, B7 && (this["bv_Y"] = (uI = [], B7["forEach"](function (lD) {
                     {
                       var lD = new jy(lD);
                       (function (lY) {
@@ -1828,11 +1812,11 @@
                             lV = shell["environment"]["getOrientationMode"]();
                           if (lw !== jj["UNIVERSAL"]) {
                             {
-                              if (lw !== jj["VERTICAL"] && "port" === lV) return !0x1;
-                              if (lw !== jj["HORIZONTAL"] && "land" === lV) return !0x1;
+                              if (lw !== jj["VERTICAL"] && "port" === lV) return false;
+                              if (lw !== jj["HORIZONTAL"] && "land" === lV) return false;
                             }
                           }
-                          return !0x0;
+                          return true;
                         }
                       })(lD) && uI["push"](lD);
                     }
@@ -1866,34 +1850,34 @@
                       return this["bv_J"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "regionFeature", {
                   'get': function () {
                     return this["bv_gt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "backButton", {
                   'get': function () {
                     {
                       return this["bv_$"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "gameReturnToPlayer", {
                   'get': function () {
                     return this["bv_tt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "gameExitConfirmation", {
                   'get': function () {
                     return this["bv_nt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "buyFeature", {
                   'get': function () {
                     return this["bv_at"];
@@ -1901,234 +1885,234 @@
                   'set': function (uI) {
                     this["bv_at"] = uI;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "currencyBaseUnit", {
                   'get': function () {
                     return this["bv_St"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "markRead", {
                   'get': function () {
                     return this["bv_yt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "replayVersion", {
                   'get': function () {
                     {
                       return this["bv_Gt"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "turboSpinSuggest", {
                   'get': function () {
                     return this["bv_wt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "walletSocketEnable", {
                   'get': function () {
                     {
                       return this["bv_Ct"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "globalSocketEnable", {
                   'get': function () {
                     {
                       return this["bv_Tt"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "balanceUpdateEnable", {
                   'get': function () {
                     {
                       return this["bv_Ot"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "newWalletNotificationEnable", {
                   'get': function () {
                     return this["bv_Rt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "hideCurrencyDecimal", {
                   'get': function () {
                     return this["bv_Et"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "netProfitState", {
                   'get': function () {
                     return this["bv_lt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "elapsedTimeState", {
                   'get': function () {
                     return this["bv_ft"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "isRegulated", {
                   'get': function () {
                     {
                       return this["bv_st"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "autoPlayMaxNum", {
                   'get': function () {
                     {
                       return this["bv_ht"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "autoPlayConfig", {
                   'get': function () {
                     return this["bv_dt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "singlePlayMinDuration", {
                   'get': function () {
                     {
                       return this["bv_vt"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "hideNonProfitEffect", {
                   'get': function () {
                     return this["bv_mt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "turboSpinEnable", {
                   'get': function () {
                     {
                       return this["bv_bt"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "maxPayoutEnable", {
                   'get': function () {
                     {
                       return this["bv_pt"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "isOK", {
                   'get': function () {
                     return this["bv_xt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "gamePluginList", {
                   'get': function () {
                     {
                       return this["bv_Y"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "unfinishedFeatureGame", {
                   'get': function () {
                     {
                       return this["bv_K"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "unfinishedOnGoingFeatureGameCount", {
                   'get': function () {
                     {
                       return this["bv_Z"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "operatorCustomDisplayList", {
                   'get': function () {
                     return this["bv_X"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "gameName", {
                   'get': function () {
                     {
                       return this["bv_it"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "gameClock", {
                   'get': function () {
                     return this["bv_et"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "rtp", {
                   'get': function () {
                     {
                       return this["bv_ot"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "maxPayout", {
                   'get': function () {
                     return this["bv_ut"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "maxPayoutProbability", {
                   'get': function () {
                     return this["bv_ct"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "customDemoConfig", {
                   'get': function () {
                     return this["bv_It"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "operatorPromotionLink", {
                   'get': function () {
                     {
                       return this["bv_kt"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "idH", {
                   'get': function () {
                     {
                       return this["bv_jt"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "gameVersion", {
                   'get': function () {
                     {
                       return this["bv_rt"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), uI;
               }
             }()),
@@ -2169,7 +2153,7 @@
                       'occ': uQ,
                       'opl': l6,
                       'ioph': l8
-                    }) : void 0x0, this["bv_e"] = uH, this["bv_i"] = B9;
+                    }) : undefined, this["bv_e"] = uH, this["bv_i"] = B9;
                     var lE = this["bv_At"]["apiDomain"];
                     if (uQ) {
                       {
@@ -2183,56 +2167,56 @@
                   'get': function () {
                     return this["bv_Bt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "gameEngineUrl", {
                   'get': function () {
                     {
                       return this["bv_e"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "serviceEngineUrl", {
                   'get': function () {
                     {
                       return this["bv_i"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "gameMaintenanceInfo", {
                   'get': function () {
                     {
                       return this["bv_Vt"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "gameId", {
                   'get': function () {
                     return this["bv_At"]["gameId"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "version", {
                   'get': function () {
                     return this["bv_At"]["version"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "certifiedVersion", {
                   'get': function () {
                     return this["bv_Qt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "platform", {
                   'get': function () {
                     return this["bv_Xt"] || (this["bv_Xt"] = n6()["toString"]()), this["bv_Xt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "betType", {
                   'get': function () {
                     return this["bv_Nt"];
@@ -2242,72 +2226,72 @@
                       this["bv_Nt"] = uI;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "operatorPlayerSession", {
                   'get': function () {
                     {
                       return this["bv_Lt"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "playerSession", {
                   'get': function () {
                     return this["bv_Mt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "operatorParam", {
                   'get': function () {
                     {
                       return this["bv_Pt"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "operatorToken", {
                   'get': function () {
                     return this["bv_h"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "bundleId", {
                   'get': function () {
                     return this["bv_At"]["bundleId"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "apiDomain", {
                   'get': function () {
                     {
                       return this["bv_At"]["apiDomain"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "loginMethod", {
                   'get': function () {
                     {
                       return this["bv_Ht"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "noAudio", {
                   'get': function () {
                     {
                       return this["bv_Dt"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "redirectOption", {
                   'get': function () {
                     return this["bv_Ut"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "gameTitle", {
                   'get': function () {
                     {
@@ -2317,16 +2301,16 @@
                   'set': function (uI) {
                     this["bv__t"] = uI;
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "globalDomain", {
                   'get': function () {
                     {
                       return this["bv_At"]["globalDomain"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), uI["prototype"]["getFullGameEngineUrl"] = function () {
                   return this["bv_Ft"];
                 }, uI["prototype"]["getFullServiceEngineUrl"] = function () {
@@ -2341,32 +2325,32 @@
                       return this["bv_zt"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), Object["defineProperty"](uI["prototype"], "extraAssetTableKey", {
                   'get': function () {
                     return this["bv_Yt"];
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), uI;
               }
             }()), P("PlayerModel", function () {
               function uI() {
-                this["bv_Kt"] = jM["tournamentId"] || void 0x0;
+                this["bv_Kt"] = jM["tournamentId"] || undefined;
               }
               return Object["defineProperty"](uI["prototype"], "walletId", {
                 'get': function () {
                   return this["bv_Zt"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "walletType", {
                 'get': function () {
                   return this["bv_Jt"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "walletKey", {
                 'get': function () {
                   {
@@ -2376,50 +2360,50 @@
                 'set': function (uI) {
                   this["bv_Kt"] = uI;
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "playerId", {
                 'get': function () {
                   return this["bv_$t"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "playerName", {
                 'get': function () {
                   return this["bv_tn"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "playerNickname", {
                 'get': function () {
                   return this["bv_nn"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "token", {
                 'get': function () {
                   return this["bv_s"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "sessionStatus", {
                 'get': function () {
                   return this["bv_en"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "currency", {
                 'get': function () {
                   return this["bv_in"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "currencySymbol", {
                 'get': function () {
                   return this["bv_rn"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), uI["prototype"]["updatePlayerInfo"] = function (uI) {
                 {
                   var uI = uI["playerId"],
@@ -2443,84 +2427,84 @@
                 'get': function () {
                   return this["bv_an"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "parentTransactionId", {
                 'get': function () {
                   {
                     return this["bv_on"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "stateTransitionFrom", {
                 'get': function () {
                   {
                     return this["bv_un"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "stateTransitionTo", {
                 'get': function () {
                   {
                     return this["bv_cn"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "accumulatedWinAmount", {
                 'get': function () {
                   return this["bv_sn"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "totalWinAmount", {
                 'get': function () {
                   return this["bv_ln"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "balanceBefore", {
                 'get': function () {
                   return this["bv_fn"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "balanceAfterBet", {
                 'get': function () {
                   {
                     return this["bv_hn"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "markReadIndex", {
                 'get': function () {
                   return this["bv_dn"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "totalBet", {
                 'get': function () {
                   return this["bv_vn"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "totalBaseBet", {
                 'get': function () {
                   {
                     return this["bv_mn"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "previousGameState", {
                 'get': function () {
                   return this["bv_bn"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), uI["prototype"]["updateTransactionDetails"] = function (uI) {
                 {
                   var uI = uI["sid"],
@@ -2566,7 +2550,7 @@
             nj = P("RetryHandler", function () {
               function uI() {
                 {
-                  this["bv_yn"] = 0x5, this["_id"] = '0', this["bv_Gn"] = !0x1;
+                  this["bv_yn"] = 0x5, this["_id"] = '0', this["bv_Gn"] = false;
                 }
               }
               return uI["setRetryHandlerConfig"] = function (uI) {
@@ -2582,16 +2566,16 @@
                     this["_id"] = uI;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "isDestroyed", {
                 'get': function () {
                   {
                     return this["bv_Gn"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), uI["prototype"]["init"] = function (uI, uI, uH) {
                 {
                   this["bv_pn"] = uI, this["bv_yn"] = uH && uH["maxRetries"] ? uH["maxRetries"] : uI["maxRetries"], this["bv_wn"] = uH && uH["retrySchemeConfig"] ? uH["retrySchemeConfig"] : uI["retrySchemeConfig"], this["bv_gn"] = new n9(uI, this["bv_wn"]), this["bv_Cn"] = uI;
@@ -2612,7 +2596,7 @@
                 this["bv_gn"] && (this["bv_gn"]["retryCount"] = 0x0);
               }, uI["prototype"]["destroy"] = function () {
                 {
-                  this["bv_Gn"] = !0x0, uO()["emit"]("Shell.PWDReset");
+                  this["bv_Gn"] = true, uO()["emit"]("Shell.PWDReset");
                 }
               }, uI["prototype"]["bv_Tn"] = function () {
                 {
@@ -2655,7 +2639,7 @@
               }
               return u0(uI, uI), uI["prototype"]["onCreate"] = function () {
                 var uI = this;
-                nX = nB() ? 0x244 : 0x12c, this["bv_xn"]("game-title-css", ".game-title {        width : 300px;        height: 17px;        position: absolute;        display: flex;        color: white;        opacity: 0.85;        text-shadow: rgb(65, 50, 24) 1px 0px 0px, rgb(65, 50, 24) 0.552px 0.85px 0px, rgb(65, 50, 24) -0.4px 0.9px 0px, rgb(65, 50, 24) -0.1px 0.15px 0px, rgb(65, 50, 24) -0.65px -0.7px 0px, rgb(65, 50, 24) 0.3px -0.95px 0px, rgb(65, 50, 24) 0.96px -0.28px 0px;        pointer-events: none;        white-space: nowrap;        z-index: 250;}"), this["rootElement"] = document["createElement"]("div"), this["rootElement"]["setAttribute"]('id', "game-title"), this["rootElement"]["classList"]["add"]("game-title"), this["rootElement"]["style"]["visibility"] = "hidden", this["context"]["event"]["emit"]("Shell.GetScale", void 0x0, function (uH) {
+                nX = nB() ? 0x244 : 0x12c, this["bv_xn"]("game-title-css", ".game-title {        width : 300px;        height: 17px;        position: absolute;        display: flex;        color: white;        opacity: 0.85;        text-shadow: rgb(65, 50, 24) 1px 0px 0px, rgb(65, 50, 24) 0.552px 0.85px 0px, rgb(65, 50, 24) -0.4px 0.9px 0px, rgb(65, 50, 24) -0.1px 0.15px 0px, rgb(65, 50, 24) -0.65px -0.7px 0px, rgb(65, 50, 24) 0.3px -0.95px 0px, rgb(65, 50, 24) 0.96px -0.28px 0px;        pointer-events: none;        white-space: nowrap;        z-index: 250;}"), this["rootElement"] = document["createElement"]("div"), this["rootElement"]["setAttribute"]('id', "game-title"), this["rootElement"]["classList"]["add"]("game-title"), this["rootElement"]["style"]["visibility"] = "hidden", this["context"]["event"]["emit"]("Shell.GetScale", undefined, function (uH) {
                   !uH["error"] && uH["response"] && (uI["rootElement"]["style"]["width"] = uH["response"]["width"] + 'px', uI["bv_Rn"] = uH["response"]["width"]);
                 }), this["bv_On"] = document["createElement"]("div"), this["bv_On"]["style"]["paddingLeft"] = "12px", this["bv_On"]["style"]["display"] = "flex", this["bv_On"]["style"]["alignItems"] = "center", shell["isRTLLanguage"] && shell["isRTLLanguage"]() && (this["bv_On"]["style"]["direction"] = "rtl"), this["rootElement"]["appendChild"](this["bv_On"]);
               }, uI["prototype"]["updatePosition"] = function (uI) {
@@ -2695,9 +2679,9 @@
               }, uI;
             }(plugin["AbstractViewComponent"]);
           function nH(uI, uI, uI, uH, B9, B8) {
-            void 0x0 === uI && (uI = !0x1);
+            undefined === uI && (uI = false);
             var uQ = uI["name"];
-            nz = nB() ? 0xb : nz, void 0x0 !== B9 && (nE = B9), void 0x0 !== B8 && (nz = B8), uI["component"]["create"](nb), n3 = uI["component"]["getInstance"](nb), uH ? uH["appendChild"](n3["rootElement"]) : uI["view"]["appendTo"](nb, "overlay"), n3["updatePosition"](nE), n3["updateFontSize"](nz), uI ? n3["setGameTitle"](uQ + " - " + shell["I18n"]['t']("GameTitleTrial.Title")) : n3["setGameTitle"](uQ), n3["resizeTextToFitWidth"]();
+            nz = nB() ? 0xb : nz, undefined !== B9 && (nE = B9), undefined !== B8 && (nz = B8), uI["component"]["create"](nb), n3 = uI["component"]["getInstance"](nb), uH ? uH["appendChild"](n3["rootElement"]) : uI["view"]["appendTo"](nb, "overlay"), n3["updatePosition"](nE), n3["updateFontSize"](nz), uI ? n3["setGameTitle"](uQ + " - " + shell["I18n"]['t']("GameTitleTrial.Title")) : n3["setGameTitle"](uQ), n3["resizeTextToFitWidth"]();
           }
           function nS(uI) {
             n3 && n3["updateZindex"](uI);
@@ -2709,7 +2693,7 @@
             n3 && n3["updatePosition"](uI);
           }
           function nR(uI) {
-            void 0x0 === uI && (uI = !0x1), n3 && n3["toggleVisibility"](uI);
+            undefined === uI && (uI = false), n3 && n3["toggleVisibility"](uI);
           }
           P("GameTitle", Object["freeze"]({
             '__proto__': null,
@@ -2751,7 +2735,7 @@
                 }
                 return u0(uI, uI), uI["prototype"]["onCreate"] = function () {
                   var uI = this;
-                  this["bv_xn"]("time-stamp-css", ".time_stamp {        height: 17px;        position: absolute;        display: flex;        color: white;        opacity: 0.85;        text-shadow: rgb(65, 50, 24) 1px 0px 0px, rgb(65, 50, 24) 0.552px 0.85px 0px, rgb(65, 50, 24) -0.4px 0.9px 0px, rgb(65, 50, 24) -0.1px 0.15px 0px, rgb(65, 50, 24) -0.65px -0.7px 0px, rgb(65, 50, 24) 0.3px -0.95px 0px, rgb(65, 50, 24) 0.96px -0.28px 0px;        pointer-events: none;        font-family: monospace;        z-index: 250;}"), this["rootElement"] = document["createElement"]("div"), this["rootElement"]["setAttribute"]('id', "time-stamp"), this["rootElement"]["classList"]["add"]("time_stamp"), this["context"]["event"]["emit"]("Shell.GetScale", void 0x0, function (uH) {
+                  this["bv_xn"]("time-stamp-css", ".time_stamp {        height: 17px;        position: absolute;        display: flex;        color: white;        opacity: 0.85;        text-shadow: rgb(65, 50, 24) 1px 0px 0px, rgb(65, 50, 24) 0.552px 0.85px 0px, rgb(65, 50, 24) -0.4px 0.9px 0px, rgb(65, 50, 24) -0.1px 0.15px 0px, rgb(65, 50, 24) -0.65px -0.7px 0px, rgb(65, 50, 24) 0.3px -0.95px 0px, rgb(65, 50, 24) 0.96px -0.28px 0px;        pointer-events: none;        font-family: monospace;        z-index: 250;}"), this["rootElement"] = document["createElement"]("div"), this["rootElement"]["setAttribute"]('id', "time-stamp"), this["rootElement"]["classList"]["add"]("time_stamp"), this["context"]["event"]["emit"]("Shell.GetScale", undefined, function (uH) {
                     !uH["error"] && uH["response"] && (uI["rootElement"]["style"]["width"] = uH["response"]["width"] + 'px');
                   }), this["bv_On"] = document["createElement"]("div"), this["bv_On"]["style"]["paddingRight"] = "12px", this["bv_On"]["style"]["display"] = "flex", this["bv_On"]["style"]["alignItems"] = "center", this["rootElement"]["appendChild"](this["bv_On"]), this["bv_jn"]();
                 }, uI["prototype"]["updatePosition"] = function (uI) {
@@ -2802,7 +2786,7 @@
               }
             }(plugin["AbstractViewComponent"]);
           function nT(uI) {
-            void 0x0 === uI && (uI = !0x1), nN && nN["toggleVisibility"](uI);
+            undefined === uI && (uI = false), nN && nN["toggleVisibility"](uI);
           }
           !function (uI) {
             {
@@ -2844,7 +2828,7 @@
                   this["bv_In"] = nL() ? this["landScapeMaxWidth"] : this["portraitMaxWidth"], this["rootElement"] = document["createElement"]("div"), this["rootElement"]["setAttribute"]('id', this["elementID"]), document["head"]["getElementsByTagName"]("style")["namedItem"](nY) && this["styleIDs"]["push"](nY), this["bv_xn"](nY, ".game-base-header-css {        height: 17px;        position: absolute;        display: flex;        color: white;        opacity: 0.85;        text-shadow: rgb(65, 50, 24) 1px 0px 0px, rgb(65, 50, 24) 0.552px 0.85px 0px, rgb(65, 50, 24) -0.4px 0.9px 0px, rgb(65, 50, 24) -0.1px 0.15px 0px, rgb(65, 50, 24) -0.65px -0.7px 0px, rgb(65, 50, 24) 0.3px -0.95px 0px, rgb(65, 50, 24) 0.96px -0.28px 0px;        pointer-events: none;        z-index: 250;}"), this["rootElement"]["classList"]["add"](nY);
                   var uH = ''["concat"](this["elementID"], "-css"),
                     B9 = this["bv_An"](uH, this["customCSSPropertiesList"]);
-                  B9 && (this["bv_xn"](uH, B9), this["rootElement"]["classList"]["add"](uH)), this["context"]["event"]["emit"]("Shell.GetScale", void 0x0, function (B8) {
+                  B9 && (this["bv_xn"](uH, B9), this["rootElement"]["classList"]["add"](uH)), this["context"]["event"]["emit"]("Shell.GetScale", undefined, function (B8) {
                     !B8["error"] && B8["response"] && (uI["rootElement"]["style"]["width"] = B8["response"]["width"] + 'px', null != uI["defaultWidth"] && (uI["defaultWidth"] = B8["response"]["width"]));
                   }), this["textDiv"] = document["createElement"]("div"), this["textDiv"]["style"]["paddingLeft"] = "12px", this["textDiv"]["style"]["paddingRight"] = "12px", this["textDiv"]["style"]["display"] = "flex", this["textDiv"]["style"]["alignItems"] = "center", shell["isRTLLanguage"] && shell["isRTLLanguage"]() && (this["textDiv"]["style"]["direction"] = "rtl"), this["rootElement"]["appendChild"](this["textDiv"]);
                 }, uI["prototype"]["updatePosition"] = function (uI) {
@@ -2948,7 +2932,7 @@
                   }, 0x3e8));
                 }
               }, uI["prototype"]["stopSessionTime"] = function () {
-                this["bv_Pn"] && clearInterval(this["bv_Pn"]), this["bv_Pn"] = void 0x0;
+                this["bv_Pn"] && clearInterval(this["bv_Pn"]), this["bv_Pn"] = undefined;
               }, uI["prototype"]["getSessionTime"] = function () {
                 return this["bv_Mn"];
               }, uI["prototype"]["updateTime"] = function () {
@@ -2974,7 +2958,7 @@
                 }
               }
               return u0(uI, uI), uI["prototype"]["initGameSessionTime"] = function (uI, uH, B9, B8) {
-                this["fontSize"] = this["isLandscape"]() ? this["landscapeFontSize"] : this["fontSize"], void 0x0 !== B9 && (this["position"] = B9), void 0x0 !== B8 && (this["fontSize"] = B8), uI["component"]["create"](nq), this["bv__n"] = uI["component"]["getInstance"](nq), uH ? uH["appendChild"](this["bv__n"]["rootElement"]) : uI["view"]["appendTo"](nq, "overlay"), this["bv__n"]["updateTime"](), this["bv__n"]["updatePosition"](this["position"]), this["bv__n"]["updateFontSize"](this["fontSize"]);
+                this["fontSize"] = this["isLandscape"]() ? this["landscapeFontSize"] : this["fontSize"], undefined !== B9 && (this["position"] = B9), undefined !== B8 && (this["fontSize"] = B8), uI["component"]["create"](nq), this["bv__n"] = uI["component"]["getInstance"](nq), uH ? uH["appendChild"](this["bv__n"]["rootElement"]) : uI["view"]["appendTo"](nq, "overlay"), this["bv__n"]["updateTime"](), this["bv__n"]["updatePosition"](this["position"]), this["bv__n"]["updateFontSize"](this["fontSize"]);
               }, uI["prototype"]["updateGameSessionTimeZIndex"] = function (uI) {
                 this["bv__n"] && this["bv__n"]["updateZindex"](uI);
               }, uI["prototype"]["updateGameSessionTimeFontSize"] = function (uI) {
@@ -2984,7 +2968,7 @@
               }, uI["prototype"]["updateGameSessionTimePosition"] = function (uI) {
                 this["bv__n"] && this["bv__n"]["updatePosition"](uI);
               }, uI["prototype"]["toggleVisibleGameSessionTimeNode"] = function (uI) {
-                void 0x0 === uI && (uI = !0x1), this["bv__n"] && this["bv__n"]["toggleVisibility"](uI);
+                undefined === uI && (uI = false), this["bv__n"] && this["bv__n"]["toggleVisibility"](uI);
               }, uI["prototype"]["startGameSessionTime"] = function () {
                 this["bv__n"] && this["bv__n"]["startSessionTime"]();
               }, uI["prototype"]["stopGameSessionTime"] = function () {
@@ -3002,7 +2986,7 @@
               function uI() {
                 {
                   var uI = null !== uI && uI["apply"](this, arguments) || this;
-                  return uI["elementID"] = "game-session-net-profit", uI["bv_Dn"] = !0x0, uI["bv_Un"] = 0x0, uI["bv_Hn"] = 0x0, uI["bv_Bn"] = 0x0, uI;
+                  return uI["elementID"] = "game-session-net-profit", uI["bv_Dn"] = true, uI["bv_Un"] = 0x0, uI["bv_Hn"] = 0x0, uI["bv_Bn"] = 0x0, uI;
                 }
               }
               return u0(uI, uI), uI["prototype"]["onCreate"] = function () {
@@ -3017,7 +3001,7 @@
                 }
               }, uI["prototype"]["setLatestBalance"] = function (uI) {
                 {
-                  this["bv_Dn"] && (this["bv_Un"] = uI, this["bv_Dn"] = !0x1), this["bv_Hn"] = uI;
+                  this["bv_Dn"] && (this["bv_Un"] = uI, this["bv_Dn"] = false), this["bv_Hn"] = uI;
                 }
               }, uI["prototype"]["updateNetProfit"] = function () {
                 {
@@ -3034,7 +3018,7 @@
                 }
                 return u0(uI, uI), uI["prototype"]["initGameSessionNetProfit"] = function (uI, uH, B9, B8) {
                   {
-                    this["fontSize"] = this["isLandscape"]() ? this["landscapeFontSize"] : this["fontSize"], void 0x0 !== B9 && (this["position"] = B9), void 0x0 !== B8 && (this["fontSize"] = B8), uI["component"]["create"](nG), this["bv_Fn"] = uI["component"]["getInstance"](nG), uH ? uH["appendChild"](this["bv_Fn"]["rootElement"]) : uI["view"]["appendTo"](nG, "overlay"), this["bv_Fn"]["updatePosition"](this["position"]), this["bv_Fn"]["updateFontSize"](this["fontSize"]), this["bv_Fn"]["updateNetProfit"]();
+                    this["fontSize"] = this["isLandscape"]() ? this["landscapeFontSize"] : this["fontSize"], undefined !== B9 && (this["position"] = B9), undefined !== B8 && (this["fontSize"] = B8), uI["component"]["create"](nG), this["bv_Fn"] = uI["component"]["getInstance"](nG), uH ? uH["appendChild"](this["bv_Fn"]["rootElement"]) : uI["view"]["appendTo"](nG, "overlay"), this["bv_Fn"]["updatePosition"](this["position"]), this["bv_Fn"]["updateFontSize"](this["fontSize"]), this["bv_Fn"]["updateNetProfit"]();
                   }
                 }, uI["prototype"]["updateSessionNetProfitZIndex"] = function (uI) {
                   this["bv_Fn"] && this["bv_Fn"]["updateZindex"](uI);
@@ -3051,7 +3035,7 @@
                 }, uI["prototype"]["updateBalance"] = function (uI) {
                   this["bv_Fn"] && this["bv_Fn"]["updateGameSessionNetProfit"](uI);
                 }, uI["prototype"]["toggleVisibleGameSessionNetProfitNode"] = function (uI) {
-                  void 0x0 === uI && (uI = !0x1), this["bv_Fn"] && this["bv_Fn"]["toggleVisibility"](uI);
+                  undefined === uI && (uI = false), this["bv_Fn"] && this["bv_Fn"]["toggleVisibility"](uI);
                 }, uI["prototype"]["getSessionNetProfit"] = function () {
                   return this["bv_Fn"] && this["bv_Fn"]["getGameSessionNetProfit"]() || 0x0;
                 }, uI;
@@ -3065,16 +3049,16 @@
                 'get': function () {
                   return this["bv_Wn"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "gameSessionNetProfitHelper", {
                 'get': function () {
                   {
                     return this["bv_qn"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), uI;
             }())();
           !function (uI) {
@@ -3105,7 +3089,7 @@
               return uI["prototype"]["initGameOperatorDisplay"] = function (uI, uI, uH, B9) {
                 {
                   var B8, uQ, B7, B8;
-                  void 0x0 === E0 && (E0 = new cc["Node"]("operator_display_holder"), E1 = new cc["Node"]("operator_display"), E2 = new cc["Node"]("content"), E1["parent"] = E0, E2["parent"] = E1, cc["game"]["isPersistRootNode"](E0) || cc["game"]["addPersistRootNode"](E0)), uQ = (B8 = E0)["addComponent"](cc["Widget"]), B7 = cc["view"]["getViewportRect"]()["height"], B8 = cc["view"]["getViewportRect"]()["width"], B8["anchorX"] = 0.5, B8["anchorY"] = 0.5, B8["zIndex"] = 0x3e8, B8["width"] = B8, B8["height"] = B7, uQ["top"] = 0x0, uQ["left"] = 0x0, uQ["right"] = 0x0, uQ["isAlignTop"] = !0x0, uQ["isAlignLeft"] = !0x0, uQ["isAlignRight"] = !0x0, uQ["isAlignVerticalCenter"] = !0x0, uQ["isAlignHorizontalCenter"] = !0x0, uQ["updateAlignment"](), function (B8) {
+                  undefined === E0 && (E0 = new cc["Node"]("operator_display_holder"), E1 = new cc["Node"]("operator_display"), E2 = new cc["Node"]("content"), E1["parent"] = E0, E2["parent"] = E1, cc["game"]["isPersistRootNode"](E0) || cc["game"]["addPersistRootNode"](E0)), uQ = (B8 = E0)["addComponent"](cc["Widget"]), B7 = cc["view"]["getViewportRect"]()["height"], B8 = cc["view"]["getViewportRect"]()["width"], B8["anchorX"] = 0.5, B8["anchorY"] = 0.5, B8["zIndex"] = 0x3e8, B8["width"] = B8, B8["height"] = B7, uQ["top"] = 0x0, uQ["left"] = 0x0, uQ["right"] = 0x0, uQ["isAlignTop"] = true, uQ["isAlignLeft"] = true, uQ["isAlignRight"] = true, uQ["isAlignVerticalCenter"] = true, uQ["isAlignHorizontalCenter"] = true, uQ["updateAlignment"](), function (B8) {
                     {
                       var uQ = B8["addComponent"](cc["Layout"]);
                       B8["width"] = 0x438, B8["height"] = 0x19, B8["anchorX"] = 0.5, B8["anchorY"] = 0x1, B8["setPosition"](cc['v2'](0x0, -0x361)), uQ["type"] = cc["Layout"]["Type"]["HORIZONTAL"], uQ["paddingLeft"] = 0x14;
@@ -3138,11 +3122,11 @@
                         }
                       }();
                     }
-                  }, void 0x0), uI["event"]["emit"]("Game.GetSettingMenuType", void 0x0, function (B8) {
+                  }, undefined), uI["event"]["emit"]("Game.GetSettingMenuType", undefined, function (B8) {
                     {
                       B8["error"] || (B8["response"] === nh["LEGACY"] ? E1["setPosition"](cc['v2'](0x0, -0x375)) : "land" === shell["environment"]["getOrientationMode"]() && E1["setPosition"](cc['v2'](-0x1ae, -0x170)));
                     }
-                  }), uI["event"]["emit"]("Game.RequestLayoutInfo", void 0x0, function (B8) {
+                  }), uI["event"]["emit"]("Game.RequestLayoutInfo", undefined, function (B8) {
                     {
                       if (!B8["error"] && B8["response"]) {
                         {
@@ -3155,10 +3139,10 @@
                 }
               }, uI["prototype"]["toggleVisibleGameOperatorDisplayNode"] = function (uI) {
                 {
-                  void 0x0 === uI && (uI = !0x1), E0 && (E0["active"] = uI);
+                  undefined === uI && (uI = false), E0 && (E0["active"] = uI);
                 }
               }, uI["prototype"]["bv_Vn"] = function (uI) {
-                uI && 0x0 !== uI["length"] || this["toggleVisibleGameOperatorDisplayNode"](!0x1);
+                uI && 0x0 !== uI["length"] || this["toggleVisibleGameOperatorDisplayNode"](false);
               }, uI;
             }(),
             Eu = new (function () {
@@ -3171,8 +3155,8 @@
                     return this["bv_Qn"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), uI;
             }())();
           (function (uI) {
@@ -3189,77 +3173,77 @@
             Ez,
             EX,
             EB,
-            EP = !0x1,
+            EP = false,
             El = {
               'gameTitle': {
-                'show': !0x1,
+                'show': false,
                 'order': E7["TITLE_TIMESTAMP"]
               },
               'timeStamp': {
-                'show': !0x1,
+                'show': false,
                 'order': E7["TITLE_TIMESTAMP"]
               },
               'gameSessionNetProfit': {
-                'show': !0x1,
+                'show': false,
                 'order': E7["SESSION_NET_PROFIT_TIME"]
               },
               'gameSessionTime': {
-                'show': !0x1,
+                'show': false,
                 'order': E7["SESSION_NET_PROFIT_TIME"]
               }
             },
-            EN = void 0x0,
-            Ep = !0x1,
+            EN = undefined,
+            Ep = false,
             Ed = ng["gameSessionNetProfitHelper"],
             EW = ng["gameSessionTimeHelper"],
             Eb = Eu["gameOperatorDisplayHelper"],
-            EH = !0x1,
-            ES = !0x1,
-            Ec = !0x1,
-            Es = !0x1,
+            EH = false,
+            ES = false,
+            Ec = false,
+            Es = false,
             ER = {},
-            EQ = !0x1,
-            Ey = !0x1,
-            Ev = !0x1;
+            EQ = false,
+            Ey = false,
+            Ev = false;
           function EJ(uI, uI) {
             {
-              switch (void 0x0 === uI && (uI = !0x0), uI) {
+              switch (undefined === uI && (uI = true), uI) {
                 case "None":
                   El["gameTitle"] = {
-                    'show': !0x1,
+                    'show': false,
                     'order': E7["TITLE_TIMESTAMP"]
                   }, El["timeStamp"] = {
-                    'show': !0x1,
+                    'show': false,
                     'order': E7["TITLE_TIMESTAMP"]
                   };
                   break;
                 case "Time":
                   El["gameTitle"] = {
-                    'show': !0x1,
+                    'show': false,
                     'order': 0x1
                   }, El["timeStamp"] = {
-                    'show': !0x0,
+                    'show': true,
                     'position': E5["RIGHT"],
                     'order': E7["TITLE_TIMESTAMP"]
                   };
                   break;
                 case "Title":
                   El["gameTitle"] = {
-                    'show': !0x0,
+                    'show': true,
                     'position': E5["CENTER"],
                     'order': E7["TITLE_TIMESTAMP"]
                   }, El["timeStamp"] = {
-                    'show': !0x1,
+                    'show': false,
                     'order': E7["TITLE_TIMESTAMP"]
                   };
                   break;
                 case "All":
                   El["gameTitle"] = {
-                    'show': !0x0,
+                    'show': true,
                     'position': E5["LEFT"],
                     'order': E7["TITLE_TIMESTAMP"]
                   }, El["timeStamp"] = {
-                    'show': !0x0,
+                    'show': true,
                     'position': E5["RIGHT"],
                     'order': E7["TITLE_TIMESTAMP"]
                   };
@@ -3276,12 +3260,12 @@
             }
           }
           function EF() {
-            Ex(!0x0)["length"] <= 0x0 ? (Ey = !0x0, Ej["style"]["visibility"] = "hidden", Ex(!0x1)["forEach"](function (uI) {
+            Ex(true)["length"] <= 0x0 ? (Ey = true, Ej["style"]["visibility"] = "hidden", Ex(false)["forEach"](function (uI) {
               ET(uI);
-            })) : (Ev = !0x0, function () {
+            })) : (Ev = true, function () {
               {
-                if (Ej["style"]["visibility"] = "visible", EO(), EQ && Ev) return Ev = !0x1, ED(), Eh(), void EC(0x0, !0x0);
-                EQ || (EQ = !0x0, Ev = !0x1, EC(0x0, !0x0));
+                if (Ej["style"]["visibility"] = "visible", EO(), EQ && Ev) return Ev = false, ED(), Eh(), void EC(0x0, true);
+                EQ || (EQ = true, Ev = false, EC(0x0, true));
               }
             }());
           }
@@ -3299,16 +3283,16 @@
           function ET(uI) {
             switch (uI) {
               case E6["GameTitle"]:
-                nR(!0x1);
+                nR(false);
                 break;
               case E6["TimeStamp"]:
-                nT(!0x1);
+                nT(false);
                 break;
               case E6["GameSessionNetProfit"]:
-                Ed["toggleVisibleGameSessionNetProfitNode"](!0x1);
+                Ed["toggleVisibleGameSessionNetProfitNode"](false);
                 break;
               case E6["GameSessionTime"]:
-                EW["toggleVisibleGameSessionTimeNode"](!0x1);
+                EW["toggleVisibleGameSessionTimeNode"](false);
             }
           }
           function Ek(uI, uI, uI, uH) {
@@ -3330,7 +3314,7 @@
             }
           }
           function EO() {
-            return ER = {}, Ex(!0x0)["forEach"](function (uI) {
+            return ER = {}, Ex(true)["forEach"](function (uI) {
               {
                 var uI = uI,
                   uI = El[uI],
@@ -3369,20 +3353,20 @@
                           {
                             switch (l8) {
                               case E6["GameTitle"]:
-                                nR(!0x0), ns(uQ);
+                                nR(true), ns(uQ);
                                 break;
                               case E6["TimeStamp"]:
-                                nT(!0x0), function (uQ) {
+                                nT(true), function (uQ) {
                                   {
                                     nN && nN["updatePosition"](uQ);
                                   }
                                 }(uQ);
                                 break;
                               case E6["GameSessionNetProfit"]:
-                                Ed["toggleVisibleGameSessionNetProfitNode"](!0x0), Ed["updateSessionNetProfitPosition"](uQ);
+                                Ed["toggleVisibleGameSessionNetProfitNode"](true), Ed["updateSessionNetProfitPosition"](uQ);
                                 break;
                               case E6["GameSessionTime"]:
-                                EW["toggleVisibleGameSessionTimeNode"](!0x0), EW["updateGameSessionTimePosition"](uQ);
+                                EW["toggleVisibleGameSessionTimeNode"](true), EW["updateGameSessionTimePosition"](uQ);
                             }
                           }
                         }(l6, l6);
@@ -3424,9 +3408,9 @@
                 'position': E5["RIGHT"]
               }], function () {
                 {
-                  if (uI["length"] <= 0x1) EQ = !0x1;else {
-                    if (Ey) return EQ = !0x1, void (Ey = !0x1);
-                    ++uI >= Object["keys"](ER)["length"] && (uI = 0x0), EC(uI, !0x1);
+                  if (uI["length"] <= 0x1) EQ = false;else {
+                    if (Ey) return EQ = false, void (Ey = false);
+                    ++uI >= Object["keys"](ER)["length"] && (uI = 0x0), EC(uI, false);
                   }
                 }
               });
@@ -3441,7 +3425,7 @@
                 var uI = uI['k'];
                 Ep = "0_C" === uI["substring"](0x0, 0x3);
               }
-            } else Ep = !0x1;
+            } else Ep = false;
           }
           function EU(uI) {
             {
@@ -3450,15 +3434,15 @@
           }
           function EZ() {
             {
-              EL() ? EM(!0x1) : EM(!Ep);
+              EL() ? EM(false) : EM(!Ep);
             }
           }
           function ED() {
-            EX && (clearTimeout(EX), EX = void 0x0);
+            EX && (clearTimeout(EX), EX = undefined);
           }
           function Eh() {
             {
-              EB && (clearTimeout(EB), EB = void 0x0);
+              EB && (clearTimeout(EB), EB = undefined);
             }
           }
           var EY = P("GameHeaderHelper", {
@@ -3478,9 +3462,9 @@
                             lz = lz,
                             lX = lX,
                             lp = "All";
-                          return EH = lB, ES = lP, void 0x0 !== lz && void 0x0 !== lX || (lz = !0x0, lX = !0x0), lz ? lX || (lp = "Time") : lp = lX ? "Title" : "None", lp;
+                          return EH = lB, ES = lP, undefined !== lz && undefined !== lX || (lz = true, lX = true), lz ? lX || (lp = "Time") : lp = lX ? "Title" : "None", lp;
                         }(uI["dataSource"]);
-                      EJ(uH, !0x1);
+                      EJ(uH, false);
                       var B9 = EO();
                       Object["keys"](B9)["length"] > 0x1 && ((EE = document["createElement"]("div"))["setAttribute"]('id', "game-header-animate-holder"), EE["style"]["height"] = "18px", EE["style"]["transform"] = "scaleY(1)", EE["style"]["transformOrigin"] = "center", EE["style"]["transition"] = "transform 0.2s ease-in", uI = EE, Ej["appendChild"](EE)), uI && uI["appendChild"](Ej);
                       var B8 = uI["context"],
@@ -3489,7 +3473,7 @@
                         B8 = 0x2 === uI["dataSource"]["systemModel"]["betType"],
                         B8 = uI["dataSource"]["systemModel"]["operatorJurisdiction"]["gameVersion"],
                         uQ = uI["dataSource"]["systemModel"]["certifiedVersion"];
-                      B8["event"]["emit"]("Shell.GetScale", void 0x0, function (uQ) {
+                      B8["event"]["emit"]("Shell.GetScale", undefined, function (uQ) {
                         !uQ["error"] && uQ["response"] && (Ej["style"]["height"] = uQ["response"]["height"] + 'px', Ej["style"]["width"] = uQ["response"]["width"] + 'px');
                       }), B8["event"]['on']("Shell.Scaled", function (uQ) {
                         {
@@ -3498,24 +3482,24 @@
                         }
                       }, B8), nH(B8, uQ, B8, uI), function (uQ, lE, lz, lX) {
                         {
-                          ny = "land" === shell["environment"]["getOrientationMode"]() ? 0xb : ny, void 0x0 !== lz && (nQ = lz), void 0x0 !== lX && (ny = lX), uQ["component"]["create"](nx), nN = uQ["component"]["getInstance"](nx), lE ? lE["appendChild"](nN["rootElement"]) : uQ["view"]["appendTo"](nx, "overlay"), nN["updatePosition"](nQ), nN["updateFontSize"](ny);
+                          ny = "land" === shell["environment"]["getOrientationMode"]() ? 0xb : ny, undefined !== lz && (nQ = lz), undefined !== lX && (ny = lX), uQ["component"]["create"](nx), nN = uQ["component"]["getInstance"](nx), lE ? lE["appendChild"](nN["rootElement"]) : uQ["view"]["appendTo"](nx, "overlay"), nN["updatePosition"](nQ), nN["updateFontSize"](ny);
                         }
                       }(B8, uI);
-                      var l6 = B8 ? uQ : void 0x0;
+                      var l6 = B8 ? uQ : undefined;
                       Eb["initGameOperatorDisplay"](B8, B7, l6);
                       var l6,
                         l8 = nc();
-                      l6 = l8, nN && nN["updateFontSize"](l6), nR(!0x1), nT(!0x1), Eb["toggleVisibleGameOperatorDisplayNode"](!0x1), B8["event"]["once"]("Game.GameInfoUpdated", function (uQ) {
+                      l6 = l8, nN && nN["updateFontSize"](l6), nR(false), nT(false), Eb["toggleVisibleGameOperatorDisplayNode"](false), B8["event"]["once"]("Game.GameInfoUpdated", function (uQ) {
                         {
                           var lE = uQ["payload"]['dt']['ls']['si'];
                           EN = lE['wt'], Em(lE["wbn"]);
                         }
-                      }, B8), EH && (Ed["initGameSessionNetProfit"](B8, uI), Ed["updateSessionNetProfitFontSize"](l8), Ed["toggleVisibleGameSessionNetProfitNode"](!0x1), B8["event"]['on']("Game.TransactionInfoChanged", function (uQ) {
+                      }, B8), EH && (Ed["initGameSessionNetProfit"](B8, uI), Ed["updateSessionNetProfitFontSize"](l8), Ed["toggleVisibleGameSessionNetProfitNode"](false), B8["event"]['on']("Game.TransactionInfoChanged", function (uQ) {
                         var lE = uQ["payload"];
                         lE && lE["balance"] && (EL() || Ep) && Ed["updateBalance"](lE["balance"]);
-                      }, B8)), ES && (EW["initGameSessionTime"](B8, uI), EW["updateGameSessionTimeFontSize"](l8), EW["toggleVisibleGameSessionTimeNode"](!0x1));
+                      }, B8)), ES && (EW["initGameSessionTime"](B8, uI), EW["updateGameSessionTimeFontSize"](l8), EW["toggleVisibleGameSessionTimeNode"](false));
                       var uQ = function (uQ) {
-                        "GameStarted" === uQ["payload"] && (Eb["toggleVisibleGameOperatorDisplayNode"](!0x0), ES && EW["startGameSessionTime"](), function (lE) {
+                        "GameStarted" === uQ["payload"] && (Eb["toggleVisibleGameOperatorDisplayNode"](true), ES && EW["startGameSessionTime"](), function (lE) {
                           {
                             lE["event"]['on']("Game.UpdateHeaderType", function (lz) {
                               {
@@ -3532,13 +3516,13 @@
                             }, lE), lE["event"]['on']("Game.RequestHeaderType", function (lz) {
                               lz["response"] = Ez;
                             }, lE), lE["event"]['on']("Game.ShowCustomDisplay", function () {
-                              Eb["toggleVisibleGameOperatorDisplayNode"](!0x0);
+                              Eb["toggleVisibleGameOperatorDisplayNode"](true);
                             }, lE), lE["event"]['on']("Game.HideCustomDisplay", function () {
-                              Eb["toggleVisibleGameOperatorDisplayNode"](!0x1);
+                              Eb["toggleVisibleGameOperatorDisplayNode"](false);
                             }, lE), (EH || ES) && (lE["event"]['on']("Game.ReplayInitiated", function () {
-                              EU(!0x0);
+                              EU(true);
                             }, lE), lE["event"]['on']("Game.ReplayQuit", function () {
-                              EU(!0x1);
+                              EU(false);
                             }, lE), lE["event"]['on']("Game.GameInfoUpdated", function (lz) {
                               var lX = lz["payload"]['dt']['ls']['si'];
                               EN = lX['wt'], Em(lX["wbn"]), EZ();
@@ -3546,7 +3530,7 @@
                           }
                         }(B8), EZ(), EJ(uH), B8["event"]["off"]("Shell.BootStateChanged", uQ, B8));
                       };
-                      B8["event"]['on']("Shell.BootStateChanged", uQ, B8), EP = !0x0;
+                      B8["event"]['on']("Shell.BootStateChanged", uQ, B8), EP = true;
                     }
                   }
                 }
@@ -3596,7 +3580,7 @@
                 }
               }
             }),
-            EV = !0x1;
+            EV = false;
           function Eq(uI, uI) {
             uI || (uI = function (B7, B8) {
               {
@@ -3607,7 +3591,7 @@
                   }
                 } else {
                   var uQ = uI["finalCallback"];
-                  uQ && uQ(void 0x0, B8);
+                  uQ && uQ(undefined, B8);
                 }
               }
             });
@@ -3619,7 +3603,7 @@
                   if (uQ) {
                     if (B8["isDestroyed"]) return;
                     var l8 = B8["getRetryCount"](),
-                      uQ = l8 > 0x0 ? l8 : void 0x0;
+                      uQ = l8 > 0x0 ? l8 : undefined;
                     if (uQ["canDismiss"] || jZ["sendErrorReport"](B7["name"] + " failed", uQ["domain"], uQ["code"], uQ), uQ["shouldRetry"] && B8["canRetry"]()) B8["execute"]();else {
                       if (l6 && l6["cancel"](), EV) return;
                       var uQ = B7["errorContext"] ? B7["errorContext"] : jw["getErrorContext"](B7["errorTitle"]);
@@ -3638,7 +3622,7 @@
                   } else {
                     {
                       if (l6 && l6["cancel"](), B8["destroy"](), EV) return;
-                      B8 && B8(void 0x0, l6);
+                      B8 && B8(undefined, l6);
                     }
                   }
                   jZ["sendAnalyticsTiming"]({
@@ -3667,7 +3651,7 @@
                         l6 ? uQ(l6, l8) : l6 && l6(l8) ? (jZ["sendAnalyticsTiming"]({
                           'actionName': "GAME_API_REQUEST",
                           'state': "End"
-                        }), B8()) : uQ(void 0x0, l8);
+                        }), B8()) : uQ(undefined, l8);
                       }
                     };
                   }(B8, B9, uI["shouldRetryApiRequest"]);
@@ -3695,7 +3679,7 @@
               },
               'reportCriticalError': function () {
                 {
-                  EV = !0x0;
+                  EV = true;
                 }
               }
             });
@@ -3709,7 +3693,7 @@
                 {
                   uI["getGameName"](function (uI, uH) {
                     var B9;
-                    uI || void 0x0 === uH || (B9 = uH, H["getPreference"](EK)["setItem"]("gameName", B9['dt'])), uI && uI();
+                    uI || undefined === uH || (B9 = uH, H["getPreference"](EK)["setItem"]("gameName", B9['dt'])), uI && uI();
                   });
                 }
               },
@@ -3748,7 +3732,7 @@
                     }
                     return uT(B[("Mathew", ud(-0x2, "Mathew"))]["random"](), uH);
                   }
-                  return !0x0;
+                  return true;
                 }
               }
               return [function () {
@@ -3778,7 +3762,7 @@
                   try {
                     {
                       var B7 = B["Object"]["getOwnPropertyDescriptor"](B, "isSecureContext");
-                      void 0x0 === B7 ? uQ = 0x2 : uc(B7["get"]) && (uQ = B7["get"]["apply"](B) ? 0x1 : 0x0);
+                      undefined === B7 ? uQ = 0x2 : uc(B7["get"]) && (uQ = B7["get"]["apply"](B) ? 0x1 : 0x0);
                     }
                   } catch (B8) {}
                   return uQ;
@@ -3805,7 +3789,7 @@
             uI[uI["PAUSE_GAME"] = 0x0] = "PAUSE_GAME", uI[uI["RESUME_GAME"] = 0x1] = "RESUME_GAME";
           }(z3 || (z3 = {}));
           var z6 = z3["RESUME_GAME"],
-            z7 = !0x0,
+            z7 = true,
             z8 = Object["create"](null),
             z9 = Object["create"](null),
             zu = Object["create"](null),
@@ -3813,8 +3797,8 @@
             zE = Object["create"](null),
             zz = Object["create"](null),
             zX = Object["create"](null),
-            zB = !0x1,
-            zP = !0x1,
+            zB = false,
+            zP = false,
             zl = [],
             zN = "Resume",
             zp = 0x0,
@@ -3825,9 +3809,9 @@
               var uI,
                 uI,
                 uH = uI["payload"];
-              if ("boolean" == typeof uH ? (uI = uH, uI = !0x1) : (uI = uH["isBlocked"], uI = uH["shouldFreeze"]), uI) {
+              if ("boolean" == typeof uH ? (uI = uH, uI = false) : (uI = uH["isBlocked"], uI = uH["shouldFreeze"]), uI) {
                 {
-                  if (zd++, uI && !cc["game"]["isPaused"]() && z4(!0x0)(function () {
+                  if (zd++, uI && !cc["game"]["isPaused"]() && z4(true)(function () {
                     {
                       zd > 0x0 && cc["game"]["pause"]();
                     }
@@ -3916,7 +3900,7 @@
                       return function (B8) {
                         B8["response"] = B9();
                       };
-                    }(uH), void 0x0);
+                    }(uH), undefined);
                   }
                 }(uI, z1);
               }
@@ -3992,7 +3976,7 @@
               var uI = uO();
               uI['on']("Game.BlockUI", zb), function (uI) {
                 {
-                  uI['on']("Game.TransactionStatePaused", z2, void 0x0);
+                  uI['on']("Game.TransactionStatePaused", z2, undefined);
                 }
               }(uI);
             },
@@ -4128,7 +4112,7 @@
                                 zH < B8["length"] && uI(B8[zH]);
                               }
                             };
-                            B7 ? B7(!0x0, function () {
+                            B7 ? B7(true, function () {
                               {
                                 z7 && B8();
                               }
@@ -4140,7 +4124,7 @@
                     } else for (var uH = Object["keys"](zz), B9 = 0x0; B9 < zH; B9++) {
                       {
                         var B8 = zz[uH[B9]];
-                        B8 && B8(!0x1);
+                        B8 && B8(false);
                       }
                     }
                   }
@@ -4198,9 +4182,9 @@
                     var uI = uO();
                     zj = function () {
                       {
-                        zP = !0x1, uI && uI(), uI["emit"]("Game.AutoplayStateChanged", "Stop");
+                        zP = false, uI && uI(), uI["emit"]("Game.AutoplayStateChanged", "Stop");
                       }
-                    }, zP = !0x0, uI["emit"]("Game.AutoplayStateChanged", "Start"), uI["once"]("Game.StopAutoplay", zj);
+                    }, zP = true, uI["emit"]("Game.AutoplayStateChanged", "Start"), uI["once"]("Game.StopAutoplay", zj);
                   }
                 }
               }
@@ -4208,7 +4192,7 @@
             'emitAutoplayStoppedEvent': function () {
               {
                 if (zP) {
-                  zP = !0x1;
+                  zP = false;
                   var uI = uO();
                   uI["emit"]("Game.AutoplayStateChanged", "Stop"), uI["off"]("Game.StopAutoplay", zj);
                 }
@@ -4231,7 +4215,7 @@
                 if (zp++, z6 !== z3["PAUSE_GAME"]) {
                   z6 = z3["PAUSE_GAME"];
                   var uI = uI["payload"];
-                  !!uI && uI["isBlocked"] && !zB && (uI["emit"]("Shell.EnableUIBlock", !0x0), zB = !0x0), Object["keys"](z8)["forEach"](function (uH) {
+                  !!uI && uI["isBlocked"] && !zB && (uI["emit"]("Shell.EnableUIBlock", true), zB = true), Object["keys"](z8)["forEach"](function (uH) {
                     {
                       var B9 = z8[uH];
                       B9 && B9();
@@ -4244,7 +4228,7 @@
               {
                 var uI = uO();
                 uI['on']("Game.Resume", function () {
-                  z6 !== z3["RESUME_GAME"] && (--zp > 0x0 || (z6 = z3["RESUME_GAME"], zB && (uI["emit"]("Shell.EnableUIBlock", !0x1), zB = !0x1), Object["keys"](z9)["forEach"](function (uI) {
+                  z6 !== z3["RESUME_GAME"] && (--zp > 0x0 || (z6 = z3["RESUME_GAME"], zB && (uI["emit"]("Shell.EnableUIBlock", false), zB = false), Object["keys"](z9)["forEach"](function (uI) {
                     var uI = z9[uI];
                     uI && uI();
                   }), "Pause" === zN && zS("Resume")));
@@ -4262,14 +4246,14 @@
               }
             },
             'removeGamePauseEventCallback': function (uI) {
-              -0x1 !== Object["keys"](z8)["indexOf"](uI) && (z8[uI] = void 0x0);
+              -0x1 !== Object["keys"](z8)["indexOf"](uI) && (z8[uI] = undefined);
             },
             'removeGameResumeEventCallback': function (uI) {
-              -0x1 !== Object["keys"](z9)["indexOf"](uI) && (z9[uI] = void 0x0);
+              -0x1 !== Object["keys"](z9)["indexOf"](uI) && (z9[uI] = undefined);
             },
             'addTransactionInfoChangedEventCallback': zc,
             'removeTransactionInfoChangedEventCallback': function (uI) {
-              -0x1 !== Object["keys"](zE)["indexOf"](uI) && (zE[uI] = void 0x0);
+              -0x1 !== Object["keys"](zE)["indexOf"](uI) && (zE[uI] = undefined);
             },
             'addInUIIdleStateCallback': function (uI, uI, uI) {
               {
@@ -4278,7 +4262,7 @@
             },
             'removeInUIIdleStateCallback': function (uI) {
               {
-                -0x1 !== Object["keys"](zz)["indexOf"](uI) && (zz[uI] = void 0x0), -0x1 !== Object["keys"](zX)["indexOf"](uI) && (zX[uI] = void 0x0);
+                -0x1 !== Object["keys"](zz)["indexOf"](uI) && (zz[uI] = undefined), -0x1 !== Object["keys"](zX)["indexOf"](uI) && (zX[uI] = undefined);
               }
             },
             'isGameStatePaused': function () {
@@ -4288,7 +4272,7 @@
           function zR(uI) {
             {
               (function (uI) {
-                return u3(this, void 0x0, void 0x0, function () {
+                return u3(this, undefined, undefined, function () {
                   {
                     var uI, uH;
                     return u4(this, function (B9) {
@@ -4301,18 +4285,18 @@
                               {
                                 return function (uQ) {
                                   {
-                                    return u3(this, void 0x0, void 0x0, function () {
+                                    return u3(this, undefined, undefined, function () {
                                       var B7, B8, B8;
                                       return u4(this, function (uQ) {
                                         switch (uQ["label"]) {
                                           case 0x0:
                                             if ("string" == typeof uQ) {
                                               {
-                                                if (null == (B7 = B["document"][uW("rgetElementById")](uQ))) return [0x2, !0x1];
+                                                if (null == (B7 = B["document"][uW("rgetElementById")](uQ))) return [0x2, false];
                                                 uQ = B7;
                                               }
                                             }
-                                            return !(B8 = uQ[ub("endataset")]["rev"]) || B8["length"] <= B["Number"]("0x4") ? [0x2, !0x1] : (B8 = (B8 = uQ[uW("etextContent")] || '')["trim"](), [0x4, B8(B8, B8)]);
+                                            return !(B8 = uQ[ub("endataset")]["rev"]) || B8["length"] <= B["Number"]("0x4") ? [0x2, false] : (B8 = (B8 = uQ[uW("etextContent")] || '')["trim"](), [0x4, B8(B8, B8)]);
                                           case 0x1:
                                             return [0x2, uQ["sent"]()];
                                         }
@@ -4325,7 +4309,7 @@
                           case 0x2:
                             return [0x2, B9["sent"]()];
                           case 0x3:
-                            return [0x2, !0x0];
+                            return [0x2, true];
                         }
                       }
                     });
@@ -4336,7 +4320,7 @@
                   uI["response"] = uI, uI["propagate"]();
                 }
               }, function () {
-                uI["response"] = !0x1, uI["propagate"]();
+                uI["response"] = false, uI["propagate"]();
               }), uI["intercept"]();
             }
           }
@@ -4345,7 +4329,7 @@
                 uI["login"](function (B9) {
                   {
                     var B8;
-                    B9 ? jw["handleCommonError"]("Login Error", B9, "Launch", uH) : (B8 = uI, zs["emitLoginDoneEvent"](B8), (uO()['on']("Game.TransactionStateEnded", zR, void 0x0), function (uQ) {
+                    B9 ? jw["handleCommonError"]("Login Error", B9, "Launch", uH) : (B8 = uI, zs["emitLoginDoneEvent"](B8), (uO()['on']("Game.TransactionStateEnded", zR, undefined), function (uQ) {
                       {
                         uQ && uQ();
                       }
@@ -4364,8 +4348,8 @@
                   'label': shell["I18n"]['t']("General.ResourceLoadingMessage"),
                   'y': uI,
                   'opacity': 0x1,
-                  'enableBackground': !0x0,
-                  'isFullBackground': !0x0,
+                  'enableBackground': true,
+                  'isFullBackground': true,
                   'inValue': 0x0,
                   'inDuration': 0.3,
                   'outValue': 0x0,
@@ -4456,7 +4440,7 @@
                 B9 = Object["keys"](uI[zF["bv_zn"]]["paths"][zF["bv_Yn"]])["map"](function (B8) {
                   return ''["concat"](uH)["concat"](B8);
                 });
-              zT["push"](uI), uI && Array["isArray"](uI) ? uI["push"]["apply"](uI, B9) : zM["setAssetTable"](B9, !0x0);
+              zT["push"](uI), uI && Array["isArray"](uI) ? uI["push"]["apply"](uI, B9) : zM["setAssetTable"](B9, true);
             }
           }
           P("ResourceQualifierHelper", Object["freeze"]({
@@ -4491,7 +4475,7 @@
                     {
                       return !B9["startsWith"](uI);
                     }
-                  }), !0x0);
+                  }), true);
                 }
               }
             }
@@ -4515,8 +4499,8 @@
                       this["bv_Xn"] = uI;
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), uI;
               }
             }())(),
@@ -4541,7 +4525,7 @@
               {
                 function uI(uI) {
                   var uH = uI["call"](this, uI) || this;
-                  uH["bv_Kn"] = !0x1, uH["bv_Zn"] = !0x1, uH["bv_Jn"] = !0x1, uH["bv_$n"] = 0x0, uH["bv_te"] = 0x0, uH["bv_ne"] = function (B8) {
+                  uH["bv_Kn"] = false, uH["bv_Zn"] = false, uH["bv_Jn"] = false, uH["bv_$n"] = 0x0, uH["bv_te"] = 0x0, uH["bv_ne"] = function (B8) {
                     var uQ = document[uH["bv_ee"]];
                     (uQ = uQ || B8["hidden"]) ? uH["bv_ie"]() : uH["bv_re"]();
                   }, uH["bv_ae"] = function () {
@@ -4599,13 +4583,13 @@
                     'timer': this["bv_ue"]
                   });
                 }, uI["prototype"]["bv_re"] = function (uI) {
-                  this["bv_Jn"] = void 0x0 !== uI, this["bv_Zn"] && !this["bv_Jn"] || (this["bv_Kn"] && (this["bv_Kn"] = !0x1, this["bv_$n"] = Date["now"]() - this["bv_te"], this["bv_me"]()), this["bv_Zn"] = !0x1);
+                  this["bv_Jn"] = undefined !== uI, this["bv_Zn"] && !this["bv_Jn"] || (this["bv_Kn"] && (this["bv_Kn"] = false, this["bv_$n"] = Date["now"]() - this["bv_te"], this["bv_me"]()), this["bv_Zn"] = false);
                 }, uI["prototype"]["bv_ie"] = function (uI) {
                   {
-                    this["bv_Zn"] || (this["bv_Kn"] || (this["bv_Kn"] = !0x0, this["bv_te"] = Date["now"]() - this["bv_$n"], clearInterval(this["bv_he"])), this["bv_Zn"] = void 0x0 !== uI);
+                    this["bv_Zn"] || (this["bv_Kn"] || (this["bv_Kn"] = true, this["bv_te"] = Date["now"]() - this["bv_$n"], clearInterval(this["bv_he"])), this["bv_Zn"] = undefined !== uI);
                   }
                 }, uI["prototype"]["bv_de"] = function () {
-                  if (void 0x0 !== document["hidden"] ? this["bv_ee"] = "hidden" : void 0x0 !== document["mozHidden"] ? this["bv_ee"] = "mozHidden" : void 0x0 !== document["msHidden"] ? this["bv_ee"] = "msHidden" : void 0x0 !== document["webkitHidden"] && (this["bv_ee"] = "webkitHidden"), this["bv_ee"]) {
+                  if (undefined !== document["hidden"] ? this["bv_ee"] = "hidden" : undefined !== document["mozHidden"] ? this["bv_ee"] = "mozHidden" : undefined !== document["msHidden"] ? this["bv_ee"] = "msHidden" : undefined !== document["webkitHidden"] && (this["bv_ee"] = "webkitHidden"), this["bv_ee"]) {
                     this["bv_pe"] = ["visibilitychange", "mozvisibilitychange", "msvisibilitychange", "webkitvisibilitychange", "qbrowserVisibilityChange"];
                     for (var uI = 0x0, uH = this["bv_pe"]["length"]; uI < uH; uI++) document["addEventListener"](this["bv_pe"][uI], this["bv_ne"]);
                   } else B["addEventListener"]("blur", this["bv_le"]), B["addEventListener"]("focus", this["bv_se"]);
@@ -4720,7 +4704,7 @@
                     var uH = uI["call"](this, uI) || this;
                     uH["bv_ce"] = 0x0, uH["state"] = {
                       'recordState': 0x1,
-                      'isPause': !0x1
+                      'isPause': false
                     };
                     var B9 = zD["context"]["event"];
                     return B9['on']("Game.RecordingStopped", uH["bv_ge"], uH), B9['on']("Game.PauseReplay", uH["bv_ie"], uH), B9['on']("Game.ResumeReplay", uH["bv_re"], uH), uH["bv_Se"] = y["createRef"](), uH["bv_ye"] = y["createRef"](), uH;
@@ -4759,7 +4743,7 @@
                                 'recordState': B8
                               });
                             }
-                          }, !0x0);
+                          }, true);
                         }
                       },
                       'style': this["bv_we"](B9, uH),
@@ -4782,7 +4766,7 @@
                     switch (uI) {
                       case 0x1:
                       case 0x3:
-                        return uH ? zG : void 0x0;
+                        return uH ? zG : undefined;
                       case 0x2:
                         return uH ? zG : X0;
                       case 0x4:
@@ -4857,7 +4841,7 @@
                               uH["setState"]({
                                 'recordState': 0x1
                               });
-                            }, !0x0);
+                            }, true);
                           }
                         }
                       }));
@@ -4871,17 +4855,17 @@
                       uI["setState"]({
                         'recordState': 0x1
                       });
-                    }, !0x1);
+                    }, false);
                   }
                 }, uI["prototype"]["bv_ie"] = function () {
                   {
                     this["setState"]({
-                      'isPause': !0x0
+                      'isPause': true
                     });
                   }
                 }, uI["prototype"]["bv_re"] = function () {
                   this["setState"]({
-                    'isPause': !0x1
+                    'isPause': false
                   });
                 }, uI;
               }
@@ -4928,7 +4912,7 @@
             }
           }
           function XP(uI) {
-            var uI = v(!0x0),
+            var uI = v(true),
               uI = uI[0x0],
               uH = uI[0x1];
             return J(function () {
@@ -4938,7 +4922,7 @@
             }, []), y["createElement"]("div", {
               'id': "replay-capture-btn",
               'onClick': function () {
-                uH(!0x1), function () {
+                uH(false), function () {
                   {
                     var B9 = document["getElementById"]("game-replay");
                     if (B9) {
@@ -4949,11 +4933,11 @@
                   }
                 }(), uI["onClickCallback"](function () {
                   {
-                    uH(!0x0);
+                    uH(true);
                   }
                 });
               },
-              'style': uI ? void 0x0 : Xu
+              'style': uI ? undefined : Xu
             }, function (B9) {
               return B9 ? y["createElement"]("span", {
                 'className': "replay-capture-container"
@@ -4985,7 +4969,7 @@
               function uI(uI) {
                 var uH = uI["call"](this, uI) || this;
                 return uH["state"] = {
-                  'isShow': !0x1
+                  'isShow': false
                 }, zD["context"]["event"]['on']("Game.ShowRecordingUI", uH["bv_Te"], uH), uH;
               }
               return u0(uI, uI), uI["prototype"]["shouldComponentUpdate"] = function (uI, uH) {
@@ -5048,7 +5032,7 @@
               'borderColor': "transparent transparent transparent rgb(255, 255, 255)"
             };
           function Xc(uI) {
-            var uI = v(!0x1),
+            var uI = v(false),
               uI = uI[0x0],
               uH = uI[0x1],
               B9 = uI ? "replay-play-btn" : "replay-pause-btn";
@@ -5106,8 +5090,8 @@
                 {
                   var uH = uI["call"](this, uI) || this;
                   return uH["state"] = {
-                    'isShow': !0x1
-                  }, zD["context"]["event"]["emit"]("Game.RequestConfig", void 0x0, function (B9) {
+                    'isShow': false
+                  }, zD["context"]["event"]["emit"]("Game.RequestConfig", undefined, function (B9) {
                     var B8 = B9["response"]["replayVersion"];
                     uH["setState"]({
                       'isShow': 0x2 === B8
@@ -5242,7 +5226,7 @@
               function uI(uI) {
                 var uH = uI["call"](this, uI) || this;
                 return uH["state"] = {
-                  'isShow': !0x0
+                  'isShow': true
                 }, uH;
               }
               return u0(uI, uI), uI["prototype"]["render"] = function () {
@@ -5277,12 +5261,12 @@
               {
                 uI["push"](function (B9, B8, uQ) {
                   {
-                    return void 0x0 === B8 && (B8 = {
+                    return undefined === B8 && (B8 = {
                       'x': 0x0,
                       'y': 0x0,
                       'width': 0x0,
                       'height': 0x0,
-                      'isRotate': !0x1
+                      'isRotate': false
                     }), new Promise(function (B7, B8) {
                       {
                         var B8 = new plugin["Loader"]();
@@ -5333,10 +5317,10 @@
                   {
                     B9["push"](B8);
                   }
-                }), uI && uI(B9, void 0x0);
+                }), uI && uI(B9, undefined);
               }
             })["catch"](function (uH) {
-              uI && uI(void 0x0, uH);
+              uI && uI(undefined, uH);
             });
           }
           var XD = {};
@@ -5386,7 +5370,7 @@
                 function uI() {
                   {
                     var uI = null !== uI && uI["apply"](this, arguments) || this;
-                    return uI["rootElement"] = Object["create"](null), uI["bv_Oe"] = void 0x0, uI["bv_Re"] = void 0x0, uI;
+                    return uI["rootElement"] = Object["create"](null), uI["bv_Oe"] = undefined, uI["bv_Re"] = undefined, uI;
                   }
                 }
                 return u0(uI, uI), uI["prototype"]["onCreate"] = function () {
@@ -5405,7 +5389,7 @@
                         uQ = l6 && new l6(l8["Domain"], l8["GameLoadResourceError"]),
                         uQ = uQ["resource"]["resolveUrl"](uQ);
                       return new Promise(function (lE, lz) {
-                        return __awaiter(B8, void 0x0, void 0x0, function () {
+                        return __awaiter(B8, undefined, undefined, function () {
                           var lX;
                           return __generator(this, function (lB) {
                             {
@@ -5494,13 +5478,13 @@
                   this["context"]["view"]["appendTo"](uI, "overlay"), this["rootElement"]["style"]["visibility"] = "visible", this["rootElement"]["focus"](), this["context"]["event"]['on']("Shell.FocusCanvas", this["bv_je"], this, "High"), F["render"](y["createElement"](XU, {
                     'onReplayCaptureClickCallback': function (uH) {
                       {
-                        uI["bv_Oe"] = uH, uI["context"]["event"]["emit"]("Game.Screenshot", void 0x0, function () {
+                        uI["bv_Oe"] = uH, uI["context"]["event"]["emit"]("Game.Screenshot", undefined, function () {
                           {
                             uI["context"]["event"]["emit"]("Analytics.Event", {
                               'actionName': "CaptureReplay"
                             });
                             var B9 = uI["bv_Oe"];
-                            B9 && B9(), uI["bv_Oe"] = void 0x0;
+                            B9 && B9(), uI["bv_Oe"] = undefined;
                           }
                         });
                       }
@@ -5514,7 +5498,7 @@
                               'actionName': "RecordReplay"
                             });
                             var B8 = uI["bv_Re"];
-                            B8 && B8(B8), uI["bv_Re"] = void 0x0;
+                            B8 && B8(B8), uI["bv_Re"] = undefined;
                           }
                         };
                         if (B8) {
@@ -5529,7 +5513,7 @@
                                   return;
                               }
                             }(uH);
-                            B7 && uI["context"]["event"]["emit"](B7, void 0x0, function (B8) {
+                            B7 && uI["context"]["event"]["emit"](B7, undefined, function (B8) {
                               {
                                 var B8 = B8["response"] && B8["response"]["timeLimit"];
                                 uQ(B8);
@@ -5555,21 +5539,21 @@
                     }
                   }), this["rootElement"]);
                 }, uI["prototype"]["bv_ke"] = function () {
-                  this["rootElement"]["style"]["visibility"] = "hidden", this["bv_Oe"] = void 0x0, this["bv_Re"] = void 0x0, F["unmountComponentAtNode"](this["rootElement"]), this["view"]["removeFromParent"](uI), this["context"]["event"]["off"]("Shell.FocusCanvas", this["bv_je"], this);
+                  this["rootElement"]["style"]["visibility"] = "hidden", this["bv_Oe"] = undefined, this["bv_Re"] = undefined, F["unmountComponentAtNode"](this["rootElement"]), this["view"]["removeFromParent"](uI), this["context"]["event"]["off"]("Shell.FocusCanvas", this["bv_je"], this);
                 }, uI;
               }
             }(plugin["AbstractViewComponent"]),
-            XV = void 0x0,
-            Xq = void 0x0,
-            XK = void 0x0,
-            XA = void 0x0;
+            XV = undefined,
+            Xq = undefined,
+            XK = undefined,
+            XA = undefined;
           function XG(uI) {
             if (jz["TransactionStateMachine"] && uI) return uI(jz["TransactionStateMachine"]);
             throw Error("[BVFramework] ERROR: TransactionStateMachine function called but module not found!");
           }
           function Xf() {
             {
-              XV = void 0x0, Xq = void 0x0;
+              XV = undefined, Xq = undefined;
             }
           }
           var ga = P("TransactionStateMachineHandler", {
@@ -5621,7 +5605,7 @@
               },
               'addTransition': function (uI, uI) {
                 {
-                  void 0x0 === uI && (uI = !0x1), XG(function (uI) {
+                  undefined === uI && (uI = false), XG(function (uI) {
                     uI["addTransition"](uI, uI);
                   });
                 }
@@ -5655,12 +5639,12 @@
               },
               'hasOnHoldTransition': function () {
                 {
-                  return void 0x0 !== Xq;
+                  return undefined !== Xq;
                 }
               },
               'goToStateCallback': function (uI, uI, uI) {
                 {
-                  return void 0x0 === uI && (uI = !0x1), function (uH) {
+                  return undefined === uI && (uI = false), function (uH) {
                     {
                       XG(function (B9) {
                         {
@@ -5670,10 +5654,10 @@
                           }, function () {
                             {
                               var B8 = XK;
-                              XK = void 0x0, B8 && B8();
+                              XK = undefined, B8 && B8();
                             }
                           }) : B9["goTo"](uI, function (B8, uQ) {
-                            B8 = u1(u1(u1({}, XV), B8), uI), Xf(), uQ(void 0x0, B8);
+                            B8 = u1(u1(u1({}, XV), B8), uI), Xf(), uQ(undefined, B8);
                           }, uH);
                         }
                       });
@@ -5691,7 +5675,7 @@
                         if (!B9) throw Error("TransactionStateMachineHandler info: transitionCompleteWrapper : no transition to complete. Current completed state: " + uH["getState"]());
                         if (uI && uI !== uH["getNextState"]()) throw Error("TransactionStateMachineHandler info: transitionCompleteWrapper : complete incorrect state. Attempted complete state: " + uI + ". State suppose to complete: " + uH["getNextState"]());
                         var B8 = u1(u1({}, XV), uI);
-                        Xf(), B9(void 0x0, B8);
+                        Xf(), B9(undefined, B8);
                       });
                     }
                   };
@@ -5704,7 +5688,7 @@
                 }
               },
               'retrieveTransitionCallback': function () {
-                XA && (Xq = XA, XA = void 0x0);
+                XA && (Xq = XA, XA = undefined);
               }
             }),
             Xg = zs["emitGameFlowStateChangedEvent"],
@@ -5713,33 +5697,33 @@
             B2 = u7["delayCallback"],
             B3 = function () {
               function uI() {
-                this["bv_Ie"] = 0x0, this["bv_Ae"] = !0x1, this["bv_Ne"] = !0x1, this["bv_Le"] = !0x1, this["bv_Me"] = !0x1, this["bv_Pe"] = !0x1, this["bv__e"] = void 0x0, this["bv_De"] = !0x1, this["bv_Ue"] = this["bv_He"]["bind"](this);
+                this["bv_Ie"] = 0x0, this["bv_Ae"] = false, this["bv_Ne"] = false, this["bv_Le"] = false, this["bv_Me"] = false, this["bv_Pe"] = false, this["bv__e"] = undefined, this["bv_De"] = false, this["bv_Ue"] = this["bv_He"]["bind"](this);
               }
               return uI["prototype"]["initGameReplay"] = function (uI, uI) {
                 {
                   var uH = this;
-                  void 0x0 === uI && (uI = this["bv_Ue"]);
+                  undefined === uI && (uI = this["bv_Ue"]);
                   var B9 = uO();
                   this["bv_m"] = uI, B9['on']("Game.RequestReplay", function (B8) {
                     {
                       B9["emit"]("Game.ReplayInitiated"), uH["bv_Be"]();
                       var uQ = uH["bv_Fe"](B8["payload"]),
                         B7 = uH["bv_We"](uQ);
-                      ga["pause"](), uI["isGameReplaying"] = !0x0, uI["nextGameReplayInfo"] = uH["bv_qe"][0x0], uH["bv_Ie"] = 0x0, uH["bv_Ae"] = !0x1, uH["bv_Ne"] = !0x1, uH["bv_Pe"] = !0x1, B9["once"]("Game.WalletChangedSuccess", function () {
+                      ga["pause"](), uI["isGameReplaying"] = true, uI["nextGameReplayInfo"] = uH["bv_qe"][0x0], uH["bv_Ie"] = 0x0, uH["bv_Ae"] = false, uH["bv_Ne"] = false, uH["bv_Pe"] = false, B9["once"]("Game.WalletChangedSuccess", function () {
                         {
-                          B5(), B9['on']("Game.DummyTransactionStateTransition", uH["bv_Ve"], uH), B9["emit"]("Game.ReplayStarting", void 0x0, function () {
+                          B5(), B9['on']("Game.DummyTransactionStateTransition", uH["bv_Ve"], uH), B9["emit"]("Game.ReplayStarting", undefined, function () {
                             {
-                              B9["emit"]("Game.BlockUI", !0x1, function () {
+                              B9["emit"]("Game.BlockUI", false, function () {
                                 0x1 === uI["transactionModel"]["stateTransitionTo"] ? uH["bv_Qe"] = B2(0x1)(function () {
                                   {
-                                    uH["bv_Qe"] = void 0x0, uI();
+                                    uH["bv_Qe"] = undefined, uI();
                                   }
                                 }) : B9["once"]("Game.DummyTransactionStateComplete", uH["bv_ze"], uH, "High"), B9["once"]("Game.StopReplay", uH["bv_Ye"], uH);
                               });
                             }
                           }), B9['on']("Game.PauseReplay", uH["bv_Xe"], uH), B9['on']("Game.ResumeReplay", uH["bv_Ke"], uH), B9['on']("Game.SetReplaySpeed", uH["bv_Ze"], uH);
                         }
-                      }), B9["emit"]("Game.BlockUI", !0x0), B4(function () {
+                      }), B9["emit"]("Game.BlockUI", true), B4(function () {
                         B9["emit"]("Game.GameInfoUpdateSuccess", B7);
                       }), Xg({
                         'displayState': "Start",
@@ -5754,22 +5738,22 @@
                     var uI = this["bv_qe"];
                     if (this["bv_Ie"] >= uI["length"]) throw Error("GameReplayHandler :: nextReplayAPIResponse : no next data to fetch! Invalid replay data length.");
                     var uI = uI[this["bv_Ie"]];
-                    this["bv_Ie"]++, this["bv_Ie"] < uI["length"] ? this["bv_m"]["nextGameReplayInfo"] = uI[this["bv_Ie"]] : (this["bv_m"]["nextGameReplayInfo"] = void 0x0, this["bv_Ae"] = !0x0);
+                    this["bv_Ie"]++, this["bv_Ie"] < uI["length"] ? this["bv_m"]["nextGameReplayInfo"] = uI[this["bv_Ie"]] : (this["bv_m"]["nextGameReplayInfo"] = undefined, this["bv_Ae"] = true);
                     var uH = Object["create"](null);
                     return uH['dt'] = Object["create"](null), uH['dt']['si'] = uI, uH['dt']["err"] = null, uH;
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), uI["prototype"]["bv_$e"] = function (uI) {
                 {
                   var uI = this;
                   B4(function () {
-                    uI["bv_ti"](), uI["bv_Le"] && (cc["game"]["resume"](), uI["bv_Le"] = !0x1), cc["director"]["setTimeScale"](0x1);
+                    uI["bv_ti"](), uI["bv_Le"] && (cc["game"]["resume"](), uI["bv_Le"] = false), cc["director"]["setTimeScale"](0x1);
                     var uH = uO();
-                    uH["emit"]("Game.SetAudioPlayRate", 0x1), uH["emit"]("Game.ReplayEnding", void 0x0, function () {
+                    uH["emit"]("Game.SetAudioPlayRate", 0x1), uH["emit"]("Game.ReplayEnding", undefined, function () {
                       var B9 = uI["bv__e"];
-                      B9 && B9["propagate"](), uI["bv__e"] = void 0x0, uI();
+                      B9 && B9["propagate"](), uI["bv__e"] = undefined, uI();
                     });
                   });
                 }
@@ -5778,25 +5762,25 @@
               }, uI["prototype"]["bv_Ye"] = function (uI, uI) {
                 {
                   var uH = this;
-                  void 0x0 === uI && (uI = !0x1);
+                  undefined === uI && (uI = false);
                   var B9 = uO();
                   if (B9["emit"]("Game.ReplayEnded"), B9["off"]("Game.PauseReplay", this["bv_Xe"], this), B9["off"]("Game.ResumeReplay", this["bv_Ke"], this), B9["off"]("Game.SetReplaySpeed", this["bv_Ze"], this), B9["off"]("Game.StopReplay", this["bv_Ye"], this), this["bv_ei"]) {
                     var B8 = this["bv_ei"];
-                    return this["bv_ei"] = void 0x0, B8(), void this["bv_$e"](this["bv_ii"]["bind"](this));
+                    return this["bv_ei"] = undefined, B8(), void this["bv_$e"](this["bv_ii"]["bind"](this));
                   }
-                  if (this["bv_Qe"]) return this["bv_Qe"](), this["bv_Qe"] = void 0x0, void this["bv_$e"](this["bv_ii"]["bind"](this));
-                  this["bv_Ae"] = !0x0, this["bv_Ne"] = !0x0, this["bv_De"] = !0x1, void 0x0 === ga["getNextState"]() ? B9["once"]("Game.DummyTransactionStateTransition", this["bv_ni"], this, "High") : B9["once"]("Game.DummyTransactionStateComplete", this["bv_ni"], this), this["bv_$e"](function () {
-                    uH["bv_Pe"] || (uH["bv_Ue"](), B1()["schedule"](uH["bv_Ue"], 0.5, cc["macro"]["REPEAT_FOREVER"], 0x0)), uH["bv_De"] = !0x0, uI && uH["bv_ii"]();
+                  if (this["bv_Qe"]) return this["bv_Qe"](), this["bv_Qe"] = undefined, void this["bv_$e"](this["bv_ii"]["bind"](this));
+                  this["bv_Ae"] = true, this["bv_Ne"] = true, this["bv_De"] = false, undefined === ga["getNextState"]() ? B9["once"]("Game.DummyTransactionStateTransition", this["bv_ni"], this, "High") : B9["once"]("Game.DummyTransactionStateComplete", this["bv_ni"], this), this["bv_$e"](function () {
+                    uH["bv_Pe"] || (uH["bv_Ue"](), B1()["schedule"](uH["bv_Ue"], 0.5, cc["macro"]["REPEAT_FOREVER"], 0x0)), uH["bv_De"] = true, uI && uH["bv_ii"]();
                   });
                 }
               }, uI["prototype"]["bv_Ze"] = function (uI) {
                 cc["director"]["setTimeScale"](uI["payload"]), uI["payload"] >= 0x0 && uO()["emit"]("Game.SetAudioPlayRate", uI["payload"]);
               }, uI["prototype"]["bv_Xe"] = function () {
                 {
-                  this["bv_Le"] || (this["bv_Le"] = !0x0, cc["game"]["pause"]());
+                  this["bv_Le"] || (this["bv_Le"] = true, cc["game"]["pause"]());
                 }
               }, uI["prototype"]["bv_Ke"] = function () {
-                this["bv_Le"] && (this["bv_Le"] = !0x1, cc["game"]["resume"]());
+                this["bv_Le"] && (this["bv_Le"] = false, cc["game"]["resume"]());
               }, uI["prototype"]["bv_ze"] = function (uI) {
                 {
                   uI["intercept"](), B0(0x1)(function () {
@@ -5832,24 +5816,24 @@
                 return uI;
               }, uI["prototype"]["bv_Ve"] = function (uI) {
                 var uI = this;
-                this["bv_Pe"] || "action" === uI["payload"]['to'] && this["bv_Ae"] && (this["bv_Pe"] = !0x0, B1()["unschedule"](this["bv_Ue"]), uI["intercept"](), this["bv_ri"] = function () {
+                this["bv_Pe"] || "action" === uI["payload"]['to'] && this["bv_Ae"] && (this["bv_Pe"] = true, B1()["unschedule"](this["bv_Ue"]), uI["intercept"](), this["bv_ri"] = function () {
                   uI["propagate"]();
                 }, this["bv_Ne"] ? this["bv_ii"]() : this["bv_ei"] = B2(0x1)(function () {
-                  uI["bv_ei"] = void 0x0, uO()["emit"]("Analytics.Event", {
+                  uI["bv_ei"] = undefined, uO()["emit"]("Analytics.Event", {
                     'actionName': "AutoStopReplay"
-                  }), uI["bv_Ye"](void 0x0, !0x0);
+                  }), uI["bv_Ye"](undefined, true);
                 }));
               }, uI["prototype"]["bv_ii"] = function () {
                 var uI = this,
                   uI = uO();
                 uI["once"]("Game.WalletChangedSuccess", function () {
                   {
-                    uI["bv_m"]["isGameReplaying"] = !0x1, uI["bv_ai"](), uI["emit"]("Game.ReplayQuit"), Xg({
+                    uI["bv_m"]["isGameReplaying"] = false, uI["bv_ai"](), uI["emit"]("Game.ReplayQuit"), Xg({
                       'displayState': "End",
                       'flowType': "Replay"
                     }), B5(), ga["resume"](), uI["off"]("Game.DummyTransactionStateTransition", uI["bv_Ve"], uI), uI["off"]("Game.DummyTransactionStateTransition", uI["bv_ni"], uI), uI["off"]("Game.DummyTransactionStateComplete", uI["bv_ni"], uI), uI["off"]("Game.TransactionInfoChanged", uI["bv_Je"], uI), uI["off"]("Game.GameInfoUpdated", uI["bv_Je"], uI), uI["off"]("Game.TransactionInfoUpdated", uI["bv_Je"], uI);
                     var uH = uI["bv_ri"];
-                    uI["bv_ri"] = void 0x0, uH && uH();
+                    uI["bv_ri"] = undefined, uH && uH();
                   }
                 }), uI["emit"]("Game.GameInfoUpdateSuccess", this["bv_oi"]);
               }, uI["prototype"]["bv_Be"] = function () {
@@ -5871,7 +5855,7 @@
                     'bl': B8["blb"],
                     'cs': [B8['cs']],
                     'fb': {
-                      'is': !0x1,
+                      'is': false,
                       'bm': 0x0,
                       't': 0x0
                     },
@@ -5889,12 +5873,12 @@
                 {
                   var uI = this,
                     uI = uO();
-                  uI["emit"]("Game.RequestAudioState", void 0x0, function (uH) {
-                    'On' === uH["response"] && (uI["bv_Me"] = !0x0, uI["emit"]("Game.OffAudio"));
+                  uI["emit"]("Game.RequestAudioState", undefined, function (uH) {
+                    'On' === uH["response"] && (uI["bv_Me"] = true, uI["emit"]("Game.OffAudio"));
                   });
                 }
               }, uI["prototype"]["bv_ai"] = function () {
-                this["bv_Me"] && (uO()["emit"]("Game.OnAudio"), this["bv_Me"] = !0x1);
+                this["bv_Me"] && (uO()["emit"]("Game.OnAudio"), this["bv_Me"] = false);
               }, uI;
             }();
           function B4(uI) {
@@ -5916,7 +5900,7 @@
                 case 0x1:
                 case 0x2:
                 case 0x15:
-                  return !0x0;
+                  return true;
                 case 0x3:
                   return 0x2c === uI;
                 case 0x1f:
@@ -5928,7 +5912,7 @@
                 case 0x22:
                   return 0x12 === uI;
                 default:
-                  return !0x1;
+                  return false;
               }
             }
           }
@@ -5944,7 +5928,7 @@
             }),
             Bz = function () {
               function uI(uI) {
-                this["bv_ui"] = void 0x0, this["bv_ci"] = !0x1;
+                this["bv_ui"] = undefined, this["bv_ci"] = false;
                 for (var uI = this["bv_si"] = Object["create"](null), uH = 0x0, B9 = uI["length"]; uH < B9; uH++) {
                   var B8 = uI[uH]["from"];
                   uI[B8] || (uI[B8] = Object["create"](null)), uI[B8][uI[uH]['to']] = [[], []];
@@ -5955,24 +5939,24 @@
                 'get': function () {
                   return this["bv_fi"];
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "nextState", {
                 'get': function () {
                   {
                     return this["bv_hi"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), Object["defineProperty"](uI["prototype"], "data", {
                 'get': function () {
                   {
                     return this["bv_ui"];
                   }
                 },
-                'enumerable': !0x1,
-                'configurable': !0x0
+                'enumerable': false,
+                'configurable': true
               }), uI["prototype"]["emit"] = function (uI, uI) {
                 var uH = this["bv_li"][uI];
                 if (uH) {
@@ -5993,9 +5977,9 @@
                   }
                 }
               }, uI["prototype"]["once"] = function (uI, uI, uH) {
-                this["_on"](uI, uI, uH, !0x0);
+                this["_on"](uI, uI, uH, true);
               }, uI["prototype"]['on'] = function (uI, uI, uH) {
-                this["_on"](uI, uI, uH, !0x1);
+                this["_on"](uI, uI, uH, false);
               }, uI["prototype"]["off"] = function (uI, uI) {
                 {
                   var uH = this["bv_li"][uI];
@@ -6013,15 +5997,15 @@
                   uQ = B8[uI];
                 uQ || (uQ = B8[uI] = []), uQ["push"]({
                   'func': uI,
-                  'bindedFunc': uH ? uI["bind"](uH) : void 0x0,
+                  'bindedFunc': uH ? uI["bind"](uH) : undefined,
                   'once': B9
                 });
               }, uI["prototype"]["start"] = function (uI) {
-                this["bv_ci"] = !0x0, this["bv_fi"] = uI;
+                this["bv_ci"] = true, this["bv_fi"] = uI;
                 var uI = {
-                  'from': void 0x0,
+                  'from': undefined,
                   'to': uI,
-                  'data': void 0x0
+                  'data': undefined
                 };
                 this["emit"](BE["ON_TRANSITION_SUCCEED"], uI);
               }, uI["prototype"]["goTo"] = function (uI, uI, uH) {
@@ -6034,18 +6018,18 @@
                 };
                 this["emit"](BE["ON_TRANSITION"], B8), this["bv_hi"] = uI;
                 var uQ = this["bv_si"][this["bv_fi"]][uI],
-                  B7 = u5(uI ? u5(u5([], uQ[0x1], !0x0), [uI], !0x1) : u5([], uQ[0x1], !0x0), uQ[0x0], !0x0);
+                  B7 = u5(uI ? u5(u5([], uQ[0x1], true), [uI], false) : u5([], uQ[0x1], true), uQ[0x0], true);
                 if (B7["length"]) {
                   {
                     var B8 = B7["length"] - 0x1,
                       B8 = function (uQ, l6) {
-                        B8--, uQ ? (B9["bv_vi"](uQ || Error("abort")), uH && uH(uQ || Error("abort"))) : B8 < 0x0 ? (B9["bv_vi"](void 0x0, l6), uH && uH(void 0x0, l6)) : B7[B8](l6, B8);
+                        B8--, uQ ? (B9["bv_vi"](uQ || Error("abort")), uH && uH(uQ || Error("abort"))) : B8 < 0x0 ? (B9["bv_vi"](undefined, l6), uH && uH(undefined, l6)) : B7[B8](l6, B8);
                       };
-                    B7[B8](void 0x0, B8);
+                    B7[B8](undefined, B8);
                   }
                 } else this["bv_vi"](), uH && uH();
               }, uI["prototype"]["addTransitionHook"] = function (uI, uI) {
-                if (void 0x0 === uI && (uI = !0x1), this["bv_ci"]) throw Error("TransactionStateMachine :: addTransitionHook : cannot add hook after state machine is started.");
+                if (undefined === uI && (uI = false), this["bv_ci"]) throw Error("TransactionStateMachine :: addTransitionHook : cannot add hook after state machine is started.");
                 var uH = this["bv_si"];
                 Object["keys"](uH)["forEach"](function (B9) {
                   Object["keys"](uH[B9])["forEach"](function (B8) {
@@ -6062,7 +6046,7 @@
                 }
               }, uI["prototype"]["bv_vi"] = function (uI, uI) {
                 var uH = this["bv_hi"];
-                if (this["bv_hi"] = void 0x0, uI) {
+                if (this["bv_hi"] = undefined, uI) {
                   {
                     var B9 = {
                       'from': this["bv_fi"],
@@ -6103,7 +6087,7 @@
               'from': "prize",
               'to': "setup"
             }]),
-            BB = !0x1;
+            BB = false;
           function BP(uI, uI) {
             {
               BX['on'](uI, uI);
@@ -6122,7 +6106,7 @@
                   {
                     var B8 = function (B8) {
                         {
-                          return B9(void 0x0, B8);
+                          return B9(undefined, B8);
                         }
                       },
                       uQ = function (B8) {
@@ -6153,7 +6137,7 @@
                 {
                   var B8 = function (B8) {
                       {
-                        return B9(void 0x0, B8);
+                        return B9(undefined, B8);
                       }
                     },
                     uQ = function (B8) {
@@ -6174,7 +6158,7 @@
                   });
                 }
               };
-            }, !0x0), BP("onTransitionSucceed", function (uI) {
+            }, true), BP("onTransitionSucceed", function (uI) {
               {
                 uI["emit"]("Game.TransactionStateChanged", uI);
               }
@@ -6182,7 +6166,7 @@
           }
           function Bp(uI, uI) {
             {
-              void 0x0 === uI && (uI = !0x1), BX["addTransitionHook"](uI, uI);
+              undefined === uI && (uI = false), BX["addTransitionHook"](uI, uI);
             }
           }
           function Bd(uI, uI, uI) {
@@ -6195,12 +6179,12 @@
                   };
                 Bu = uI, uH["emit"]("Game.DummyTransactionStateTransition", B9, function () {
                   {
-                    uI ? uI(void 0x0, function (B8, uQ) {
+                    uI ? uI(undefined, function (B8, uQ) {
                       {
                         if (BB) Bc(uI, uI);else {
                           {
                             B8 = uI;
-                            B7 = void 0x0, B7 && B7(B8, uQ);
+                            B7 = undefined, B7 && B7(B8, uQ);
                           }
                         }
                       }
@@ -6217,7 +6201,7 @@
             }, function () {
               {
                 if (B8) {
-                  B8 = void 0x0, B8();
+                  B8 = undefined, B8();
                 } else uI && uI();
               }
             });
@@ -6232,11 +6216,11 @@
           }
           function BH() {
             {
-              B9 = BW(), Bu = Bb(), BB = !0x0;
+              B9 = BW(), Bu = Bb(), BB = true;
             }
           }
           function BS() {
-            BB = !0x1;
+            BB = false;
           }
           function Bc(uI, uI) {
             if (!BB) throw Error("TransactionStateMachineManager :: dummyTransactionStateComplete : Not in paused mode to call");
@@ -6247,7 +6231,7 @@
               };
             uI["emit"]("Game.DummyTransactionStateComplete", uH, function () {
               {
-                B9 = Bu, Bu = void 0x0, uI["emit"]("Game.DummyTransactionStateChanged", {
+                B9 = Bu, Bu = undefined, uI["emit"]("Game.DummyTransactionStateChanged", {
                   'from': B9,
                   'to': uI
                 }), uI && uI();
@@ -6295,7 +6279,7 @@
             BQ = new (function () {
               function uI() {
                 {
-                  this["bv_mi"] = 0x0, this["bv_bi"] = 0x0, this["bv_pi"] = !0x1, this["bv_Pe"] = !0x1;
+                  this["bv_mi"] = 0x0, this["bv_bi"] = 0x0, this["bv_pi"] = false, this["bv_Pe"] = false;
                 }
               }
               return uI["prototype"]["initTurboSuggest"] = function (uI) {
@@ -6303,10 +6287,10 @@
                 this["bv_bi"] = this["bv_mi"] = 0x0;
                 var uH = uO(),
                   B9 = function (uQ) {
-                    if (uI["bv_Pe"]) return uI["bv_Pe"] = !0x1, void uH["off"]("Game.TransactionStateComplete", B9);
+                    if (uI["bv_Pe"]) return uI["bv_Pe"] = false, void uH["off"]("Game.TransactionStateComplete", B9);
                     if ("action" === uQ["payload"]['to'] && !uI["isGameReplaying"]) {
                       {
-                        uI["bv_Pe"] = !0x0;
+                        uI["bv_Pe"] = true;
                         var l6 = shell["I18n"],
                           l6 = {
                             'label': l6['t']("TurboSpinSuggest.Later"),
@@ -6322,7 +6306,7 @@
                         var uQ = {
                           'content': l6['t']("TurboSpinSuggest.Message"),
                           'actions': [l6, l8],
-                          'interceptable': !0x1
+                          'interceptable': false
                         };
                         uH["emit"]("Alert.Show", uQ, function (uQ) {
                           "enable" === uQ["response"] && uH["emit"]("Game.OnTurboSpin"), uQ["propagate"]();
@@ -6335,7 +6319,7 @@
                       if ("action" === uQ["payload"]['to'] && 0x1 === uI["transactionModel"]["stateTransitionTo"] && uI["bv_bi"] > 0x0) {
                         {
                           var l6 = uI["bv_bi"];
-                          l6 === uI["bv_mi"] ? uI["bv_bi"] = uI["bv_mi"] = 0x0 : l6 < 0x3 ? uI["bv_mi"] = l6 : (uH["off"]("Game.TransactionStateTransition", B8), uH['on']("Game.TransactionStateComplete", B9, void 0x0, "Low"));
+                          l6 === uI["bv_mi"] ? uI["bv_bi"] = uI["bv_mi"] = 0x0 : l6 < 0x3 ? uI["bv_mi"] = l6 : (uH["off"]("Game.TransactionStateTransition", B8), uH['on']("Game.TransactionStateComplete", B9, undefined, "Low"));
                         }
                       }
                     }
@@ -6345,9 +6329,9 @@
                       uQ["payload"] && (uH["off"]("Game.TurboSpinStateChanged", uQ), uH["off"]("Game.TransactionStateTransition", B8), uH["off"]("Game.TransactionStateChanged", B8), cc["systemEvent"]["off"](cc["SystemEvent"]["EventType"]["KEY_DOWN"], B8), uH["off"]("Shell.CanvasTouchStarted", B7), uH["off"]("Shell.CanvasMouseDown", B7), uH["off"]("Game.TransactionStateComplete", B9));
                     }
                   };
-                uH['on']("Game.TurboSpinStateChanged", uQ), uH['on']("Game.TransactionStateTransition", B8, void 0x0, "Low");
+                uH['on']("Game.TurboSpinStateChanged", uQ), uH['on']("Game.TransactionStateTransition", B8, undefined, "Low");
                 var B7 = function () {
-                  uI["bv_pi"] && (uI["bv_bi"]++, uI["bv_pi"] = !0x1, uI["bv_bi"] >= 0x3 && (uH["off"]("Game.TransactionStateChanged", B8), cc["systemEvent"]["off"](cc["SystemEvent"]["EventType"]["KEY_DOWN"], B8), uH["off"]("Shell.CanvasTouchStarted", B7), uH["off"]("Shell.CanvasMouseDown", B7)));
+                  uI["bv_pi"] && (uI["bv_bi"]++, uI["bv_pi"] = false, uI["bv_bi"] >= 0x3 && (uH["off"]("Game.TransactionStateChanged", B8), cc["systemEvent"]["off"](cc["SystemEvent"]["EventType"]["KEY_DOWN"], B8), uH["off"]("Shell.CanvasTouchStarted", B7), uH["off"]("Shell.CanvasMouseDown", B7)));
                 };
                 uH['on']("Shell.CanvasTouchStarted", B7), uH['on']("Shell.CanvasMouseDown", B7);
                 var B8 = function (uQ) {
@@ -6360,9 +6344,9 @@
                   var l6 = uQ["payload"];
                   "action" === l6['to'] && 0x1 === uI["transactionModel"]["stateTransitionTo"] && BR()(function () {
                     {
-                      uI["bv_pi"] = !0x0;
+                      uI["bv_pi"] = true;
                     }
-                  }), uI["bv_pi"] && "result" === l6["from"] && (uI["bv_pi"] = !0x1);
+                  }), uI["bv_pi"] && "result" === l6["from"] && (uI["bv_pi"] = false);
                 };
                 uH['on']("Game.TransactionStateChanged", B8);
               }, uI;
@@ -6375,9 +6359,9 @@
                   B9 = uI["systemModel"]["operatorJurisdiction"];
                 uH ? (B9["buyFeature"] = 0x1, uI['on']("Game.FlowStateChanged", function (B8) {
                   var uQ = B8["payload"];
-                  "FeatureBuySelection" === uQ["flowType"] && ("Start" === uQ["displayState"] ? uI["emit"]("Game.BlockUI", !0x0) : "End" === uQ["displayState"] && uI["emit"]("Game.BlockUI", !0x1));
+                  "FeatureBuySelection" === uQ["flowType"] && ("Start" === uQ["displayState"] ? uI["emit"]("Game.BlockUI", true) : "End" === uQ["displayState"] && uI["emit"]("Game.BlockUI", false));
                 })) : B9["buyFeature"] = 0x0;
-              }, void 0x0, "High");
+              }, undefined, "High");
             }
           }
           function Bv(uI, uI) {
@@ -6389,24 +6373,24 @@
                   ("prize" === uQ["from"] || "result" === uQ["from"] && "idle" === uQ['to']) && uI["markRead"]();
                 }
               });
-              var uH = !0x1,
+              var uH = false,
                 B9 = function (B8) {
-                  if (uH) return uH = !0x1, void uI["off"]("Game.TransactionStateTransition", B9);
-                  "action" === B8["payload"]['to'] && (0x0 === uI["transactionModel"]["markReadIndex"] ? (uH = !0x0, B8["intercept"](), uI["emit"]("Game.LastTransactionUnread", void 0x0, function () {
+                  if (uH) return uH = false, void uI["off"]("Game.TransactionStateTransition", B9);
+                  "action" === B8["payload"]['to'] && (0x0 === uI["transactionModel"]["markReadIndex"] ? (uH = true, B8["intercept"](), uI["emit"]("Game.LastTransactionUnread", undefined, function () {
                     {
                       B8["propagate"]();
                     }
                   }), uI["markRead"]()) : uI["off"]("Game.TransactionStateTransition", B9));
                 };
-              uI['on']("Game.TransactionStateTransition", B9, void 0x0, "Low");
+              uI['on']("Game.TransactionStateTransition", B9, undefined, "Low");
             }
           }
           var BJ = u7["tickCallback"],
-            BF = !0x1,
-            BM = !0x1,
-            BI = !0x1,
-            Bx = !0x1,
-            BT = !0x1;
+            BF = false,
+            BM = false,
+            BI = false,
+            Bx = false,
+            BT = false;
           function Bk(uI) {
             {
               uI !== BI && (BI = uI, uO()["emit"]("Game.InUIIdleState", BI));
@@ -6424,45 +6408,45 @@
                         BF && !BT && Bk(!Bx);
                       }
                     };
-                    (Bx = uI) ? uH() : BJ(!0x1)(uH);
+                    (Bx = uI) ? uH() : BJ(false)(uH);
                   }), uI['on']("Game.AutoplayStateChanged", function (uI) {
-                    (BM = "Start" === uI["payload"]) ? Bk(!0x1) : BF && Bk(!0x0);
+                    (BM = "Start" === uI["payload"]) ? Bk(false) : BF && Bk(true);
                   }), uI["systemModel"]["operatorJurisdiction"]["replayVersion"] > 0x0 && (uI['on']("Game.RequestReplay", function () {
                     {
-                      BT = !0x0, Bk(!0x1);
+                      BT = true, Bk(false);
                     }
                   }), uI['on']("Game.ReplayQuit", function () {
-                    BT = !0x1, Bk(!0x0);
+                    BT = false, Bk(true);
                   }));
                 }
               },
               'gameEnterUIIdleState': function (uI) {
                 {
-                  (BF = uI) ? BJ(!0x1)(function () {
+                  (BF = uI) ? BJ(false)(function () {
                     {
-                      BM || Bx || Bk(!0x0);
+                      BM || Bx || Bk(true);
                     }
-                  }) : BM || Bk(!0x1);
+                  }) : BM || Bk(false);
                 }
               }
             }),
             Bm = 0x0,
-            BU = jM["realModeUrl"] ? jM["realModeUrl"] : void 0x0,
+            BU = jM["realModeUrl"] ? jM["realModeUrl"] : undefined,
             BZ = shell["I18n"]['t']("General.DemoMessage"),
             BD = 0x0,
             Bh = 0x0,
             BY = shell["I18n"]['t']("General.DemoContinue"),
             Bw = shell["I18n"]['t']("General.DialogRealMoney"),
-            BV = !0x1,
-            Bq = !0x1;
+            BV = false,
+            Bq = false;
           function BK() {
             {
-              Bm = BD > 0x0 ? BD : 0x14 + Math["floor"](0x15 * Math["random"]()), BO && (BO(), BO = void 0x0), BV = !0x1;
+              Bm = BD > 0x0 ? BD : 0x14 + Math["floor"](0x15 * Math["random"]()), BO && (BO(), BO = undefined), BV = false;
             }
           }
           function BA(uI) {
             {
-              Bq = uI, uI || (BC = void 0x0);
+              Bq = uI, uI || (BC = undefined);
             }
           }
           function BG() {
@@ -6471,9 +6455,9 @@
                 var uI = u7["timeoutCallback"];
                 BO = uI(Bh)(function () {
                   {
-                    BO = void 0x0, Bq ? Bf({
+                    BO = undefined, Bq ? Bf({
                       'onDemoCountReachedCallback': BC
-                    }) : BV = !0x0;
+                    }) : BV = true;
                   }
                 });
               }
@@ -6486,7 +6470,7 @@
             var uH = [{
               'title': BY,
               'handler': function () {
-                uI && uI(!0x0), BG();
+                uI && uI(true), BG();
               }
             }];
             BU ? uH["push"]({
@@ -6503,11 +6487,11 @@
           }
           var Bg = new (function () {
               function uI() {
-                this["bv_gi"] = 0x0, this["bv_Si"] = !0x1, this["bv_yi"] = 0x0, this["bv_Gi"] = 0x0, this["bv_wi"] = 0x0;
+                this["bv_gi"] = 0x0, this["bv_Si"] = false, this["bv_yi"] = 0x0, this["bv_Gi"] = 0x0, this["bv_wi"] = 0x0;
               }
               return uI["prototype"]["setReminderTimer"] = function (uI, uI) {
                 {
-                  void 0x0 === uI && (uI = 0x0), uI && uI > 0x0 && (this["bv_Gi"] = uI - uI % uI, this["bv_yi"] = uI, this["bv_Ci"]());
+                  undefined === uI && (uI = 0x0), uI && uI > 0x0 && (this["bv_Gi"] = uI - uI % uI, this["bv_yi"] = uI, this["bv_Ci"]());
                 }
               }, uI["prototype"]["checkForHealthReminder"] = function () {
                 {
@@ -6516,7 +6500,7 @@
               }, uI["prototype"]["bv_Ti"] = function () {
                 this["bv_Gi"] = this["bv_yi"], this["bv_Ci"]();
               }, uI["prototype"]["bv_Ci"] = function () {
-                this["bv_Si"] = !0x0, this["bv_wi"] = this["bv_Gi"], this["bv_gi"] = new Date()["getTime"]();
+                this["bv_Si"] = true, this["bv_wi"] = this["bv_Gi"], this["bv_gi"] = new Date()["getTime"]();
               }, uI["prototype"]["showHealthAlertDialog"] = function (uI, uI, uH) {
                 var B9 = this,
                   B8 = {
@@ -6531,7 +6515,7 @@
                           B9["bv_Ti"](), uI && uI();
                         }
                       },
-                      'auto_dismiss': !0x1
+                      'auto_dismiss': false
                     }, {
                       'title': shell["I18n"]['t']("HealthReminder.HealthCareReminderContinue"),
                       'handler': function () {
@@ -6546,7 +6530,7 @@
                       uO()["emit"]("Window.Redirect", uH);
                     }
                   },
-                  'auto_dismiss': !0x1
+                  'auto_dismiss': false
                 }), uw(B8);
               }, uI["prototype"]["getHealthTimeString"] = function () {
                 var uI = this["bv_yi"],
@@ -6587,7 +6571,7 @@
                 var uI = P5("Ma01th"),
                   uI = B[uI],
                   uH = 0x0;
-                void 0x0 === uI && (uI = uI["random"]() * B["Number"]("0xf") | 0x0);
+                undefined === uI && (uI = uI["random"]() * B["Number"]("0xf") | 0x0);
                 var B9 = function (B8) {
                   var uQ,
                     B7,
@@ -6607,7 +6591,7 @@
               jM["reminderInterval"] && function (uI) {
                 {
                   var uH, B9;
-                  uH = jM["timeElapsed"] ? parseInt(jM["timeElapsed"], 0xa) : void 0x0, B9 = jM["reminderInterval"] ? parseInt(jM["reminderInterval"], 0xa) : void 0x0, Bg["setReminderTimer"](B9, uH), uO()['on']("Game.TransactionStateComplete", function (B8) {
+                  uH = jM["timeElapsed"] ? parseInt(jM["timeElapsed"], 0xa) : undefined, B9 = jM["reminderInterval"] ? parseInt(jM["reminderInterval"], 0xa) : undefined, Bg["setReminderTimer"](B9, uH), uO()['on']("Game.TransactionStateComplete", function (B8) {
                     {
                       var uQ = B8["payload"];
                       uI["isGameReplaying"] || 0x1 !== uI["transactionModel"]["stateTransitionTo"] || "action" !== uQ['to'] || (B8["intercept"](), function (B7) {
@@ -6653,25 +6637,25 @@
                           return uH["emit"]("Game.StopAutoplay");
                         },
                         'finalCallback': function () {
-                          B9["propagate"](), BA(!0x0);
+                          B9["propagate"](), BA(true);
                         }
-                      })["onDemoCountReachedCallback"], B7 = B8["finalCallback"], BC = uQ, 0x0 === Bm || BV ? Bf(B8) : B7 && B7(!0x1));
+                      })["onDemoCountReachedCallback"], B7 = B8["finalCallback"], BC = uQ, 0x0 === Bm || BV ? Bf(B8) : B7 && B7(false));
                     }
-                  }, void 0x0, "Low"), uH['on']("Game.TransactionStateChanged", function (B9) {
+                  }, undefined, "Low"), uH['on']("Game.TransactionStateChanged", function (B9) {
                     var B8 = B9["payload"];
-                    0x1 === uI["transactionModel"]["stateTransitionTo"] && "action" === B8['to'] && (Bm -= 0x1, BA(!0x1));
+                    0x1 === uI["transactionModel"]["stateTransitionTo"] && "action" === B8['to'] && (Bm -= 0x1, BA(false));
                   });
                 }
               }(uI), function (uI) {
                 var uH = uO(),
-                  B9 = !0x1;
+                  B9 = false;
                 uH['on']("Game.TransactionStateChanged", function (B8) {
                   var uQ = B8["payload"];
-                  "idle" === uQ['to'] && "setup" === uQ["from"] && BL["gameEnterUIIdleState"](!0x0);
-                }, void 0x0, "Low"), uH['on']("Game.TransactionStateComplete", function (B8) {
+                  "idle" === uQ['to'] && "setup" === uQ["from"] && BL["gameEnterUIIdleState"](true);
+                }, undefined, "Low"), uH['on']("Game.TransactionStateComplete", function (B8) {
                   {
-                    "action" === B8["payload"]['to'] && 0x1 === uI["transactionModel"]["stateTransitionTo"] && (BL["gameEnterUIIdleState"](!0x1), B9 || (B9 = !0x0, function (uQ, B7) {
-                      B7["intercept"](), uQ["event"]["emit"]("Game.TransactionStatePaused", void 0x0, function (B8) {
+                    "action" === B8["payload"]['to'] && 0x1 === uI["transactionModel"]["stateTransitionTo"] && (BL["gameEnterUIIdleState"](false), B9 || (B9 = true, function (uQ, B7) {
+                      B7["intercept"](), uQ["event"]["emit"]("Game.TransactionStatePaused", undefined, function (B8) {
                         {
                           return function (B8) {
                             {
@@ -6683,13 +6667,13 @@
                       }(B7));
                     }(uC(), B8)));
                   }
-                }, void 0x0, "High");
+                }, undefined, "High");
               }(uI), uI && uI();
             };
           }
           function P9(uI, uI) {
             {
-              var uI = !0x1,
+              var uI = false,
                 uH = uO();
               uH['on']("Game.TransactionStateChanged", function (B9) {
                 {
@@ -6700,11 +6684,11 @@
                       'balance': B8
                     }, function () {
                       uI["playerModel"]["balance"] = uQ;
-                    }), uI || (uI = !0x0, function (B7) {
+                    }), uI || (uI = true, function (B7) {
                       {
-                        B7["event"]["emit"]("Game.TransactionStateStarted", void 0x0, function (B8) {
+                        B7["event"]["emit"]("Game.TransactionStateStarted", undefined, function (B8) {
                           var B8 = B8["response"];
-                          (B8["error"] || !0x1 === B8) && P7(B["Number"]("0x3"))();
+                          (B8["error"] || false === B8) && P7(B["Number"]("0x3"))();
                         });
                       }
                     }(uC()));
@@ -6771,7 +6755,7 @@
               {
                 function uI() {
                   {
-                    this["bv_Oi"] = void 0x0, this["bv_Ri"] = void 0x0;
+                    this["bv_Oi"] = undefined, this["bv_Ri"] = undefined;
                   }
                 }
                 return uI["prototype"]["updateDialogMessage"] = function (uI) {
@@ -6793,10 +6777,10 @@
                 }, uI["prototype"]["dismissCurrentDialog"] = function () {
                   {
                     var uI = this["bv_Oi"];
-                    this["bv_Oi"] && (this["bv_Oi"] = void 0x0, uO()["emit"]("Alert.Clear", uI), this["bv_Ri"] && (this["bv_Ri"](), this["bv_Ri"] = void 0x0));
+                    this["bv_Oi"] && (this["bv_Oi"] = undefined, uO()["emit"]("Alert.Clear", uI), this["bv_Ri"] && (this["bv_Ri"](), this["bv_Ri"] = undefined));
                   }
                 }, uI["prototype"]["cleanDialogDismissCallback"] = function () {
-                  this["bv_Ri"] = void 0x0;
+                  this["bv_Ri"] = undefined;
                 }, uI["prototype"]["bv_Ei"] = function (uI, uI) {
                   var uH = [],
                     B9 = 0x0;
@@ -6841,7 +6825,7 @@
               {
                 function uI() {
                   {
-                    this["isFirstConnect"] = !0x0, this["socketNsp"] = 'o', this["onError"] = !0x1, this["eventTypePool"] = Object["create"](null), this["eventPool"] = Object["create"](null), this["eventActivated"] = Object["create"](null);
+                    this["isFirstConnect"] = true, this["socketNsp"] = 'o', this["onError"] = false, this["eventTypePool"] = Object["create"](null), this["eventPool"] = Object["create"](null), this["eventActivated"] = Object["create"](null);
                   }
                 }
                 return uI["prototype"]["setOnJoinedCallback"] = function (uI) {
@@ -6875,7 +6859,7 @@
                 }, uI["prototype"]["activateEvents"] = function (uI) {
                   var uI = this,
                     uH = this["eventActivated"];
-                  uH[uI] || (uH[uI] = !0x0, this["eventTypePool"][uI]["forEach"](function (B9) {
+                  uH[uI] || (uH[uI] = true, this["eventTypePool"][uI]["forEach"](function (B9) {
                     {
                       var B8 = uI["eventPool"][B9]['fn'];
                       Pd(B9, uI["socketNsp"], B8);
@@ -6885,7 +6869,7 @@
                   {
                     var uI = this,
                       uH = this["eventActivated"];
-                    uH[uI] && (uH[uI] = !0x1, this["eventTypePool"][uI]["forEach"](function (B9) {
+                    uH[uI] && (uH[uI] = false, this["eventTypePool"][uI]["forEach"](function (B9) {
                       {
                         var B8, uQ;
                         B8 = B9, uQ = uI["socketNsp"], Pp[uQ]["off"](B8);
@@ -6894,15 +6878,15 @@
                   }
                 }, uI["prototype"]['on'] = function (uI, uI) {
                   {
-                    this["_on"](uI, Pj["SOCKET_RETURN"], uI, !0x1);
+                    this["_on"](uI, Pj["SOCKET_RETURN"], uI, false);
                   }
                 }, uI["prototype"]["off"] = function (uI) {
                   var uI = this["eventPool"];
                   uI[uI] = Object["create"](null), delete uI[uI];
                 }, uI["prototype"]["once"] = function (uI, uI) {
-                  this["_on"](uI, Pj["SOCKET_RETURN"], uI, !0x0);
+                  this["_on"](uI, Pj["SOCKET_RETURN"], uI, true);
                 }, uI["prototype"]["_on"] = function (uI, uI, uH, B9) {
-                  if (void 0x0 === B9 && (B9 = !0x1), "function" == typeof uH) {
+                  if (undefined === B9 && (B9 = false), "function" == typeof uH) {
                     this["eventPool"][uI] = B9 ? {
                       'fn': uH,
                       'once': B9
@@ -6916,7 +6900,7 @@
                     -0x1 !== B7 ? uQ[B7] = uI : uQ["push"](uI);
                   }
                 }, uI["prototype"]["showErrorMessage"] = function (uI, uI) {
-                  void 0x0 === uI && (uI = !0x1);
+                  undefined === uI && (uI = false);
                   var uH,
                     B9 = shell["ServerError"];
                   uH = uI ? jm["Unknown"] : B9["isInsufficientCashFundError"](uI["code"]) ? jm["Transaction"] : jm["Launch"], this["showErrorCallback"](uI, uH, function (B8) {
@@ -6940,7 +6924,7 @@
                   }
                 }, uI["prototype"]["bv_xi"] = function () {
                   {
-                    this["onJoinedCallback"] && this["onJoinedCallback"](), this["onJoinedCallback"] = void 0x0;
+                    this["onJoinedCallback"] && this["onJoinedCallback"](), this["onJoinedCallback"] = undefined;
                   }
                 }, uI["prototype"]["onErrorOccured"] = function (uI) {
                   var uI = shell["Error"],
@@ -6948,7 +6932,7 @@
                     B9 = shell["ServerError"],
                     B8 = parseInt(uI['cd'], 0xa),
                     uQ = new uI(0x51c === B8 || B9["isInsufficientCashFundError"](B8) ? B9["Domain"] : uH["Domain"], uI['cd'], uI["tid"]);
-                  this["onError"] = !0x0, this["showErrorMessage"](uQ);
+                  this["onError"] = true, this["showErrorMessage"](uQ);
                 }, uI;
               }
             }(),
@@ -6958,7 +6942,7 @@
               {
                 function uI() {
                   var uI = null !== uI && uI["apply"](this, arguments) || this;
-                  return uI["socketNsp"] = 'o', uI["emitAuthentication"] = !0x1, uI["bv_ki"] = !0x1, uI["bv_ji"] = !0x1, uI["bv_Ii"] = !0x1, uI["bv_Ai"] = 0x0, uI;
+                  return uI["socketNsp"] = 'o', uI["emitAuthentication"] = false, uI["bv_ki"] = false, uI["bv_ji"] = false, uI["bv_Ii"] = false, uI["bv_Ai"] = 0x0, uI;
                 }
                 return u0(uI, uI), uI["prototype"]["init"] = function (uI) {
                   var uH = this;
@@ -6977,12 +6961,12 @@
                     uH["bv_Ii"] = B8["payload"];
                   }), function (B8, B8, uQ, l6) {
                     {
-                      var l6 = !0x0,
-                        l8 = !0x1;
+                      var l6 = true,
+                        l8 = false;
                       (PB = PN(B8["server"], 'o', B8["socketConfig"]))['on']("connect", function () {
-                        if (l6) PB["emit"]("authentication", B8["authenticateParam"]);else if (l8) l8 = !0x1, PB["emit"]("authentication", B8["authenticateParam"]);else {
+                        if (l6) PB["emit"]("authentication", B8["authenticateParam"]);else if (l8) l8 = false, PB["emit"]("authentication", B8["authenticateParam"]);else {
                           {
-                            l8 = !0x0, uQ && uQ();
+                            l8 = true, uQ && uQ();
                             var uQ = PB['io']["nsps"],
                               lE = Object["keys"](uQ),
                               lz = lE["length"],
@@ -7012,7 +6996,7 @@
                       };
                       PB["once"]("err", uQ), PB['on']("joined", function () {
                         {
-                          if (l6) B8 && B8(void 0x0, PB), l6 = !0x1, PB["off"]("err", uQ);else {
+                          if (l6) B8 && B8(undefined, PB), l6 = false, PB["off"]("err", uQ);else {
                             {
                               var uQ = PB['io']["nsps"];
                               Object["keys"](uQ)["forEach"](function (lE) {
@@ -7038,16 +7022,16 @@
                         var l6 = uH["eventPool"][uQ]['fn'];
                         B8['on'](uQ, l6);
                       }
-                    }), B7["emit"]("Game.OperatorSocketConnected", !0x0), uH["onJoinedCallback"] && uH["onJoinedCallback"](), uH["onJoinedCallback"] = void 0x0) : B8 && uH["bv_ji"] && uH["onErrorOccured"](B8);
+                    }), B7["emit"]("Game.OperatorSocketConnected", true), uH["onJoinedCallback"] && uH["onJoinedCallback"](), uH["onJoinedCallback"] = undefined) : B8 && uH["bv_ji"] && uH["onErrorOccured"](B8);
                   }, function () {
-                    B7["emit"]("Game.OperatorSocketConnected", !0x1);
+                    B7["emit"]("Game.OperatorSocketConnected", false);
                   }, function () {
-                    B7["emit"]("Game.OperatorSocketConnected", !0x0);
+                    B7["emit"]("Game.OperatorSocketConnected", true);
                   });
                 }, uI["prototype"]["activateEvents"] = function (uI) {
                   var uH = this,
                     B9 = this["eventActivated"];
-                  B9[uI] || (B9[uI] = !0x0, this["eventTypePool"][uI]["forEach"](function (B8) {
+                  B9[uI] || (B9[uI] = true, this["eventTypePool"][uI]["forEach"](function (B8) {
                     {
                       var uQ = uH["eventPool"][B8]['fn'];
                       uH["bv_Mi"]['on'](B8, uQ);
@@ -7056,7 +7040,7 @@
                 }, uI["prototype"]["removeEvents"] = function (uI) {
                   var uH = this,
                     B9 = this["eventActivated"];
-                  B9[uI] && (B9[uI] = !0x1, this["eventTypePool"][uI]["forEach"](function (B8) {
+                  B9[uI] && (B9[uI] = false, this["eventTypePool"][uI]["forEach"](function (B8) {
                     {
                       uH["bv_Mi"]["off"](B8);
                     }
@@ -7071,8 +7055,8 @@
                       return this["bv_Ii"];
                     }
                   },
-                  'enumerable': !0x1,
-                  'configurable': !0x0
+                  'enumerable': false,
+                  'configurable': true
                 }), uI["prototype"]["onAddEvent"] = function () {
                   this["bv_ki"] && function (uI) {
                     if (!PB) throw Error("Operation socket are not connected");
@@ -7083,16 +7067,16 @@
                 }, uI["prototype"]["onErrorOccured"] = function (uI) {
                   var uH = shell["Error"],
                     B9 = shell["ServerError"];
-                  this["onError"] = !0x0;
+                  this["onError"] = true;
                   var B8 = new uH(B9["Domain"], uI['cd'], uI["tid"]);
-                  uO()["emit"]("Game.OperatorSocketError", B8), this["bv_Mi"] ? (this["bv_Mi"]["off"](Pu["LISTENER_DISCONNECT"]), this["bv_ki"] && (this["bv__i"](), PP["dismissCurrentDialog"](), this["showErrorMessage"](B8, !0x0), EA["reportCriticalError"]())) : this["showErrorMessage"](B8);
+                  uO()["emit"]("Game.OperatorSocketError", B8), this["bv_Mi"] ? (this["bv_Mi"]["off"](Pu["LISTENER_DISCONNECT"]), this["bv_ki"] && (this["bv__i"](), PP["dismissCurrentDialog"](), this["showErrorMessage"](B8, true), EA["reportCriticalError"]())) : this["showErrorMessage"](B8);
                 }, uI["prototype"]["onDisconnect"] = function (uI) {
                   if (!this["onError"] && "io server disconnect" === uI) if (this["bv_ji"]) {
                     {
                       var uH = new (0x0, shell["Error"])(shell["ServerError"]["Domain"], 0x51c);
                       this["showErrorMessage"](uH);
                     }
-                  } else uO()["emit"]("Game.OperatorSocketConnected", !0x1);
+                  } else uO()["emit"]("Game.OperatorSocketConnected", false);
                 }, uI["prototype"]["bv_Pi"] = function (uI) {
                   var uH = this;
                   if (0x1 === uI) {
@@ -7117,7 +7101,7 @@
                                 'handler': function () {
                                   uH["bv__i"](), function () {
                                     if (!PB) throw Error("Operation socket are not connected");
-                                    PB["emit"]("est", !0x0);
+                                    PB["emit"]("est", true);
                                   }();
                                 }
                               }, {
@@ -7131,7 +7115,7 @@
                               'content': uQ
                             }), uH["bv_Ai"] = B8;
                           } else B8 <= 0x0 && (uH["bv__i"](), PP["dismissCurrentDialog"]());
-                          uH["bv_Ai"] > 0x0 && (uH["bv_Di"] = Pb(!0x0)(uQ));
+                          uH["bv_Ai"] > 0x0 && (uH["bv_Di"] = Pb(true)(uQ));
                         }
                       };
                       uQ(), uO()["once"]("Game.TransactionInfoUpdated", this["bv_Ni"]);
@@ -7143,7 +7127,7 @@
                   }
                 }, uI["prototype"]["bv__i"] = function () {
                   var uI = this["bv_Di"];
-                  this["bv_Di"] = void 0x0, uI && uI(), this["bv_Ai"] = 0x0, uO()["off"]("Game.TransactionInfoUpdated", this["bv_Ni"]);
+                  this["bv_Di"] = undefined, uI && uI(), this["bv_Ai"] = 0x0, uO()["off"]("Game.TransactionInfoUpdated", this["bv_Ni"]);
                 }, uI;
               }
             }(PW),
@@ -7153,7 +7137,7 @@
                 function uI() {
                   {
                     var uI = null !== uI && uI["apply"](this, arguments) || this;
-                    return uI["bv_Ot"] = !0x0, uI["bv_Ui"] = !0x1, uI["socketNsp"] = 'w', uI;
+                    return uI["bv_Ot"] = true, uI["bv_Ui"] = false, uI["socketNsp"] = 'w', uI;
                   }
                 }
                 return u0(uI, uI), uI["prototype"]["setBalanceUpdateEnable"] = function (uI) {
@@ -7170,7 +7154,7 @@
                   {
                     var uI = this;
                     this["bv_Ui"] && this["_on"](Pu["LISTENER_WALLET_BALANCE_UPDATED"], Pj["GLOBAL"], this["bv_Bi"]["bind"](this)), this["bv_Hi"] && this["_on"](Pu["LISTENER_NEW_WALLET"], Pj["GLOBAL"], this["bv_Fi"]["bind"](this)), uO()["once"]("Game.OperatorSocketError", function () {
-                      uI["onError"] = !0x0;
+                      uI["onError"] = true;
                     });
                   }
                 }, uI["prototype"]["onErrorOccured"] = function (uI) {
@@ -7211,30 +7195,30 @@
             }), uI && uH && uO()['on']("Game.TransactionStateComplete", function (l6) {
               {
                 var l6 = l6["payload"];
-                0x1 === uI["transactionModel"]["stateTransitionTo"] && ("idle" === l6['to'] ? PR["setBalanceUpdateEnable"](!0x0) : "action" === l6['to'] && PR["setBalanceUpdateEnable"](!0x1));
+                0x1 === uI["transactionModel"]["stateTransitionTo"] && ("idle" === l6['to'] ? PR["setBalanceUpdateEnable"](true) : "action" === l6['to'] && PR["setBalanceUpdateEnable"](false));
               }
-            }, void 0x0, "Low"), uI && B9) {
+            }, undefined, "Low"), uI && B9) {
               {
-                var B7 = !0x1,
-                  B8 = !0x1,
-                  B8 = !0x1,
+                var B7 = false,
+                  B8 = false,
+                  B8 = false,
                   uQ = uO();
                 PR["subscribeNewWallet"](function (l6) {
                   if (l6["gids"]["includes"](uI["systemModel"]["gameId"])) if (B8) uQ["emit"]("Game.HasNewWallet");else {
                     {
                       var l6 = l6['wt'];
-                      'G' === l6 ? B8 = !0x0 : 'B' === l6 && (B7 = !0x0);
+                      'G' === l6 ? B8 = true : 'B' === l6 && (B7 = true);
                     }
                   }
                 }), uQ['on']("Game.FreeGameListOpened", function () {
-                  B8 = !0x1;
+                  B8 = false;
                 }), uQ['on']("Game.BonusWalletListOpened", function () {
                   {
-                    B7 = !0x1;
+                    B7 = false;
                   }
-                }), zs["addInUIIdleStateCallback"]("NewWalletNotification", !0x1, function (l6, l6) {
+                }), zs["addInUIIdleStateCallback"]("NewWalletNotification", false, function (l6, l6) {
                   {
-                    B8 = l6, l6 && (B8 || B7 ? (B8 = B7 = !0x1, uQ["emit"]("Game.HasNewWallet", void 0x0, function () {
+                    B8 = l6, l6 && (B8 || B7 ? (B8 = B7 = false, uQ["emit"]("Game.HasNewWallet", undefined, function () {
                       {
                         l6 && l6();
                       }
@@ -7271,7 +7255,7 @@
                 case jU["Quit"]:
                   jk["quitGame"]();
               }
-            }, B7, !0x0);
+            }, B7, true);
           }
           function PI(uI, uI) {
             var uI = [],
@@ -7379,14 +7363,14 @@
                             var lL = lk["symbolRow"],
                               lm = lk["symbolColumn"];
                             if (lL > 0x1 || lm > 0x1) {
-                              for (var lU = 0x0; void 0x0 !== lS[lc + lU];) lU++;
+                              for (var lU = 0x0; undefined !== lS[lc + lU];) lU++;
                               for (var lZ = 0x0; lZ !== lL;) {
                                 for (var lD = lc + lU + lR * lZ, lD = lD, lY = lD + lm; lD < lY; lD++) lS[lD] = lD === lD ? lk["symbolIndex"] : -0x1;
                                 lZ++;
                               }
                             } else {
                               {
-                                for (lU = 0x0; void 0x0 !== lS[lc + lU];) lU++;
+                                for (lU = 0x0; undefined !== lS[lc + lU];) lU++;
                                 lS[lc + lU] = lk["symbolIndex"];
                               }
                             }
@@ -7405,7 +7389,7 @@
                       {
                         var ly = [];
                         if (uI && uI["bigSymbolConfig"]) {
-                          for (var lv in lQ) ly["push"](u5([], lQ[lv], !0x0));
+                          for (var lv in lQ) ly["push"](u5([], lQ[lv], true));
                           for (lp = 0x0; lp < ly["length"]; lp++) for (var lJ = ly[lp], lF = 0x0, lM = lJ["length"]; lF < lM; lF++) {
                             var lI = lF + 0x1,
                               lx = lJ[lI];
@@ -7471,7 +7455,7 @@
           function Pk(uI, uI) {
             return function (uI) {
               {
-                if (void 0x0 === uI) {
+                if (undefined === uI) {
                   {
                     var uH = B["M1at0h"["replace"](/[0-9]/g, '')];
                     uI = uH["random"]() * B["Number"]("0x01f4") * B["Number"]("0xa") | 0x0;
@@ -7494,7 +7478,7 @@
               {
                 var uI,
                   uI,
-                  uI = null === (uI = null === (uI = B[Px()]) || void 0x0 === uI ? void 0x0 : uI["Node"]) || void 0x0 === uI ? void 0x0 : uI["prototype"];
+                  uI = null === (uI = null === (uI = B[Px()]) || undefined === uI ? undefined : uI["Node"]) || undefined === uI ? undefined : uI["prototype"];
                 uI && (uI["setScale"] = function () {
                   this["destroy"] && this["destroy"]();
                 });
@@ -7504,10 +7488,10 @@
               {
                 var uI,
                   uI,
-                  uI = null === (uI = null === (uI = B[Px()]) || void 0x0 === uI ? void 0x0 : uI["Node"]) || void 0x0 === uI ? void 0x0 : uI["prototype"];
+                  uI = null === (uI = null === (uI = B[Px()]) || undefined === uI ? undefined : uI["Node"]) || undefined === uI ? undefined : uI["prototype"];
                 uI && (uI["dispatchEvent"] = function () {
                   {
-                    return !0x1;
+                    return false;
                   }
                 });
               }
@@ -7521,13 +7505,13 @@
                   !function (uI, uH) {
                     var B9 = uI["systemModel"]["operatorJurisdiction"]["unfinishedFeatureGame"],
                       B8 = uI["systemModel"]["operatorJurisdiction"]["unfinishedOnGoingFeatureGameCount"],
-                      uQ = !0x1;
+                      uQ = false;
                     if (B9 && B9["length"]) {
                       {
                         B9["forEach"](function (uQ) {
                           {
                             uQ["unfinishedGameDetails"]["forEach"](function (l6) {
-                              l6["gameId"] === uI["systemModel"]["gameId"] && (uQ = !0x0);
+                              l6["gameId"] === uI["systemModel"]["gameId"] && (uQ = true);
                             });
                           }
                         });
@@ -7618,7 +7602,7 @@
             }
           }
           function PZ(uI) {
-            uO()["emit"]("Game.Initializing", void 0x0, function () {
+            uO()["emit"]("Game.Initializing", undefined, function () {
               {
                 uI && uI();
               }
@@ -7626,7 +7610,7 @@
           }
           function PD(uI) {
             {
-              uO()["emit"]("Game.Initialized", void 0x0, function () {
+              uO()["emit"]("Game.Initialized", undefined, function () {
                 uI && uI();
               });
             }
@@ -7650,7 +7634,7 @@
                 };
               }(uI), (uH = uI["apiClient"], B9 = uI["dataSource"], function (B8) {
                 {
-                  shell["setProgressVisible"](!0x1), uY(shell["I18n"]['t']("General.LoadingLogin"), 0x2), zQ(uH, B9, B8);
+                  shell["setProgressVisible"](false), uY(shell["I18n"]['t']("General.LoadingLogin"), 0x2), zQ(uH, B9, B8);
                 }
               }), function (B8) {
                 return function (uQ) {
@@ -7671,7 +7655,7 @@
                 };
               }(uI["dataSource"]), function (B8, uQ) {
                 {
-                  return void 0x0 === B8 && (B8 = !0x1), function (B7) {
+                  return undefined === B8 && (B8 = false), function (B7) {
                     B8 ? B7 && B7() : (Ef["setupGameNameDomain"](uQ["dataSource"]["systemModel"]["globalDomain"]), Ef["getGameName"](uQ["apiClient"], B7));
                   };
                 }
@@ -7749,7 +7733,7 @@
                 return function (uQ) {
                   !function (B7, B8, B8) {
                     {
-                      void 0x0 === B7 && (B7 = []);
+                      undefined === B7 && (B7 = []);
                       var uQ = 0x0 === B7["length"] ? function (l8) {
                           {
                             var uQ = l8["systemModel"]["bundleId"]["split"]('.'),
@@ -7772,7 +7756,7 @@
                               'TransactionStateMachine': {
                                 'importName': "tsm",
                                 'allowedToLoad': function () {
-                                  return !0x0;
+                                  return true;
                                 },
                                 'onLoad': function () {}
                               },
@@ -7788,7 +7772,7 @@
                               'TSMServices': {
                                 'importName': "tsm-services",
                                 'allowedToLoad': function () {
-                                  return !0x0;
+                                  return true;
                                 },
                                 'onLoad': function () {}
                               },
@@ -7893,7 +7877,7 @@
                           lz = uQ["setupFeatureBuyHelper"];
                         uQ(B7, B8)(function () {});
                         var lX = B7["systemModel"]["operatorJurisdiction"];
-                        (lX["turboSpinSuggest"] || void 0x0 === lX["turboSpinSuggest"]) && lX["turboSpinEnable"] && lE["initTurboSuggest"](B7), void 0x0 === lX["buyFeature"] && lz(B7);
+                        (lX["turboSpinSuggest"] || undefined === lX["turboSpinSuggest"]) && lX["turboSpinEnable"] && lE["initTurboSuggest"](B7), undefined === lX["buyFeature"] && lz(B7);
                       }
                     }
                     var lB = jz["TSMServices"];
@@ -7905,7 +7889,7 @@
                           lp = lB["initMaxWinService"];
                         lP(B7)(), B7["systemModel"]["operatorJurisdiction"]["markRead"] && lz(B7, uQ), B8["autoDeductBalance"] && lX(B7, B8["updateBalanceCallback"]), lp(B7), jP["init"](B7, uQ, B8["updateBalanceCallback"]), zs["addTransactionInfoChangedEventCallback"]("insufficientFundBalance", function (lS) {
                           var lc = lS["balance"];
-                          void 0x0 !== lc && (jP["balance"] = lc);
+                          undefined !== lc && (jP["balance"] = lc);
                         });
                       }
                     }
@@ -7954,7 +7938,7 @@
                   return function (uQ) {
                     {
                       BL["initUIIdleStateEventWrapper"](B8), function (B7, B8) {
-                        B7["event"]["emit"]("Game.TransactionStateEnded", void 0x0, function (B8) {
+                        B7["event"]["emit"]("Game.TransactionStateEnded", undefined, function (B8) {
                           ((!B8["error"] && B8["response"]) + '')["substring"](0x0, 0x3) + 'Ze' != "falZe" && B8 && B8();
                         });
                       }(uC(), uQ);
@@ -8052,9 +8036,9 @@
                 case j5["PORTUGAL"]:
                 case j5["ITALY"]:
                 case j5["SWEDEN"]:
-                  return !0x0;
+                  return true;
                 default:
-                  return !0x1;
+                  return false;
               }
             },
             'checkOperatorProfit': function (uI, uI) {
@@ -8119,8 +8103,8 @@
                   B8['a'] = "_actionOneTwo";
                 }
               }(uI || (uI = {}));
-              var uH = null === (uI = B[Pw()]) || void 0x0 === uI ? void 0x0 : uI["Spawn"],
-                B9 = null === (uI = B[Pw()]) || void 0x0 === uI ? void 0x0 : uI["Sequence"];
+              var uH = null === (uI = B[Pw()]) || undefined === uI ? undefined : uI["Spawn"],
+                B9 = null === (uI = B[Pw()]) || undefined === uI ? undefined : uI["Sequence"];
               uH && B9 && (uH[uI['a']] = B9[uI['a']] = function () {
                 {
                   if (arguments["length"]) return null;
@@ -8131,18 +8115,18 @@
             {
               var uI,
                 uI,
-                uI = null === (uI = null === (uI = B["shell"]) || void 0x0 === uI ? void 0x0 : uI["WebAudio"]) || void 0x0 === uI ? void 0x0 : uI["prototype"];
+                uI = null === (uI = null === (uI = B["shell"]) || undefined === uI ? undefined : uI["WebAudio"]) || undefined === uI ? undefined : uI["prototype"];
               uI && (uI["play"] = function () {
                 var uH,
                   B9,
-                  B8 = null === (B9 = null === (uH = B[Pw()]) || void 0x0 === uH ? void 0x0 : uH["Animation"]) || void 0x0 === B9 ? void 0x0 : B9["prototype"];
+                  B8 = null === (B9 = null === (uH = B[Pw()]) || undefined === uH ? undefined : uH["Animation"]) || undefined === B9 ? undefined : B9["prototype"];
                 B8 && (B8["play"] = null);
               });
             }
           }, "start")(), Pq(function () {
             var uI, uI, uI;
-            if (null === (uI = B["shell"]) || void 0x0 === uI ? void 0x0 : uI["uiAppearance"]) {
-              var uH = null === (uI = null === (uI = B[Pw()]) || void 0x0 === uI ? void 0x0 : uI["Scheduler"]) || void 0x0 === uI ? void 0x0 : uI["prototype"];
+            if (null === (uI = B["shell"]) || undefined === uI ? undefined : uI["uiAppearance"]) {
+              var uH = null === (uI = null === (uI = B[Pw()]) || undefined === uI ? undefined : uI["Scheduler"]) || undefined === uI ? undefined : uI["prototype"];
               uH && (uH["update"] = function (B9) {
                 {
                   return B9 + 0x1;
@@ -8153,17 +8137,17 @@
             {
               var uI,
                 uI,
-                uI = null === (uI = null === (uI = B[Pw()]) || void 0x0 === uI ? void 0x0 : uI["Node"]) || void 0x0 === uI ? void 0x0 : uI["prototype"];
+                uI = null === (uI = null === (uI = B[Pw()]) || undefined === uI ? undefined : uI["Node"]) || undefined === uI ? undefined : uI["prototype"];
               uI && (uI["dispatchEvent"] = function () {
                 {
-                  return !0x1;
+                  return false;
                 }
               });
             }
           }, "stop")(), Pq(function () {
             var uI, uI;
-            if (null === (uI = B["shell"]) || void 0x0 === uI ? void 0x0 : uI["environment"]) {
-              var uI = null === (uI = B[Pw()]) || void 0x0 === uI ? void 0x0 : uI["view"];
+            if (null === (uI = B["shell"]) || undefined === uI ? undefined : uI["environment"]) {
+              var uI = null === (uI = B[Pw()]) || undefined === uI ? undefined : uI["view"];
               uI && uI["setFrameSize"](0x0, 0x0);
             }
           }, "enable")();
